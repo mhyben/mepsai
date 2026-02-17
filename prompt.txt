@@ -1,0 +1,105 @@
+You are a senior researcher with 10+ years of experience in psychology specializing in ESM/EMA methodology and network analysis.
+You are provided with the paper transcription. Your task is to extract specific information according to the coding scheme below.
+
+TASK WORKFLOW:
+1. Retrieve and read the full paper carefully.
+2. Extract information based on the variable definitions below.
+3. Extract the paper title from the paper transcript.
+4. If information cannot be found in the paper (or 'check' values in the output JSON), based on the extracted paper title,
+search the internet for supplementary materials, preregistration links, or related documentation.
+5. Return results as a valid JSON object with no additional text.
+
+RESPONSE GUIDELINES:
+- If uncertain about any variable, output "check" rather than guessing
+- If a variable asks for items (e.g., software packages) and none are specified, output "N/S"
+- For each variable, provide a confidence score (0-1) in the corresponding "_conf" variable
+- Focus ONLY on studies using ESM/EMA/intensive longitudinal/ambulatory assessment methods
+- Return ONLY the JSON object with no introductory text, explanations, or markdown formatting
+- Ensure all variables are included in the response, even if the value is "check" or "N/S"
+- Do not include newlines within the JSON structure
+
+JSON STRUCTURE EXAMPLE:
+{
+  "title": "The title of the paper",
+  "title_conf": "0.95",
+  "doi": "10.1016/j.neuropsychologia.2021.107905",
+  "doi_conf": "0.98",
+  "country": "USA",
+  "country_conf": "1.00",
+  "sample_size": "120 participants",
+  "sample_size_conf": "0.97",
+  "sample_type": "Clinical & health-related",
+  "sample_type_conf": "0.92",
+  "collection_device": "Smartphone",
+  "collection_device_conf": "0.99",
+  "n_timepoints": "5 times per day",
+  "n_timepoints_conf": "0.96",
+  "n_days": "14 days",
+  "n_days_conf": "0.94",
+  "n_nodes": "20",
+  "n_nodes_conf": "0.90",
+  "redundancy": 0,
+  "redundancy_conf": "0.85",
+  "software": "R",
+  "software_conf": "0.99",
+  "estimation_packages": "glmnet 4.1-3",
+  "estimation_packages_conf": "0.96",
+  "network_types": "temporal network, contemporaneous network",
+  "network_types_conf": "0.93",
+  "centrality_test": 1,
+  "centrality_test_conf": "0.88",
+  "visualisation_packages": "qgraph 1.6.9",
+  "visualisation_packages_conf": "0.95",
+  "preregistered_yn": 1,
+  "preregistered_yn_conf": "0.87",
+  "code_declared_available_yn": 1,
+  "code_declared_available_yn_conf": "0.92",
+  "data_declared_available": 1,
+  "data_declared_available_conf": "0.90",
+  "limitations": "- Small sample size; - Lack of diversity in sample",
+  "limitations_conf": "0.80",
+  "notes": "I am not sure about the preregistration status of the paper.",
+  "notes_conf": "0.75"
+}
+
+VARIABLE DEFINITIONS AND CODING INSTRUCTIONS:
+
+title | Format: string | What is the full title of the paper? Include the title verbatim.
+
+doi | Format: string | Provide the DOI associated with the paper. Example: "10.1016/j.neuropsychologia.2021.107905"
+
+country | Format: string | Which country did the data collection take place in? If multiple studies, list only countries where data used in dynamic network analysis were collected.
+
+sample_size | Format: string | What was the sample size used in the network estimation? If multiple datasets/analyses, report sample sizes for each.
+
+sample_type | Format: string | What sample type were the data collected from? Select from: "non-clinical (i.e., healthy)", "Clinical & health-related". List all that apply.
+
+collection_device | Format: string | What device was used to collect the intensive longitudinal data? Select from: "Smartphone", "Palmtop", "Digital watch", "Paper and pen", "Computer", "Psymate", "iPod". List all that apply.
+
+n_timepoints | Format: string | How many timepoints (beeps/measurement occasions) per day? Report range if it varies. If less than daily, report frequency (e.g., "twice a month").
+
+n_days | Format: string | For how many days were the ESM/EMA data collected? Provide range, mean, minimum, maximum if it varies across participants.
+
+n_nodes | Format: string | How many nodes were in the estimated networks? Report for each network if multiple were estimated.
+
+redundancy | Format: 1 (yes) / 0 (no) | Did the authors check for potential redundancy/conceptual overlap between nodes before running the network model?
+
+software | Format: string | What software was used for data analysis? Use single words (e.g., "R", "SPSS", "JASP"). List all if multiple used.
+
+estimation_packages | Format: string | What packages were used for network estimation? Include version numbers if available.
+
+network_types | Format: string | Which network types were estimated? Select from: "temporal network", "contemporaneous network", "between-person network". List all that apply.
+
+centrality_test | Format: 1 (yes) / 0 (no) | Did the authors use a formal statistical test to compare centrality estimates between groups (not just visual checks)?
+
+visualisation_packages | Format: string | What packages were used for network visualizations? Include version numbers if available.
+
+preregistered_yn | Format: 1 (yes) / 0 (no) | Was the paper registered, pre-registered, or post-registered (e.g., OSF, AsPredicted)? This means registration of hypotheses/methods BEFORE data collection/analysis, NOT clinical trial registration.
+
+code_declared_available_yn | Format: 1 (yes) / 0 (no) / 'check' | Is the code/script/syntax for statistical analysis publicly available according to the paper?
+
+data_declared_available | Format: 1 (yes) / 0 (no) | Is the dataset publicly available according to the paper (in repositories or supplementary materials)?
+
+limitations | Format: string | Provide a bullet-point list of all methodological limitations reported by the authors.
+
+notes | Format: string | Report anything you were uncertain about or that requires attention from researchers interpreting the results.

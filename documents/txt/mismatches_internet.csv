@@ -1,0 +1,236 @@
+file,field,ground_truth,prediction
+002.txt,n_nodes,10.0,12
+002.txt,network_types_between_person,Yes,"temporal network, contemporaneous network, between-subjects network"
+002.txt,data_declared_available,No,1
+002.txt,notes,The study's findings may not generalize beyond the specific demographic of Dutch undergraduate psychology students.,The paper does not mention preregistration. Code and data are declared available in the supplementary materials.
+003.txt,collection_device,"Palmtop (Psymate) - (reported in previous article; Kramer et al., 2014)",Smartphone
+003.txt,estimation_packages,nan,igraph (in R)
+003.txt,network_types_contemporaneous,No,"contemporaneous network, temporal network"
+003.txt,network_types_between_person,Yes (they call it a person-mean network),"contemporaneous network, temporal network"
+003.txt,limitations,N/S,"- The study only compared cross-sectional and dynamic networks, not different types of cross-sectional networks; - The study did not report on the statistical significance of the differences in centrality estimates between network types; - The study did not use a formal statistical test to compare centrality estimates between groups."
+003.txt,notes,The country of data collection was inferred from the authors' affiliations. The collection device was not specified in the paper.,"The paper does not mention preregistration. Code and data availability are not explicitly stated in the paper, but the authors may have made them available through supplementary materials or repositories. The study used STATA for analysis and R for visualization, but the specific packages used for network estimation are not fully detailed."
+004.txt,sample_type,Non-clinical (i.e. healthy),Clinical & health-related
+004.txt,estimation_packages,nan,qgraph 1.6.9
+004.txt,centrality_test,No,1
+004.txt,data_declared_available,"Yes, Just for Dataset #1 (in Supplemental Materials)",0
+004.txt,notes,Estimation packages used for network estimation were not specified in the paper; The collection device for Dataset 2 was assumed to be 'Palmtop' based on similarity with Dataset 1.,"The paper does not explicitly state whether the study was preregistered. Code for replication is provided in the appendices, but data availability is not mentioned."
+005.txt,collection_device,"Computer (reported in previous article; Lemmens et al., 2011)",Paper and pen
+005.txt,n_timepoints,1 / week - (before each therapy session),14 weekly assessments (average)
+005.txt,n_days,3-20 (M = 14),20 weeks
+005.txt,estimation_packages,N/S,qgraph 0.4.10
+005.txt,centrality_test,No,1
+005.txt,limitations,- Results are based solely on depressed individuals; comparison with healthy individuals is needed;- The data were collected at weekly intervals; different time scales might produce different dynamics,- Small sample size; - Lack of diversity in sample; - Limited to two therapy groups; - BDI-II may not capture differences between therapies; - No person-specific analyses due to computational constraints
+005.txt,notes,"I am not sure whether the authors checked for potential redundancy between nodes before running the network model. Also, there is no mention of preregistration or data/code availability in the paper.","The paper does not explicitly state whether code or data are publicly available. The authors mention that person-specific analyses are not computationally feasible at the time of publication, which may limit the generalizability of findings. The study used a modified version of the multilevel-VAR method, which may not be fully reproducible without additional details."
+006.txt,collection_device,Digital watch; Paper and pen; palmtops (for validation study),Beeper
+006.txt,network_types_contemporaneous,No,"temporal network, contemporaneous network"
+007.txt,collection_device,"Paper and pen for questionnaires (reported in previous article, Gershon et al., 2012); actiwatch for actigraphy (from Respironics)",Actiwatches
+007.txt,n_days,56.0,8 weeks
+007.txt,estimation_packages,"mlVAR
+
+lme4 (for autocorrelation multilevel models, used to investigate temporal autocorrelation)","m/VAR (Epskamp et al., 2016)"
+007.txt,notes,The study highlights the need for future research to explore the dynamics of affect in clinical samples with more frequent data collection.,The paper does not mention preregistration. Code and data availability are not explicitly stated in the main text or supplementary materials. The authors may have made them available but it is not confirmed.
+008.txt,sample_size,Depressed network (n = 27); Non-depressed network (n = 27),54 participants
+008.txt,estimation_packages,"nlme (for multilevel VAR models)
+
+Amelia (for multiple imputation of data points, for sparse VAR models)",glmnet 4.1-3
+008.txt,network_types_contemporaneous,Yes,temporal network
+008.txt,visualisation_packages,N/S,qgraph 1.6.9
+008.txt,code_declared_available,No,1
+008.txt,limitations,"- Emotion items were scored on a 7-point scale but the model treated them as continuous, which could have influenced results.- Only VAR models with time lag 1 were estimated, limiting the model.- Coefficients used were raw coefficients; standardizing coefficients could yield different results.- Small sample size may have limited power to detect associations between individual network densities and severity measures.- The affect items may not be comparable to depression symptoms; some important symptoms like suicidality, eating, and sleeping problems were not assessed.- Longer interval between evening and morning measurements may have introduced additional noise.","- Small sample size; - Lack of diversity in sample; - Data preprocessing steps strongly influenced results; - Sparse VAR model assumes homogeneity across individuals; - Raw coefficients used, which may be biased."
+008.txt,notes,"Uncertain about the estimation packages used, as the paper does not explicitly mention which R packages were used for network estimation. Also, it is unclear whether the authors checked for potential redundancy between nodes before running the network model.",The paper does not mention preregistration. The code is available from the first author. The data is available at the University of Groningen repository.
+009.txt,sample_size,41.0,42 participants
+009.txt,network_types_temporal,Yes,contemporaneous network
+009.txt,network_types_contemporaneous,No ,contemporaneous network
+009.txt,notes,"The study highlights the idiographic nature of symptom dynamics, suggesting that individual symptom relationships may differ significantly.","The paper does not explicitly state whether code or data are available. The authors mention using GIMME, which is an R package, but do not state if the code is publicly available. Data availability is not mentioned in the paper."
+010.txt,redundancy,Yes (theoretically checked),0
+010.txt,network_types_between_person,Yes,"temporal network, contemporaneous network"
+010.txt,data_declared_available,No,1
+010.txt,limitations,- Limited generalizability due to specific context of conflict exposure; - Potential recall bias due to retrospective assessments; - Sample size may not be sufficient for complex models.,- Small sample size; - Lack of diversity in sample; - Limited temporal resolution (12-hour lag); - Model assumes stationarity and linear processes.
+010.txt,notes,"The study primarily focuses on the dynamic associations during a specific conflict, which may not generalize to other contexts.",The paper does not mention preregistration. Code is declared available in supplementary materials. Data is declared available in supplementary materials.
+011.txt,doi,https://doi.org/10.1017/S0033291718000351,check
+011.txt,centrality_test,No,1
+011.txt,code_declared_available,No,1
+011.txt,data_declared_available,No,1
+011.txt,notes,"Unsure whether the code used in the analysis was publicly available, as the paper provided an OSF link but did not explicitly state code availability.",The paper is a preprint accepted in Psychological Medicine. The preregistration status is not explicitly stated in the provided text. Code and data availability are declared in the paper but specific links or repositories are not provided in the text.
+012.txt,sample_size,Persistent symptoms (n=30) vs Reduced symptoms (n=30),60 participants
+012.txt,estimation_packages,nan,Stata 14
+012.txt,visualisation_packages,graph,qgraph
+012.txt,code_declared_available,No,1
+012.txt,data_declared_available,No,1
+012.txt,limitations,- Small sample size;- Limited generalizability due to specific patient population;- Potential confounding effects of medication changes,"- Limited number of assessments per participant; - Did not model random slopes due to overfitting; - Used median split for group assignment, which may not generalize to other populations."
+012.txt,notes,"The study's findings may not generalize to all patients with depression, particularly those who have fully recovered.","The study used a median split to assign participants to groups, which may not generalize to other populations. The authors did not explicitly state whether the study was preregistered, but the use of permutation testing suggests a methodological rigor."
+013.txt,sample_size,"Low CT (n = 229); Medium CT (n = 258); High CT (n = 201); Low GL ( n = 452); Medium GL (n = 90); High GL (n = 56) - The authors looked at temporal affect data in six networks, by categorizing 3 levels each of genetic liability to psychopathology (GL) and childhood trauma (CT)",704 individuals
+013.txt,sample_type,Non-clinical (i.e. healthy),Clinical & health-related
+013.txt,estimation_packages,nan,XTMIXED
+013.txt,notes,I am not sure whether the authors checked for potential redundancy between nodes before running the network model.,"The paper does not explicitly state whether code or data are available. The authors mention using permutation testing for statistical significance, but do not provide details on code availability. Data availability is not mentioned in the main text or supplementary materials. The study was not preregistered."
+014.txt,doi,https://doi.org/10.1016/j.brat.2019.01.007,10.1016/j.jad.2016.02.001
+014.txt,network_types_between_person,Yes,"temporal network, contemporaneous network, between-subjects network"
+014.txt,preregistered_yn,No,1
+014.txt,code_declared_available,No,1
+014.txt,data_declared_available,No,1
+014.txt,notes,"The paper discusses the conceptual overlap between resilience and positive affect, which may warrant further investigation.",The paper was pre-registered on OSF (osf.io/g2k4w). The code and data are available upon request.
+015.txt,sample_size,CBT treatment (n = 33); MCT treatment (n = 34),74 participants
+015.txt,collection_device,N/S,Paper and pen
+015.txt,n_days,"M = 9.4 (every Monday during the course of therapy, which lasted an average of 9.4 weeks)",Not specified (weekly assessments)
+015.txt,notes,"The paper did not specify the device used for data collection; there may be confusion regarding the visualization packages used, as they mention ggraph but reference qgraph; unsure about declaration of code availability.","The paper does not mention preregistration. Code and data availability are not explicitly stated in the main text, but supplementary materials may contain them. The authors note that no validation dataset was available at the time of writing."
+016.txt,collection_device,Smartphone,Psymate
+016.txt,centrality_test,No,1
+016.txt,data_declared_available,No,1
+016.txt,notes,The study's findings may not apply to individuals with less severe AVHs.,"The paper does not explicitly state whether it was preregistered. However, the authors mention that they report all R-code and model output in the Online Supplementary Materials, which suggests transparency but not preregistration."
+017.txt,n_timepoints,1.0,daily measurements
+017.txt,n_nodes,11.0,10
+017.txt,estimation_packages,"mlVAR
+
+networktools","mlIVAR 0.4, networktools, qgraph"
+017.txt,centrality_test,No,1
+017.txt,notes,"I am not sure whether the authors checked for redundancy between nodes before running the network model. Additionally, it is unclear if the code used for analysis is publicly available.","The paper does not mention preregistration. Code and data availability are not explicitly stated in the paper, but the authors may have made them available through supplementary materials or repositories. The study used the DynAMo software package for data collection."
+018.txt,country,"Netherlands, Belgium (as reported in previous articles)","The Netherlands, Belgium, The Netherlands"
+018.txt,sample_size,Control network (n = 244); Relative network (n = 165); Psychosis network (n = 245),654 individuals
+018.txt,collection_device,Digital watch; Paper and pen,Wristwatch
+018.txt,centrality_test,No,1
+018.txt,data_declared_available,No,1
+018.txt,notes,"The study combines data from multiple studies, which may introduce variability in results.",The paper does not explicitly state whether it was preregistered. Code and data are declared available in the supplementary materials.
+019.txt,n_days,7.0,1 week (28 assessment points)
+019.txt,n_nodes,10.0,11
+019.txt,centrality_test,No,1
+019.txt,preregistered_yn,No,1
+019.txt,code_declared_available,No,1
+019.txt,data_declared_available,No,1
+019.txt,limitations,- Small sample size;- Few assessment points (28);- Limited generalizability due to sample characteristics,- Small sample size; - Limited number of assessment points (28); - No specific measures designed for EMA network analysis; - No established replicability of within-person networks; - Potential instability in network structures.
+019.txt,notes,The paper discusses the need for larger sample sizes and more assessment points for future research.,The paper was preregistered on OSF. Code and data are available according to the paper's declaration.
+020.txt,redundancy,Yes (statistically checked),0
+020.txt,centrality_test,No,1
+020.txt,data_declared_available,No,1
+020.txt,notes,I am not certain whether the authors used a formal statistical test to compare centrality estimates between groups.,The paper does not mention preregistration. Code availability is not explicitly stated in the main text but is implied to be available upon request from the corresponding author. Data availability is explicitly stated as available from the corresponding author on reasonable request.
+021.txt,doi,https://doi.org/10.1016/j.jclinepi.2018.11.022,10.1016/j.jclinep1.2018.11.022
+021.txt,code_declared_available,No,1
+021.txt,data_declared_available,No,1
+021.txt,notes,The paper discusses the exploratory nature of the network analysis and the limitations associated with it.,"The paper does not mention preregistration. Code and data are declared available, but specific links or repositories are not provided in the text. The authors note that the network approach is still under development."
+022.txt,redundancy,Yes (statistically checked),0
+022.txt,estimation_packages,lmerTEST,"simr 1.0.0, lme4 1.1-21, qgraph 1.6.9"
+022.txt,preregistered_yn,No,1
+022.txt,notes,"I am not sure about the estimation packages used for network estimation as they were not clearly specified. Additionally, the high negative correlation between extraversion and neuroticism (r = -0.47) might affect the interpretation of the moderation analyses.",The paper is registered on OSF with pre-registered hypotheses and materials. The code and data are openly available on OSF.
+023.txt,n_nodes,11.0,12
+023.txt,network_types_temporal,Yes,contemporaneous network
+023.txt,notes,"The study focuses on individuals currently diagnosed with MDD, which may limit generalizability.",The paper does not explicitly state whether code or data are available. The preregistration status is not mentioned in the paper.
+024.txt,n_nodes,7.0,16
+024.txt,notes,I was unsure whether the authors checked for redundancy between nodes before running the network model; the paper did not mention preregistration or data/code availability explicitly.,"The paper does not explicitly state whether code or data are available. The authors mention that the data were collected from the AMBAS study, but do not provide a link to supplementary materials or data repositories. The paper was not found to be preregistered. The authors used R and mlVAR for estimation and qgraph for visualization, but did not report using any specific statistical tests for centrality comparisons."
+025.txt,sample_size,"Imipramine RCT: Medication (n = 23), Placebo (n =27); Mindfulness RCT: MBCT (n = 57), waiting list control (n = 62)",Imipramine trial: 50 participants; Mind-Maastricht trial: 119 participants
+025.txt,n_timepoints,10.0,60 observations per person over 6 days
+025.txt,redundancy,Yes (statistically checked),0
+025.txt,code_declared_available,"No (code available only for permutation tests, not for network estimation itself)",1
+025.txt,notes,The study suggests that treatments may not significantly change the dynamic network structure of mental states despite reducing depressive symptoms.,"The paper does not explicitly state whether the study was preregistered. The authors mention using permutation testing procedures for statistical inference, but do not specify if the hypotheses were preregistered. The code for statistical analysis is declared available, but the data is not explicitly stated to be publicly available."
+026.txt,network_types_temporal,Yes,contemporaneous network
+026.txt,network_types_contemporaneous,No,contemporaneous network
+026.txt,centrality_test,No,1
+026.txt,preregistered_yn,No,1
+026.txt,code_declared_available,No,1
+026.txt,data_declared_available,No,1
+026.txt,notes,"Uncertainty regarding the collection device used (smartphone or computer), and whether the registration in the Dutch Clinical Trial Register counts as pre-registration of hypotheses and methods.",The study was preregistered on OSF (https://osf.io/m2h87/). Code and data are available upon request from the authors.
+027.txt,country,Netherlands & Belgium,The Netherlands
+027.txt,estimation_packages,nan,N/S
+027.txt,network_types_temporal,Yes,contemporaneous network
+027.txt,network_types_contemporaneous,No,contemporaneous network
+027.txt,notes,The study highlights the complexity of mental disorders and suggests a network approach for better understanding.,"The paper does not mention preregistration. Code and data availability are not explicitly stated in the main text, but supplementary materials may contain this information. The authors used Stata for analysis and R (qgraph) for visualization."
+028.txt,redundancy,Yes (statistically checked),0
+028.txt,network_types_between_person,Yes,"temporal network, contemporaneous network, between-subject network"
+028.txt,preregistered_yn,No,1
+028.txt,notes,"I was unsure whether the authors checked for potential redundancy between nodes before running the network model. Also, it is unclear if the study was preregistered.","The study was part of a larger randomized controlled trial registered at ClinicalTrials.gov. The ESM data was collected using a combination of PACO APP and Qualtrics platforms. The authors state that the data, ESM items, and R code are publicly available via the Open Science Framework (OSF) at https://osf.io/7tk4b/. The study is a pilot study with a small sample size, which limits generalizability."
+029.txt,sample_size,Low level of childhood trauma group (n = 9); No childhood trauma group (n =15),24 participants
+029.txt,estimation_packages,nan,Stata version 13
+029.txt,centrality_test,No,1
+029.txt,data_declared_available,Yes,0
+029.txt,notes,The study highlights the need for further research including patients with moderate or high trauma experiences.,"The paper does not mention preregistration. Code and data availability are not explicitly stated in the main text or supplementary materials. The authors mention that data were collected as part of a clinical trial (NCT01551225), but do not confirm if the data or code are publicly available."
+030.txt,sample_size,Delayed Sleep Phase/DSP (n = 172); non-DSP group (n = 143),315 participants
+030.txt,sample_type,Non-clinical (i.e. healthy),Clinical & health-related
+030.txt,collection_device,Smartphone,Psymate
+030.txt,network_types_between_person,Yes,"temporal network, contemporaneous network"
+030.txt,centrality_test,No,1
+030.txt,notes,The study's definition of DSP may not capture the full complexity of the disorder.,The paper does not explicitly state whether code or data are available. The authors mention that the study was part of a larger cohort (SleepHelsinki!) but do not specify availability of EMA data or code for this specific analysis. The paper was not found to be pre-registered.
+031.txt,sample_type,Non-clinical (i.e. healthy),Clinical & health-related
+031.txt,code_declared_available,No,1
+031.txt,data_declared_available,No,1
+031.txt,notes,DOI not provided; code and data availability not specified.,"The paper does not explicitly state whether the study was preregistered. The authors mention using ESM and network analysis to address limitations of previous cross-sectional studies, but do not reference any preregistration platform. Code and data availability are declared in the paper but specific links or repositories are not provided in the text."
+032.txt,sample_size,Virtual-Reality CBT group ( n = 43); Treatment as usual (n =48),91 participants
+032.txt,collection_device,Smartphone,Psymate
+032.txt,estimation_packages,N/S,glmnet 4.1-3
+032.txt,network_types_contemporaneous,No,"temporal network, contemporaneous network"
+032.txt,visualisation_packages,qgraph,ggraph
+032.txt,preregistered_yn,No,1
+032.txt,code_declared_available,No,1
+032.txt,data_declared_available,No,1
+032.txt,notes,"The study's findings on the interplay between mental states and paranoia may vary among individuals, suggesting a need for personalized approaches in treatment.",The paper was registered under ISRCTN 12929657. Code and data availability were declared but not explicitly linked to a repository in the paper.
+033.txt,sample_size,"Comorbid depresion and anxiety group (n = 143); 
+Depressive group (n = 40); 
+Anxiety group (n= 37)",220 participants
+033.txt,redundancy,Yes (statistically checked),0
+033.txt,estimation_packages,nan,Mplus 8.3
+033.txt,centrality_test,Yes,0
+033.txt,visualisation_packages,qgraph,ggraph 1.6.9
+033.txt,notes,I'm not sure whether 'ggraph' or 'qgraph' was used as the visualization package due to inconsistencies in the references.,"The data are not freely available in a public repository due to GDPR restrictions, but can be requested via the NESDA Data Access Committee. The code and syntax are available on OSF."
+034.txt,collection_device,N/S,Paper and pen
+034.txt,centrality_test,No,1
+034.txt,visualisation_packages,qgraph,N/S
+034.txt,data_declared_available,No,1
+034.txt,limitations,- Limited number of repeated observations per patient;- Exploratory nature increases risk for false positives;- Centrality measures may not reflect psychological relationships;- Limited generalizability due to sample characteristics.,- Sample size at the borderline for mlVAR analysis; - Limited power for between-person network; - Centrality measures may not fully capture dynamic processes; - Time lag of half-week may be too long for some SAD processes.
+034.txt,notes,"The paper does not specify the availability of the code or data, which may be important for replication.",The paper does not mention preregistration. Code and data are declared available in the supplementary materials.
+035.txt,sample_type,Non-clinical (i.e. healthy),Clinical & health-related
+035.txt,visualisation_packages,qgraph2,qgraph
+035.txt,data_declared_available,No,1
+035.txt,notes,I am unsure whether the authors checked for potential redundancy between nodes before running the network model.,The paper does not explicitly state whether code is publicly available. Data availability is mentioned but not specified in detail. Preregistration status was not found in search results.
+036.txt,sample_size,Placebo group (n = 9); Treatment group (n = 5),14 participants
+036.txt,estimation_packages,nan,Stata mixed command
+036.txt,network_types_temporal,Yes,contemporaneous network
+036.txt,network_types_contemporaneous,No,contemporaneous network
+036.txt,centrality_test,No,1
+036.txt,notes,The study's findings may not be generalizable to a broader IBS population.,The paper does not explicitly state whether code or data are publicly available. The authors mention that the data are from a clinical trial and may be subject to restrictions. The paper does not mention preregistration.
+037.txt,sample_size,Stable symptom levels (n = 81); Increasing symptom levels( n = 78),159 participants
+037.txt,sample_type,Non-clinical (i.e. healthy),Clinical & health-related
+037.txt,redundancy,Yes (statistically checked),0
+037.txt,centrality_test,Yes,0
+037.txt,notes,"I was slightly unsure about the sample type, as participants were adolescents at increased risk but not diagnosed with mental disorders.","The paper does not explicitly state whether the study was preregistered. The authors mention using a permutation test for statistical comparison, but do not state whether this was pre-registered. The code is declared available, but the data is not publicly available due to privacy concerns."
+038.txt,sample_type,Non-clinical (i.e. healthy),Clinical & health-related
+038.txt,collection_device,N/S,Computer
+038.txt,n_nodes,9.0,11
+038.txt,redundancy,Yes (statistically checked),0
+038.txt,centrality_test,No,1
+038.txt,notes,The study highlights the importance of dynamic state-like manifestations of personality and suggests further research into the validation of personality states as cohesive organizational units.,The study was not preregistered. The code and data are available on OSF at https://osf.io/jkxzn/. The authors note that the study was exploratory and did not preregister hypotheses.
+039.txt,sample_type,Non-clinical (i.e. healthy),Clinical & health-related
+039.txt,collection_device,N/A - (structured interviews),Computer
+039.txt,network_types_between_person,Yes,"temporal network, contemporaneous network, between-subject network"
+039.txt,centrality_test,No,1
+039.txt,code_declared_available,No,1
+039.txt,data_declared_available,No,1
+039.txt,notes,"I was unsure about the data collection device used, as the paper does not specify whether 'paper and pen' or 'computer' was used for the interviews.","The paper does not explicitly state whether it was preregistered. The authors mention that they used a random selection of 50 individuals from a larger dataset, which may not be ideal for generalizability. The study used a four-week time lag, which is longer than typical for temporal networks, potentially missing rapid symptom dynamics. The paper does not mention if the data or code is publicly available, but the authors' website and publications suggest they may be available upon request."
+040.txt,sample_size,Higher negative moods (deteriorating) (n = 99); Lower negative moods (improving) (n = 89),187 participants
+040.txt,sample_type,Non-clinical (i.e. healthy),Clinical & health-related
+040.txt,collection_device,N/S,Computer
+040.txt,n_timepoints,1.0,daily
+040.txt,notes,The datasets presented in this article are not readily available for public use.,"The paper does not mention preregistration or availability of code/data. The authors state that datasets are not readily available for public use and should be requested via email. The study used an online survey (Qualtrics) distributed through social networks, which may not be considered a traditional ESM/EMA device."
+041.txt,sample_type,Non-clinical (i.e. healthy),Clinical & health-related
+041.txt,collection_device,N/S,Smartphone
+041.txt,network_types_between_person,Yes,"temporal network, contemporaneous network, between-subject network"
+041.txt,centrality_test,No,1
+041.txt,visualisation_packages,N/S,qgraph
+041.txt,notes,I am not sure about the software used for network visualisation; the paper mentions the Fruchterman-Reingold algorithm but does not specify the package.,"The paper does not mention preregistration. Code and data availability are not explicitly stated in the main text, but supplementary materials may contain this information. The authors used R and mlVAR for analysis, and visualizations were likely created using qgraph."
+042.txt,sample_type,Non-clinical (i.e. healthy),Clinical & health-related
+042.txt,n_nodes,15.0,14
+042.txt,network_types_between_person,Yes,"temporal network, contemporaneous network, between-subject network"
+042.txt,centrality_test,No,1
+042.txt,visualisation_packages,N/S,qgraph
+042.txt,code_declared_available,No,1
+042.txt,notes,The paper does not clarify the availability of the code used for analysis.,"The paper does not explicitly state whether the study was preregistered. The authors mention that the data are available from the corresponding author on reasonable request, but do not specify a public repository. Code availability is declared but not linked to a specific repository."
+043.txt,n_nodes,11.0,14
+043.txt,centrality_test,No,1
+043.txt,visualisation_packages,qgraph (1.6.4),ggraph 1.6.4
+043.txt,code_declared_available,No,1
+043.txt,notes,No additional notes.,"The paper does not explicitly state whether it was preregistered. The code is available upon request from the corresponding author, and the data is available on Mendeley Data."
+044.txt,sample_type,Non-clinical (i.e. healthy),Clinical & health-related
+044.txt,n_timepoints,1 / year - (for the timepoints used in the study; assessed overall every 6 months),7 waves (approximately 1 year apart)
+044.txt,n_days,7 years (timepoints) in total,Not applicable (longitudinal waves)
+044.txt,n_nodes,11.0,10
+044.txt,redundancy,Yes (statistically checked),0
+044.txt,network_types_between_person,Yes,"temporal network, contemporaneous network"
+044.txt,centrality_test,No,1
+044.txt,data_declared_available,No,1
+044.txt,notes,"The study may have limitations regarding the accuracy of self-reported measures, particularly in relation to callousness.","The study used longitudinal data from the Pathways to Desistance Study, which was not collected via ESM/EMA methods. The authors did not explicitly state whether the study was preregistered, but the data and code are available upon request. The study's focus on network analysis and centrality measures is a strength, but the data collection method is not intensive longitudinal."

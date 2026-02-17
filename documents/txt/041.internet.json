@@ -1,0 +1,22 @@
+{
+  "title": "State loneliness is associated with emotional hypervigilance in daily life: A network analysis",
+  "doi": "10.1016/j.paid.2020.110154",
+  "country": "China",
+  "sample_size": "211 participants",
+  "sample_type": "Clinical & health-related",
+  "collection_device": "Smartphone",
+  "n_timepoints": "5 times per day",
+  "n_days": "13 days",
+  "n_nodes": "8",
+  "redundancy": 0,
+  "software": "R",
+  "estimation_packages": "mlVAR 0.4.4",
+  "network_types": "temporal network, contemporaneous network, between-subject network",
+  "centrality_test": 1,
+  "visualisation_packages": "qgraph",
+  "preregistered_yn": 0,
+  "code_declared_available_yn": "check",
+  "data_declared_available": 0,
+  "limitations": "- Participants were not screened for neurological or psychiatric disorders; - Limited number of variables used; - Did not measure social interactions and contexts; - Stationary assumption for multi-level VAR modeling may not hold; - Observational data limits causal interpretation.",
+  "notes": "The paper does not mention preregistration. Code and data availability are not explicitly stated in the main text, but supplementary materials may contain this information. The authors used R and mlVAR for analysis, and visualizations were likely created using qgraph."
+}
