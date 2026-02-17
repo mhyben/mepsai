@@ -1,0 +1,1276 @@
+® Check for updates
+
+WILEY
+
+Received: 10 August 2018
+DOI: 10.1002/eat.22952
+
+Revised: 16 August 2018 Accepted: 17 August 2018
+
+EATING DISORDERS
+ORIGINAL ARTICLE
+
+Longitudinal and personalized networks of eating disorder
+cognitions and behaviors: Targets for precision intervention a
+proof of concept study
+
+Cheri A. Levinson PhD ® | Irina Vanzhula MS | Leigh C. Brosof BA
+
+Department of Psychological and Brain
+
+Sciences, University of Louisville, Louisville, Abstract
+Kentucky Introduction: Despite the high mortality and significant societal and personal costs associated
+Correspondence with eating disorders (EDs) there are few evidence-based treatments. Part of the difficulty
+
+Dr. Levinson, Department of Psychological and
+Brain Sciences, University of Louisville, Life
+Sciences Building, Louisville, KY 40292.
+
+Email: cheri.levinson@louisville.edu
+
+developing and implementing evidence-based treatments in EDs is due to the extremely high
+heterogeneity (e.g., variability in treatment outcome, symptom presentation etc) present.
+Methods: To begin to identify specific symptom heterogeneity within persons, the current study
+
+Funding information used novel within and between group and intra-individual network analyses to create longitudi-
+
+National Institute of Mental Health, Grant/
+Award Number: 5T32DA007261-17
+
+nal and within-person networks of ED cognitions and behaviors (N = 66 individuals diagnosed
+with an ED). This article provides a proof of concept study for how to use between and within-
+person network analyses both for the EDs and other forms of psychopathology.
+
+Results: We found that cognitions focused on desiring thinness played a likely maintaining role
+in ED pathology, across network type and across time. Furthermore, we showed that three indi-
+viduals with the same diagnosis (anorexia nervosa) differed in which symptoms maintained the
+disorder. We use these participants to exemplify how to use intra-individual network analysis to
+personalize treatment focused on the primary maintaining symptoms. Finally, we found that
+amount of time (e.g., 4 hr vs. simultaneously) impacts how symptoms maintain each other.
+Conclusions: These findings have implications for the development of novel personalized
+evidence-based treatments for EDs, as well as implications for how the field understands how
+psychopathology maintains itself. These data represent a first-step towards using intra-
+individual network analyses in the ED field, as well as for hypotheses generation in future
+
+research.
+
+KEYWORDS
+
+anorexia nervosa, eating disorders, network analysis, personalized treatment
+
+1 | INTRODUCTION
+
+disorders characterized by overvaluation of weight and shape. This
+
+overvaluation of weight and shape maintains ED pathology through
+
+Eating disorders (EDs) are serious mental illnesses, with the highest
+mortality rate of any psychiatric disorder (Klump, Bulik, Kaye, Trea-
+sure, & Tyson, 2009). Despite high levels of mortality, societal cost,
+and personal impairment, there are few empirically supported treat-
+ments for EDs (Linardon, Fairburn, Fitzsimmons-Craft, Wilfley, &
+Brennan, 2017). The most utilized and well-supported treatment for
+adults with EDs is Cognitive-Behavioral Therapy for Eating Disorders
+(CBT-E; Fairburn, 2008; Fairburn, Cooper, & Shafran, 2003). CBT-E is
+
+based on theory that proposes that EDs are primarily cognitive
+
+pathways between cognitive, behavioral, affective, and physiological
+symptoms. CBT-E is proposed to work by disrupting pathways
+between symptoms in these domains. For example, intervention on
+fear of weight gain (cognition) might then disrupt connections
+between fear of weight gain and excessive exercise, body checking,
+and restriction (behaviors), thereby weakening the disorder. However,
+CBT-E is ultimately only effective for approximately 50% of individ-
+uals with eating disorders (Fairburn et al., 2015). More research is
+
+needed to improve CBT-E to expand its effectiveness and to develop
+
+Int J Eat Disord. 2018;51:1233-1243.
+
+wileyonlinelibrary.com/journal/eat
+
+© 2018 Wiley Periodicals, Inc. | 1233
+ 1204 | Wy
+
+LEVINSON ET AL.
+
+ILEY EATING DISORDERS
+
+novel evidence-based treatments (e.g., Danielsen, Rekkedal, Frostad, &
+Kessler, 2016).
+
+Part of the low response rates in CBT-E may be attributable to the
+significant symptom and treatment response heterogeneity that is seen
+in the EDs (Forbush et al., 2017), though it is possible this prior finding
+is accounted for by treatments that only produce modest response
+rates rather than heterogeneity per se. For example, other than age of
+onset and duration of illness, there are no reliable indicators of treat-
+ment outcomes (e.g., Murray, Loeb, & Le Grange, 2015). Some individ-
+uals with EDs recover rapidly and permanently, and others fall into a
+chronic illness course (Bardone-Cone et al., 2010). It is unclear why
+some individuals recover, while others do not. It is also unclear how
+cognitive-behavioral factors vary across individuals (e.g., Castellini,
+Montanelli, Faravelli, & Ricca, 2014). This heterogeneity makes it diffi-
+cult for clinicians to pinpoint which maintaining symptoms should be
+targeted in treatment. In other words, personalized treatments that can
+target the heterogeneous maintaining symptoms of EDs are needed.
+
+There is recent emphasis on using precision medicine to identify
+precise intervention targets, which should lead to more effective
+treatments (Insel, 2014). In the anxiety and depression literature,
+researchers are beginning to test data-driven techniques to personal-
+ize and direct clinicians to the use of modular treatments (Fernandez,
+Fisher, & Chi, 2017; Fisher, Reeves, Lawyer, Medaglia, & Rubel, 2017).
+This approach has been shown to outperform clinician judgment and
+shows how data-driven methods can be used to personalize treat-
+ment. For example, the development of the Dynamic Assessment
+Treatment Algorithm (please see Fernandez, Fisher & Chi, 2017 for
+information on its development) showed that this algorithm was more
+likely to adhere to data when determining which modules of the Uni-
+fied Protocol to funnel patients into, whereas clinicians were more
+likely to approach treatment in an additive manner (module 1, then
+module 2 etc). These data fit with the substantial literature showing
+that clinician-judgment is often flawed in comparison to actuarial or
+data-based approaches (e.g., Dawes, Faust, & Meehl, 1989; Spengler
+et al., 2009) and point to the importance of developing data-driven
+approaches to personalize treatment.
+
+To develop personalized interventions for EDs, we first need to
+identify the unique maintaining symptoms across and within individ-
+uals. Recent advances in network analysis allow for the creation of
+personalized, intra-individual networks that show how symptoms of
+disorders maintain themselves both between and within individuals
+(Bringmann et al., 2013, 2016; Epskamp et al., 2017). Network analy-
+sis is a methodology drawn from network theory and network science
+that allows for an unprecedented number of interacting factors to be
+considered at once within one statistical model (Borsboom & Cramer,
+2013; Borsboom, 2017). Instead of identifying an underlying disease
+(as in latent variable modeling), network theory conceptualizes symp-
+toms themselves as causal maintaining mechanisms of psychiatric ill-
+ness (Boschloo et al., 2015; Fried et al., 2016, 2017; Kendler,
+Zachar, & Craver, 2011; McNally, 2016; Nelson et al., 2017). For
+example, instead of assuming that depression is caused by an underly-
+ing disease of ‘depression’, network theory assumes that symptoms of
+depression interact and cause each other (e.g., lack of sleep leads to
+fatigue, which then leads to low energy and then low mood), creating
+depression (Borsboom et al., 2011; Borsboom, 2017; Fried et al., 2016).
+
+Therefore, network analysis based on network theory allows for the
+examination of how cognitive-behavioral symptoms interact and
+become mutually reinforcing.
+
+Until recently, cross-sectional network analyses have been used to
+identify possible intervention targets for ED treatments, such as fear of
+weight gain (Levinson et al., 2017; Debois et al., 2017) and body check-
+ing (Forbush et al., 2016). However, cross-sectional models are limited
+in that they cannot separate between-subjects relationships from short-
+term within-subjects relationships (Hamaker, 2012). Intraindividual net-
+work analysis moves beyond cross-sectional models that conceptualize
+maintaining symptoms of EDs across individuals to show what symp-
+toms maintain EDs within individuals. Temporal group-level models
+(based on multiple observations in multiple individuals) allow for the
+examination of both intra-individual dynamics, between-subjects over-
+lap, and differences between within- and between-subjects networks.
+
+Specifically, we can estimate (1) temporal, (2) contemporaneous,
+and (3) between-subject networks, as well as (4) intraindividual net-
+works within one person (Epskamp et al., 2016). Temporal models elu-
+cidate the dynamics of psychopathology, showing how one symptom
+may predict another at the next time point, which is essential in
+understanding maintaining cycles of psychopathology. Contempora-
+neous models show how the variables are related at the same time
+point while accounting for temporal relationships. Because temporal
+relationships may occur within seconds (e.g., affect impacting behavior
+and vice versa), contemporaneous models may uncover relationships
+that are missed in temporal networks (Epskamp et al., 2017). Finally,
+between-subjects models (cross-sectional between-person models)
+allow for the examination of between-mean relationships for all indi-
+viduals under study (e.g., individuals who are more afraid to gain
+weight are, on average, also more likely to think about dieting). Intra-
+individual networks can be created for each individual that shows
+how one person's symptoms maintain their eating disorders. By con-
+structing each of these networks, it is possible to begin to identify
+both between and within person the cognitive-behavioral symptoms
+that maintain EDs. Researchers can then identify what contributes to
+the high heterogeneity of cognitive-behavioral ED symptoms and
+which unique symptoms might be future targets of investigation for
+precision medicine interventions between and within individuals.
+
+To create such models, we need intensive, longitudinal data
+across time (e.g., Epskamp et al., 2017c; Fisher et al., 2017). Thus, in
+the current pilot study, which can be considered an applied tutorial,
+we used ecological momentary assessment data (N = 66) to collect
+longitudinal data across 1 week (28 assessment points) on ED cogni-
+tions and behaviors. We then used both between (or traditional,
+cross-sectional between-person network analyses) and_ within
+(e.g., intra-individual) network analyses to model networks of ED cog-
+nitions and behaviors. We had three primary questions: First, what are
+the cognitive-behavioral relationships between individuals across time
+(e.g., temporal, contemporaneous, and between-subjects models); Sec-
+ond, are within-individuals models heterogeneous, despite similar
+diagnoses; Third, what are specific targets (e.g., symptoms) that might
+be used to generate hypotheses for future novel personalized treat-
+ment development research? We hypothesized that, (a) the between-
+person model would replicate prior cross-sectional between-person
+
+models showing that desire for thinness and fears of weight gain
+
+QSUDOT'T SUOIIOD SATIVAI_D afqvordde oyi Aq pouIoAos ore sponse WO ‘asn Jo sapns Joy ATeIQr] uT[UG Aa[I AA UO (SUOTIPUOS-pue-sULIAy/WIOS Kopi Arerqipaurpuo//:sdyyy) SUOTIpUOD pu suLIay, ay) 99S *[PZ0Z/80/ZI] UO ATeIQYT OUTTUG AZILAA ‘ZO lund @HAOquiowl-<yaoqqrys> Aq ZS6ZZ'I89/ZOOI OL /lop/wios Aoyama’ Arerqipourpuo//:sdyy Wor peproyumog ‘TI ‘8107 ‘X801 8601
+ LEVINSON €T AL.
+
+International Journal of | 1235
+
+would be the primary central symptoms; and (b) given the high level
+of heterogeneity in ED symptom profiles, the intra-individual models
+would vary across individuals regardless of the same_ primary
+
+diagnosis.
+
+2 | METHODS
+
+2.1 | Participants
+
+Participants were 66 individuals diagnosed with an ED. Participants
+were primarily female (n = 64; 97.0%); European American (n = 56;
+86.2%); and had an average age of 24.98 (SD = 7.31; Range = 14-41).
+Other ethnicities reported were Asian (n = 3; 4.5%; Hispanic (n = 3;
+4.5%); Black (n = 1; 1.5%) multiracial (n = 2; 3%) and one reported her
+
+ethnicity as not listed.
+
+2.1.1 | Diagnoses and clinical characteristics
+
+We used the Eating Disorder Diagnostic Scale (Stice, Telch, & Rizvi,
+2000; see measures below) to determine diagnoses from DSM-5,
+which were made prior to beginning the ecological momentary assess-
+ment (EMA) protocol: AN (n = 40; 60.6%), atypical AN (n = 14;
+21.2%), BN (n = 6; 9.1%), low frequency BN (n = 1; 1.5%), and other
+specified feeding and eating disorders (n = 3; 4.5%). The majority of
+participants reported that they were currently in treatment for an ED
+(n = 49; 74.2%), with an average of 2.5 hrs (SD = 4.53; Range = O to
+30 hrs) of treatment per week. Median body mass index (BMI) was
+20.66 (SD = 3.46; Range 13.89-32.28). Other self-reported current
+diagnoses were Anxiety Disorder (n = 41; 62.1%); Depressive Disor-
+der (n = 38; 57.6%); OCD (n = 13; 19.7%); and PTSD (n = 7; 10.6%).
+
+2.2 | Diagnostic inventory
+
+2.2.1 | Eating disorder diagnostic scale
+
+The EDDS is a brief self-report measure used to diagnose EDs, such
+as anorexia nervosa, bulimia nervosa, and binge eating disorder
+(EDDS; Stice, Telch, & Rizvi, 2000). The EDDS has demonstrated ade-
+quate internal consistency, as well as criterion and convergent validity
+(Stice, Fisher, & Martinez, 2004).
+
+2.3 | EMA measures
+
+The EMA survey assessed 11 items that were classified as either ED
+cognitions or ED behaviors. We drew items from the Eating Disorder
+Inventory-2 (EDI-2; Garner, Olmstead, & Polivy, 1983), the Eating
+Pathology Symptoms Inventory (EPSI; Forbush et al., 2013), and the
+Eating Disorder Examination-Questionnaire (EDE-Q; Fairburn &
+Beglin, 1994), because of their strong psychometric properties and as
+has been used in prior EMA research (e.g., Mason et al., 2016). Four
+items represented ED cognitions and were selected from the Eating
+Disorder Inventory-2 (Garner, Omstead, & Polivy, 1983): | feel like |
+have overeaten; | am thinking about dieting; | am preoccupied with the
+desire to be thinner; | am terrified of gaining weight. Participants were
+asked to rate how they felt “right now” and to rate each item on a
+1 to 6 scale, where 1 = “not at all” and 6 = “extremely.” Seven items
+described common ED behaviors drawn from the EDE-Q and EPSI:
+
+WILEY EATING DISORDERS
+
+Vomiting or other compensatory behaviors; Excessive exercise; Body-
+checking; | have weighed myself; Binge-eating; Restriction. Participants
+were asked to rate how much they engaged in these behaviors since
+their last check in and to rate each item on a 1 to 6 scale, where
+
+1 = “not at all” and 6 = “a lot.”
+
+2.4 | Procedures
+
+All procedures were approved by the Washington University Institu-
+tional Review Board. Participants were recruited from an ED clinic
+after discharge from either a residential or partial hospitalization treat-
+ment program or from an ED alumni research registry. Participants
+were invited to participate in a study of daily habits. All procedures
+were completed either online or through a mobile application; partici-
+pants living in any area of the country could participate. Participants
+provided informed consent and then completed the EDDS online.
+After completion of the online survey, participants were given instruc-
+tions on how to download and access a mobile application measuring
+daily habits (please see http://www.christophermetts.com/status-
+post). This application notified participants four times a day for 1 week
+and asked participants to report on their ED cognitions and behaviors.
+Participants were compensated based on the number of times they
+responded to the mobile application questionnaires and could receive
+
+up to 25 dollars for participation.
+
+2.5 | Data analytic procedure: Network analysis
+
+Vector autoregressive (VAR) modeling was used for the analysis of
+time-series data, both within an individual and on a group level
+(Bringmann et al., 2013). These analyses are unique in that they statis-
+tically identify the most important symptoms both between and
+within individuals and across time. We used the multi-level vector
+autoregressive (mIVAR) package, version 0.4 in R to estimate three
+group-level networks: temporal, contemporaneous, and between-
+subject (between-subjects is analogous to the cross-sectional analyses
+that are generally presented in the network analyses field; Epskamp,
+Deserno, & Bringmann, 2017b). For a more detailed description of
+each model, see Epskamp et al. (2016). In all three networks, each
+symptom (or variable) is represented as a node, and links between
+nodes (i.e., edges) represent associations between symptoms. In a
+temporal network, edges with an arrowhead pointing from one node
+to another indicates that the first node predicts the other at the next
+time point. For example, if fear of weight gain has an arrow leading to
+thinking about dieting, then it indicates that fear of weight gain is pre-
+dicting thinking about dieting at the next time point, while controlling
+for the previous time point (e.g., auto-regressive model). In a contem-
+poraneous network, the edge represents partial correlations between
+variables, after controlling for all other variables in the same time
+point and also variables of the previous time point. In the between-
+subjects network, edges represent an average of two regression
+parameters: how well the mean of one variable predicts the mean of
+the other variable and vice versa. When the networks are plotted,
+only significant edges are shown using the “or” rule (see Epskamp
+et al., 2017 for more details).
+
+QSUDOT'T SUOIIOD SATIVAI_D afqvordde oyi Aq pouIoAos ore sponse WO ‘asn Jo sapns Joy ATeIQr] uT[UG Aa[I AA UO (SUOTIPUOS-pue-sULIAy/WIOS Kopi Arerqipaurpuo//:sdyyy) SUOTIpUOD pu suLIay, ay) 99S *[PZ0Z/80/ZI] UO ATeIQYT OUTTUG AZILAA ‘ZO lund @HAOquiowl-<yaoqqrys> Aq ZS6ZZ'I89/ZOOI OL /lop/wios Aoyama’ Arerqipourpuo//:sdyy Wor peproyumog ‘TI ‘8107 ‘X801 8601
+ 1296 | \/
+
+LEVINSON ET AL.
+
+ILEY EATING DISORDERS
+
+TABLE 1. Descriptive information for individual items in overall sample
+
+Item Label Mean (SD) Range
+| feel like | have overeaten Feelovereat 3.16 (1.89) 1-6
+| am thinking about dieting Thinkdiet 3.75 (1.90) 1-6
+| am preoccupied with the desire to be thinner Desirethin 4.10 (1.84) 1-6
+| am terrified of gaining weight Feargain 4.47 (1.75) 1-6
+Vomiting or other compensatory behaviors Vomit 1.31 (.97) 1-6
+Excessive exercise Exercise 1.63 (1.29) 1-6
+Body-checking Bodycheck 3.02 (1.87) 1-6
+| have weighed myself Weighself 1.59 (1.45) 1-6
+Binge eating Binge 1.28 (1.00) 1-6
+Restriction Restrict 2.46 (1.71) 1-6
+
+Next, we used the graphical VAR package in R to create intraindi-
+vidual networks for three randomly selected individuals with AN (Wild
+et al., 2010). We created both temporal and contemporaneous net-
+works for each of these individuals. This method allows us to deter-
+mine on an individual level the hypothesized maintaining cognitions
+and behaviors.
+
+The most central nodes were identified in all group-level net-
+works (i.e., group-level temporal, contemporaneous, and between-
+subject networks) and in the contemporaneous intraindividual net-
+works. Three commonly used indices of centrality are betweenness,
+closeness, and strength (McNally, 2016). For the group-level temporal
+and contemporaneous networks, we used the strength centrality to
+select the most central nodes because it is considered more stable
+than betweenness and closeness (Epskamp, Borsboom, & Fried,
+2017a). Strength centrality refers to the sum of the edge weights
+between a focal node and all other nodes to which it is connected in
+the network. A node with high strength centrality would be highly cor-
+related with many other nodes in the network (Borsboom & Cramer,
+2013; McNally, 2016). For the temporal group-level network,
+inStrength and outStrength values were calculated. In inStrength cen-
+trality refers to a sum of connections pointing towards the node and
+indicates how many incoming arrows a symptom receives from the
+directly connected symptoms. In words, high inStrength represents
+that a symptom receives input from many other symptoms. Out-
+Strength centrality refers to a sum of connections pointing from one
+node to the other nodes in the network and indicates how much
+information a symptom sends to other symptoms it is directly con-
+nected to (Bringmann et al., 2015). In words, outStrength represents
+that a symptom provides input to many other symptoms. For individ-
+ual networks, centrality was calculated only for contemporaneous net-
+works (Asparouhov, Hamaker and Muthén, 2018). The indices of
+centrality were calculated using the centrality Plot and centrality
+Table functions in q graph (Epskamp et al., 2012). Missing data were
+estimated using the Kalman filter as part of the estimation procedure
+(Haan-Rietdijk et al., 2017; Asparouhov, Hamaker, and Muther, 2018).
+
+Furthermore, over all we had a 73% compliance rate for EMA data,
+
+1Factors that contribute to power for these types of analyses are sample size,
+number of time points, and number of symptoms (parameters) included in the
+model (Schultzberg, M., & Muthén, B., 2018). With a sample size of 66 partici-
+pants with 28 time points and 10 parameters we would achieve over .80 power
+for a small to moderate effect.
+
+which is as high or higher than most EMA studies in eating disorders.
+Additionally, within our intra-individual networks calculated for the
+three individuals with AN, these participants had greater than 84%
+
+complete data.*
+
+3 | RESULTS
+
+3.1 | Compliance data
+
+Average compliance was 73%. The average number of observations
+missed is 7.28 (SD = 6.97) out of 28 observations. Median number of
+observations missed is 5.00, range = O-26. For individual networks,
+participant 1 did not miss any observations, participant 2 missed four
+
+observations, and participant 3 had 10 missing observations.
+
+3.2 | Descriptive statistics and zero-order
+correlations
+
+Average values and variance of individual items are reported in
+Table 1 for the group network and in Table 2 for the individual net-
+works. Table 3 shows zero-order correlations between averages of
+
+each symptom assessed.
+
+3.3 | Group level within-and between person
+networks: Temporal, contemporaneous, and between-
+subjects models (n > 1 networks)
+
+Temporal, contemporaneous, and between-subject networks for the
+total sample are shown in Figure 1. As seen in Figure 2, in the group-
+level temporal network, the following nodes with the highest strength
+centrality were identified: desire to be thin (inStrength = 1.45), body
+checking (InStrength = 1.18), exercise (OutStrength = 1.82), and binge
+eating (OutStrength = 1.33). In the contemporaneous network, the
+following nodes with highest strength centrality were identified:
+desire to be thin (Strength = 1.62), thinking about dieting
+(Strength = 1.23), and fear of weight gain (Strength = 0.61). In the
+between-subject network, the following nodes with highest strength
+centrality were identified: desire to be thin (Strength = 2.13) and
+restriction (Strength = 1.04).
+
+QSUDOT'T SUOIIOD SATIVAI_D afqvordde oyi Aq pouIoAos ore sponse WO ‘asn Jo sapns Joy ATeIQr] uT[UG Aa[I AA UO (SUOTIPUOS-pue-sULIAy/WIOS Kopi Arerqipaurpuo//:sdyyy) SUOTIpUOD pu suLIay, ay) 99S *[PZ0Z/80/ZI] UO ATeIQYT OUTTUG AZILAA ‘ZO lund @HAOquiowl-<yaoqqrys> Aq ZS6ZZ'I89/ZOOI OL /lop/wios Aoyama’ Arerqipourpuo//:sdyy Wor peproyumog ‘TI ‘8107 ‘X801 8601
+ LEVINSON €T AL.
+
+International Journal of | 1237
+
+WILEY EATING DISORDERS
+
+TABLE 2 Descriptive information for individual items for each participant included in intra-individual network analyses
+
+Item Label
+
+| feel like | have overeaten Feelovereat
+
+| am thinking about dieting Thinkdiet
+
+| am preoccupied with the desire to be thinner Desirethin
+| am terrified of gaining weight Feargain
+Vomiting or other compensatory behaviors Vomit
+Excessive exercise Exercise
+Body-checking Bodycheck
+| have weighed myself Weighself
+Binge eating Binge
+Restriction Restrict
+
+TABLE3 Zero-order correlations among symptoms included in network models
+
+1 2 3 4
+1.Feelovereat -
+2.Thinkdiet .64** -
+3.Desirethin 8** SSE -
+4.Feargain 3** 1 6** 145 -
+5.Exercise .18** 24** 23** 19%
+6.Binge 1** .22** 19%** 7 **
+7.Bodycheck 3% 54 Oe 56**
+8.Weighself 24** 2/7 ** 25% .26**
+9.Restrict 2** 8** 0** o1**
+10.Vomit 24** 25% 24** .22**
+
+Mean (SD)
+Participant 1 Participant 2 Participant 3
+2.61 (1.54) 2.25 (2.09) 2.33 (.84)
+3.86 (.71) 4.79 (1.76) 2.39 (.92)
+4.82 (.72) 5.04 (1.63) 2.72 (.75)
+5.14 (.52) 5.46 (1.21) 5.50 (.62)
+O 1.96 (1.71) 1.11 (.32)
+O 4.29 (2.22) 3.11 (.47)
+2.93 (.86) 3.42 (2.04) 3.17 (.94)
+O 2.79 (2.06) 4.44 (.86)
+O 1.13 (.61) 1.17 (.38)
+2.18 (.95) 5.50 (1.14) 2.22 (.55)
+
+5 6 7 8 9 10
+
+05 -
+
+35** .28** -
+
+48** 14** lt -
+
+.16** .10** 13% 13** -
+
+ots .30** 23% 7 ** 04 -
+
+Note. **p < .001; feelovereat = feel like | have overeaten; thinkdiet = thinking about dieting; desirethin = preoccupied with the desire to be thinner; fear-
+gain = terrified of gaining weight; exercise = excessive exercise; binge = binge eating; bodycheck = body checking; weighself = weighed myself; restrict =
+
+restriction; vomit = vomiting or other compensatory behaviors.
+
+3.4 | Intraindividual networks (n = 1 networks)
+
+Temporal and contemporaneous networks for three randomly
+selected individuals with anorexia nervosa are shown in Figure 3 (tem-
+poral and contemporaneous). As seen in Figure 4, for participant
+1, thinking about dieting (Strength = 1.90) was the most central symp-
+tom; for participant 2, binge eating (Strength = 1.61) and exercise
+(Strength = 0.78) were the most central symptoms; for participant
+3, restricting (Strength = 1.67) and thinking about overeating
+
+(Strength = 0.44) were the most central symptoms.
+
+4 | DISCUSSION
+
+We demonstrated how longitudinal between and within-person net-
+work analysis can be used to identify relationships between ED cogni-
+tions and behaviors both between and within individuals (at the group
+level), as well as within one person. These methods hold extreme
+promise for the development of precision medicine interventions for
+EDs. For example, identification of which cognitions and behaviors
+maintain EDs both between- and within-individuals provides a clearer
+picture on the structure of ED psychopathology both at the group and
+individual level of analysis, as well as across time. Identification of
+
+likely maintaining symptoms within one person might lead to
+
+interventions personalized to the individual by targeting their specific
+maintaining symptoms. Theoretically, intervention on core, maintain-
+ing symptoms should decrease all other symptoms within the network
+(McNally et al., 2016), though we should note there has not yet been
+empirical demonstration that intervention on core symptoms pro-
+duces change, though central symptoms do predict ED treatment out-
+comes (Olatunji, Levinson, and Calebs, 2018). Theoretically, we can
+now identify possible maintaining symptoms not only across groups,
+but also within the individual. It is also possible that intra-individual
+network analysis might be used as one method to identify severe
+symptoms that need to be targeted in treatment. Overall, this manu-
+script shows how intra-individual network analyses could be used in
+the ED field and the psychopathology field at large. However, we
+should note that intraindividual network analysis is an extremely novel
+methodology, and thus, results should be interpreted cautiously.
+Future research should use these results for hypothesis generation for
+future larger scale research. We await future research with larger sam-
+ple sizes and additional assessment points to make any firm
+
+conclusions.
+
+4.1 | Overarching findings across model types
+
+While the results here should still be considered tentative, there are
+
+two primary hypotheses to be tested in future research that arise
+
+QSUDOT'T SUOIIOD SATIVAI_D afqvordde oyi Aq pouIoAos ore sponse WO ‘asn Jo sapns Joy ATeIQr] uT[UG Aa[I AA UO (SUOTIPUOS-pue-sULIAy/WIOS Kopi Arerqipaurpuo//:sdyyy) SUOTIpUOD pu suLIay, ay) 99S *[PZ0Z/80/ZI] UO ATeIQYT OUTTUG AZILAA ‘ZO lund @HAOquiowl-<yaoqqrys> Aq ZS6ZZ'I89/ZOOI OL /lop/wios Aoyama’ Arerqipourpuo//:sdyy Wor peproyumog ‘TI ‘8107 ‘X801 8601
+ 1238 | WILEY LEVINSON er AL.
+EATING DISORDERS
+Temporal network Contemporaneous network Between-subjects network
+
+FIGURE 1 Group-level temporal, contemporaneous, and between-subject networks. Note. Green nodes indicate cognitions and blue nodes indicate
+behaviors. Green lines indicate positive relationship and red line indicate negative relationship between symptoms. Partial correlations are shown.
+Thicker lines between nodes represent stronger relationships. Edges that were not significantly different from zero were removed from the networks.
+Symptom label descriptions: Feelovereat = feel like | have overeaten; thinkdiet = thinking about dieting; desirethin = preoccupied with the desire to be
+thinner; feargain = terrified of gaining weight; exercise = excessive exercise; binge = binge eating; bodycheck = body checking; weighself = weighed
+myself; restrict = restriction; vomit = vomiting or other compensatory behaviors [Color figure can be viewed at wileyonlinelibrary.com]
+
+from the networks presented. First, desire for thinness emerged as a weight and shape and fear of weight gain are central symptoms in BN
+central symptom across each of the group-level models (temporal, pathology (DuBois et al., 2017; Forbush et al., 2016; Levinson et al.,
+contemporaneous, and between-subject). These findings align with 2017). Indeed, the between-subjects network is a replication of these
+recent cross-sectional network analyses finding that overvaluation of prior cross-sectional network models. Desire for thinness and
+Temporal network Contemporaneous network Between-subjects network
+InStrength OutStrength
+weighself - weighself - weighself +
+vomit + 4 vomit - vomit 4
+thinkdiet - & thinkdiet + thinkdiet -
+restrict 7 e restnct + restrict 4
+feelovereat - o feelovereat + feelovereat +
+feargain- z feargain - feargain +
+exercise 7 exercise 7 exercise *
+desirethin + desirethin > desirethin 4
+bodycheck ~ bodycheck * bodycheck -
+binge - binge - binge +
+-1.0-050.0 05 1.0 15 O 1 -1 0 1 -1 0 1 2
+
+FIGURE 2 Strength centrality graphs for group-level network. Note. Higher values indicate that a node is more central to the network. Green
+dots indicate central cognitions and blue dots indicate central behaviors. Symptom label descriptions: Feelovereat = feel like | have overeaten;
+thinkdiet = thinking about dieting; desirethin = preoccupied with the desire to be thinner; feargain = terrified of gaining weight;
+
+exercise = excessive exercise; binge = binge eating; bodycheck = body checking; weighself = weighed myself; restrict = restriction;
+
+vomit = vomiting or other compensatory behaviors [Color figure can be viewed at wileyonlinelibrary.com]
+
+QSUDOT'T SUOIIOD SATIVAI_D afqvordde oyi Aq pouIoAos ore sponse WO ‘asn Jo sapns Joy ATeIQr] uT[UG Aa[I AA UO (SUOTIPUOS-pue-sULIAy/WIOS Kopi Arerqipaurpuo//:sdyyy) SUOTIpUOD pu suLIay, ay) 99S *[PZ0Z/80/ZI] UO ATeIQYT OUTTUG AZILAA ‘ZO lund @HAOquiowl-<yaoqqrys> Aq ZS6ZZ'I89/ZOOI OL /lop/wios Aoyama’ Arerqipourpuo//:sdyy Wor peproyumog ‘TI ‘8107 ‘X801 8601
+ LEVINSON €T AL.
+
+International Journal of | 1239
+
+Participant |
+
+| thinkdhet
+
+| restrict |
+
+| restrict } { thinkdiet |
+
+y ¥
+weighselt }
+desirathin | AN
+“
+/
+a soars
+\ }
+feargain
+
+Participant 2
+
+WILEY EATING DISORDERS
+
+Participant 3
+
+\ binge } thinkdiet |
+
+/ \ / hotychect ]
+teearworexe | \ /
+x | feargain | SDB feargam \
+-" } ” ail } 3 y ‘
+| desirothen ~y \
+\ he | exercise |
+
+| vomit ) | restrict |
+
+vomit
+
+FIGURE 3 Temporal and contemporaneous networks for three individuals with AN. Temporal networks are on top; contemporaneous on
+bottom. Note. Green lines indicate positive relationship and red line indicate negative relationship. Thicker lines between nodes represent
+stronger relationships. Symptom label descriptions: Feelovereat = feel like | have overeaten; thinkdiet = thinking about dieting;
+
+desirethin = preoccupied with the desire to be thinner; feargain = terrified of gaining weight; exercise = excessive exercise; binge = binge eating;
+bodycheck = body checking; weighself = weighed myself; restrict = restriction; vomit = vomiting or other compensatory behaviors [Color figure
+
+can be viewed at wileyonlinelibrary.com|
+
+overvaluation of weight and shape have long been considered core
+symptoms of ED pathology, both theoretically and empirically
+(e.g., Chernyak & Lowe, 2010; Dalley & Buunk, 2011; Fairburn, Sha-
+fran, & Cooper, 1999). These networks provide additional evidence
+that desire for thinness may play a possible maintaining role on aver-
+age in ED pathology within-individuals and temporally across time.
+Second, EDs are extremely heterogeneous in symptom presenta-
+tion and in response to treatment. This statement is by no means a
+new idea in the ED literature, as much literature recognizes the het-
+erogeneity present (e.g., Castellini et al., 2011; Eddy et al., 2008; Fair-
+burn & Cooper, 2011; Fairweather-Schmidt & Wade, 2014; Forbush
+et al., 2017; Krug et al., 2013; Luo, Donnellan, & Klump, 2016; Stice,
+2016; Stice, Marti, Shaw, & Jaconis, 2009; Sysko, Hildebrandt, Wilson,
+Wilfley, & Agras, 2010; Thomas, Vartanian, & Brownell, 2009; Tozzi
+et al., 2005). However, we found that even within three individuals
+with the same diagnosis (AN), the associations between ED pathology
+are vastly different. Furthermore, core symptoms that maintain AN
+pathology likely significantly differ across individuals. In other words,
+while our treatments are designed based on group-level averages and
+to target similar symptoms maintaining EDs across _ individuals,
+researchers need to recognize that maintaining symptoms are likely dif-
+
+ferent for many, if not all, individuals who present for treatment. This
+
+extreme heterogeneity may partially explain why such high numbers of
+individuals do not respond to established treatments and establishes a
+method that researchers might use to improve existing treatments
+(Castellini et al., 2014; Sysko et al., 2010). Our treatments need to
+incorporate within-person differences in ED cognitions and behaviors
+
+and develop or tailor treatments based on these differences.
+
+4.2 | Importance of time and type of model
+
+While we await replication of the results presented here with addi-
+tional data points and larger samples, there are some tentative fine-
+grained hypotheses that can be generated from the temporal, contem-
+poraneous, between-subjects, and intra-individual network models.
+Each of these networks represents a different level of analysis, each
+holding unique insights for the ED field. Using averages (group aver-
+age), we were able to parse out within and between-subjects relation-
+ships (see Figure 1). We found that weighing predicted restricting at
+the next time point (4 hr: temporal network), illustrating a possible
+causal relationship between these variables. However, there was no
+relationship between weighing and restricting at the same time point
+(contemporaneous network). This finding indicates that weighing and
+restriction are not occurring concurrently, but rather that weighing is
+
+leading to later restricting. Alternatively, weighing and body checking
+
+QSUDOT'T SUOIIOD SATIVAI_D afqvordde oyi Aq pouIoAos ore sponse WO ‘asn Jo sapns Joy ATeIQr] uT[UG Aa[I AA UO (SUOTIPUOS-pue-sULIAy/WIOS Kopi Arerqipaurpuo//:sdyyy) SUOTIpUOD pu suLIay, ay) 99S *[PZ0Z/80/ZI] UO ATeIQYT OUTTUG AZILAA ‘ZO lund @HAOquiowl-<yaoqqrys> Aq ZS6ZZ'I89/ZOOI OL /lop/wios Aoyama’ Arerqipourpuo//:sdyy Wor peproyumog ‘TI ‘8107 ‘X801 8601
+ LEVINSON ET AL.
+
+140 | WHT EY
+EATING DISORDERS
+Participant |
+weighself
+restrict
+vomit
+overeat restrict
+overeat
+feargain
+feargain
+excercise
+dieting
+dieting
+desirethin desirethin
+bodycheck
+bodycheck
+binge
+
+Participant 2
+
+Participant 3
+
+restrict
+
+overeat
+
+feargain
+
+excercise
+
+dieting
+
+desirethin
+
+bodycheck
+
+ry ‘ 4
+U 2
+
+0 1 1 0
+
+FIGURE 4 Strength centrality graphs for individual contemporaneous networks. Note. Higher values indicate that a node is more central to the
+network. Green dots indicate central cognitions and blue dots indicate central behaviors. Symptom label descriptions: Overeat = feel like | have
+overeaten; dieting = thinking about dieting; desirethin = preoccupied with the desire to be thinner; feargain = terrified of gaining weight;
+exercise = excessive exercise; binge = binge eating; bodycheck = body checking; weighself = weighed myself; restrict = restriction;
+
+vomit = vomiting or other compensatory behaviors [Color figure can be viewed at wileyonlinelibrary.com]
+
+frequently co-occurred at the same time with a moderate relationship
+between these symptoms, suggesting that one may trigger another
+within a short time frame (contemporaneous network). Notably, there
+are also several negative relationships within each of these models,
+primarily between cognitions and behaviors. These edges might repre-
+sent that cognitions are weakened by behaviors, functioning similarly
+to obsessions and compulsions in obsessive-compulsive disorder,
+which has also been supported by previous recent research (Levinson
+et al., 2018). These findings also show how both temporal and con-
+temporaneous networks can offer unique insights into the structure
+of ED psychopathology. Finally, these results also show how under-
+standing the time frame in the relationship between symptoms can
+allow us to target them more effectively and how time is important
+
+for the conceptualization of what maintains psychopathology.
+
+4.3. | Temporal networks
+
+A temporal network tests on average how within-individuals symptoms
+impact each other across time (Figure 1, model 1). This type of model
+allows researchers to identify longitudinal relationships among symp-
+toms on average. In other words, on average restriction might lead to
+binge eating 4 hrs later. In this data, in the temporal network, which
+focuses on approximately a 4-hr time range, cognitions related to desire
+for thinness received input from exercise, binge eating, and body check-
+ing behaviors, whereas drive for thinness sent input to weighing oneself
+and restriction. In other words, future research should test if desire for
+thinness is at the crux of a complex illness pathway with several other
+ED cognitions and behaviors impacting themselves across time. Desire
+for thinness is linked to several symptoms in all three networks, which
+shows Its importance in likely maintaining ED psychopathology for both
+
+shorter and longer time intervals, as well as demonstrating the utility of
+
+understanding how symptoms impact each other across specific time
+
+points on average across individuals (4 hr; temporal network).
+
+4.4 | Contemporaneous networks
+
+A contemporaneous network represents a snapshot in time (one time
+point), while controlling for the temporal relationships presented in
+the temporal network (Figure 1, model 2). This model allows
+researchers to identify how symptoms operate together at one time
+point (on average across individuals) while accounting for relationships
+between these symptoms in the previous measurement. Contempora-
+neous networks allow us to identify possible causal relationships
+between variables that occur faster than the measured time interval
+(i.e., 4 hr). For example, feeling like one has overeaten may trigger
+thoughts about dieting within several minutes. Such relationships
+would not be identified in the temporal and within-subjects network.
+In our data in the contemporaneous network, the four cognitions
+(desire for thinness, fears of weight gain, thinking about dieting, and
+feeling like one has overeaten) are very closely connected with the
+ED behaviors branching off from these closely connected cognitions.
+This relationship was also seen in the between-subjects network. We
+hypothesize that ED cognitions related to desire for thinness and fear
+of weight gain have a cascade effect that then impact behaviors
+(Arbuthnott, Lewis, & Bailey, 2015; Meeus, 2016; Selby, Anestis, &
+Joiner, 2008). In other words, when an individual begins thinking one
+ED cognition, these thoughts rapidly multiply and then influence ED
+behaviors. This idea is consistent with the proposition in CBT theory
+of a downward spiral of thoughts (e.g., Garner, Vitousek, & Pike, 1997).
+
+These data also show the utility of a contemporaneous network.
+
+QSUDOT'T SUOIIOD SATIVAI_D afqvordde oyi Aq pouIoAos ore sponse WO ‘asn Jo sapns Joy ATeIQr] uT[UG Aa[I AA UO (SUOTIPUOS-pue-sULIAy/WIOS Kopi Arerqipaurpuo//:sdyyy) SUOTIpUOD pu suLIay, ay) 99S *[PZ0Z/80/ZI] UO ATeIQYT OUTTUG AZILAA ‘ZO lund @HAOquiowl-<yaoqqrys> Aq ZS6ZZ'I89/ZOOI OL /lop/wios Aoyama’ Arerqipourpuo//:sdyy Wor peproyumog ‘TI ‘8107 ‘X801 8601
+ LEVINSON €T AL.
+
+International Journal of | 1241
+
+4.5 | Between-subjects network
+
+A between-subjects network shows on average across individuals
+how symptoms relate to each other (without accounting for time)
+(Figure 1, model 3). To date, all network models of ED psychopathol-
+ogy (of which we are aware) have been cross-sectional between-
+subjects models. These models are important for identifying the struc-
+ture of psychopathology and for how EDs operate on average. They
+provide a novel conceptualization of EDs (how symptoms interact and
+maintain themselves), which informs the fields understanding of psy-
+chopathology on average. Additionally, between-person data can
+inform treatment development specifically for treatments provided in
+group format and/or for treatment or prevention that is based on
+averages, signifying what targets will most likely on average be the
+optimal target. Our data replicate prior between-subjects networks,
+showing the central importance of desire for thinness/overvaluation
+of weight and shape (Dubois et al., 2017; Forbush et al., 2016; Levin-
+son et al., 2017).
+
+4.6 | Intraindividual networks
+
+Intraindividual networks can be created within one person (Figure 3).
+These models show how one individuals' ED symptoms relate to each
+other. In the current data, in addition to demonstrating the high het-
+erogeneity of ED cognitions and behaviors, the intra-individual net-
+works show how network analysis might be used to funnel patients
+into personalized interventions and/or how to identify targets for
+novel personalized treatment development (see David et al., 2017;
+Fisher et al., 2017 for examples on how this method has been applied
+for treatment in the depression and anxiety literature). Thinking about
+dieting was the most central symptom for participant 1, formulating
+the hypothesis that this participant should start with treatment chal-
+lenging thoughts around dieting. Binge eating and excessive exercise
+were the most central symptoms for participant 2, formulating the
+hypothesis that this participant should start treatment focused on
+changing behaviors. Finally, restriction and thinking about over-eating
+were the most central symptoms for participant 3, formulating the
+hypothesis that this third participant should be directed into an inter-
+vention that disrupts both behaviors (restriction) and cognitions
+(thinking about over-eating). Future research should test if CBT-E can
+be adapted into a modular format in which participants can be chan-
+neled into a unit that specifically focuses on the most central main-
+taining symptoms, as is being done in the anxiety disorder field with
+the Unified Protocol for Emotional Disorders (Fernandez et al., 2017;
+Fisher et al., 2017).
+
+4.7 | Limitations and future research
+
+We need to consider several limitations of this study. First and fore-
+most, we had very few assessment points (28) and a small sample size.
+Though there are no formal recommendations or conclusions as of
+yet, but it has been suggested from simulation research for the mIVAR
+(average, within-person networks) that it is ideal to have a large sam-
+ple size with many assessment points and fewer nodes, though no
+specific numeric guidelines exist (Epskamp, Waldorp, Mottus, & Bors-
+
+boom, 2016). More research is needed with intensive longitudinal
+
+WILEY EATING DISORDERS
+
+data in a large sample of individuals with EDs. In directed networks,
+the issue of time-frame in which the observed processes unfolds is
+particularly important (Butts, 2009). If the measured interval (i.e., time
+between observations) is different from the time-frame in which the
+actual process unfolds, important relationships may not be observed.
+For example, if drive for thinness is followed by excessive exercising
+1 hr later, a network based on measurements every 4 hr may not
+show this dynamic. Furthermore, our models are limited by the cogni-
+tions and behaviors we chose to include. Again, given that network
+analysis is a new methodology, there are no recommendations on
+how to choose appropriate symptoms to include in our models. We
+hope future researchers will consider this limitation and develop
+empirical recommendations for determining which symptoms to
+include. There are also currently no specific measures designed for
+use in EMA for network analysis, and therefore, we do not know the
+psychometric properties of the measure we used (although we did
+strive to utilize symptoms from existing, psychometrically strong mea-
+sures that have previously been utilized in EMA protocols; Mason
+et al., 2017). Additionally, there has been no work yet on the replica-
+bility of within-person networks. We also do not know if these find-
+ings will replicate in larger more diagnostically diverse samples, such
+as those that include a larger proportion of binge eating disorder
+and/or bulimia nervosa. Specifically, in regard to our intra-individual
+networks, we need additional data to establish if within-person net-
+works will replicate or if variations in networks are due to chance. Our
+results regarding the individual within-person networks should be
+considered with care, such that it is possible that the heterogeneity
+identified here could be due in part to instability in network struc-
+tures. Regardless, this data shows how to apply network heterogene-
+ity analyses to the eating disorders. We hope that future research will
+create stability indices to test the reliability of the networks. Finally,
+we should use caution when interpreting node centrality in these
+types of networks (Epskamp et al., 2017). We hope that future
+research will use psychometrically strong measures with large sample
+sizes and many measurement points to help elucidate strong conclu-
+sions to these questions.
+
+Future research on heterogeneity should continue to assess het-
+erogeneity using multiple types of models. For example, the Hierarchi-
+cal Taxonomy Of Psychopathology (HiTOP) model (e.g., Kotov et al.,
+2017), which conceptualizes mental disorders based on dimensional
+taxomonies, the Research Domain Criteria approach (e.g., Insel et al.,
+2010), which classifies mental disorders based on underlying dimen-
+sions across multiple levels of analysis, as well as latent network
+models, an emerging methodology that combines latent variable and
+network models. These methodologies hold promise for our under-
+standing of heterogeneity in psychopathology and we hypothesize
+that a combination of these methods will lead to the greatest
+
+breakthroughs.
+
+5 | CONCLUSIONS
+
+Despite these limitations, we think that both within- and between
+person network analysis and intraindividual network analysis holds
+
+significant promise for the ED field and the field of psychopathology
+
+QSUDOT'T SUOIIOD SATIVAI_D afqvordde oyi Aq pouIoAos ore sponse WO ‘asn Jo sapns Joy ATeIQr] uT[UG Aa[I AA UO (SUOTIPUOS-pue-sULIAy/WIOS Kopi Arerqipaurpuo//:sdyyy) SUOTIpUOD pu suLIay, ay) 99S *[PZ0Z/80/ZI] UO ATeIQYT OUTTUG AZILAA ‘ZO lund @HAOquiowl-<yaoqqrys> Aq ZS6ZZ'I89/ZOOI OL /lop/wios Aoyama’ Arerqipourpuo//:sdyy Wor peproyumog ‘TI ‘8107 ‘X801 8601
+ 1202 | Wa
+
+LEVINSON ET AL.
+
+ILEY EATING DISORDERS
+
+as a whole. The data presented here can be used for generating
+hypotheses for future larger scale research, as well as for how to use
+intraindividual network analyses in ED research. Using group-level
+between and within person and _ intraindividual network analysis
+allows us to, for the first time, identify how ED pathology maintains
+itself both between and within individuals and to identify targets for
+novel personalized treatment development. We now have a method
+that can be used to address the extreme heterogeneity within EDs
+and to develop and adapt treatments that can more clearly address
+
+this complex form of psychopathology.
+
+AUTHORSHIP
+
+C.A.L. developed the concept for the study, collected data, oversaw
+analyses, and wrote the manuscripts. I.V. and L.B. ran analyses,
+assisted with conceptualization, and assisted with manuscript
+
+preparation.
+
+ORCID
+Cheri A. Levinson © https://orcid.org/O000-0003-2359-5206
+
+REFERENCES
+
+Arbuthnott, A. E., Lewis, S. P., & Bailey, H. N. (2015). Rumination and emo-
+tions in nonsuicidal self-injury and eating disorder behaviors: A prelimi-
+nary test of the emotional Cascade model. Journal of Clinical
+Psychology, 71, 62-71.
+
+Asparouhov, T., Hamaker, E. L., & Muthén, B. (2018). Dynamic structural
+equation models. Structural Equation Modeling: A Multidisciplinary Jour-
+nal, 25(3), 359-388. https://doi.org/10.1080/10705511.2017.
+1406803
+
+Bardone-Cone, A. M., Harney, M. B., Maldonado, C. R., Lawson, M. A.,
+Robinson, D. P., Smith, R., & Tosh, A. (2010). Defining recovery from
+an eating disorder: Conceptualization, validation, and examination of
+psychosocial functioning and _ psychiatric comorbidity. Behaviour
+Research and Therapy, 48, 194-202.
+
+Borsboom, D. (2017). A network theory of mental disorders. World Psychi-
+atry, 16, 5-13.
+
+Borsboom, D., & Cramer, A. O. (2013). Network analysis: An integrative
+approach to the structure of psychopathology. Annual Review of Clinical
+Psychology, 9, 91-121.
+
+Borsboom, D., Cramer, A. O., Schmittmann, V. D., Epskamp, S., &
+Waldorp, L. J. (2011). The small world of psychopathology. PLoS One,
+6, e27407.
+
+Boschloo, L. van Borkulo, C. D., Rhemtulla, M., Keyes, K. M.,
+Borsboom, D., & Schoevers, R. A. (2015). The network structure of
+symptoms of the diagnostic and statistical manual of mental disorders.
+PLoS One, 10, e€0137621.
+
+Bringmann, L. F., Lemmens, L. H. J. M., Huibers, M. J. H., Borsboom, D., &
+Tuerlinckx, F. (2015). Revealing the dynamic network structure of the
+Beck depression inventory- Il. Psychological Medicine, 45, 747-757.
+
+Bringmann, L. F., Vissers, N., Wichers, M., Geschwind, N., Kuppens, P.,
+Peeters, F., ... Tuerlinckx, F. (2013). A network approach to psychopa-
+thology: New insights into clinical longitudinal data. PLoS One, 8,
+e60188.
+
+Butts, C. T. (2009). Revisiting the foundations of network analysis. Ameri-
+can Association for the Advancement of Science, 325(5939), 414-416.
+https://doi.org/10.1126/science.1171022
+
+Castellini, G., Montanelli, L., Faravelli, C., & Ricca, V. (2014). Eating disorder
+outpatients who do not respond to cognitive behavioral therapy: A
+follow-up study. Psychotherapy and Psychosomatics, 83, 125-127.
+
+Chernyak, Y., & Lowe, M. R. (2010). Motivations for dieting: Drive for thin-
+ness is different from drive for objective thinness. Journal of Abnormal
+Psychology, 119, 276-281.
+
+Dalley, S. E., & Buunk, A. P. (2011). The motivation to diet in young
+women: Fear is stronger than hope. European Journal of Social Psychol-
+ogy, 41, 672-680.
+
+Danielsen, Y. S., Rekkedal, G. A., Frostad, S., & Kessler, U. (2016). Effec-
+tiveness of enhanced cognitive behavioral therapy (CBT-E) in the treat-
+ment of anorexia nervosa: A prospective multidisciplinary study. BMC
+Psychiatry, 16, 342-356.
+
+David, S. J., Marshall, A. J., Evanovich, E. K., & Mumma, G. H. (2017).
+Intraindividual dynamic network analysis-implications for clinical
+assessment. Journal of Psychopathology and Behavioral Assessment,
+40, 1-14.
+
+Eddy, K. T., Dorer, D. J. Franko, D. L,  Tahilani, — K,,
+Thompson-Brenner, H., & Herzog, D. B. (2008). Diagnostic crossover
+in anorexia nervosa and bulimia nervosa: Implications for DSM-V.
+American Journal of Psychiatry, 165, 245-250.
+
+Epskamp, S., Borsboom, D., & Fried, E. |. (2017a). Estimating psychological
+networks and their accuracy: A tutorial paper. Behavior Research
+Methods, 50, 1-18.
+
+Epskamp, S., Cramer, A. O. J., Waldorp, L. J., Schmittmann, V. D., &
+Borsboom, D. (2012). Qgraph: Network visualizations of relationships
+in psychometric data. Journal of Statistical Software, 48, 1-18.
+
+Epskamp, S., Deserno, M. K., & Bringmann, L. F. (2017b). mIVAR:
+Multi-level vector autoregression [Computer software manual].
+(R package version 0.4).
+
+Epskamp, S., van Borkulo, C., Servaas, M. N., Isvoranu, A. M., Riese, H., &
+Cramer, A. (2017c). Personalized network modeling in psychopathol-
+ogy: The importance of contemporaneous and temporal connections.
+Available at: psyarxiv.com/jnprz.
+
+Epskamp, S., Waldorp, L. J., Mottus, R., & Borsboom, D. (2016). Discover-
+ing psychological dynamics: The Gaussian graphical model in
+cross-sectional and time-series data. arXiv preprint arXiv:1609.04156.
+
+Fairburn, C. G. (2008). Cognitive behavior therapy and eating disorders.
+New York, NY: Guilford Press.
+
+Fairburn, C. G., Bailey-Straebler, S., Basden, S., Doll, H. A., Jones, R.,
+Murphy, R., ... Cooper, Z. (2015). A transdiagnostic comparison of
+enhanced cognitive behaviour therapy (CBT-E) and interpersonal psy-
+chotherapy in the treatment of eating disorders. Behaviour Research
+and Therapy, 70, 64-71.
+
+Fairburn, C. G., & Cooper, Z. (2011). Eating disorders, DSM-5 and clinical
+reality. The British Journal of Psychiatry, 198, 8-10.
+
+Fairburn, C. G., Cooper, Z., & Shafran, R. (2003). Cognitive behaviour ther-
+apy for eating disorders: A “transdiagnostic” theory and treatment.
+Behaviour Research and Therapy, 41, 509-528.
+
+Fairburn, C. G., Shafran, R., & Cooper, Z. (1999). A cognitive behavioural
+theory of anorexia nervosa. Behaviour Research and Therapy, 37, 1-13.
+
+Fairweather-Schmidt, A. K., & Wade, T. D. (2014). DSM-5 eating disorders
+and other specified eating and feeding disorders: Is there a meaningful
+differentiation? International Journal of Eating Disorders, 47, 524-533.
+
+Fernandez, K. C., Fisher, A. J., & Chi, C. (2017). Development and initial
+implementation of the dynamic assessment treatment algorithm
+(DATA). PLoS One, 12, e€0178806.
+
+Fisher, A. J., Reeves, J. W., Lawyer, G., Medaglia, J. D., & Rubel, J. A.
+(2017). Exploring the idiographic dynamics of mood and anxiety via
+network analysis. Journal of Abnormal Psychology, 126, 1044-1056.
+
+Forbush, K. T., Hagan, K. E., Kite, B. A.. Chapa, D. A., Bohrer, B. K., &
+Gould, S. R. (2017). Understanding eating disorders within internalizing
+psychopathology: A novel transdiagnostic, hierarchical-dimensional
+model. Comprehensive Psychiatry, 79, 40-52.
+
+Forbush, K. T., Siew, C. S. Q., & Vitevitch, M. S. (2016). Application of net-
+work analysis to identify interactive systems of eating disorder psycho-
+pathology. Psychological Medicine, 46, 2667-2677.
+
+Fried, E. |., Epskamp, S., Nesse, R. M., Tuerlinckx, F., & Borsboom, D.
+(2016). What are “good” depression symptoms? Comparing the cen-
+trality of DSM and non-DSM symptoms of depression in a network
+analysis. Journal of Affective Disorders, 189, 314-320.
+
+Fried, E. |., van Borkulo, C. D., Cramer, A. O., Boschloo, L.,
+Schoevers, R. A., & Borsboom, D. (2017). Mental disorders as networks
+
+QSUDOT'T SUOIIOD SATIVAI_D afqvordde oyi Aq pouIoAos ore sponse WO ‘asn Jo sapns Joy ATeIQr] uT[UG Aa[I AA UO (SUOTIPUOS-pue-sULIAy/WIOS Kopi Arerqipaurpuo//:sdyyy) SUOTIpUOD pu suLIay, ay) 99S *[PZ0Z/80/ZI] UO ATeIQYT OUTTUG AZILAA ‘ZO lund @HAOquiowl-<yaoqqrys> Aq ZS6ZZ'I89/ZOOI OL /lop/wios Aoyama’ Arerqipourpuo//:sdyy Wor peproyumog ‘TI ‘8107 ‘X801 8601
+ LEVINSON €T AL.
+
+International Journal of | 1243
+
+of problems: A review of recent insights. Social Psychiatry and Psychiat-
+ric Epidemiology, 52, 1-10.
+
+Garner, D. M., Olmstead, M. P., & Polivy, J. (1983). Development and
+validation of a multidimensional eating disorder inventory for
+anorexia nervosa and bulimia. International Journal of Eating Disorders,
+2, 15-34.
+
+Garner, D. M., Vitousek, K. M., & Pike, K. M. (1997). Cognitive-behavioral
+therapy for anorexia nervosa. In D. M. Garner & E. Garfinkel (Eds.),
+Handbook of treatment for eating disorders (pp. 121-134). New York,
+NY: Guilford Press.
+
+Haan-Rietdijk, S., Voelkle, M. C., Keijsers, L., & Hamaker, E. L. (2017). Dis-
+crete- vs. continuous-time modeling of unequally spaced experience
+sampling method data. Frontiers in Psychology, 8, 1849. https://doi.
+org/10.3389/fpsyg.2017.01849
+
+Hamaker, E. L. (2012). Why researchers should think “within-person”: A
+paradigmatic rationale. In M. R. Mehl & T. S. Conner (Eds.), Handbook
+of research methods for studying daily life (pp. 43-61). New York, NY:
+Guilford Press.
+
+Insel, T. R. (2014). The NIMH research domain criteria (RDoC) project: Pre-
+cision medicine for psychiatry. American Journal of Psychiatry, 171,
+395-397.
+
+Insel, T., Cuthbert, B., Garvey, M., Heinssen, R., Pine, D. S., Quinn, K., ... &
+Wang, P. (2010). Research domain criteria (RDoC): Toward a new clas-
+sification framework for research on mental disorders.
+
+Kendler, K. S., Zachar, P., & Craver, C. (2011). What kinds of things are
+psychiatric disorders? Psychological Medicine, 41, 1143-1150.
+
+Klump, K. L., Bulik, C. M., Kaye, W. H., Treasure, J., & Tyson, E. (2009).
+Academy for eating disorders position paper: Eating disorders are seri-
+ous mental illnesses. International Journal of Eating Disorders, 42,
+97-103.
+
+Kotov, R., Krueger, R. F., Watson, D., Achenbach, T. M., Althoff, R. R.,
+Bagby, R. M., ... Eaton, N. R. (2017). The hierarchical taxonomy of psy-
+chopathology (HiTOP): A dimensional alternative to traditional nosol-
+ogies. Journal of Abnormal Psychology, 126(4), 454-477.
+
+Krug, |. Fuller-Tyszkiewicz, M., Micali, N.,  Anderluh, M.,
+Fernandez-Aranda, F., Tchanturia, K., ... Treasure, J. (2013). The corre-
+lates of diagnostic instability in eating disorders: The role of psychopa-
+thology, environmental risk factors, personality and genes. Journal of
+Eating Disorders, 1, O43.
+
+Levinson, C. A., Sala, M., Fewell, L., Brosof, L. C., Fournier, L., & Lenze, E. J.
+(2018). Meal and snack-time eating disorder cognitions predict eating
+disorder behaviors and vice versa in a treatment seeking sample: A
+mobile technology based ecological momentary assessment study..
+Behaviour research and therapy, 105, 36-42.
+
+Levinson, C. A., Zerwas, S., Calebs, B., Forbush, K., Kordy, H., Watson, H.,
+... Runfola, C. D. (2017). The core symptoms of bulimia nervosa, anxi-
+ety, and depression: A network analysis. Journal of Abnormal Psychol-
+ogy, 126, 340-354.
+
+Linardon, J., Fairburn, C. G., Fitzsimmons-Craft, E. E., Wilfley, D. E., &
+Brennan, L. (2017). The empirical status of the third-wave behaviour
+therapies for the treatment of eating disorders: A systematic review.
+Clinical Psychology Review, 58, 125-140.
+
+Luo, X., Donnellan, M. B., Burt, S. A., & Klump, K. L. (2016). The dimen-
+sional nature of eating pathology: Evidence from a direct comparison
+of categorical, dimensional, and hybrid models. Journal of Abnormal Psy-
+chology, 125, 715-726.
+
+Mason, T. B., Smith, K. E., Crosby, R. D., Wonderlich, S. A., Crow, S. J.,
+Engel, S. G., & Peterson, C. B. (2017). Does the eating disorder exami-
+nation questionnaire global subscale adequately predict eating disorder
+
+WILEY EATING DISORDERS
+
+psychopathology in the daily life of obese adults? Eating and Weight
+Disorders-Studies on Anorexia, Bulimia and Obesity, 1-6.
+
+McNally, R. J. (2016). Can network analysis transform psychopathology?
+Behaviour Research and Therapy, 86, 95-104.
+
+Meeus, W. (2016). Adolescent psychosocial development: A review of lon-
+gitudinal models and _ research. Developmental Psychology, 52,
+1969-1993.
+
+Murray, S. B., Loeb, K. L., & Le Grange, D. (2015). Moderators and mediators
+of treatments for youths with eating disorders. In M. Maric, P. M. Prins, &
+T. H. Ollendick (Eds.), Moderators and mediators of youth treatment out-
+comes (pp. 210-299). New York, NY: Oxford University Press.
+
+Nelson, B., McGorry, P. D., Wichers, M., Wigman, J. T., & Hartmann, J. A.
+(2017). Moving from static to dynamic models of the onset of mental
+disorder: A review. JAMA Psychiatry, 74, 528-534.
+
+Olatunji, B. O., Levinson, C., & Calebs, B. (2018). A network analysis of eat-
+ing disorder symptoms and characteristics in an inpatient sample. Psy-
+chiatry research, 262, 270-281.
+
+Selby, E. A., Anestis, M. D., & Joiner, T. E. (2008). Understanding the rela-
+tionship between emotional and behavioral dysregulation: Emotional
+cascades. Behaviour Research and Therapy, 46, 593-611.
+
+Stice, E. (2016). Interactive and mediational etiologic models of eating dis-
+order onset: Evidence from prospective studies. Annual Review of Clini-
+cal Psychology, 12, 359-381.
+
+Stice, E., Fisher, M., & Martinez, E. (2004). Eating disorder diagnostic scale:
+Additional evidence of reliability and validity. Psychological Assessment,
+16, 60-71.
+
+Stice, E., Marti, C. N., Shaw, H., & Jaconis, M. (2009). An 8-year longitudi-
+nal study of the natural history of threshold, subthreshold, and partial
+eating disorders from a community sample of adolescents. Journal of
+Abnormal Psychology, 118, 587-597.
+
+Stice, E., Telch, C. F., & Rizvi, S. L. (2000). Development and validation of the
+eating disorder diagnostic scale: A brief self-report measure of anorexia,
+bulimia, and binge-eating disorder. Psychological Assessment, 12, 123-131.
+
+Sysko, R., Hildebrandt, T., Wilson, G. T., Wilfley, D. E., & Agras, W. S.
+(2010). Heterogeneity moderates treatment response among patients
+with binge eating disorder. Journal of Consulting and Clinical Psychology,
+78, 681-690.
+
+Thomas, J. J., Vartanian, L. R., & Brownell, K. D. (2009). The relationship
+between eating disorder not otherwise specified (EDNOS) and offi-
+cially recognized eating disorders: Meta-analysis and implications for
+DSM. Psychological Bulletin, 135, 407-433.
+
+Tozzi, F., Thornton, L. M., Klump, K. L., Fichter, M. M., Halmi, K. A.,
+Kaplan, A. S., ... Rotondo, A. (2005). Symptom fluctuation in eating dis-
+orders: Correlates of diagnostic crossover. American Journal of Psychia-
+try, 162, 732-740.
+
+Wild, B., Eichler, M., Friederich, H.-C., Hartmann, M., Zipfel, S., &
+Herzog, W. (2010). A graphical vector autoregressive modelling
+approach to the analysis of electronic diary data. BMC Medical Research
+Methodology, 10, 28-41.
+
+How to cite this article: Levinson CA, Vanzhula |, Brosof LC.
+Longitudinal and personalized networks of eating disorder
+cognitions and behaviors: Targets for precision intervention a
+proof of concept study. Int J Eat Disord. 2018;51:1233-1243.
+https://doi.org/10.1002/eat.22952
+
+QSUDOT'T SUOIIOD SATIVAI_D afqvordde oyi Aq pouIoAos ore sponse WO ‘asn Jo sapns Joy ATeIQr] uT[UG Aa[I AA UO (SUOTIPUOS-pue-sULIAy/WIOS Kopi Arerqipaurpuo//:sdyyy) SUOTIpUOD pu suLIay, ay) 99S *[PZ0Z/80/ZI] UO ATeIQYT OUTTUG AZILAA ‘ZO lund @HAOquiowl-<yaoqqrys> Aq ZS6ZZ'I89/ZOOI OL /lop/wios Aoyama’ Arerqipourpuo//:sdyy Wor peproyumog ‘TI ‘8107 ‘X801 8601

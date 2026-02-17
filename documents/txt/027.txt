@@ -1,0 +1,1564 @@
+ResearchGate
+
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/274088396
+
+Exploring the underlying structure of mental disorders: Cross-diagnostic
+differences and similarities from a network perspective using both a top-
+down and a bottom-up approach
+
+Article in Psychological Medicine - March 2015
+
+DOI: 10.1017/S0033291715000331 - Source: PubMed
+
+CITATIONS READS
+168 1,122
+
+9 authors, including:
+
+Johanna Wigman ( Jim van Os
+University of Groningen ( University Medical Center Utrecht
+
+112 PUBLICATIONS 4,929 CITATIONS 1,621 PUBLICATIONS 145,420 CITATIONS
+SEE PROFILE SEE PROFILE
+- Denny Borsboom Klaas J Wardenaar
+University of Amsterdam University of Groningen
+349 PUBLICATIONS 50,161 CITATIONS 130 PUBLICATIONS 3,550 CITATIONS
+SEE PROFILE SEE PROFILE
+
+All content following this page was uploaded by Johanna Wigman on 16 April 2015.
+
+The user has requested enhancement of the downloaded file.
+ Psychological Medicine, Page 1 of 13. © Cambridge University Press 2015
+
+doi:10.1017/S0033291715000331
+
+ORIGINAL ARTICLE
+
+Exploring the underlying structure of mental
+disorders: cross-diagnostic differences and
+similarities from a network perspective using both a
+top-down and a bottom-up approach
+
+J. T. W. Wigman’*, J. van Os?”%, D. Borsboom’, K. J. Wardenaar’, S. Epskamp’*, A. Klippel’,
+8 p p pp
+MERGE“*t, W. Viechtbauer’, I. Myin-Germeys” and M. Wichers’”
+
+"Department of Psychiatry, University of Groningen, University Medical Center Groningen, Groningen, The Netherlands
+
+* Department of Psychiatry and Psychology, School of Mental Health and Neuroscience, Maastricht University Medical Center, Maastricht,
+
+The Netherlands
+
+> Department of Psychosis Studies, King’s College London, King’s Health Partners, Institute of Psychiatry, De Crespigny Park, London, UK
+
+* Department of Psychology, University of Amsterdam, Amsterdam, The Netherlands
+
+Background. It has been suggested that the structure of psychopathology is best described as a complex network of
+components that interact in dynamic ways. The goal of the present paper was to examine the concept of psychopathology
+from a network perspective, combining complementary top-down and bottom-up approaches using momentary assess-
+ment techniques.
+
+Method. A pooled Experience Sampling Method (ESM) dataset of three groups (individuals with a diagnosis of de-
+pression, psychotic disorder or no diagnosis) was used (pooled N=599). The top-down approach explored the network
+structure of mental states across different diagnostic categories. For this purpose, networks of five momentary mental
+states (‘cheerful’, ‘content’, ‘down’, ‘insecure’ and ‘suspicious’) were compared between the three groups. The comp-
+lementary bottom-up approach used principal component analysis to explore whether empirically derived network
+structures yield meaningful higher order clusters.
+
+Results. Individuals with a clinical diagnosis had more strongly connected moment-to-moment network structures, es-
+pecially the depressed group. This group also showed more interconnections specifically between positive and negative
+mental states than the psychotic group. In the bottom-up approach, all possible connections between mental states were
+clustered into seven main components that together captured the main characteristics of the network dynamics.
+
+Conclusions. Our combination of (i) comparing network structure of mental states across three diagnostically different
+groups and (ii) searching for trans-diagnostic network components across all pooled individuals showed that these two
+approaches yield different, complementary perspectives in the field of psychopathology. The network paradigm there-
+
+fore may be useful to map transdiagnostic processes.
+
+Received 22 April 2014; Revised 3 February 2015; Accepted 3 February 2015
+
+Key words: Depression, ESM, network approach, psychiatry, psychopathology, psychosis.
+
+Introduction
+
+Psychopathology is operationalized in diagnostic
+classification systems of mental disorders that serve
+clinical practice. However, it is increasingly accepted
+that the disorders in these systems should be seen as
+pragmatic, man-made constructs (Kendler et al. 2011;
+Frances & Widiger, 2012) that are fixed within time
+and within phenomenological boundaries. These con-
+structs are meant to guide clinical decision making
+
+* Address for correspondence: Dr J. T. W. Wigman, Maastricht
+University, Maastricht, The Netherlands.
+
+(Email: j.t-w.wigman@umcg.nl)
+
+t Members of MERGE are given in the Appendix.
+
+rather than represent true concepts underlying symp-
+tomatology. Psychopathology does not manifest itself
+in ‘natural types’, separated from a mentally healthy
+state or into different diagnostic entities by natural
+boundaries (Kendell & Jablensky, 2003). Rather, psy-
+chopathology may be conceptualized as varying
+dimensionally, extending from mild behavioral ex-
+pression of liability in the general population to full-
+blown clinical disorder (Kendler & Gardner, 1998;
+Carter et al. 2001; Krueger & Piasecki, 2002; Angst
+et al. 2003; Kendell & Jablensky, 2003; Widiger, 2005;
+Van Os et al. 2009; Haslam et al. 2011). High levels of
+co-morbidity and high within-diagnosis clinical hetero-
+geneity (Kupfer et al. 2002; Widiger, 2005; Widiger &
+Samuel, 2005; Hyman, 2010; Kendler et al. 2011) pose
+ 2 J. T. W. Wigman et al.
+
+an additional challenge to categorical classification
+systems.
+
+In addition to dichotomizing an essentially dimen-
+sional construct, current diagnostic systems also are
+based on a ‘snapshot’ approach in describing psycho-
+pathology (Bystritsky et al. 2012), meaning that they
+are based on current, cross-sectional assessments.
+Psychopathological symptoms, however, are not static,
+but wax and wane over time, and symptoms may
+‘emerge or morph’ into other symptoms over time
+within one individual (Bystritsky et al. 2012). Thus, cur-
+rent diagnostic labels do not do justice to the com-
+plexity of mental illness. These diagnoses, however,
+still play a dominant role in psychiatric research and,
+as such, may hamper scientific progress in psychiatry.
+
+To better understand psychopathology, a shift from a
+diagnosis-specific focus to a more trans-diagnostic focus,
+spanning multiple clinical syndromes, may be pro-
+ductive. A large body of research corroborates this no-
+tion by showing that factors of risk and resilience for
+psychopathology do not influence separate disorders,
+but commonly impact across diagnostic borders
+(Buckholtz & Meyer-Lindenberg, 2012). To date, no bio-
+logical markers have been identified that are uniquely
+associated with a specific disorder (Kupfer et al. 2002;
+Widiger & Samuel, 2005). Instead, genetic effects appear
+to be small and polygenic (Buckholtz & Meyer-
+Lindenberg, 2012), and do not adhere to traditional
+diagnostic boundaries (Kendell & Jablensky, 2003).
+Likewise, endophenotypes such as cognitive alterations
+also occur in multiple disorders rather than showing
+disorder-specific associations (Weiser et al. 2005; Hill
+et al. 2009; Buckholtz & Meyer-Lindenberg, 2012).
+Additionally, many demographic and environmental
+risk factors for psychopathology such as rumination or
+the experience of stress increase risk for all diagnoses
+(Kessler et al. 1985; Breetvelt et al. 2010; Kessler et al.
+2010). To better understand the structure and develop-
+ment of psychopathology, it is important to explore
+methods revealing underlying patterns of behavior
+and experience, yielding quantitative rather than quali-
+tative differences within and between individuals with
+different clinical syndromes.
+
+The model that underlies the current diagnostic system
+is one in which psychopathological symptoms are seen as
+flowing from (i.e. caused by) underlying constructs. For
+example, depressive symptoms such as sleep problems,
+concentration problems and anhedonia are thought to
+be all caused by one underlying construct, i.e. depression
+(Borsboom & Cramer, 2013). However, this model may
+not be the best model to capture the nature of psychopath-
+ology. One important drawback of this model is that it
+does not assume associations between the individual
+symptoms, whereas this does seem plausible (e.g. sleep
+problems leading directly to concentration problems
+
+(Borsboom et al. 2011). It has been suggested that the
+structure of psychopathology may be better described
+as a complex network of components that interact in dy-
+namic and nonlinear ways both at biological (Buckholtz
+& Meyer-Lindenberg, 2012) and psychological (Kendler
+et al. 2011) levels. A network representation of psycho-
+pathology at the symptom level proposes that mental
+states (referring to psychopathological symptoms, or to
+psychological strengths, such as positive affect or resili-
+ence) act as nodes in a network which, when activated,
+may trigger other mental states (Kendler et al. 2011;
+Borsboom & Cramer, 2013). The associations are not
+necessarily linear, but can be reciprocal and/or (self-)en-
+hancing, creating feedback loops in which, for example,
+worrying may cause someone to feel more anxious,
+which in turn, may cause this person to feel more
+down, which may temper feelings of cheerfulness. This
+approach to psychopathology may be useful to capture
+all relevant symptoms, irrespective of diagnosis, circum-
+with diagnostic
+co-morbidity. The strength of the causal connections be-
+
+venting issues boundaries and
+tween various mental states may differ between indivi-
+duals. When several nodes keep reinforcing each other
+over time, vicious cycles can arise, from which it may be
+difficult to escape (Borsboom & Cramer, 2013; Wichers,
+2014). Increased connectivity between mental states
+may be the force driving onset of mental disorder
+(Kendler et al. 2011). Due to feedback loops and increased
+network connectivity, an individual may enter a down-
+ward spiral and over time develop a cluster of clinically
+relevant symptoms.
+
+These ideas need empirical exploration, zooming in
+on the details of mental experience. This can be done
+by the use of momentary assessment techniques. The
+strength of a momentary approach is that it allows
+examination of the moment-to-moment experience
+(and fluctuation) of current mental states and their inter-
+connections (Wichers, 2014). The goal of the present
+paper was to examine the concept of psychopathology
+from a network perspective, combining two approaches.
+First, we took a top-down approach by comparing the
+network structure of mental states across different diag-
+nostic categories. For this purpose, networks of momen-
+tary mental states were compared between individuals
+with a diagnosis of depression, a diagnosis of psychotic
+disorder or no diagnosis. Based on previous work, we
+hypothesized that the networks of individuals with a di-
+agnosis would have more and/or stronger connectivity
+between mental states over time within and between
+mental states compared to those of healthy individuals
+(Wigman et al. 2013b). We also expected differences be-
+tween networks of individuals with different diagnoses,
+each group showing more activation in the nodes that
+cover the symptom domains of their respective diagnos-
+tic categories (e.g. a more prominent role for feeling
+ Exploring the underlying structure of mental disorders 3
+
+Table 1. Overview of the pooled ESM studies, participant status and references to original study descriptions
+
+General status Study N Original status Reference
+Healthy comparison DEUTSCH 26 Controls Van der Steen et al. (in preparation)
+subjects MAPS 49 Myin-Germeys et al. (2001)
+GROUP 83 Collip et al. (2011), Lataster et al.
+(2013)
+STRIP 49 Collip et al. (in preparation)
+Depression Mind 129 Depression in past, current mild Geschwind et al. (2011)
+Maastricht symptoms
+Psychosis Abilify 19 Psychosis Lataster et al. (2011)
+MACS 18 Bak et al. (2009)
+Myin-Germeys et al. (2001)
+MAPS 43 Collip et al. (2011), Lataster et al.
+(2013)
+GROUP 66 Collip et al. (in preparation)
+STRIP 42 Thewissen et al. (2008)
+ZAPP 75
+
+down in patients with depression). However, we also
+expected partial overlap in network activation patterns
+between the different diagnoses, given known high
+levels of co-morbidity (Kessler et al. 2005; Kessler &
+Wang, 2008). Second, to take a different, complementary
+look at mental state dynamics, we used a bottom-up,
+data-driven approach to explore whether meaningful,
+empirically derived clusters of network components
+could be identified to effectively describe the variability
+in network structure across individuals of all groups
+taken together. We expected that similar mental state
+dynamics (e.g. associations between feelings of insecur-
+ity and feeling down) would cluster together. Last, to
+bring these two complementary approaches together,
+we compared the scores of these clusters across the
+three original diagnostic groups.
+
+Method
+Samples
+
+Data came from eight studies (Table 1) that used
+the Experience Sampling Method (ESM) protocol as
+described below, and were pooled for the current
+analyses. Individuals participating in these studies
+represented different diagnostic groups and were clas-
+sified as follows (i) healthy subjects, (ii) individuals
+with a past diagnosis of depression and current mild
+depression and (iii) individuals with a psychotic dis-
+order. More detailed information on the separate sam-
+ples can be found in online Supplementary Table S1.
+
+ESM
+
+ESM is a structured diary technique that addresses the
+daily living environment of participants and _ its
+
+interactions with the individual. Detailed information
+on ESM can be found elsewhere (Myin-Germeys et al.
+2009; Wichers et al. 2011). Briefly, participants received
+that a beep
+quasi-random moments 10 times a day for five
+
+a wristwatch emitted signal at
+(Abilify study) or six (other studies) consecutive
+days. After each beep, participants were asked to com-
+plete a self-assessment diary, thus collecting reports of
+thoughts, affect, current context, and appraisals of the
+current situation. Adjectives of affect were rated on
+7-point Likert scales ranging from 1 (‘not at all’) to 7
+(‘very’). The following five items that were present in
+all samples were used: ‘cheerful’, ‘insecure’, ‘content’,
+‘down’ and ‘suspicious’. Questions were phrased as:
+‘At this moment I feel (e.g. down)’.
+
+Analyses
+
+Analyses were performed using Stata v. 12.1
+(StataCorp, USA). Visualizations of networks were
+done in R (qgraph package; Epskamp et al. 2011).
+ESM data have a hierarchical structure with multiple
+observations nested within individuals. Given that hi-
+erarchical clustering induces violation of the assump-
+tion of independence of observations, data were
+analyzed using multilevel mixed-effects regression
+models, adding random intercepts and random slopes
+to the model at the second (individual) level. The Stata
+XTMIXED routine was used to accommodate the two
+levels of hierarchical clustering, yielding non-
+standardized regression coefficients. The covariance
+structure of the random intercepts and the random ef-
+fects of the time component (‘beep’) was specified to be
+unstructured; the covariance structure of the random
+effects of the lagged momentary affect variables
+
+(see below) was specified as independent.
+ 4 J. T. W. Wigman et al.
+
+First, we took a top-down approach to explore the hy-
+pothesis that the three different groups have different
+networks of momentary mental states. To this end, we
+estimated mental state networks for each of the three
+groups separately and compared these, based on the
+method described in Bringmann et al. (2013). In particu-
+lar, the impact of the five mental states on each other
+over time was examined using time-lagged variables in
+the multilevel regression models: all mental states at t
+were predicted by all other mental states at t—1 and by
+a ‘time’ variable (the latter controlling for time effects).
+For example, ‘cheerful’ at t was predicted by ‘cheerful’
+at t—1, ‘insecure’ at t—1, ‘content’ at t-1, ‘down’ at t—1
+and ‘suspicious’ at t—1. The same was done for the
+four other mental states. Each of these analyses was per-
+formed separately, resulting in five separate analyses.
+This procedure was repeated for the three different sub-
+samples. In this way, a network of momentary mental
+states was created for each diagnostic group separately.
+Networks were constructed based on the fixed-effects
+coefficients from the lagged predictors, resulting in a
+weighted and directed network that also allows for self-
+loops (e.g. ‘content’ at t—1 predicting ‘content’ at ft).
+
+To compare the networks of the three groups, several
+network characteristics were assessed, in the form of five
+centrality indices (parameters that indicate how central
+the position of a node is in the total network; Opsahl et al.
+2010; Epskamp et al. 2011). First, node strength was calcu-
+lated: the sum of the absolute weights of all (incoming
+and outgoing) connections that are incident in that
+node. This is one index of importance of a specific symp-
+tom: The higher the node strength, the more central is its
+position in the network. Second, outward degree was cal-
+culated as the sum of all outgoing connections. The
+higher this value is, the more this specific node
+influences other nodes. Third, inward degree was calcu-
+lated as the sum of all incoming connections. The higher
+this value is, the more this specific node is influenced by
+other nodes. Fourth, closeness was calculated for each
+node, based on the inverse sum of shortest distances to
+all other nodes. An important node in the network
+will have high closeness, by being ‘close’ and thus
+being able to communicate quickly with other nodes.
+Last, betweenness refers to the degree to which a node
+lies on the shortest path between two other nodes
+(Opsahl et al. 2010; Epskamp et al. 2011). The higher
+this value, the higher is the proportion of paths between
+other nodes in the network that this specific node is posi-
+tioned on. All centrality indices were calculated based
+on absolute values of the significant pathways. These in-
+dices are used to describe multiple aspects of the con-
+nectedness of a network. Comparison of the indices
+over the three groups was done descriptively.
+
+For the complementary bottom-up approach, we
+pooled data of the three diagnostic groups. Next, we
+
+derived the network connection strengths as described
+above using time-lagged multilevel analyses, but now
+for each individual separately in the pooled dataset con-
+taining all individuals and looked for meaningful clus-
+tering of these individual coefficients. So, for each
+individual separately 25 (5 <5) new variables were cal-
+culated (i.e. five mental states, each predicted by the
+lagged versions of the same five mental states). A first
+obvious step for bottom-up, empirically-based clustering
+would be to cluster individuals based on their complete
+networks (i.e. at the person level). However, doing this
+would again imply that individuals can be segregated
+into distinct psychopathological groups, although this
+time on an empirical basis. We chose another approach
+that seemed more plausible and that would allow mod-
+eling of more heterogeneity and gradual differences in
+symptomatology between individuals: we hypothesized
+that network components (i.e. certain network connec-
+tions) may cluster together. Using this strategy, data-
+reduction techniques might yield several ‘network
+components’ on which individuals and/or groups can
+show quantitative differences. We therefore conducted
+a principal component analysis (PCA) based on the 25
+variables derived from the individual analyses described
+above. First, a parallel analysis was used to determine
+how many principal components should be extracted
+from the data (see O’Connor, 2000 for additional infor-
+mation). Parallel analysis is a technique that helps to de-
+termine the optimal number of factors to retain in PCA.
+A PCA was then performed with the number of factors
+to extract based on the results of the parallel analysis,
+using an oblique promax rotation (assuming correlated
+components). These components were then interpreted.
+In this way, we were able to reduce the full palette of
+all possible network connection strengths per individual
+to a smaller number of network components. Finally,
+component scores were estimated for each individual
+and the original three groups (diagnosis of depression,
+psychotic disorder or no diagnosis) were compared on
+their group-average component scores.
+
+Ethical standards
+
+The authors assert that all procedures contributing to
+this work comply with the ethical standards of the rel-
+evant national and institutional committees on human
+experimentation and with the Helsinki Declaration of
+1975, as revised in 2008.
+
+Results
+Descriptions of the samples
+
+Characteristics of the different samples are presented
+in Table 2. The three groups differed significantly on
+ Table 2. Descriptions of different samples
+
+Exploring the underlying structure of mental disorders 5
+
+Healthy comparison subjects
+
+Patients with depression Patients with psychosis
+
+N 207
+Mean age (S.D.) 34.3 (11.6)
+Range 16-64
+Gender
+
+Male (%) 98 (48%)
+
+Female (%) 108 (52%) (1 subject missing data)
+Mean (s.D.) level of mental states
+
+Cheerful 5.0 (1.3)
+Insecure 1.3 (0.8)
+Content 5.2 (1.3)
+Down 1.3 (0.8)
+Suspicious 1.1 (0.5)
+
+129 263
+44.1 (9.3) 35.5 (11.0)
+19-65 17-64
+
+31 (24%) 179 (68%)
+98 (76%) 84 (32%)
+3.9 (1.6) 4.3 (1.6)
+2.7 (1.7) 2.0 (1.5)
+4.1 (1.5) 4.5 (1.7)
+2.5 (1.6) 1.9 (1.4)
+1.7 (1.3) 1.7 (1.3)
+
+mean scores of all five mental states (all p<0.05).
+Healthy comparison subjects reported the highest
+levels of ‘positive’ momentary mental states (‘cheerful’,
+‘content’) and the lowest levels of the ‘negative’ mo-
+mentary mental states (‘down’, ‘insecure’, ‘“sus-
+picious’). Individuals with depression reported the
+opposite. Mean momentary mental state levels of indi-
+viduals with psychosis were intermediate to those of
+controls and individuals with depression for both posi-
+tive and negative mental states, with the exception that
+they reported similar mean levels of ‘suspicious’ as
+individuals with depression. The correlations of all
+mental states were moderate to substantial, ranging
+
+between 0.47 and 0.83.
+
+Top-down approach: comparing networks of mental
+states over the three groups
+
+In online Supplementary Table 52, all associations be-
+tween the five mental states are listed for, respectively,
+healthy comparison subjects, individuals with de-
+pression, and individuals with psychosis. Fig. 1 dis-
+plays these mental state networks of the three
+different groups visually. Comparison of the networks
+of mental states over the three groups showed that
+healthy comparison subjects have fewest inter-mental
+state connections. Positive mental states play an im-
+portant role in this group: a positive loop between
+‘cheerful’ and ‘content’ is present; also, feeling more
+‘cheerful’ and ‘content’ leads to feeling less ‘down’
+and less ‘insecure’. The mental state network of indivi-
+duals with psychotic disorder showed an intermediate
+number of significant interconnections compared to
+the other two groups. There were some similarities be-
+tween the networks of individuals with depression and
+individuals with a psychotic disorder. In both, a strong
+(positive) loop between the three negative mental
+
+states was present. The main difference between
+these networks was that in patients with depression,
+many connections were present between positive and
+negative emotions, which were almost absent in
+patients with psychotic disorder. This is also an inter-
+esting difference between the comparison subjects
+and the individuals with psychosis: in the first group,
+there are connections between the positive and nega-
+tive mental states that are less clear in the last group.
+In the individuals with psychosis, positive mental
+states and negative mental states seem to form two
+more or less separate loops.
+
+Table 3 shows the centrality indices for the three
+groups. Connectedness was higher in the group with
+depressed patients than in the other two groups as
+indicated by higher values of node strength and by
+the fact that the mental states had a higher degree of
+inward and outward degree than the other two
+groups. The mental states ‘cheerful’ and ‘down’ ap-
+peared to play a central role in individuals with de-
+pression, since in this group these states showed
+shorter path lengths in their connections to other men-
+tal states compared to other nodes (and to the other
+groups) as indicated by the closeness index. With re-
+gard to node strength, it is interesting to see that the
+individuals with depression always have the highest
+node strength, but that individuals with psychosis
+have the lowest node strength for the positive mental
+stats and the controls have the lowest node strength
+for the negative mental states. Finally, healthy com-
+parison subjects differed from the groups with mental
+disorder in particular on the inward and outward de-
+gree of the negative mental states: compared to the
+two patients groups, the comparison subjects dis-
+played less connections coming from or going to nega-
+tive mental states. With regard to the positive mental
+states, the three groups were comparable.
+ 6 J. T. W. Wigman et al.
+
+Healthy comparison
+subjects
+
+\ Sus |
+
+—
+
+Individuals with
+
+psychosis ts
+<
+0. Ger) Set:
+
+A aw.
+0.17" | “0.14
+
+ra ins = insecure
+
+chrt = cheerful
+
+con = content
+dwn = down
+
+SUS = suspicious
+
+Individuals with
+depression
+
+eit —~<0,11 /
+005. 0.05
+/0.05,
+
+70.05_
+
+won, ns a,
+o2- 4 “TL25
+
+Fig. 1. Different networks of momentary mental states in healthy comparison subjects, individuals with depression and
+
+individuals with psychosis. In this figure, the arrows represent associations over time: for example, in the network of healthy
+
+controls, there is an arrow from ‘content’ to ‘cheerful’, meaning that there is an association from ‘content’ at t—1 to ‘cheerful’
+
+at t. Green arrows represent positive associations and red arrows represent negative associations. The fading of the lines
+
+represents the strength of the association: the more solid the line, the stronger the association (and vice versa). For all path
+
+coefficients and their significance, please refer to online Supplementary Table S1.
+
+Bottom-up approach: exploring and comparing the
+components underlying network associations
+
+Parallel analysis suggested that the coefficients (i.e.
+network connection strengths) derived from the indi-
+vidual analyses could be reduced to seven components
+(Fig. 2). This means that all information that is found in
+all individual associations can be reduced to seven
+clusters. The loadings represent the relationship be-
+tween the respective component and the original as-
+sociation (e.g. between ‘cheerful’ at t-1 and ‘down’
+at t). The distribution of the coefficients’ loadings
+over the seven principal components and the interpret-
+ation of these components are shown in Table 4. For
+each element, all loadings are shown. When loadings
+are in bold listed underneath a certain PC, this
+means that particular element is assigned to that
+particular PC. Associations that loaded on principal
+
+component (PC) 1 all started with a positive mental
+state at t—1. Therefore, this component was interpreted
+to reflect the ‘impact of positive mental states’. This PC
+was less straightforward in its interpretation than the
+other PCs. For example, the association between
+‘cheerful’ at t—1 and ‘cheerful’ at t loaded negatively
+on this PC, where the association between ‘content’
+at t—-1 and ‘content’ at t loaded positively on it. It is
+not completely clear why this PC is more complicated
+in its loading patterns. One possible explanation is that
+this component is the most general component, tap-
+ping also into the other PCs, as the associations that
+load highest on this PC also have quite high loadings
+on other PCs. This is less the case with other PCs,
+where the discrepancy between the highest loading
+and the lower loadings is much larger. Associations
+of ‘down’ at t—1 with other mental states at t all loaded
+on PC2 and thus suggests that this component reflects
+ Exploring the underlying structure of mental disorders 7
+
+Table 3. Centrality indices of the mental state networks of the three groups
+
+Cheerful Content Insecure Down Suspicious
+Controls
+Inward degree 0.13 0.20 0.10 0.07 0.05
+Outward degree 0.17 0.13 0.06 0.10 0.09
+Closeness 0.007 0.006 0.003 0.005 0.006
+Betweenness 3 6 3 0 0
+Node strength 0.51 0.48 0.27 0.32 0.21
+Patients with psychosis
+Inward degree 0.11 0.13 0.18 0.16 0.09
+Outward degree 0.13 0.10 0.11 0.21 0.12
+Closeness 0.006 0.007 0.007 0.010 0.007
+Betweenness 0 3 0 8 0
+Node strength 0.44 0.38 0.43 0.54 0.34
+Patients with depression
+Inward degree 0.18 0.28 0.21 0.27 0.10
+Outward degree 0.34 0.10 0.22 0.24 0.14
+Closeness 0.016 0.009 0.012 0.013 0.008
+Betweenness 3 0 1 6 0
+Node strength 0.80 0.52 0.68 0.72 0.38
+Paaatnaia and negative associations between ‘cheerful’ at t—1
+Pa and negative mental states at t, all loaded on PC4.
+This component was interpreted as representing the
+differential impact of ‘active v. passive positive feel-
+=e ings’. Associations of ‘insecure’ at t—1 with other men-
+EI tal states at t loaded on PC5, representing a ‘negative
+5 impact of feeling insecure’ component. Since PC6 cap-
+aie g7~<s5555 tured associations from only connections between
+Notte negative mental states, we interpreted this component
+one as ‘negative mood reactivity’. PC7 captured only two
+0+ associations, both reflecting positive associations be-
+0 5 10 15 20 25
+
+Component
+
+Fig. 2. The number of components as suggested by regular
+principal component analysis (PCA) and parallel analysis.
+The last number of components suggested by the regular
+PCA that is higher than the number of component
+suggested by parallel analysis, is suggested to be the best
+number of components to retain. In this case, the first seven
+components suggested by PCA have higher eigenvalues
+than the first seven components suggested by the parallel
+analysis. However, the eigenvalue of the eighth component
+suggested by regular PCA is lower than the eigenvalue of
+the eighth component suggested by parallel analysis. Thus,
+a solution with seven components is suggested to be the
+best solution.
+
+a ‘negative impact of feeling down’ on other mental
+states. PC3 was interpreted as representing ‘positive
+impact of suspicion’, since this component involved
+associations showing a favorable impact of suspicion
+on subsequent mental states. Positive associations be-
+tween ‘content’ at t—1 and negative mental states at t
+
+tween negative moods and originating from ‘sus-
+picion’ at t—1. This component was thus interpreted
+as reflecting ‘negative impact of suspicion’. Together,
+these seven components represented seven core com-
+ponents of the networks between these specific five
+mental states, estimated at the individual level and
+over time.
+
+Fig. 3 shows mean component scores plotted across
+the three groups. Some interesting patterns can be
+seen. First, there are two components involving sus-
+picion, one with positive and one with negative impact
+of suspicion. This suggests that suspicion can also
+have a ‘healthy’ function, as long as it does not
+persist or leads to subsequent negative mental states.
+Individuals with psychosis score higher on both these
+components, suggesting that they are more sensitive
+to the (positive as well as negative) effects of suspicion,
+but that it is mainly the negative effects of suspicion
+that define them as a group with psychotic disorder,
+distinguishing them from both the healthy comparison
+and the depression groups. Moreover, both groups
+ Table 4. The 25 elements that are distributed over the seven components represent the network connection strengths that appear to cluster together (per component) in the total sample of participants. Thus, for
+
+example lower connection strength between down;_1 and cheerful (PC2, connection 1) tends to co-occur with higher connection strength between down,_; and down (PC2, connection 3)
+
+Interpretation of PC
+
+PCI
+
+Impact of
+positive affect
+
+PC2
+
+Impact of
+feeling down
+
+PC3
+Positive
+
+impact of suspicion
+
+PC4
+
+Active v. passive
+positive feelings
+
+PC5
+
+Impact of
+feeling insecure
+
+PC6
+
+Negative
+mood reactivity
+
+PC7
+
+Negative
+impact of suspicion
+
+Cheerful,_; — cheerful,
+Content,;_; — down;
+Cheerful;_; — content;
+Content;_; — cheerful;
+Content;_, — content,
+Cheerful, 1 — down;
+Down,_,1 — cheerful;
+Down,_; — content;
+Down,_1 — down;
+Down,_1 — suspicious;
+Suspicious;_; — down,
+Suspicious;_; — cheerful;
+Suspicious;_; — content;
+Content;_1 — suspicious;
+Content;_; — insecure;
+Cheerful;_; — suspicious;
+Cheerful;_; — insecure;
+Insecure;_; — cheerful,
+Insecure;_; — content;
+Insecure;_; — down;
+Down,_; — insecure;
+Insecure;_; — insecure;
+Insecure;_; — suspicious;
+Suspicious;_; — insecure;
+Suspicious;_; — suspicious;
+
+—0.378
+—0.320
+—0.368
+0.483
+0.527
+0.230
+0.039
+0.093
+—0.042
+0.043
+0.020
+0.012
+—0.010
+0.069
+—0.152
+—0.100
+0.040
+—0.013
+0.054
+0.007
+0.037
+—0.055
+0.092
+—0.109
+—0.069
+
+—0.151
+0.137
+—0.147
+—0.135
+—0.120
+0.117
+—0.480
+—0.510
+0.466
+0.250
+—0.037
+—0.022
+0.059
+0.099
+0.088
+0.021
+0.092
+0.135
+0.060
+—0.056
+0.314
+0.039
+0.052
+—0.092
+—0.075
+
+0.010
+0.016
+0.006
+—0.019
+0.037
+—0.056
+0.039
+—0.083
+0.052
+—0.076
+—0.488
+0.543
+0.564
+—0.027
+—0.118
+—0.051
+0.038
+—0.071
+—0.001
+—0.022
+0.010
+0.233
+—0.078
+—0.306
+0.132
+
+0.068
+—0.105
+0.020
+—0.063
+—0.103
+0.201
+0.057
+—0.023
+0.004
+0.123
+—0.061
+—0.032
+—0.018
+—0.542
+—0.258
+0.604
+0.380
+0.002
+—0.002
+0.022
+—0.078
+0.122
+—0.135
+0.081
+—0.086
+
+—0.075
+0.012
+—0.020
+—0.021
+—0.067
+0.047
+0.158
+0.139
+—0.004
+0.168
+—0.032
+0.115
+—0.046
+0.019
+0.148
+0.042
+—0.040
+—0.598
+—0.588
+0.387
+0.129
+0.209
+0.059
+0.006
+0.082
+
+0.013
+0.219
+—0.179
+—0.085
+0.107
+—0.129
+—0.109
+0.017
+—0.067
+—0.226
+0.070
+—0.078
+0.021
+0.106
+—0.154
+—0.003
+0.170
+0.017
+—0.104
+0.256
+—0.403
+0.474
+0.559
+—0.010
+—0.169
+
+—0.217
+0.030
+—0.162
+—0.155
+—0.178
+0.075
+0.013
+0.041
+0.121
+—0.194
+0.178
+0.210
+0.127
+0.167
+0.033
+—0.028
+0.249
+—0.117
+—0.040
+—0.058
+—0.022
+—0.172
+—0.188
+0.400
+0.690
+
+PC, Principal component.
+
+‘1D ja WUIM “ML [ 8
+ 0.3
+
+0.2
+
+0.1
+
+‘ == \
+PC1 C2 PC3 aa PCS
+
+1 FF |
+PCE PCY
+
+-0.2
+
+-0.3
+
+Exploring the underlying structure of mental disorders 9
+
+= = (Controls
+
+Depression
+
+Psychosis
+
+Fig. 3. Mean component scores for the three groups. Only the difference on PC5 is significant (p<0.05). PC1: Impact of
+
+positive affect. PC2: Impact of feeling down. PC3: Positive impact of suspicion. PC4: Active v. passive positive feelings. PCS:
+
+Impact of feeling insecure, PC6: Negative mood reactivity. PC7: Negative impact of suspicion.
+
+with a psychiatric diagnosis score higher on the ‘im-
+pact of insecure’ component than the healthy compar-
+isons, suggesting that this is a general component of
+mental illness that might be present across multiple
+psychopathological Last,
+with depression not only score lowest on both positive
+and negative impact of suspicion, but they also score
+lowest on the component ‘impact of positive feelings’.
+This may reflect (and perhaps partly explain) why
+this group reports depressive, and not psychotic,
+symptomatology.
+
+Thus, the associations of the mental state networks
+
+dimensions. individuals
+
+cluster together in several components, that can vary
+between individuals and/or groups, sometimes differ-
+entiating between healthy controls v. patients, some-
+times between patients with different disorders,
+sometimes between controls and individuals with
+one disorder together v. individuals with another dis-
+order and sometimes between all three groups.
+
+Discussion
+
+We investigated the structure of psychopathology from
+a dynamic network approach, showing how momen-
+tary assessment techniques can be used to expose the
+underlying micro-structure of psychopathology. The
+hypothesis that individuals with a clinical diagnosis
+had more strongly connected mental state network
+structures was confirmed. They showed stronger men-
+tal state cross-reactivity and persisting of affect over
+time. This finding was most robust for the depressed
+eroup. Furthermore, networks of individuals with a
+psychiatric diagnosis contained loops which may
+catch individuals into a downward spiral of negative
+mental states. There were also differences between
+the two diagnostic groups: the depressed group
+
+showed more interconnections between positive and
+negative mental states than the psychotic group.
+
+This top-down approach was followed by a comp-
+lementary bottom-up approach in which we derived
+components of psychopathology based on a clustering
+of the empirically derived network structures: all poss-
+ible connections over time between the five mental
+states (‘cheerful’, ‘content’, ‘down’, ‘insecure’ and ‘sus-
+picious’) were clustered into seven main components
+that together captured the main characteristics of the
+network dynamics. These components involved (i)
+the impact that specific states or groups of mental
+states have in the network, (ii) dynamics between
+negative and positive states, or active and passive
+states, and (iii) reactivity between negative mental
+states. Associations between these empirically derived
+components and the diagnostic groups as defined by
+current classification systems showed that these two
+approaches yield different, complementing perspec-
+tives in the field of psychopathology.
+
+A network approach to psychopathology
+
+Some interesting features were found in the networks
+of different diagnostic groups in the top-down ap-
+proach. In all three groups, a positive loop between
+feeling ‘cheerful’ and ‘content’ was present. Of interest
+here is that this loop was the strongest in the depressed
+group, which seems unexpected; also, in individuals
+with psychosis, this loop seemed more ‘disconnected’
+from the network of negative mental states. This sug-
+gests that positive mental states play a central role in
+all human mental processes, i.e. in both healthy and
+more pathological states. The mental state network of
+individuals with psychosis was dominated by two
+loops: a positive loop between ‘cheerful’ and ‘content’,
+ 10 J. T. W. Wigman et al.
+
+which was similar as the one in the healthy compari-
+son group, and another loop that involved reinforcing
+effects between the three negative mental states. The
+two loops are connected by the negative impact of feel-
+ing ‘content’ on feeling ‘down’. Once an individual
+ends up in the negative loop, negative mental states
+keep reinforcing each other. In the depressed group,
+a similar negative loop between the three negative
+mental states was found. In this group, however, nega-
+tive loops also existed between ‘cheerful’ and ‘down’
+and ‘cheerful’ and ‘insecure’, which were absent in
+psychosis. In other words, negative mental states not
+only reinforced each other but also impacted nega-
+tively on the active positive state of feeling ‘cheerful’
+in depressed individuals. Less cheerfulness in turn
+fueled the negative mental state loop. Also, in the de-
+pressed group, negative mental states decreased ‘con-
+tent’, whereas in the controls the opposite occurred:
+‘content’ reduced feeling ‘insecure’ and ‘down’. Thus,
+network dynamics may explain why some individuals
+end up depressed whilst others do not. Some indivi-
+duals have a structure in which negative mental states
+not only tend to accumulate but in which negative
+states, additionally, suppress positive emotional states.
+The fact that the latter was absent in the psychosis
+group may explain why this group, although experi-
+encing negative mental states, was not primarily
+labeled with a mood disorder.
+
+The network approach shows how both quantitative
+(e.g. the same association in two groups, but different
+in strength) and qualitative differences (e.g. presence of
+a certain association in one group but its absence in
+another) between individuals together influence vul-
+nerability for developing certain psychopathological
+states. Transfer between (in particular negative) mental
+states is less strong (quantitative differences) in healthy
+individuals compared to individuals with higher levels
+of psychopathology, which is in line with earlier work
+(Wigman et al. 20132). But also the specific connections
+and combinations of loops (qualitative differences)
+appear important in specifying the kind of psycho-
+pathology an individual may develop.
+
+Traditional momentary assessment analyses show
+each of the effects separately. Using a network ap-
+proach, we tried to bring these effects together. It
+shows the inherent complexity of interconnections of
+mental states and how certain parts of a system can
+influence the total system (Wichers, 2014). The princi-
+ples of dynamic system theory may be applied to the
+development of psychopathological states in terms of
+changes in network connectivity (Borsboom &
+Cramer, 2013; Van de Leemput et al. 2013). Slow quan-
+titative increases in network connections may reach a
+threshold at which a sudden qualitative change occurs.
+We can illustrate this with an example — based on the
+
+psychosis network structure (Fig. 1) — in which the
+negative connection between feeling ‘content’ and
+‘down’ would slowly increase in a hypothetical individ-
+ual. At first, this person is healthy, experiencing few
+negative mental states. When this person experiences
+a major stressor, this can strongly reduce the person’s
+contentment, which in turn can trigger a large enough
+increase in feeling ‘down’ that the negative loop is acti-
+vated. At that moment, a quick accumulation of nega-
+tive mental states may arise. These mental states may
+keep reinforcing each other, bringing about a qualitative
+change that is diagnosed as psychosis. Thus, the net-
+work approach may provide us with a plausible new
+perspective on the mechanisms of psychopathology.
+
+In the context of classification of psychopathology
+
+The bottom-up approach shows the possibilities of think-
+ing outside the boundaries of diagnostic classification,
+investigating psychopathology based on empirically de-
+rived network structures. These network structures ex-
+pose the emotional dynamics that may form the basis
+of a person’s vulnerability to psychopathology.
+Although current classification systems such as the
+Diagnostic and Statistical Manual of mental Disorders
+(DSM) are conceptually and clinically very appealing
+and useful, an empirical classification may offer a comp-
+lementary approach to better understand the underlying
+dynamics that may be at the core of psychiatric symp-
+toms. For example, person A and B may both fall in the
+DSM-5 category of major depression but may experience
+different symptom patterns. Examining their network
+structures as clustered in the components that were iden-
+tified, these individuals may display dynamic patterns
+between symptoms that differ substantially. For exam-
+ple, for person A, who scores high on negative mood re-
+activity, the impact a negative emotion persists over time
+and may trigger a cascade of other negative emotions
+(PC6). Person B, on the other hand, may experience
+that negative emotions specifically diminish his positive
+emotions (PC1). These individual differences in vulner-
+ability may explain differences in symptom reports and
+may require different treatment strategies. A network ap-
+proach may thus complement traditional diagnostic
+practice, helping to better understand similarities and
+differences across diagnostic groups.
+
+We wish to stress that the two approaches we used are
+complementary. Although Fig. 3 shows that DSM diag-
+nostic classification is different from the bottom-up clas-
+sification, there are also consistencies. In the psychosis
+group, for example, suspicion is more likely to trigger
+negative emotions (PC7). Likewise, individuals in the de-
+pressed group score on average lower on the impact of
+positive emotions (PC1) and higher on negative mood re-
+activity (PC6). The current network perspective on
+ psychopathology may help to explain the large hetero-
+geneity within clinical diagnostic groups as well as the
+fuzzy separation and existing co-morbidity between dis-
+orders. It furthermore challenges us to regard psycho-
+pathology not as a large set of different, separate
+mental disorders, each flowing from its own underlying
+cause, but as the result from one underlying explanatory
+principle, namely the interconnectivity between mental
+states that underlies these symptoms.
+
+Strengths and limitations
+
+An important strength of the current study is that it
+used data from a large, pooled dataset which allowed
+us to compare three large groups, representing different
+levels and types of psychopathology. The combination
+of a top-down and a bottom-up approach to psycho-
+pathology using network methodology is innovative.
+As data were originally collected for other research
+questions, the analyses of the current paper are second-
+ary. Important limitations that follow from this are that
+only three diagnostic groups, and five specific mental
+states were included. Participants in each diagnostic
+group came from multiple studies. This is an advan-
+tage, since larger numbers increase statistical power,
+but also a disadvantage because the participants in
+each diagnostic group thus form a quite heterogeneous
+subgroup, and may have different current levels of
+symptomatology. The most heterogeneous group is
+the group with individuals with psychosis, as this
+group included individuals with different levels of cur-
+rent psychosis (i.e. acutely psychotic and not currently
+psychotic but nevertheless diagnosed with psychotic
+disorder). Therefore, interpretation of the results should
+be carefully considered and replicated in future work.
+Although diagnostic groups are in general quite hetero-
+geneous and consist of individuals with large differ-
+ences in their symptomatology (Kupfer et al. 2002;
+Widiger, 2005; Widiger & Samuel, 2005; Hyman, 2010;
+Kendler et al. 2011), more research is needed to replicate
+and extend our findings. Future research should also in-
+clude a broader spectrum of symptomatology so trans-
+diagnostic processes can be truly investigated. This is a
+first, explorative study which needs replication and
+further research. For the current analyses, we have cho-
+sen to use PCA to reduce the total possible associations
+between the five mental states that were included in this
+study. Since there is a subjective component to this ap-
+proach in the interpretation of the components, these
+results should be replicated and other methods, on
+other data, should be explored as well. Although we
+have used a network approach to examine the dynam-
+ics of mental states over time, we used separate analyses
+for each mental state. Although the covariance structure
+in the models was specified as unstructured for time,
+
+Exploring the underlying structure of mental disorders 11
+
+thus allowing for dependence across error variances
+where we most expected it, it was not possible to use
+the unstructured option for all effects in the model.
+Although it is possible that these effects actually are de-
+pendent, specifying them to be so led to problems with
+model estimation because the models then became too
+complicated and did not converge. Thus, the random
+effects of the lagged variables were specified to be inde-
+pendent to enable model conversion. In future research,
+more sophisticated techniques may be used to map
+mental state interconnectivity directly in one analysis.
+Comparison of the networks of the three groups was
+done descriptively. The networks could not be statisti-
+cally compared because, currently, there is no reliable
+and valid way to do that. Network techniques com-
+bined with this type of data constitute a new field with-
+in psychiatry that is strongly under
+development. Likely, improved statistical techniques
+will be available within a few years and formal com-
+parison of networks through e.g. comparison of central-
+
+currently
+
+ity indices will be possible.
+
+Clinical implications and future directions
+
+This is a first attempt to explore the dynamic connec-
+tivity of basic experiential units that may underlie psy-
+chopathology. Although evidence for its validity is
+now starting to accumulate, more research is needed
+to further establish the diagnostic value of the network
+approach to psychopathology. Potentially, this ap-
+proach may have high clinical relevance in exposing
+personalized vulnerability structures regarding the
+emotional dynamics that take place in daily life.
+Furthermore, it may help to better identify what specific
+disorder an individual is more likely to develop, an indi-
+vidual’s capacity to recover and to assist in making per-
+sonalized decisions regarding the timing and choice of
+intervention. More research, however, is needed to
+further examine the potential for the network approach
+to (i) assess individual changes in network structure, (ii)
+predict level and type of future psychopathology, and
+(iii) predict capacity for recovery. Future research may
+also explore the differences in network dynamics be-
+tween genders, as our results (different male:female
+ratio in the different diagnostic groups), and previous
+research (Rosenfield & Mouzon, 2013), suggest that
+problems in affect and affect dynamics differ substan-
+tially between men and women.
+
+Appendix. Members of MERGE (in alphabetical
+order)
+
+D. Collip, Ph. Delespaul, I. Germeys, N. Geschwind,
+C. Henquet, M. Janssens, M. Lardinois, J. Lataster,
+
+T. Lataster, C.  Lothmann, M. _ Vannierop,
+ 12 J. T. W. Wigman et al.
+
+M.  Oorschot, C. Simons,  V.
+W. Viechtbauer, M. Wichers.
+
+Thewissen,
+
+Supplementary material
+
+For supplementary material accompanying this paper
+visit http://dx.doi.org/10.1017/S0033291715000331.
+
+Acknowledgements
+
+J.T.W.W. is supported by a Netherlands Organization
+for Scientific Research (NWO) Veni Grant. M.W. is
+supported by a Netherlands Organization for
+Scientific Research (NWO) Aspasia research grant.
+The authors thank all participants in the ESM studies,
+as well as all the people who have, in any way, helped
+to set up the studies, collect the data or to assemble the
+merged data file.
+
+Declaration of Interest
+
+None.
+
+References
+
+Angst J, Gamma A, Benazzi F, Ajdacic V, Eich D, R6ssler W
+(2003). Toward a re-definition of subthreshold bipolarity:
+epidemiology and proposed criteria for bipolar-I, minor
+bipolar disorders and hypomania. Journal of Affective
+Disorders 73, 133-146.
+
+Bak M, Delespaul P, Krabbendam L, Huistra K, Walraven
+W, Van Os J (2009). Capturing coping with symptoms in
+people with a diagnosis of schizophrenia: introducing the
+MACS-24. International Journal of Methods in Psychiatric
+Research 18, 4—12.
+
+Borsboom D, Cramer AOJ (2013). Network analysis: an
+integrative approach to the structure of psychopathology.
+Annual Review of Clinical Psychology 9, 91-121.
+
+Borsboom D, Cramer AOJ, Schmittmann VD , Epskamp S,
+Waldorp LJ (2011). The small world of psychopathology.
+PLoS ONE 6(11): e27407.
+
+Breetvelt EJ, Boks MPM, Numans ME, Selten JP, Sommer
+IEC, Grobbee DE, Kahn RS, Geerlings MI (2010).
+Schizophrenia risk factors constitute general risk factors for
+psychiatric symptoms in the population. Schizophrenia
+Research 120, 184-190.
+
+Bringmann LF, Vissers N, Wichers M, Geschwind N,
+Kuppens P, Peeters F, Borsboom D, Tuerlinckx F (2013). A
+network approach to psychopathology: new insights into
+clinical longitudinal data. PLoS ONE. Published online: 4
+April 2013. doi:10.1371/journal.pone.0060188.
+
+Buckholtz JW, Meyer-Lindenberg A (2012).
+Psychopathology and the human connectome: toward a
+transdiagnostic model of risk for mental illness. Neuron 74,
+990-1004.
+
+Bystritsky A, Nierenberg A, Feusner J, Rabinovich M (2012).
+Computational non-linear dynamical psychiatry: a new
+methodological paradigm for diagnosis and course of
+illness. Journal of Psychiatric Research 46, 428-435.
+
+Carter RM, Wittchen HU, Pfister H, Kessler RC (2001). One-
+year prevalence of subthreshold and threshold DSM-IV
+generalized anxiety disorder in a nationally representative
+sample. Depression and Anxiety 13, 78-88.
+
+Collip D, Nicolson N, Lardinois M, Lataster T, van Os J,
+Myin-Germeys I (2011). Daily cortisol, stress reactivity and
+psychotic experiences in individuals at above average
+genetic risk for psychosis. Psychological Medicine 41,
+2305-2315.
+
+Epskamp S, Cramer AOJ, Waldorp LJ, Schmittmann VD,
+Borsboom D (2011). Qgraph: network representations of
+relationships in data. R package version 0.4, 10.
+
+Frances AJ, Widiger T (2012). Psychiatric diagnosis:
+lessons from the DSM-IV past and cautions for the DSM-5
+future. Annual Review of Clinical Psychology 8, 109-130.
+
+Geschwind N, Peeters F, Drukker M, van Os J, Wichers M
+(2011). Mindfulness training increases momentary positive
+emotions and reward experience in adults vulnerable to
+depression: a randomized controlled trial. Journal of
+Consulting and Clinical Psychology 79, 618-628.
+
+Haslam N, Holland E, Kuppens P (2011). Categories versus
+dimensions in personality and psychopathology: a
+quantitative review of taxometric research. Psychological
+Medicine 42, 903-920.
+
+Hill SK, Reilly JL, Harris MSH, Rosen C, Marvin RW,
+Deleon O, Sweeny JA (2009). A comparison of
+neuropsychological dysfunction in first-episode psychosis
+patients with unipolar depression, bipolar disorder, and
+schizophrenia. Schizophrenia Research 113, 167-175.
+
+Hyman SE (2010). The diagnosis of mental disorders: the
+problem of reification. Annual Review of Clinical Psychology
+6, 155-179.
+
+Kendell R, Jablensky A (2003). Distinguishing between the
+validity and utility of psychiatric diagnoses. American
+Journal of Psychiatry 160, 4-12.
+
+Kendler KS, Gardner CO (1998). Boundaries of major
+depression: an evaluation of DSM-IV criteria. American
+Journal of Psychiatry 155, 172-177.
+
+Kendler KS, Zachar P, Craver C (2011). What kinds of things
+are psychiatric disorders? Psychological Medicine 41,
+1143-1150.
+
+Kessler RC, Berglund P, Demler O, Jin R, Merikangas KR,
+Walters EE (2005). Lifetime prevalence and age-of-onset
+distributions of DSM-IV disorders in the National
+Comorbidity Survey Replication. Archives of General
+Psychiatry 62, 593-602.
+
+Kessler RC, McLaughlin KA, Green JG, Gruber MJ,
+Sampson NA, Zaslavsky AM, Aguilar-Gaxiola S,
+Alhamzawi AO, Alonso J, Angermeyer M (2010)
+Childhood adversities and adult psychopathology in the
+WHO World Mental Health Surveys. British Journal of
+Psychiatry 197, 378-385.
+
+Kessler RC, Price RH, Wortman CB (1985). Social factors in
+psychopathology: stress, social support, and coping
+processes. Annual Review of Psychology 36, 531-572.
+ Kessler RC, Wang PS (2008). The descriptive epidemiology of
+commonly occurring mental disorders in the United States.
+Annual Review of Public Health 29, 115-129.
+
+Krueger RE, Piasecki TM (2002). Toward a dimensional and
+psychometrically-informed approach to conceptualizing
+psychopathology. Behaviour Research and Therapy 40, 485-499.
+
+Kupfer DJF, First MB, Regier DA (2002) A Research Agenda
+for DSM-V. American Psychiatric Association: Arlington,
+Virginia.
+
+Lataster J, Myin-Germeys I, Wichers M, Delespaul PA, van
+Os J, Bak M (2011). Psychotic exacerbation and emotional
+dampening in the daily life of patients with schizophrenia
+switched to aripiprazole therapy: a collection of
+standardized case reports. Therapeutic Advances in
+Psychopharmacology 1, 145-151.
+
+Lataster T, Valmaggia L, Lardinois M, van Os J,
+Myin-Germeys I (2013). Increased stress reactivity: a
+mechanism specifically associated with the positive
+symptoms of psychotic disorder. Psychological Medicine 43,
+1389-1400.
+
+Myin-Germeys I, Oorschot M, Collip D, Lataster J,
+Delespaul P, van Os J (2009). Experience sampling research
+in psychopathology: opening the black box of daily life.
+Psychological Medicine 39, 1533-1547.
+
+Myin-Germeys I, van Os J, Schwartz JE, Stone AA, Delespaul
+PA (2001). Emotional reactivity to daily life stress in
+psychosis. Archives of General Psychiatry 58, 1137-1144.
+
+O’Connor BP (2000). SPSS and SAS programs for determining
+the number of components using parallel analysis and
+Velicer’s MAP test. Behavior Research Methods 32, 396-402.
+
+Opsahl T, Agneessens F, Skvoretz J (2010). Node centrality
+in weighted networks: generalizing degree and shortest
+paths. Social Networks 32, 245-251.
+
+Rosenfield S, Mouzon D (2013). Gender and mental health.
+In: Handbook of the Sociology of Mental Health, 2nd edn (ed. C.
+S. Aneshensel et al.), ch. 14 (Handbooks of Sociology and
+Social Research). Springer Science+Business Media:
+Dordrecht.
+
+Thewissen V, Bentall RP, Lecomte T, van Os J, Myin-
+Germeys I (2008). Fluctuations in self-esteem and paranoia
+in the context of daily life. Journal of Abnormal Psychology
+117, 143-153.
+
+Exploring the underlying structure of mental disorders 13
+
+Van de Leemput IA, Wichers M, Cramer AOJ, Borsboom D,
+Tuerlinckx F, Kuppens P, van Nes EH, Viechtbauer W,
+Giltay EJ, Aggen SH, Derom C, Jacobs N, Kendler SK,
+van der Maas HLJ, Neale MC, Peeters F, Theiry E,
+Zachaer P, Scheffer M (2013). Critical slowing down as
+early warning for the onset and termination of depression.
+Proceedings of the National Academy of Sciences USA 111,
+87-92.
+
+Van Os J, Linscott R, Myin-Germeys I, Delespaul Ph,
+Krabbendam L (2009). A systematic review and
+meta-analysis of the psychosis continuum: evidence for a
+psychosis proneness-persistence-impairment model of
+psychotic disorder. Psychological Medicine 39, 179-195.
+
+Weiser M, van Os J, Davidson M (2005). Time for a shift
+in focus in schizophrenia: from narrow phenotypes to
+broad endophenotypes. British Journal of Psychiatry 187,
+203-205.
+
+Wichers M (2014). The dynamic nature of depression: a
+new micro-level perspective of mental disorder that
+meets current challenges. Psychological Medicine 44, 1349-
+1360.
+
+Wichers M, Lothmann C, Simons CJP, Nicolson NA, Peeters
+F (2011). The dynamic interplay between negative and
+positive emotions in daily life predicts response to
+treatment in depression: a momentary assessment study.
+British Journal of Clinical Psychology 51, 206-222.
+
+Widiger TA (2005). A dimensional model of
+psychopathology. Psychopathology 38, 211-214.
+
+Widiger TA, Samuel DB (2005). Diagnostic categories or
+dimensions? A question for the Diagnostic and Statistical
+Manual of Mental Disorders. Journal of Abnormal Psychology
+114, 494.
+
+Wigman JTW, Collip D, Wichers M, Delespaul Ph, Derom
+C, Thiery E, Vollebergh WAM, Lataster T, Jacobs N,
+Myin-Germeys I, van Os J (2013a). Altered Transfer of
+Momentary Mental States (ATOMS) as the basic unit of
+psychosis liability in interaction with environment and
+emotions. PLoS One 8, e54653.
+
+Wigman JTW, van Os J, Thiery E, Derom C, Collip D, Jacobs
+N, Wichers M (2013b). Psychiatric diagnosis revisited:
+towards a system of staging and profiling combining
+nomothetic and idiographic parameters of momentary
+mental states. PLoS ONE 8, e59559.

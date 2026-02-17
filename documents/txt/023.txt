@@ -1,0 +1,944 @@
+Brief Empirical Report
+
+OOS
+
+PSYCHOLOGICAL SCIENCE
+
+Emotion-Network Density in Major
+
+Depressive Disorder
+
+Clinical Psychological Science
+
+2015, Vol. 3(2) 292-300
+
+© The Author(s) 2014
+
+Reprints and permissions:
+sagepub.com/journalsPermissions.nav
+DOI: 10.1177/2167702614540645
+cpx.sagepub.com
+
+@SAGE
+
+Madeline Lee Pe’, Katharina Kircanski*, Renee J. Thompson’,
+Laura F. Bringmann’, Francis Tuerlinckx', Merijn Mestdagh’,
+Jutta Mata*, Susanne M. Jaeggi’, Martin Buschkuehl®,
+
+John Jonides’, Peter Kuppens’, and Ian H. Gotlib”
+
+‘Department of Psychology, KU Leuven; *Department of Psychology, Stanford University; ?Department
+of Psychology, Washington University in St. Louis; ‘Max Planck Institute for Human Development;
+School of Education, University of California, Irvine; MIND Research Institute, Irvine, California; and
+
+‘Department of Psychology, University of Michigan, Ann Arbor
+
+Abstract
+
+Major depressive disorder (MDD) is a prevalent disorder involving disturbances in mood. There is still much to
+understand regarding precisely how emotions are disrupted in individuals with MDD. In this study, we used a network
+approach to examine the emotional disturbances underlying MDD. We hypothesized that compared with healthy
+control individuals, individuals diagnosed with MDD would be characterized by a denser emotion network, thereby
+indicating that their emotion system is more resistant to change. Indeed, results from a 7-day experience sampling
+study revealed that individuals with MDD had a denser overall emotion network than did healthy control individuals.
+Moreover, this difference was driven primarily by a denser negative, but not positive, network in MDD participants.
+These findings suggest that the disruption in emotions that characterizes depressed individuals stems from a negative
+
+emotion system that is resistant to change.
+
+Keywords
+depression, emotion, affective disorders
+
+Received 10/21/13; Revision accepted 5/19/14
+
+The adaptive nature of emotions lies in their capacity to
+mobilize individuals in response to changing demands
+and threats in the environment Uzard, 2009). In this con-
+text, investigators have hypothesized that healthy psycho-
+logical functioning is characterized by emotions that
+change flexibly across time (Kashdan & Rottenberg, 2010).
+Given this formulation, we propose that people who are
+diagnosed with major depressive disorder (MDD), a prev-
+alent condition that involves primary disturbances in
+mood (American Psychiatric Association, 2013), are char-
+acterized by emotions that are resistant to change.
+
+One way to examine this proposition is by using a
+network approach to investigate the dynamics of emo-
+tions in MDD (Cramer, Waldorp, van der Maas, &
+Borsboom, 2010). This approach has recently garnered
+attention in attempts to elucidate the mechanisms under-
+lying various psychiatric disorders. From a network
+approach, a psychiatric disorder is conceptualized as
+
+being characterized by a constellation of symptoms, in
+contrast to a single underlying “essence” or construct
+from which all other symptoms arise (Borsboom, 2008;
+Kendler, Zachar, & Craver, 2011). Thus, psychiatric disor-
+ders like MDD are not necessarily best characterized by
+defining specific single traits (e.g., depressed mood) but,
+instead, by elucidating the patterns of interactions among
+several core symptoms (e.g., the nature of the association
+between depressed mood and suicidal thoughts).
+
+We can use a network approach to examine the tempo-
+ral dynamics of the emotion system that underlies MDD.
+In this approach, emotional changes and fluctuations in
+people’s current emotional experiences are predicted by
+
+Corresponding Author:
+
+Madeline Lee Pe, Department of Psychology, KU Leuven, Tiensestraat
+102, Box 3713, Leuven 3000, Belgium
+
+E-mail: madeline.pe@ppw.kuleuven.be
+ Emotion Network in Major Depressive Disorder
+
+293
+
+different emotions experienced at a previous time point
+and possible external influences. The patterns of emotions
+that are mutually predictive can differ across individuals
+(Pe & Kuppens, 2012). That is, some individuals may have
+stronger temporal connections among specific emotions
+(i.e., emotions that strongly predict each other over time)
+than do other individuals. The overall strength of these
+temporal connections represents the density’ of the emo-
+tion network (Newman, 2010): Stronger temporal connec-
+tions reflect a denser emotion network, whereas weaker
+temporal connections reflect a less dense emotion net-
+work. For example, if we examine someone’s current hap-
+piness, the extent to which this emotion is predicted by his
+or her anger, sadness, and happiness at the previous time
+point would reflect a part of the density of his or her emo-
+tion network.
+
+This differential density can be conceptualized as an
+overall indicator of the resistance of the emotion system
+to change. A denser network suggests that emotions are
+more self-predictive (.e., current emotions are predicted
+by emotions at a previous time point) and, thus, the less
+likely it is that other factors can access and influence the
+emotion system. This builds a constricted and insulated
+emotional landscape, which makes the emotion system
+more resistant to both internal (e.g., emotion-regulation
+efforts) and external (e.g., environmental) demands
+(Kuppens, Allen, & Sheeber, 2010). As a result, emotions
+lose their adaptive function of mobilizing individuals so
+that they can respond to changing internal and external
+demands.
+
+The proposition that depressed individuals are charac-
+terized by an emotion network that is denser and, thus,
+less flexible and more resistant to change than are non-
+depressed persons is not unique to the current study.
+Support for this formulation comes from studies on emo-
+tional reactivity (Rottenberg, 2005; Rottenberg, Gross, &
+Gotlib, 2005) and emotional inertia (Kuppens et al., 2010)
+in clinically depressed individuals. In studies of emo-
+tional reactivity, it is assumed that participants’ emotional
+responses are resistant to change when their emotional
+experiences do not change in response to a negative or
+positive external event. Indeed, it has been shown in
+laboratory studies that people diagnosed with MDD
+are characterized by emotion-context insensitivity
+(Rottenberg, 2005; Rottenberg et al., 2005); that is, their
+responses to emotional (both positive and negative) stim-
+uli tend to be similar to their responses to neutral stimuli
+(for a meta-analysis, see Bylsma, Morris, & Rottenberg,
+2008).? In turn, emotional inertia is defined as the extent
+to which specific emotions (or aggregated emotions,
+such as negative affect) persist over time and is typically
+measured as the autocorrelation of a single emotion over
+time (Kuppens et al., 2010). Higher autocorrelation
+reflects higher resistance to emotional change. Emotional
+
+inertia of negative emotions has been shown to be related
+to the severity of depressive symptoms in normal popula-
+tions (Koval, Kuppens, Allen, & Sheeber, 2012; Kuppens
+et al., 2012) and to the diagnosis of depression (Kuppens
+et al., 2010; Kuppens et al., 2012; but for an exception,
+see Thompson et al., 2012; see Houben, Van den
+Noortgate, & Kuppens, 2013, for a meta-analysis that con-
+firms these findings).
+
+Although emotional inertia and density of the emotion
+network both reflect some form of resistance to change,
+they make different assumptions about what constitutes
+such resistance. Whereas emotional inertia indicates that
+the current level of an emotion is predicted by the level of
+that same emotion at a previous time point Gwhether for a
+single emotion, such as anger, or for an aggregated mea-
+sure of emotions, such as overall negative affect), the
+emotion-network approach involves all mutual interrela-
+tions among different emotions by focusing on how each
+emotion (i.e., various positive and negative emotions)
+experienced at a specific time point (e.g., sadness at time
+t) can be predicted by all emotions at a previous time
+point (e.g., anger, sadness, happiness, guilt, and others at
+time ¢ — 1). In other words, whereas inertia examines the
+predictability of a single emotion or affective dimension,
+density captures the predictability of the entire emotional
+system, including all interactions among different emo-
+tions. Therefore, emotional density is a much broader
+notion than is emotional inertia, given that it applies to the
+flexibility or rigidity of the dynamic interplay between the
+different emotional states in the system, including how
+they mutually influence each other across time, rather than
+considering single emotional states on their own.
+
+In sum, we hypothesize that if the emotion system in
+MDD is resistant to change, MDD participants (relative to
+healthy control individuals) should have a relatively
+dense emotion network, which results from stronger tem-
+poral connections between different emotions. We test
+this hypothesis by analyzing emotion data of MDD and
+healthy control individuals that were obtained in a large
+experience sampling study.
+
+Method
+
+Participants and procedure
+
+Participants were recruited from the surrounding com-
+munities of Stanford, California, and Ann Arbor, Michigan,
+through advertisements posted online (e.g., Craigslist)
+and at local businesses (e.g., bulletin boards). Participants
+were English-speaking adults aged 18 to 40 years. The
+healthy control (CTL) group (7 = 53) comprised individu-
+als who experienced no current or past mental-health
+disorders and had scores of 9 or less on the Beck
+Depression Inventory—II (BDI-IJ; Beck, Steer, & Brown,
+ 294
+
+Pe et al.
+
+1996). The depressed (MDD) group (7 = 53) comprised
+participants who were currently diagnosed with MDD as
+assessed by the Structured Clinical Interview for DSM-—
+IV—TR Axis I Disorders (First, Spitzer, Gibbon, & Williams,
+2001). In addition, participants in the MDD group were
+required to have a BDI-II score of 14 or more, an absence
+of alcohol-drug dependence in the past 6 months, and no
+Bipolar I or II diagnoses or evidence of psychotic disor-
+ders. Twenty-two individuals were excluded from analy-
+sis because of BDI-II scores being outside of the range of
+eligibility (2 = 7), equipment failure (7 = 12), or noncom-
+pliance (e.g., responding to less than 41 prompts; 7 = 3),
+thereby leaving the final sample of 106 participants. The
+study was approved by the institutional review boards of
+Stanford University and University of Michigan.
+
+Participants carried a personal digital assistant as they
+went about their daily activities. Palm units (Palm Pilot
+Z22) were individually programmed (using ESP 4.0;
+Barrett & Feldman Barrett, 2000) to beep eight times a
+day between 10 a.m. and 10 p.m. for approximately 7
+consecutive days. Prompts occurred at random times
+within eight 90-min windows per day; thus, prompts
+could occur between 2 and almost 180 min apart WI = 93
+min, SD = 38 min). Participants were given 3 min to
+respond to the initial question. Participants provided
+informed consent and were compensated for their par-
+ticipation, with an extra incentive for responding to more
+than 90% of the prompts.
+
+Given our research question, we focus here only on
+the emotion items. At each beep, participants used a
+4-point scale ranging from 1 (mot at all to 4 (a great
+deal) to indicate their current levels of negative (sad, anx-
+ious, angry, frustrated, ashamed, disgusted, guilty) and
+positive (happy, excited, alert, active) affect.
+
+Data preparation
+
+To estimate the density of the emotion network, we esti-
+mated the average temporal connection strengths among
+all of the emotion variables (Bringmann et al., 2013). We
+first conducted a series of univariate multilevel analyses
+with each emotion at time ¢ being predicted by all the
+other emotions Gincluding the emotion variable itself) at
+time ¢ — 1, in which time ¢ — 1 and time ¢ refer to two
+consecutive beeps within the same day. This allowed us
+to evaluate the unique contribution of each emotion at
+time ¢-— 1 on the specific emotion of interest at time ¢. All
+predictors were centered on each individual’s mean
+score. For example, the Level 1 regression equation for
+person 7 for current sadness experience is as follows:
+
+sad, = 09; + 01; (sad,, 4 + 05; (anxious; _ 1)
+
++03; (angry; _ 1) +... 041; (active, _ 1) + @y.
+
+Each slope represents the strength of the temporal
+connection between emotion pairs (e.g., 6,, represents the
+expected change in sadness at the current time point
+given a l-unit increase in sadness at the previous time
+point, keeping everything else constant, which is similar
+to the measure of sadness inertia, but controlling for the
+effects of the other emotions as well; 6,, represents the
+expected change in current sadness given a 1-unit increase
+in previous anxiety, while controlling for the effects of the
+other emotions). This procedure was conducted 11 times,
+once for every emotion as a dependent variable. At Level
+2 of each of the multilevel models, we estimated an empty
+model; thus, all random effects Gintercepts and slopes) are
+assumed to come from a multivariate normal distribution
+(one for each separate regression).
+
+In the next step, individual participants’ slopes were
+then extracted from the multilevel model. Because we
+were interested in the strength of these connections
+regardless of directionality, we calculated the average of
+the absolute value of the 121 slopes to represent the den-
+sity of the emotion network for each person. Two partici-
+pants from the CTL group were removed from analysis
+because their overall emotion-network values were more
+than 3 SDs above the mean of their group.’
+
+We also wanted to elucidate the precise location of the
+emotion-network density in MDD by examining the den-
+sity of the network separately for positive and negative
+emotions. The density of the positive emotion network is
+the mean of the 44 absolute slope values from the series
+of multilevel models that used positive emotions as the
+dependent variable: A positive emotion network refers to
+how much previous emotions predict current individual
+positive emotions. Similarly, the density of the negative
+emotion network is the mean of the 77 absolute slope
+values from the series of multilevel models that used neg-
+ative emotions as the dependent variable: A negative
+emotion network refers to how much previous emotions
+predict current individual negative emotions.
+
+Results
+
+Participant characteristics
+
+The MDD and CTL groups did not differ significantly in
+gender, y°(1, N = 106) = 0.18, p = .83, 6 = .04 (MDD:
+71.7% female, 28.3% male; CTL: 67.9% female, 32.1%
+male), education, ¥*(3, N = 106) = 6.67, p = .08, 6. = .25
+(MDD: 11% high school graduate, 38% some college,
+43% bachelor’s degree, 8% advanced degree; CTL: 47%
+some college, 43% bachelor’s degree, 9% advanced
+degree), or ethnicity, y°(5, N = 106) = 7.79, p = .17, 6. =
+.27, with both groups being largely Caucasian (MDD:
+73.6%; CTL: 62.3%). The two groups did differ in age,
+(104) = 2.19, p = .03, Cohen’s d = 0.44; the MDD group
+ Emotion Network in Major Depressive Disorder
+
+295
+
+Table 1. Emotion-Network Density by Depression Status
+
+Depression status group
+
+Difference test
+Effect size
+
+Emotion network CTL (7 = 51) MDD (1 = 53) #102) Dp (Cohen’s d)
+Overall 0.05 (0.00) 0.08 (0.00) 10.08 < .001 2.00
+Negative 0.04 (0.00) 0.09 (0.00) 12.34 < .001 2.44
+Positive 0.07 (0.00) 0.07 (0.00) -0.26 79 -0.05
+Anxious 0.06 (0.00) 0.10 (0.01) 5.49 < .001 1.09
+Sad 0.03 (0.00) 0.10 (0.01) 10.92 < .001 2.16
+Disgusted 0.04 (0.00) 0.10 (0.01) 10.44 < .001 2.07
+Angry 0.04 (0.00) 0.08 (0.01) 6.63 < .001 1.31
+Guilty 0.02 (0.00) 0.08 (0.01) 9.64 < 001 1.91
+Ashamed 0.04 (0.00) 0.09 (0.00) 9.23 < .001 1.83
+Frustrated 0.05 (0.00) 0.08 (0.00) 6.07 < .001 1.20
+Active 0.06 (0.00) 0.06 (0.00) 0.63 53 0.12
+Alert 0.07 (0.00) 0.08 (0.00) 1.23 .22 0.24
+Happy 0.07 (0.00) 0.06 (0.00) —1.77 .08 —0.35
+Excited 0.07 (0.00) 0.06 (0.00) —1.04 30 —0.21
+
+Note: The table presents means for each measure unless otherwise indicated. Standard errors are shown in parentheses.
+Values in bold represent the main variables examined; these main emotion-network variables are illustrated in Figure 1.
+
+CTL = healthy control, MDD = major depressive disorder.
+
+(M = 28.2 years, SD = 6.4) was older than the CTL group
+(M = 25.4 years, SD = 6.4).
+
+Network density
+
+We conducted an independent samples ¢ test to compare
+the MDD and CTL groups with respect to the density of
+their emotion networks. We first examined their overall
+emotional networks, not differentiating by valence.
+Consistent with our hypothesis, results showed that indi-
+viduals with MDD had a significantly denser overall emo-
+tion network than did the CTL individuals (see Table 1),
+and this difference was marked by a considerable effect
+size (d = 2.00). Because the density values in Table 1 are
+not readily interpretable, we illustrate this finding in
+Figure 1 by graphically displaying the average overall
+emotion network for MDD and CTL groups.
+
+We further examined whether the two groups of partici-
+pants differed in both their positive and their negative
+emotion networks by conducting a repeated measures
+analysis of variance with group (MDD, CTL) as the
+between-subjects variable and emotion-network valence
+(negative, positive) as the within-subjects factor. This anal-
+ysis yielded a significant main effect of group, F(1, 102) =
+69.15, p < .001, n,* = .40, but not of valence, F(1, 102) =
+0.01, p = .92, Np = .00. These effects were qualified, how-
+ever, by a significant interaction of group and valence, FC,
+102) = 120.58, p < .001, n,° = .54. Follow-up ¢ tests indi-
+cated that MDD individuals had a significantly denser neg-
+ative emotion network than did CTL individuals (d = 2.44);
+in contrast, MDD and CTL groups did not differ in the
+
+density of their positive emotion network (d = —0.05; see
+Table 1 and Fig. 1).*° Although not part of the main analy-
+sis, we included the density results for each emotion in
+Table 1 to show that the MDD and CTL groups differed
+significantly across all negative emotions and no positive
+emotions.
+
+Follow-up analyses
+
+Gender differences. We examined the role of gender®
+by conducting a repeated measures analysis of variance
+similar to the one described earlier, but this time, we
+included gender and its interaction with group. Although
+there was not a main effect for gender, F(1, 100) = 3.41,
+p = .07, Np = .03, or a significant interaction of gender
+and group, F(1, 100) = 0.40, p = .53, n,° = .00, there was
+a significant interaction of valence, gender, and group,
+FU, 100) = 5.79, p = .02, n,° = .06. In the MDD group,
+women (VM = 0.10, SE = 0.00) had a denser negative emo-
+tion network than did men WW = 0.08, SE = 0.01), #51) =
+—2.24, p = .03, d = -0.44; this gender difference was not
+evident in the CTL group, #49) = -0.55, p = .59, d =
+—0.11. With respect to the density of the positive net-
+work, men and women did not differ from each other in
+either the MDD group, #51) = 0.32, p = .75, d = 0.06, or
+the CTL group, #49) = -1.19, p = .24, d = -0.24.’
+
+Variability of emotions. It is possible that the observed
+differences in the density of the emotion network can be
+explained by group differences in emotion variance.
+Indeed, the MDD individuals had a higher standard
+ 296 Pe et al.
+
+—
+©
+=
+<=
+rs)
+Same
+@
+> he
+© Xo
+—
+©
+=
+<=
+@®
+=
+—
+qr)
+©)
+feb)
+=
+— ee a = aajlets 2". = ste ~~}
+© Tre ‘ We? 10 . i! sO \
+= in ‘. . ‘
+feb) wee . \ S
+= oy
+Tp) \
+O
+OW
+
+ee disgusted
+
+Fig. 1. Graphic display of emotion networks by depression status group. Arrows represent the strength of the connections between any two pairs
+of emotions (one emotion at time ¢ -— 1 and the other at time ¢ within days). Dotted arrows correspond to slope values 1 SD below the mean of the
+overall network density across groups (weak connections), dashed arrows correspond to values around the mean across groups (values between 1
+
+SD below and above the mean of the overall network density; moderate connections), and bold arrows correspond to values 1 SD above the mean
+across groups (strong connections). MDD = depressed group; CTL = healthy control group.
+ Emotion Network in Major Depressive Disorder
+
+297
+
+deviation® in the intensity of their overall emotions (V =
+0.69, SE = 0.02) than did the CTL individuals (VW = 0.40,
+SE = 0.02), (102) = 9.83, p < .01, d = 1.95. The MDD indi-
+viduals also had a higher standard deviation in their nega-
+tive emotions W = 0.72, SE = 0.03) than did the CTL
+individuals (M = 0.23, SE = 0.02), 102) = 13.53, p < .01,
+d = 2.67, but not in their positive emotions, (102) = —0.69,
+p= 49, d = -0.14. To rule out the possibility that dispro-
+portionate variance is driving the group differences in
+density, we conducted a multiple regression with density
+as the dependent variable, and the standard deviation
+(standardized) and diagnostic group (MDD, CTL) as pre-
+dictors. For the overall network, after we controlled for
+the standard deviation of overall emotions, diagnostic
+group remained a significant predictor of density, B =
+0.21, 1101) = 3.06, p < .01, d = 0.61. Similar results were
+found for the negative emotion network: After we con-
+trolled for the standard deviation of negative emotions,
+diagnostic group remained a significant predictor of den-
+sity, B = 0.19, 1101) = 2.46, p = .02, d = 0.49. Therefore,
+we can conclude that the denser overall and negative
+emotion networks found in the MDD individuals relative
+to the CTL individuals were not a function of group differ-
+ences in variability. For the positive emotion network,
+diagnostic group did not significantly predict density, B =
+0.02, 101) = 0.31, p = .76, d = 0.06, even after we con-
+trolled for the standard deviation of positive emotions.’
+
+Discussion
+
+Although there is a growing consensus that MDD involves
+disturbances of mood, it is still unclear precisely how
+emotions are disrupted in individuals diagnosed with
+MDD. In the present study, we used a network approach
+to examine the emotion system underlying MDD. On the
+basis of previous work (Kuppens et al., 2010; Rottenberg
+et al., 2005), we proposed that the everyday emotions of
+depressed individuals would be more resistant to chang-
+ing internal and external demands than would the emo-
+tions of their nondepressed peers, thereby resulting in an
+emotion network that is more self-determining or dense.
+Supporting our hypothesis, our findings revealed that
+participants with MDD had a denser overall emotion net-
+work than did CTL individuals, which involved multiple
+stronger temporal connections among various emotions.
+Thus, compared with nondepressed control individuals,
+the emotions experienced by individuals with MDD tend
+to be more strongly determined by their previous emo-
+tions and, therefore, more resistant to change.
+
+It is important to note that the density of this overall
+emotion network may be driven by the network of a par-
+ticular emotion valence rather than representing a joint
+contribution of both positive and negative emotion net-
+works. To investigate this possibility, we examined the
+
+network data separately for positive and negative emo-
+tions. The results of these analyses clearly indicated that
+the MDD and CTL groups differed in the density of their
+negative, but not their positive, emotion networks.'°
+Specifically, the MDD group had a denser negative emo-
+tion network: Their previous emotions strongly predicted
+their current experience of negative emotions.
+
+Our result is consistent with previous research on
+emotional inertia that has indicated that it is primarily
+negative emotions in depression that tend to be resistant
+to change (Houben et al., 2013). However, it is notable
+that the present sample of depressed and nondepressed
+participants was shown to be comparable with respect to
+inertia of negative or positive emotions in an earlier study
+(Thompson et al., 2012). We believe that in reconciling
+this difference, it is instructive to consider that in emo-
+tional inertia, resistance to change involves the self-
+predictability of a particular emotion (or an aggregated
+measure of emotions). In contrast, in density, resistance
+to change is not only a result of the self-predictability of
+a particular emotion (as in inertia) but also heavily influ-
+enced by the various emotions Cincluding both positive
+and negative emotions) experienced by the individual.
+The difference in the results for these two measures sug-
+gests that the group difference in density is influenced
+more by the cross-lagged relations among various emo-
+tion measures than by the inertia variable."
+
+In addition, the emotion network quantifies resistance
+to change as the absolute slope values of the temporal
+relations between the various emotions, whereas this is
+not the case for emotional inertia. Thus, the directionality
+of the associations among emotions over time is less
+important when defining the density of an emotion net-
+work. A person who feels sadder after feeling angry and
+a person who feels less sad after feeling angry may differ
+qualitatively in the direction of the temporal relation
+between their emotions, but they may be similar in the
+degree of predictability of their emotions; that is, for both
+individuals, their previous emotions predict the intensity
+of their current emotions.
+
+It is important to note here that although denser nega-
+tive emotion networks did not differ by gender in the CTL
+group, depressed women exhibited a denser negative
+emotion network than did depressed men. These findings
+may help us to understand why women are more prone
+to experience depression than are men (Nolen-Hoeksema,
+2001). Because depressed women’s negative emotion sys-
+tem tends to be more resistant to change, it may be more
+difficult for them to break the cycle of negative emotional-
+ity. This may also help explain the heightened experience
+of negative emotions in women compared with men
+(Larsen & Diener, 1987). These findings may also help us
+understand why women ruminate more than men do
+(Nolen-Hoeksema, Wisco, & Lyubomirsky, 2008). Because
+ 298
+
+Pe et al.
+
+rumination involves perseverative thinking about feelings,
+it may be that rumination arises from, contributes to, or
+has bidirectional influences with the more self-determin-
+ing nature of negative emotions in depressed women.
+Future studies are needed to examine these formulations
+more explicitly and systematically.
+
+Although the present findings increase knowledge of
+the everyday emotional functioning of individuals with
+MDD, this study is not without limitations. First, the MDD
+group was older than the CTL group; however, age did
+not moderate the group differences in the density of the
+network. Second, the positive emotion words used in this
+study captured only medium- or high-arousal positive
+emotions. To be able to draw stronger conclusions
+regarding group differences in positive emotion network,
+researchers in future studies should use a broader range
+of positive emotion words that are sampled across the
+full arousal dimension of positive emotions (Russell,
+2003). Third, because the findings of the present study
+are based on participants who were currently diagnosed
+with MDD, we cannot make strong conclusions regard-
+ing their generalizability to people at risk for, or who
+have recovered from, depression. We suspect, however,
+that greater density is a trait-based risk factor for depres-
+sion that would be observed in these groups as well.
+Future research is needed to examine this formulation.
+
+Another possible avenue for future research is to
+examine the emotion network in other forms of psycho-
+pathology, such as bipolar disorder. Investigators have
+posited that patients with bipolar disorder experience
+heightened positive emotion across contexts; that is, they
+experience elevated levels of positive emotions not solely
+in response to positive or rewarding stimuli but also in
+response to negative or neutral stimuli (Gruber, 2011).
+Thus, the everyday positive emotions experienced by
+patients with bipolar disorder may be more resistant to
+change (denser positive emotion network) than is the
+case for healthy control individuals. Investigators might
+also profitably examine temporal connections between
+specific emotions. For example, researchers interested in
+studying MDD and general anxiety disorder (GAD), two
+highly comorbid disorders (Kessler, Chiu, Demler, &
+Walters, 2005), might investigate the temporal relations
+between anxiety and sadness (e.g., anxiety at time ¢- 1
+to sadness at time 4) and how these associations may dif-
+fer between individuals with GAD or MDD. For example,
+it is possible that both clinical groups would have a stron-
+ger absolute temporal relation between anxiety and sad-
+ness than would healthy control individuals. Alternatively,
+MDD and GAD patients may not differ in their absolute
+temporal relation between anxiety and sadness but may
+differ in the directionality of this association, with GAD
+individuals experiencing an increase in sadness after feel-
+ing anxious and MDD individuals experiencing a decrease
+in sadness after feeling anxious.
+
+Our findings are important for understanding the
+emotional disturbances at play in MDD. Combined with
+previous empirical work (Kuppens et al., 2010; Rottenberg
+et al., 2005), they may suggest that in MDD, emotions,
+and in particular negative emotions, have become decou-
+pled of their adaptive function to flexibly respond to
+changes or regulation efforts. This inflexibility prevents
+the individual from adaptively responding emotionally to
+ongoing events and creates a spiral of mutually reinforc-
+ing emotions that, as it seems, start to have a life of their
+own instead of responding to what happens in the out-
+side world. It is not coincidental that a number of novel
+and promising approaches to the treatment of MDD (e.g.,
+acceptance and commitment therapy or mindfulness-
+based programs, Hayes, Luoma, Bond, Masuda, Lillis,
+2006) take this as a starting point in the sense that they
+focus on helping people to become more broadly attuned
+to what is happening in the present moment rather than
+being absorbed in their internal states.
+
+In conclusion, by examining the emotion network in
+MDD, we illustrated how everyday emotional experi-
+ences in MDD mutually reinforce each other across time.
+The results of this study clearly indicate that relative to
+healthy control individuals, individuals with MDD are
+characterized by a denser negative emotion network,
+thereby reflecting a negative emotion system that is more
+resistant to change.
+
+Author Contributions
+
+M. L. Pe, K. Kircanski, P. Kuppens, F. Tuerlinckx, and I. H.
+Gotlib contributed to the study concept. R. J. Thompson, J.
+Mata, S. M. Jaeggi, M. Buschkuehl, J. Jonides, and I. H. Gotlib
+conceptualized the experience sampling study and provided
+the data for the present study. M. L. Pe and L. F. Bringmann
+analyzed the data, and M. Mestdagh rechecked the data analy-
+ses. M. L. Pe, P. Kuppens, and IJ. H. Gotlib interpreted the
+results. M. L. Pe and K. Kircanski drafted the manuscript, and P.
+Kuppens, R. J. Thompson, and I. H. Gotlib critically revised the
+manuscript. All authors approved the final version of the manu-
+script for submission.
+
+Acknowledgments
+
+The authors thank Patricia J. Deldin for her help in study design
+and Courtney Behnke, Sarah Victor, Brooke Gilbert, and
+Charishma Chotalia for their assistance in project management.
+
+Declaration of Conflicting Interests
+
+The authors declared that they had no conflicts of interest with
+respect to their authorship or the publication of this article.
+
+Funding
+
+This research was supported by National Institute of Mental
+Health Grants MH60655 (to J. Jonides), MH59259 (to I. H. Gotlib),
+F32 MHO091831 (to R. J. Thompson), and F32 MH096385 (to
+K. Kircanski); the Deutsche Forschungsgemeinschaft Fellowship
+ Emotion Network in Major Depressive Disorder
+
+299
+
+(Wi3496/4-1 to J. Mata); the Research Council of KU Leuven
+(GOA/15/003 to F. Tuerlinckx and P. Kuppens); the Inter-
+university Attraction Poles programme financed by the Belgian
+government (IAP/P7/06); and the Fonds Wetenschappelijk
+Onderzoek-Vlaanderen Travel Grant K206813N (to M. L. Pe).
+
+Notes
+
+1. The term density is used in the literature on mathematics
+of networks. It refers to the number of connections between
+nodes (or vertices) in a given network (Newman, 2010). In the
+present study, rather than counting the number of connections,
+we examined the mean strength of the connections between
+nodes (i.e., emotions).
+
+2. In contrast, research on emotional responses to events in
+daily life has shown that persons with MDD report a greater
+emotional change in response to positive events than do non-
+depressed persons (e.g., Bylsma, Taylor-Clift, & Rottenberg,
+2011; Thompson et al., 2012). It is important to note, however,
+that events reported in daily life are subjective. When partici-
+pants report a negative or positive event, they have already
+interpreted the event as such; the self-report does not give
+information concerning whether a more objectively rated nega-
+tive or positive event has occurred. In the emotion-network
+density framework, we consider reactivity to objective events,
+which is aligned more closely with how reactivity is measured
+in the laboratory, typically in response to objective stimuli.
+
+3. We reran the analyses including the outliers, and the results
+remained the same.
+
+4, Because emotion variables tend to be highly correlated with
+each other, and because we included all of the emotion vari-
+ables at time ¢ — 1 as predictors, suppressor effects may have
+influenced our findings. To ensure that this was not the case,
+we ran 121 simple multilevel models, each of which included
+only one predictor at a time. Our results remained largely simi-
+lar, with the exception that analyses of the positive emotion
+network yielded slightly different results: Specifically, the CTL
+group (VM = 0.10, SE = 0.00) had a denser positive emotion net-
+work than did the MDD group WW = 0.09, SE = 0.00), #100) =
+—2.57, p= .01, d= 0.51. However, because this method of analy-
+sis increases the risk of inflating the slope estimates, thereby
+leading to inflated density estimates, we caution readers when
+interpreting results from this analysis.
+
+5. We also examined whether BDI-II scores are related to net-
+work density. We computed correlations separately for the
+MDD and CTL participants because BDI-II scores were used in
+part to assign participants to diagnostic groups and, therefore,
+had a bimodal distribution. Because the BDI-II scores for the
+CTL participants were highly skewed, we log-transformed these
+scores. Results were similar for both CTL and MDD individuals:
+BDI-II scores were positively correlated with the density of the
+overall network (MDD: r = .38, p < .01; CTL: r = .27, p = .05)
+and the negative emotion network (MDD: r= .33, p = .02; CTL:
+r= .33, p = .02), whereas this was not the case for the positive
+emotion network (MDD: r= .04, p = .76; CTL: r= .23, p = .11).
+6. We also examined whether recruitment site G.e., University
+of Michigan, Stanford University) or age affected these group
+differences. Age did not moderate these group differences, FU,
+100) = 0.95, p = .33, Ny = .01; however, site did moderate these
+group differences, F(1, 100) = 4.34, p = .04, n,” = .04. Within the
+
+MDD group, a larger difference between the negative and posi-
+tive emotion networks was found in Stanford than in Michigan,
+(51) = -2.47, p = .02, d = -0.69; this was not the case within
+the CTL group, (49) = 0.16, p = .87, d = 0.05. More important,
+however, separate analyses of both sites consistently yielded
+significant group differences in the density of the negative emo-
+tion network, Michigan: (52) = 7.37, p < .01, d = 2.05; Stanford:
+(48) = 10.65, p < .01, d = 3.07, and no group differences in
+the density of the positive emotion network—Michigan: (52) =
+0.42, p = .68, d = 0.12; Stanford: #48) = 0.92, p = 36, d =
+—0.26. Thus, results remained consistent even after we exam-
+ined group differences in the densities of the emotion networks
+independently for each site.
+
+7. To investigate whether the diagnostic group difference in
+negative emotion-network density is stronger in women than
+in men, we ran a regression with negative emotion-network
+density as the dependent variable and group, gender, and its
+interaction as predictors. No significant interaction effect was
+found, which indicated that the difference between diagnostic
+groups did not differ between genders.
+
+8. The standard-deviation score was computed by calculating
+the within-person standard deviation of each emotion variable
+first and then aggregating the mean of these standard devia-
+tions across emotions.
+
+9. An alternative way to control for group differences in vari-
+ance is to standardize all the emotion variables within persons
+(i.e., within a single person, the mean is 0 and variance is 1)
+and conduct the same multilevel models discussed earlier on
+these standardized variables. We conducted these analyses with
+similar results. The MDD group still had a denser overall emo-
+tion network than did the CTL group, #104) = 4.81, p < .001,
+d = 0.94. Again, this result was driven by a denser negative
+emotion network in the MDD participants, (104) = 4.91, p <
+.001, d = 0.96; the two groups did not differ in density of the
+positive emotion network, (104) = 1.26, p = .21, d = 0.25.
+
+10. We clarify that positive and negative emotion networks
+are defined as networks in which positive and negative emo-
+tions are used as dependent variables, respectively, and the
+predictors for both networks are all of the different emotions
+at time ¢ — 1.
+
+11. The strong influence of the cross-lagged relations on the
+eroup difference in density findings suggests that the denser
+negative emotion network found in MDD is more about the
+insulated and self-determining nature of the negative emo-
+tion system and less about the perseveration of negative affect
+(which is measured by the autocorrelation or inertia variable).
+
+References
+
+American Psychiatric Association. (2013). Diagnostic and statis-
+tical manual of mental disorders (5th ed.). Arlington, VA:
+American Psychiatric Publishing.
+
+Barrett, D. J.. & Feldman Barrett, L. (2000). ESP: The experi-
+ence sampling program (Version 4.0) [Software]. Available
+at http://www.experience-sampling.org/
+
+Beck, A. T., Steer, R. A., & Brown, G. K. (1996). Beck Depression
+Inventory-IT (2nd ed.). San Antonio, TX: Psychological
+Corporation.
+
+Borsboom, D. (2008), Psychometric perspectives on diagnostic
+systems. Journal of Clinical Psychology, 64, 1089-1108.
+ 300
+
+Pe et al.
+
+Bringmann, L. F., Vissers, N., Wichers, M., Geschwind, N.,
+Kuppens, P., Peeters, F., . . . Tuerlinckx, F. (2013). A net-
+work approach to psychopathology: New insights into clin-
+ical longitudinal data. PLoS ONE, 8(4), e60188. Retrieved
+from __http://www.plosone.org/article/infoM%3Adoi%2F10
+.1371%2Fjournal.pone.0060188
+
+Bylsma, L. M., Morris, B. H., & Rottenberg, J. (2008). A meta-
+analysis of emotional reactivity in major depressive disor-
+der. Clinical Psychology Review, 28, 676-691.
+
+Bylsma, L. M., Taylor-Clift, A., & Rottenberg, J. (2011). Emotional
+reactivity to daily events in major and minor depression.
+Journal of Abnormal Psychology, 120, 155-167.
+
+Cramer, A. O., Waldorp, L. J., van der Maas, H. L., & Borsboom,
+D. (2010). Comorbidity: A network perspective. Behavioral
+& Brain Sciences, 55, 137-150.
+
+First, M. B., Spitzer, R. L., Gibbon, M., & Williams, J. B. W.
+(2001). The Structured Clinical Interview for DSM-IV-TR
+Axis I Disorders. New York: Biometrics Research, New
+York State Psychiatric Institute.
+
+Gruber, J. (2011). Can feeling too good be bad? Positive emotion
+persistence (PEP) in bipolar disorder. Current Directions in
+Psychological Science, 20, 217-221.
+
+Hayes, S. C., Luoma, J. B., Bond, F. W., Masuda, A., & Lillis, J.
+(2006). Acceptance and commitment therapy: Model, pro-
+cesses and outcomes. Behaviour Research and Therapy,
+44, 1-25.
+
+Houben, M., Van den Noortgate, W., & Kuppens, P. (2013). The
+relation between patterns of emotional change and psycho-
+logical well-being: A meta-analysis. Manuscript submitted
+for publication.
+
+Izard, C. E. (2009). Emotion theory and research: Highlights,
+unanswered questions and emerging issues. Annual Review
+of Psychology, 60, 1-25.
+
+Kashdan, T. B., & Rottenberg, J. (2010). Psychological flexibil-
+ity as a fundamental aspect of health. Clinical Psychology
+Review, 30, 865-878.
+
+Kendler, K. S., Zachar, P., & Craver, C. (2011). What kinds of
+things are psychiatric disorders? Psychological Medicine,
+41, 1143-1150.
+
+Kessler, R. C., Chiu, W. T., Demler, O., & Walters, E. E. (2005).
+Prevalence, severity, and comorbidity of 12-month DSM-IV
+disorders in the National Comorbidity Survey Replication.
+Archives of General Psychiatry, 62, 617-627.
+
+Koval, P., Kuppens, P., Allen, N. B., & Sheeber, L. B. (2012).
+Getting stuck in depression: The roles of rumination and
+emotional inertia. Cognition & Emotion, 20, 1412-1427.
+
+Kuppens, P., Allen, N. B., & Sheeber, L. B. (2010). Emotional
+inertia and psychological maladjustment. Psychological
+Science, 21, 984-991.
+
+Kuppens, P., Sheeber, L. B., Yap, M. B., Whittle, S., Simmons,
+J. G., & Allen, N. B. (2012). Emotional inertia prospectively
+predicts the onset of depressive disorder in adolescence.
+Emotion, 12, 283-289.
+
+Larsen, R., & Diener, E. (1987). Affect intensity as an individual
+difference characteristic: A review. Journal of Research in
+Personality, 21, 1-39.
+
+Newman, M. E. J. (2010). Networks: An introduction. New York,
+NY: Oxford University Press.
+
+Nolen-Hoeksema, S. (2001). Gender differences in depression.
+Current Directions in Psychological Science, 10, 173-176.
+
+Nolen-Hoeksema, S., Wisco, B. E., & Lyubomirsky, S. (2008).
+Rethinking rumination. Perspectives on Psychological
+Science, 3, 400-421.
+
+Pe, M. L., & Kuppens, P. (2012). The dynamic interplay between
+emotions in daily life: Augmentation, blunting, and the role
+of appraisal overlap. Emotion, 12, 1320-1328.
+
+Rottenberg, J. (2005). Mood and emotion in major depression.
+Current Directions in Psychological Science, 14, 167-170.
+
+Rottenberg, J., Gross, J. J., & Gotlib, I. H. (2005). Emotion con-
+text insensitivity in major depressive disorder. Journal of
+Abnormal Psychology, 114, 627-639.
+
+Russell, J. A. (2003). Core affect and the psychological con-
+struction of emotion. Psychological Review, 110, 145-172.
+
+Thompson, R. J., Mata, J., Jaeggi, S. M., Buschkuehl, M., Jonides,
+J., & Gotlib, I. H. (2012). The everyday emotional experi-
+ence of adults with major depressive disorder: Examining
+emotional instability, inertia, and reactivity. Journal of
+Abnormal Psychology, 121, 819-829.

@@ -1,0 +1,1319 @@
+PLOS ONE
+
+®
+
+Check for
+updates
+
+in OPEN ACCESS
+
+Citation: Kuranova A, Wigman JTW, Menne-
+Lothmann C, Decoster J, van Winkel R, Delespaul
+P, et al. (2021) Network dynamics of momentary
+affect states and future course of psychopathology
+in adolescents. PLoS ONE 16(3): e€0247458.
+https://doi.org/10.1371/journal.pone.0247458
+
+Editor: Geilson Lima Santana, University of Sao
+Paulo Medical School, BRAZIL
+
+Received: April 24, 2020
+Accepted: February 7, 2021
+Published: March 4, 2021
+
+Peer Review History: PLOS recognizes the
+benefits of transparency in the peer review
+process; therefore, we enable the publication of
+all of the content of peer review and author
+responses alongside final, published articles. The
+editorial history of this article is available here:
+https://doi.org/10.1371/journal.pone.024 7458
+
+Copyright: © 2021 Kuranova et al. This is an open
+access article distributed under the terms of the
+Creative Commons Attribution License, which
+permits unrestricted use, distribution, and
+reproduction in any medium, provided the original
+author and source are credited.
+
+Data Availability Statement: As there is a
+possibility to identify participants based on their
+clinical and experience sampling data, the datasets
+generated and/or analyzed during the current study
+
+RESEARCH ARTICLE
+
+Network dynamics of momentary affect
+States and future course of psychopathology
+in adolescents
+
+Anna Kuranova®'*, Johanna T. W. Wigman’”, Claudia Menne-Lothmann®,
+
+Jeroen Decoster*, Ruud van Winkel®®, Philippe Delespaul@*”, Marjan Drukker®, Marc de
+Hert®*®, Catherine Derom®’°, Evert Thiery'', Bart P. F. Rutten®, Nele Jacobs*"”, Jim van
+Os*'3'4 Albertine J. Oldehinkel', Sanne H. Booij'?’'®, Marieke Wichers'
+
+1 University Medical Center Groningen, University Center Psychiatry (UCP) Interdisciplinary Center
+Psychopathology and Emotion Regulation (ICPE), University of Groningen, Groningen, The Netherlands,
+
+2 Department of Research and Education, Friesland Mental Health Care Services, Leeuwarden, The
+Netherlands, 3 Department of Psychiatry and Neuropsychology, School of mental health and neuroscience
+(MHeNS), Maastricht University, Maastricht, The Netherlands, 4 University Psychiatric Centre Sint-Kamillus,
+Bierbeek, Belgium, 5 Department of Neurosciences, Center for Public Health Psychiatry, KU Leuven,
+Leuven, Belgium, 6 Department of Neurosciences, Center for Clinical Psychiatry, KU Leuven, Leuven,
+Belgium, 7 Mondriaan Mental Health Care, Heerlen, The Netherlands, 8 Antwerp Health Law and Ethics
+Chair—AHLEC University Antwerpen, Antwerpen, Belgium, 9 Centre of Human Genetics, University Hospital
+Leuven, KU Leuven, Leuven, Belgium, 10 Department of Obstetrics and Gynecology, Ghent University
+Hospital, Ghent University, Ghent, Belgium, 11 Department of Neurology, Ghent University Hospital, Ghent
+University, Ghent, Belgium, 12 Faculty of Psychology and Educational Sciences, Open University of the
+Netherlands, Heerlen, The Netherlands, 13 Department of Psychosis Studies, Institute of Psychiatry, King’s
+Health Partners, King’s College London, London, United Kingdom, 14 Department Psychiatry, Brain Center
+Rudolf Magnus, Utrecht University Medical Centre, Utrecht, The Netherlands, 15 Center for Integrative
+Psychiatry, Lentis, Groningen, The Netherlands
+
+* a.kuranova @umcg.nl
+
+Abstract
+
+Background
+
+Recent theories argue that an interplay between (i.e., network of) experiences, thoughts
+and affect in daily life may underlie the development of psychopathology.
+
+Objective
+
+TO prospectively examine whether network dynamics of everyday affect states are associ-
+ated with a future course of psychopathology in adolescents at an increased risk of mental
+disorders.
+
+Methods
+
+159 adolescents from the East-Flanders Prospective Twin Study cohort participated in the
+study. At baseline, their momentary affect states were assessed using the Experience Sam-
+pling Method (ESM). The course of psychopathology was operationalized as the change in
+the Symptom Checklist-90 sum score after 1 year. Two groups were defined: one with a sta-
+ble level (n = 81) and one with an increasing level (n = 78) of SCL-symptom severity. Group-
+
+PLOS ONE | hittps://doi.org/10.1371/journal.pone.0247458 March 4, 2021 1/18
+ PLOS ONE
+
+Network affect dynamics and future psychopathology
+
+cannot be made publicly available based on
+European law. The study was approved by the local
+ethics committee (KU Leuven, Nr. B32220107766),
+which has also imposed the data availability
+restrictions. Data requests may be sent to the
+TWINSSCAN general contact email address
+“info@twinsscan.eu”.
+
+Funding: Acknowledgments: The East Flanders
+Prospective Twin Survey (EFPTS) is partly
+supported by the Association for Scientific
+Research in Multiple Births and the TwinssCan
+project is part of the European Community’s
+Seventh Framework Program under grant
+agreement No. HEALTH-F2-2009-241909 (Project
+EU-GEl); M. Wichers was supported by funding
+from the European Research Council (ERC) under
+the European Union’s Horizon 2020 research and
+innovative programme (ERC-CoG-2015; No
+681466); J.T.W Wigman was supported by the
+Netherlands Organization for Scientific Research
+(NWO) (Veni grant no. 016.156.019); Ruud van
+Winkel was supported by a FWO Senior Clinical
+Fellowship (3M150375). The funders had no role in
+Study design, data collection and analysis, decision
+to publish, or preparation of the manuscript. We
+would like to thank the Center for Information
+Technology of the University of Groningen for their
+support and for providing access to the Peregrine
+high performance computing cluster.
+
+Competing interests: The authors have declared
+that no competing interests exist.
+
+level network dynamics of momentary positive and negative affect states were compared
+between groups.
+
+Results
+
+The group with increasing symptoms showed a stronger connections between negative
+affect states and their higher influence on positive states, as well as higher proneness to
+form ‘vicious cycles’, compared to the stable group. Based on permutation tests, these dif-
+ferences were not statistically significant.
+
+Conclusion
+
+Although not statistically significant, some qualitative differences were observed between
+the networks of the two groups. More studies are needed to determine the value of momen-
+tary affect networks for predicting the course of psychopathology.
+
+Introduction
+
+Mental disorders place a heavy burden both on individuals and society [1]. First symptoms of
+psychopathology often emerge during childhood and adolescence [2, 3]. For some adolescents,
+these symptoms persist and may develop into fully manifested mental disorder later in life.
+There are various risk factors of future mental illness. Some are genetic [4], whereas others are
+environmental, such as early life adversities and traumas [5-9]. Yet, even among individuals
+exposed to these risk factors, only a small proportion develops clinical levels of psychopathol-
+ogy, accompanied by impairment and need for care [6]. For the purpose of prevention, it is
+crucial to understand why some people develop more severe symptoms and others do not.
+
+A better understanding of the underlying mechanisms of psychopathology may improve
+adequate identification of children and adolescents at risk for developing (severe) psychopa-
+thology. One approach to uncovering these mechanisms is zooming in to the moment-to-
+moment patterns of affect, experiences, and thoughts in the flow of daily life. Such dynamical
+patterns may be effectively assessed with experience sampling (ESM) design, i.e. collecting
+intensive time-series data on momentary experiences multiple times during the day [10]. Pre-
+vious studies using ESM have shown that changes at the level of daily life experiences are asso-
+ciated both with risk factors and future development of psychopathology. Among the risk
+factors shown to be associated with the altered dynamics of affect states in daily life are genetic
+risk [11-13], certain personality traits [14], childhood adverse experiences [15-17], and poor
+sleep quality [18-20]. In turn, the altered dynamics of affect states in daily life have been
+shown to predict the emergence of new symptoms later [21-24]. Taken together, these find-
+ings suggest that the way in which momentary experiences interact with each other in daily
+life, i.e. the dynamics between moment-to-moment affect states, may influence the impact of
+risk factors on the later manifestation of psychopathology.
+
+If part of the underlying mechanisms of psychopathology can be inferred from the daily life
+dynamics of affect states, then the important question arises as to how these dynamics in such
+short-lived experiences can substantially influence the future development of symptoms. One
+theory is that the change in a single affect state can set in motion a cascade of changes in other
+experiences and behaviors [25, 26]. For example, for some people, feeling lonely may induce
+states of feeling down and irritated. These affect states, in turn, may re-activate feeling lonely.
+
+PLOS ONE | hittps://doi.org/10.1371/journal.pone.0247458 March 4, 2021
+
+2/18
+ PLOS ONE
+
+Network affect dynamics and future psychopathology
+
+Such mutual influences, when occurring repeatedly, can lead to ‘vicious cycles’ of affect states
+that keep reinforcing each other, trapping a person in a negative flow. Yet, for others, feeling
+lonely may pass without activating other negative affect states, or may be neutralized by a later
+positive affect state (e.g. feeling cheerful after seeking for social support from peers). Moreover,
+the ability of positive states to interrupt or downregulate the negative “vicious cycles” may be
+associated with resilience to psychopathology and may represent an important part of its
+mechanism. Thus, the impact of a minor mood perturbation may vary depending on the
+dynamics of affect states. To investigate these dynamics, we need to assess the whole system of
+interacting positive and negative affect states.
+
+These ideas align with the network theory of psychopathology [27, 28]. According to this
+theory, symptoms of mental disorders may emerge not due to some “hidden”, underlying
+cause, but due to direct interaction with each other. For example, insomnia may influence per-
+formance at school and peer relationships, and through that increase rumination and lower
+self-esteem. These effects can be visualized as a network of interacting symptoms or states, and
+analyzed as a whole system as well as individual elements. Empirical support for this approach
+is growing. Several recent studies suggest that negative affect states influence each other more
+strongly and might have a higher tendency to form ‘vicious cycles’ in individuals with psycho-
+pathology compared to healthy controls [25, 29-32] although other studies found mixed
+results [33, 34] or did not find this effect [35, 36]. However, because most of these studies com-
+pared patients or high-risk individuals with healthy controls (or patients with high and low
+level of symptoms [36]), it is possible that the observed differences in affect dynamics between
+these groups are the result of already developed psychopathology, rather than be the cause of
+it. To determine whether characteristics of the dynamics between momentary affect states are
+key factors in the developmental process of symptom formation, we need to examine whether
+these characteristics are already present in populations at increased risk for psychopathology,
+before more severe symptoms arise. The reasoning behind including individuals at increased
+risk is that any underlying vulnerability for, as well as resilience against, psychopathology can
+be exposed only when challenged by risk factors. Because (i) adolescence is a sensitive period
+for the development of psychopathology in which symptoms often emerge for the first time
+[37, 38], and (ii) a low level of happy childhood experiences is a known risk factor for psycho-
+pathology [39, 40], adolescents with low levels of happy childhood experiences represent a
+well-suited population for this purpose.
+
+Therefore, we aim in this paper to explore whether the dynamic network structure of affect
+states differs between adolescents who develop higher level of symptoms over time and adoles-
+cents with a relatively stable level of symptoms. We used a prospective research design in an
+adolescent population with experience sample (ESM) data collection carried out at baseline
+and with follow-up assessments to differentiate the course of future psychopathology. We
+hypothesize that affect state networks of individuals who are vulnerable to the development of
+future psychopathology will show dynamics of affect states that are prone to the development
+of vicious cycles. For such individuals, negative affect states will have strong mutually reinforc-
+ing connections. Furthermore, we hypothesize that in networks of individuals who are resilient
+against psychopathology (i.e. do not develop new or more severe symptoms despite being at
+an increased risk), positive affect states have the potential to interfere with such vicious cycles
+by down-regulating one or more of these negative affect states. Stated specifically in terms of
+network characteristics, we expect that the network of affect states in adolescents with a future
+increase in the level of symptoms compared to the network of affect states of adolescents with
+a relatively stable symptom level (i) contains stronger connections between negative affect
+states, (ii) contains positive affect states that are less influential in the network, and (iii) has a
+dynamical structure between affect states that predisposes to vicious cycles.
+
+PLOS ONE | hittps://doi.org/10.1371/journal.pone.0247458 March 4, 2021 3/18
+ PLOS ONE
+
+Network affect dynamics and future psychopathology
+
+Methods
+
+Sample and design
+
+Data were obtained from the longitudinal prospective study “TWINSSCAN’ (“http://www.
+twinsscan.eu’; website only in Dutch), a cohort nested in the East-Flanders Prospective Twin
+Study (EFPTS), a register of all multiple births in the Province of East Flanders, Belgium, from
+1964 onwards [41, 42]. In 2010 potential participants for the TWINSSCAN cohort were
+recruited by sending invitation letters to all EFPTS participants who were between the ages of
+15 and 18 years. Furthermore, to recruit more twins and their non-twin siblings between ages
+of 15 and 34, a general invitation was included in a newsletter from the EFPTS. All participants
+provided their written informed consent. For those participants who were aged below 18
+years, their parents or caretakers provided additional written consent. The local ethics com-
+mittee (KU Leuven, Nr. B32220107766) approved the study.
+
+The TWINSSCAN sample enrolled in the baseline assessment comprised 839 people and
+involved a broad range of measurements, including clinical interviews, questionnaires, experi-
+ments and an ESM period [43]. For the current paper, additional inclusion criteria applied
+based on available data. First, participants needed to score below the median on items assess-
+ing the happiness of their childhood (see Measures for more details), leading to the exclusion
+of 388 individuals. Second, they needed complete data on the Symptom Check List-90 (SCL-
+90) [44] at both baseline (TO) and a follow-up wave after one year (T1), leading to the exclusion
+of another 202 individuals. Third, we excluded 10 individuals with more than 30% missing
+ESM data points. Altogether, this resulted in a sample of 239 participants, who were grouped
+according to their pattern of SCL-90 symptom change over one year (see details below). This
+change score was divided into tertiles, representing groups with decreasing, stable and increas-
+ing levels of symptoms. The group with decreasing symptoms was excluded for theoretical rea-
+sons (see details below), resulting in a final sample of 159 individuals, categorized into a group
+with Stable symptom levels (n = 81) and a group with Increasing symptom levels (n = 78).
+
+Measurements
+
+Quality of childhood experiences. As our research question can best be examined in a
+sample at risk for psychopathology, we used four items of the Dutch questionnaire on adverse
+childhood experiences (JTV) [45] to assess the quality of childhood experiences, namely the
+items: ‘I had a happy childhood’, ‘my parents greatly loved each other’, ‘I got the attention that
+I needed’, and ‘my privacy was respected’. These four items were over 90% correlated with the
+overall score of the JTV questionnaire that was used in a previous twin sample of the EFPTS
+(see Jacobs et al. [46], for a description of this sample. In addition, they showed optimal varia-
+tion in the studied population, as they are phrased positively. Therefore, for the current data
+collection, it was decided to assess only these four items, as it relieves the participants’ burden
+of filling out questionnaires, but retains essential information. These items were measured
+with five points Likert scale ranging from 1 (“Never”) to 5 (“Very often”).). These four items
+had good internal consistency (Cronbach alpha for these four items in our sample was 0.83
+(Confidence Interval: 0.80—0.85)). The sum score of the four items was calculated, and a
+median split of the sum score of the four items was used to define a high-scoring and low-scor-
+ing individuals on safe and happy childhood experiences, of whom the former were excluded
+from further analysis (see “Sample and design’).”
+
+Subclinical psychopathology. The presence of general psychopathological symptoms was
+assessed using the Symptom Check List-90 (SCL-90) [44]. The items assess the level of distress
+associated with general and specific psychopathological symptoms with 5 points Likert scale
+
+PLOS ONE | hittps://doi.org/10.1371/journal.pone.0247458 March 4, 2021 4/18
+ PLOS ONE
+
+Network affect dynamics and future psychopathology
+
+ranging from 1 (“Not At All”) to 5 (“Extremely”). Following previous research suggesting that
+all 90 items measure one common construct of psychopathological problems [47], a sum score
+of all 90 items was used in the analysis. All participants in the final sample (see Results for
+detailed description) completed all 90 items.
+
+Group composition. To assess change in the level of symptoms, we subtracted the SCL-90
+scores at TO from the SCL-90 scores at T1 for each participant. After that, these change scores
+were divided into tertiles, resulting in 3 groups defined by a reduction (Decrease group, mean
+SCL-90 sum score change = -41.48 points, SD = 33.09, n = 80;), minimal change (Stable group,
+mean SCL-90 sum score change = -5.02 points, SD = 4.95, n = 81) and an increase in symptom
+level (Increase group, mean SCL-90 sum score change = 25.66, SD = 22.5, n = 78) (see also
+Table 1). As the group with a future symptom reduction, the Decrease group (tertile 1) reported
+significantly higher scores on the SCL-90 at baseline than the other two groups (see Results for
+details), we excluded the Decrease group. The reason for exclusion is that when comparing net-
+works of groups of people with different levels of symptoms, we cannot eliminate the possibility
+that the differences in estimated network paths are explained by differences in variances
+between the groups in ESM items [48]. Therefore, this group could not be used to test the cur-
+rent hypothesis. Hence, we analyzed data from the Stable and the Increase groups only, leaving
+159 individuals for the final analysis (for details see Results section).
+
+The experience sampling method. In this study, participants received a custom-made
+PsyMate™ device, developed for the specific purpose of collecting ESM data (www.psymate.
+eu). For six days, participants completed short questionnaires (around 40 items, with addi-
+tional items on mornings and evenings) about their current affect states, thoughts, daily life
+context and behavior. The devices were programmed to beep ten times a day at semi-random
+moments between 07:30 am and 10:30 pm, with the 90 minutes between beeps on average. Par-
+ticipants were instructed to fill out the diaries immediately after the beep. Only observations
+with all present ESM items were included in the analysis. Similar to previous studies, we have
+excluded participants with more than 30% missing observations [11, 49]. More details regard-
+ing the procedure of ESM methodology can be found elsewhere [10, 21].
+
+ESM measures. We selected ESM items based on both theoretical and methodological cri-
+teria. First, we only selected experiential affect states (not thoughts, behaviors or context infor-
+mation). Second, of these, we selected at least one item from each quadrant between the axes
+of “pleasure” and “arousal” as defined in the circumplex model of affect [50, 51]. Additionally,
+we added the items “Down”, and an item “Energetic”, as they reflect common transdiagnostic
+symptoms [52, 53]. Third, to avoid a floor effect because of insufficient variance [48], we chose
+items with a within-person standard deviation (SD) of around 1.0 (see Table 1). Fourth, we
+chose affect states that were not highly correlated with each other (r < 0.5), so that all items
+captured different aspects of amomentary mental experience. Fifth, to ensure that the differ-
+ences between group networks originated from differences in the dynamics between affect
+states, we checked whether the mean levels of the selected items did not differ between the
+Increase and Stable groups, and whether the within-person SDs of the selected items did not
+differ more than 10-12%. As a result, we included the following six affect states: ‘cheerful,’
+‘relaxed, ‘energetic,’ ‘irritated,’ “down, and ‘lonely.’ The items were formulated as follows: ‘At
+this moment I feel... (Down’, for example)’. The items were assessed with 7 points Likert
+scales from 1 (‘not at all’) to 7 (very much’).
+
+Analysis
+
+We sought to investigate the dynamic interrelations between affect states and visualize those
+interrelations as networks of affect states for each group. The ESM data had a multilevel
+
+PLOS ONE | hittps://doi.org/10.1371/journal.pone.0247458 March 4, 2021 5/18
+ PLOS ONE
+
+Network affect dynamics and future psychopathology
+
+Table 1. Sociodemographic characteristics, level of happy childhood experiences (JTV), Symptom Check List-90 scores, and mean levels and SDs of ESM variables
+
+for the Stable and Increase groups.
+
+Measure The Stable group The Increase group
+Number of people 81 78
+% and n females 69.14% (56) 62.82% (49)
+% and n education Low education 9.88% (8) 5.13% (4)
+
+Middle education 61.73% (50) 70.51% (55)
+
+High education 28.40% (23) 21.79% (17)
+
+No data 0.00% 2.56% (2)
+Ethnicity Caucasian 79 77
+
+Asian 1 0
+
+No data 1 1
+
+M SD Range M SD Range
+Age 17.86 3.96 14-33 16.92 3.58 15-34
+JTV scores* 15.58 1.56 11-17 14.95 2.14 7-17
+SCL-90 at baseline 126.8 26.1 92-214 130.24 34.0 90-245
+SCL-90 change -5.04 4.95 -13 - +4 +25.7 22.5 +5 - +105
+SCL-90 at the follow-up* 121.78 25.8 90-212 155.90 42.4 98-305
+Number of filled-in ESM observations 43.4 10.5 22-76 41.7 11.2 20-79
+Number of filled-in 2 consecutive ESM observations 32.4 12.1 11-67 31.0 13.6 7-76
+M SD within-person M SD within-person
+
+Cheerful 4.76 1.16 4.53 1.29
+Relaxed 5.03 1.15 4.86 1.26
+Energetic 4.63 1.09 4.34 1.14
+Irritated 2.24 1.20 2.41 1.34
+Down 1.79 .96 1.91 .96
+Lonely 1.69 1.04 1.86 1.09
+
+Note: * Corresponds to a significant difference (<0.05) between Stable and Increase groups.
+
+JTV is 4 items (‘I had a happy childhood’, ‘my parents greatly loved each other’, ‘I got the attention that I needed’, and ‘my privacy was respected’) from Dutch
+
+questionnaire on adverse childhood experiences, with higher scores reflecting higher level of happy childhood experiences (Arntz et al., 1996). SCL-90 is from Symptom
+Check List-90 (SCL-90) questionnaire (Derogatis, 1977), sumscore of all items.
+
+https://doi.org/10.1371/journal.pone.0247458.t001
+
+structure (multiple observations (level 1) within one person (level 2), and multiple persons
+within a twin pair (level 3)). Therefore, we used autoregressive multilevel linear models to test
+how each affect state (e.g. “cheerful’) at each time point (t) was predicted by itself and all other
+affect states at the previous time point (t-1) (see the Fig 1 for the regression equation).
+
+Before the modelling, we person-mean centered the selected ESM items in order to keep
+only the within-person effects in the models. We chose not to standardize as obvious reasons
+to standardize did not apply. All the variables were on the same 7-point Likert scale with simi-
+lar anchors, and we selected items with similar variance [54, 55]. Hence, b-coefficients from
+the models can be straightforwardly compared across individuals and ESM variables. Further-
+more, beep lags over the night were excluded. All analyses were conducted in R with the ‘nlme’
+package [56], see S1 Data for R script.
+
+The models were fitted separately for the Stable and the Increase group. Resulting b-coeffi-
+cients were used as values representing the effects of affect states on each other, and those val-
+ues were used to construct dynamical networks for the two groups.
+
+In the multilevel models, a separate variable representing time (the beep number over the
+whole ESM period) was added in order to account for possible trends over time. For the
+
+PLOS ONE | hittps://doi.org/10.1371/journal.pone.0247458 March 4, 2021 6/18
+ PLOS ONE Network affect dynamics and future psychopathology
+
+The example equation for the model of “Cheerful”:
+
+Cheerful, = (Bot@j,) + (By + Usi)* Cheerful 99 + (Bo + Uri)” Relaxed.
+
+39 + (B3 + U 3ijx) ~ Energetic),'°9 + (Bz + U aij) * Irritated j,.'°9 ~
+~ (Bs + U sii) : Down,'29 + (Be + U 6x) * Lonely! + (B7+U 7x) * Time jx;
+
+With &, being an intercept, &,— &; being regression coefficients, i corresponds to
+the level of assessments, j for the person level, k for twin level, U,jj,_ U7, stands
+
+for the random slopes, and ej, for the error.
+Fig 1.
+https://doi.org/10.1371/journal.pone.0247458.g001
+
+random effects on both the individual and twin level, we added a random intercept. On the
+level of individuals, we also added random slopes for time and for all ESM variables in order to
+correct for individual differences in trends in these variables. For the random effects covariance
+matrix, we used a diagonal structure [56]. For the residual covariance matrix, we used a contin-
+uous AR(1) correlation structure [56]. Both structures were chosen based on the possibility for
+the model convergence and the best model fit based on AIC comparison. For all 12 models, the
+assumptions of normality of the residuals distributions were checked with visual inspection.
+
+Networks of affect states
+
+Each ESM affect state variable was depicted as an individual node in the network and the b-
+coefficients of the fixed effects (i.e. the time-lagged effects in the six multilevel models) repre-
+sented directed connections (edges) in the networks. The networks were visualized using the
+‘qgraph’ R package [57]. For a more straightforward visual comparison of the networks, the
+maximum strength of the connections was set equal in both networks; this insured the match
+between the thickness of the edge to the same numeric value for both networks [57].
+
+Comparison of group networks
+
+We used both descriptive assessment and a permutation testing procedure (by W. Viechtbauer
+[25]) for the statistical comparison of the networks. The idea behind the permutation approach
+is to randomly combine outcomes with predictors in repeated permutations (here 10000 times)
+and test the probability of obtaining the same results seen in the actual data (for details see S1
+Text). Permutation tests in dynamic networks have been scarcely applied [25, 34, 58]. Also, the
+precise power the procedure needs to discriminate effects in dynamic networks is still unknown.
+One study simulated power for this but only for cross-sectional data networks, and not for
+dynamic ones [59]. Therefore, we decided to consider both descriptive network outcomes, simi-
+lar to previous network studies [25, 29-32, 34] as well as statistic network outcomes.
+
+For the first aim, to investigate whether the network of affect states of individuals who will
+develop more symptoms over time (Increase group) contained stronger connections between
+negative affect states compared to network of affect states of individuals with the relatively sta-
+ble level of symptoms (Stable group), we used a permutation test to quantitatively compare the
+strength of the connections between negative affect states for the Stable and the Increase
+groups. To this end, we calculated and compared sums of all absolute b-coefficients from the
+regression models for all the paths between negative nodes. All estimated network paths were
+chosen based on the common practice in the field to use all available information [32-34]. For
+
+PLOS ONE | hittps://doi.org/10.1371/journal.pone.0247458 March 4, 2021 7/18
+ PLOS ONE
+
+Network affect dynamics and future psychopathology
+
+the second aim, to investigate whether positive affect states are less influential in the networks
+of affect states in the Increase group compared to the Stable group, we compared the two
+groups in terms of the influence of the positive affect states. To do that, we used a permutation
+test to quantitatively compare (i)) the relative importance of the positive nodes in the net-
+works, based on their out-strength centrality measures; (ii) the overall effect of the positive
+states ‘cheerful’, ‘relaxed’, “energetic’) on the negative states (‘irritated’, ‘down’, ‘lonely’) and
+vice-versa. Out-strength centrality measure is a network characteristic that equals the sum of
+all connections going from the node of interest to the other nodes, and reflects the overall
+influence of this node on the other ones. Specifically, the out-strength centrality was calculated
+by summing the b-coefficients from the regression models for the indicated paths. All of these
+differences were compared both descriptively and with the permutation test. For the third aim,
+to investigate whether the network of affect states of the Increase group has a dynamical struc-
+ture that predisposes more strongly to vicious cycles than of the Stable group, the networks of
+two groups were qualitatively compared, based on visual inspection (without using a permuta-
+tion test). For this aim, only significant paths (p < .05) were visualized and considered, as
+visual inspection of all available paths is not informative. Moreover, to ensure the robustness
+of the results of the visual inspection, we performed a limited version of multiverse analysis
+(based on [60]) to test the influence of different group compositions based on different cut-
+offs for the SCL-90 change score. A detailed explanation of the calculations, the visualization,
+the assessment and the limited multiverse analysis can be found in the supplementary materi-
+als (S1 and S2 Texts and S3 Table and S1 Fig).
+
+Results
+Groups
+
+The final sample (n = 239) was grouped based on tertiles of change in their psychopathological
+trajectory over the course of one year. This led to three groups: a Stable group (n = 81) with a rel-
+atively small decrease in symptoms (for details see Table 1);, an Increase group (n = 78) with a
+relatively large increase in symptoms (for details see Table 1), and a Decrease group (n = 80),
+with a relatively large decrease in symptoms (Mage = 17.84, age range: 14-33 years, SD = 3.84;
+66.25% females). As the latter subgroup had significantly (p < .0001) higher SCL-90 scores at
+baseline (mean level 168.3, corresponding to “high” symptom level in the normal population
+[61]) than the other two groups, i this group was excluded from analyses. The Stable and the
+Increase group did not differ significantly on the baseline SCL-90 score (mean level of SCL-90
+for the Stable group = 126.8, for the Increase group = 130.24, difference = 3.44, p = .48), and
+their levels correspond to “mean”/"above mean” levels in a normal population [61]. At T1, the
+level of symptoms of the Increase group was equal 155.90 (corresponding to “high” levels in the
+normal population [61]) and significantly higher than that of the Stable group (mean level
+121.78) with difference = 34.13, p<0.001 which roughly corresponds to an increase of one sever-
+ity category [61]. Trajectories of psychopathology for the two groups are presented in Fig 2.
+
+The Stable and Increase groups did not significantly differ in socio-demographic characteris-
+tics and mean levels of each ESM variable at TO (Table 1). Ratios of within-person variances for
+all ESM variables did not differ more than by 10.1% between groups. The Increase group had
+significantly lower level of happy childhood experiences (JTV) (difference = 0.63, p = 0.04)
+
+Dynamic affect networks
+
+The networks of affect states for the Stable and Increase groups are presented in Fig 3 (signifi-
+cant paths) and S1 Fig (all paths). S1 Table shows a table of the b-coefficients of the time-lagged
+
+PLOS ONE | hittps://doi.org/10.1371/journal.pone.0247458 March 4, 2021 8/18
+ PLOS ONE
+
+Network affect dynamics and future psychopathology
+
+SCL-90 sum score
+
+Group
+ey | (ate — Stable group
+— Increase group
+
+TO 71
+
+=k
+
+i]
+
+o
+'
+
+Fig 2. The change in SCL-90 mean sum score for the Stable and the Increase groups. In this figure, the y-axis
+represents the total sum score of the SCL-90 items; x-axis represents the baseline (TO) and one year (T1) assessments.
+The lines represent the change in the mean number of symptoms for the Stable group (lower red line) and for the
+Increase group (upper blue line). Vertical lines represent the standard deviations of the mean SCL-90 scores for the
+Stable group (a red line slightly to the left) and the Increase group (a blue line slightly to the right) on TO and T1. The
+Stable and the Increasing group did not differ significantly on the SCL-90 score (difference = 3.44, p = .48) at TO At T1,
+the level of symptoms of the Increase group was significantly higher than of the Stable group with difference = 34.13
+(p<0.001), which roughly corresponds to the differences in severity categories between «above middle» and «high»
+(Arrindell et al., 2003)).
+
+https://doi.org/10.137 1/journal.pone.0247458.g002
+
+effects from multilevel models. For all models, assumptions of normality of the residuals distri-
+butions were met.
+
+Comparison of the group networks. For the first aim, we compared the total strength of
+the network connections between negative affect states (negative connectivity) for the Stable
+and the Increase groups. The network of the Increase group had a more than twice as high
+level of connections between negative affect states (.29) than the network of the Stable group
+(.13). This difference (.17; 229%) was not confirmed statistically (S2 Table).
+
+For the second aim, we compared the influence of positive affect states in the networks
+between the Stable and the Increase group. First, we compared the relative importance of the
+positive nodes in the networks, based on their out-strength centrality measures. The largest
+difference was found for the node ‘cheerful’, with a higher value in the Stable group (.28 in the
+Stable group, .18 in the Increase group, difference = .10, 158%). For ‘energetic’, the relative
+importance of this node was higher in the Increase group (.24 in the Stable group, .36 in the
+Increase group, difference = .12, 148%), and for ‘relaxed’, values were almost similar for the
+
+The Stable group The Increase group
+
+( Inl wn mene 17
+q)
+
+Fig 3. Networks of affect states: Significant paths. In this figure, affect states networks are visualized for the Stable
+and the Increase groups. Only significant paths (p<0.05) are presented. Presented are temporal networks, meaning
+that the connections represent the effect of the variable at time point t-1 on the variable at the time point t. Solid green
+edges represent positive connections from one node to the other, meaning that the increase in one node variable at
+time point t-1 is associated with increase in the other variable at time t. Dashed red edges represent negative
+connections, meaning that the decrease in one node variable at time point t-1 is associated with decrease in the other
+variable at time t. Circular edges represent autocorrelations, i.e. the effect of the variable at time point t-1 on itself at t.
+‘Che’ -’cheerful’, ’rlx’ -’relaxed’, ’enr’ -’energetic’, dwn’ -’down’, ‘irr’ -’irritated’, *Inl!—’lonely’.
+
+https://doi.org/10.1371/journal.pone.0247458.g003
+
+PLOS ONE | hittps://doi.org/10.1371/journal.pone.0247458 March 4, 2021 9/18
+ PLOS ONE
+
+Network affect dynamics and future psychopathology
+
+two groups (.12 in the Stable group, .10 in the Increase group, difference = .02, 124%). None of
+the above differences were significant (S2 Table).
+
+Second, we compared the overall effect of the positive states (“cheerful’, ‘relaxed’, “energetic’)
+on the negative states ‘irritated’, ‘down’, ‘lonely’) and vice-versa (Fig 4). We found that the
+positive affect states were more strongly associated with lower subsequent levels of negative
+ones in the Stable group than in the Increase group (For the Stable Group = .21, for the
+Increase group = .16, difference = .06, 136%). Negative affect states were more strongly associ-
+ated with lower subsequent levels of positive affect states in the Increase group (For the Stable
+Group = .13, for the Increase group = .21, difference = .09, 166%). However, these differences
+were again not significant according to the permutation test (S2 Table).
+
+Lastly, for the third aim, we compared the networks of the affect states for the Stable and
+the Increase groups descriptively for the presence of dynamical structures that can predispose
+to vicious cycles. Visual inspection of the networks revealed qualitative similarities and differ-
+ences in the structure of the networks between the groups (see Fig 3). We observed in the net-
+works of both groups similar positive (covering nodes ‘cheerful’, ‘relaxed’, “energetic’) clusters
+of interconnected nodes. Furthermore, in both groups, the positive cluster had a connection
+associated with a subsequent reduction in the negative nodes, namely to node ‘Down’ in the
+Stable group, and to node ‘Irritated’ in the Increase group. However, the Increase group had
+an additional cluster of interconnected negative nodes (covering nodes ‘down’, ‘lonely’, and
+irritated’), with bidirectional paths between ‘Down’ and ‘Lonely’. The negative nodes in the
+Stable group, however, were not connected and could therefore not form a vicious cycle. These
+networks differences were robust to the changes in group allocations based on the limited mul-
+tiverse analysis (see S2 Text and S3 Table for details).
+
+Discussion
+
+The purpose of this study was to investigate whether the presence of differences in the dynamic
+networks of momentary affect states precedes the development of more severe psychopatho-
+logical symptoms in adolescents at an increased risk. In this study, we examined, both statisti-
+cally and descriptively, whether differences in the dynamical networks of affect states at
+baseline can be found between groups of adolescents with increasing and relatively stable levels
+of psychopathological symptoms over one year. For aims one and two of the study, although
+
+The combined effect of positive The combined effect of negative
+states on negative states states on positive states
+
+P=0.59 P= 0.50
+
+| Difference = 0.06 Difference = 0.09
+
+-0 25
+
+The sum of outgoing connection values
+
+The Stable group s#Thelncrease group
+
+Fig 4. The combined effect of the positive states on the negative states and vice-versa for the Stable and the
+Increase groups. In this figure, the y-axis represents the summed value of all outgoing connections from the positive
+affect stated towards negative ones, and vice-versa. The light-grey bar represents the effect for the Stage group, and the
+black bar the Increase group. Depicted differences between groups are not significant according to the permutation test.
+
+https://doi.org/10.1371/journal.pone.0247458.g004
+
+PLOS ONE | hittps://doi.org/10.1371/journal.pone.0247458 March 4, 2021 10/18
+ PLOS ONE
+
+Network affect dynamics and future psychopathology
+
+all differences were consistent with the hypothesized expectations, the observed quantitative
+differences were not confirmed by statistical tests. For the third aim of the study that was
+assessed descriptively, results cautiously suggest that, compared to adolescents who appeared
+resilient against psychopathology, the dynamic structure of affect states in adolescents who
+developed more severe psychopathology over time had a dynamical structure between affect
+states that could predispose to vicious cycles.
+
+Comparison to previous studies
+
+The null results for the quantitative aims in our study are partly inconsistent with several previ-
+ous studies that suggests the existence of both quantitative and qualitative differences between
+are several explanations for this discrepancy. First, most of the previous studies compared the
+networks of individuals based on current levels of psychopathology and did not focus on the
+development of future psychopathology. Some other studies comparing groups based on the
+follow-up measures also did not find any differences [36] or found mixed results [34]. In addi-
+tion, none of these studies can be directly compared to the current one, as they either com-
+pared patients with healthy controls [25, 29-31], or followed patients with MDD through the
+course of recovery and treatment [34, 36]. In our study, however, the dynamics of affect states
+were assessed a year before the new symptoms arose. Hence, the observed quantitative differ-
+ences at this stage might be too small to be detected by permutation testing, as the differences
+in effects were quite large (~160% on average) and almost all effects were in the expected direc-
+tion. This suggests that there may be quantitative differences, but that the permutation tests
+were too power-hungry to detect them. Moreover, regarding these effect sizes and their rele-
+vance, it is yet unknown how large differences in network dynamics need to be to have the
+potential to influence the future course of symptoms. It is a well-known characteristic of com-
+plex systems that even the slightest perturbation may lead to dramatic differences over time
+[63]. Therefore, it is possible that the observed effects are enough to be relevant over time,
+even though they are not statistically significant at the moment of assessment.
+
+Other, more methodological, explanations of the null findings in this study (opposed to
+most previous studies) may relate to the fact that some of the previous studies did not use any
+statistical tests and showed different mean levels of ESM affect states, which can lead to differ-
+ent variances between groups because of floor and ceiling effects. Therefore, contrasting levels
+of means and variances of ESM items in previous studies may have contributed to artificial dif-
+ferences in connection strengths [48], and hence, may have led to the disparate networks and
+unrealistically large effect sizes. In the current study, we tackled this problem by using groups
+of individuals with similar levels means and variances of ESM variables.
+
+Considering the qualitative findings, they were in line with the theoretical expectations and
+previous research [25, 26]. A main advantage of the network approach is the possibility to
+investigate the pathways in a network, i.e. which variables are connected to which ones, in
+which directions and how. To compare such pathways within networks, no statistical test cur-
+rently exists, and yet these pathways may contain essential information about the mechanisms
+of psychopathology. Therefore, we argue that even in the absence of quantitative differences
+between networks, the qualitative differences (based on the visual assessment) may be impor-
+tant to take into account.
+
+Qualitative results: Negative cluster and possibilities for ‘vicious cycles’
+
+Based on visual assessment, the most striking visual difference between groups was the absence
+of the negative affect cluster in the network of the Stable group, because the negative items
+
+PLOS ONE | hittps://doi.org/10.1371/journal.pone.0247458 March 4, 2021 11/18
+ PLOS ONE
+
+Network affect dynamics and future psychopathology
+
+were not connected to each other in this group. In the Increase group, on the contrary, the
+negative items were interconnected, and there was a loop of reinforcing connections (‘vicious
+cycle’) between the items “Down” and “Lonely”. If negative affect states can easily trigger other
+negative states, then a vicious cycle may ensue that, by the accumulation of these small effects,
+may contribute to the development of symptoms. In the current results we see that a network
+structure that could facilitate the emergence of such ‘vicious cycles’ between affect states was
+present only in the Increase group. Thus, these findings partly aligns with theory suggesting
+that “vicious cycles” and high clustering between negative states may be present in psychopa-
+thology [26, 64, 65]. Furthermore, these findings further support previous results on differ-
+ences in network structures between depressed and healthy people, which also showed more
+connectivity between negative affect states in the depressed groups than in the healthy groups
+[29, 30]. In the current study, however, in contrast to the previous studies, we can be sure that
+differences in the structure of the network were not the result of baseline differences in symp-
+tom levels. Thereby, this study adds important information to this field.
+
+Methodological issues
+
+There are several limitations to our study. First, the sample used had several features that limit
+generalizablility of the findings: (I) the data came from a twin sample, and the dynamics of
+affect states may have a shared hereditary component. However, we could only use those par-
+ticipants who also had follow-up measurements which lead to a sample size that was too small
+to address this.; (II) the sample consisted almost exclusively of Caucasian participants, which
+limits the generalizability of the finding to other populations, and (III) although most partici-
+pants were adolescents (mean age = 17.46), emerging adults were also included in the
+TWINSSCAN cohort. We decided to keep their data in the analysis because we were interested
+in the sensitive period for the development for psychopathology, which is broader than adoles-
+cence per se [37, 66]. Moreover, keeping these participants slightly increased the power of our
+study and its consistency with other studies using the same dataset.
+
+Second, we made several methodological decisions that may have impacted the results. (I)
+the sample was created by selecting the 50% of people with the lowest level of happy childhood
+experiences, and the SCL-90 change scores were split into tertiles. Although these decisions
+are, to a certain extent, arbitrary, they were based on theoretical (e.g., interest in those at high-
+est risk) as well as methodological (e.g., optimising subgroup size) reasons. In addition, the
+results were robust to changes in group allocations, supporting our confidence in the choices
+made. The limited multiverse analysis that we ran to investigate the potential effect of our sub-
+group selection strengthens us in our assumption that our choice was solid (see S2 Text and $3
+Table). (II) Due to the rigorous selection of the ESM items, it is possible that some affective
+experiences that play an important role in the network were not included. To minimize this
+possibility, we included affect states out of all four quadrants of the affect grid from the model
+of Barrett & Russell (1998) [50]. (III) we used the total score of the SCL-90 as an indicator of
+general psychopathological severity; this could also have led to averaging out any changes in
+specific areas (e.g., depression). However, using a general index is in line with current views in
+the field of psychopathology as a broad, transdiagnostic or even one general factor [67, 68]. In
+addition, because this sample is at risk but not diagnosed for any particular psychiatric disor-
+der), we feel that the use of a general index is most suitable. (IV) A threshold of a (around)
+10% difference in within-person standard deviations of ESM variables between groups was
+conservative, but arbitrary. Therefore, we cannot completely rule out that the differences
+between groups are partly explained by the remaining differences in the items variances. How-
+ever, as this threshold is conservative and we chose items with a considerable amount of
+
+PLOS ONE | hittps://doi.org/10.1371/journal.pone.0247458 March 4, 2021 12/18
+ PLOS ONE
+
+Network affect dynamics and future psychopathology
+
+variation, it is unlikely that floor effects were present in the data that could have biased the
+findings. (V) For the random effects covariance structure the diagonal matrixes were used, as
+models with more complex structures did not converge. Therefore, although we modelled ran-
+dom slopes for all affect variables, thus captured individual differences in the changes of these
+affect variables through time, the correlations between these differences were not taken into
+account.
+
+Third, there were several features of the study design that also could have influenced the
+results. The course of psychopathology was assessed only at two time points, at baseline and one
+year after, and therefore only a part of the full developmental trajectory is captured. Finally, this
+study was conducted at the group level, as we examined average differences in the structures of
+group dynamic networks, and therefore it is not possible to directly estimate the effects for indi-
+vidual cases. This would be an important next step. Identification of dynamical patterns at the
+individual level and connecting those to future changes in symptoms will add new evidence on
+the relevance of the network approach to affect dynamics and may yield promising targets for
+future personalized diagnostic, prevention and treatment strategies [69-71].
+
+Taken together, our findings cautiously suggest that some differences in dynamical net-
+works of affect states of adolescents with different mental health trajectories may exist already
+one year before new symptoms develop. However, these differences may be subtle and not yet
+statistically detectable by the permutation testing approach. Hence, more studies examining
+these qualitative indicators at an early stage are needed to give a more definite answer as to
+whether these emotion dynamics can be detected in a reliable way, and if so, how they may be
+used to create new methods of treatment and prevention of psychopathology.
+
+Supporting information
+
+S1 Table. The network connections between ESM variables based on the B-coefficients
+from the autoregressive multilevel regression models and 95% confidence intervals for B-
+coefficients.
+
+(DOCX)
+
+S2 Table. Results of the permutation test.
+(DOCX)
+
+S3 Table. All possible networks of “stable” and “increase groups” and characteristics of the
+“stable” groups.
+(DOCX)
+
+S1 Text. The detailed explanation of the calculations for the aims of the study.
+(DOCX)
+
+S2 Text. Limited multiverse analysis.
+(DOCX)
+
+S1 Data. R script.
+(R)
+
+S1 Fig. Networks of affect states: All paths. In this figure, affect states networks are visualized
+for the Stable and the Increase groups. All paths are presented without considering their statis-
+tical significance. Presented are temporal networks, meaning that the connections represent
+the effect of the variable at time point t-1 on the variable at the time point t. Solid green edges
+represent positive connections from one node to the other, meaning that the increase in one
+node variable at time point t-1 is associated with increase in the other variable at time t.
+
+PLOS ONE | hittps://doi.org/10.1371/journal.pone.0247458 March 4, 2021 13/18
+ PLOS ONE
+
+Network affect dynamics and future psychopathology
+
+Dashed red edges represent negative connections, meaning that the decrease in one node vari-
+able at time point t-1 is associated with decrease in the other variable at time t. Circular edges
+represent autocorrelations, i.e. the effect of the variable at time point t-1 on itself at t. "Che’—’-
+cheerful’, ’rlx’ -’relaxed, ’enr’ -’energetic’, 'dwn’ -’down,, ‘irr’ -’irritated’, ‘Inl’ -lonely’.
+
+(TIF)
+
+Author Contributions
+
+Conceptualization: Anna Kuranova, Johanna T. W. Wigman, Albertine J. Oldehinkel, Sanne
+H. Booij, Marieke Wichers.
+
+Data curation: Claudia Menne-Lothmann, Jeroen Decoster, Ruud van Winkel, Philippe Dele-
+spaul, Marjan Drukker, Marc de Hert, Catherine Derom, Evert Thiery, Bart P. F. Rutten,
+Nele Jacobs, Jim van Os, Marieke Wichers.
+
+Formal analysis: Anna Kuranova, Marieke Wichers.
+
+Funding acquisition: Claudia Menne-Lothmann, Jeroen Decoster, Ruud van Winkel, Philippe
+Delespaul, Marjan Drukker, Marc de Hert, Catherine Derom, Evert Thiery, Bart P. F. Rut-
+ten, Nele Jacobs, Marieke Wichers.
+
+Investigation: Johanna T. W. Wigman, Sanne H. Booij, Marieke Wichers.
+
+Methodology: Anna Kuranova, Johanna T. W. Wigman, Bart P. F. Rutten, Nele Jacobs, Jim
+van Os, Marieke Wichers.
+
+Project administration: Anna Kuranova, Marieke Wichers.
+
+Resources: Johanna T. W. Wigman, Claudia Menne-Lothmann, Jeroen Decoster, Ruud van
+Winkel, Philippe Delespaul, Marjan Drukker, Marc de Hert, Catherine Derom, Bart P. F.
+Rutten, Nele Jacobs, Jim van Os, Marieke Wichers.
+
+Software: Anna Kuranova, Philippe Delespaul, Evert Thiery, Bart P. F. Rutten, Jim van Os.
+
+Supervision: Johanna T. W. Wigman, Albertine J. Oldehinkel, Sanne H. Booij, Marieke
+Wichers.
+
+Validation: Johanna T. W. Wigman, Sanne H. Booij, Marieke Wichers.
+Visualization: Anna Kuranova.
+
+Writing - original draft: Anna Kuranova, Johanna T. W. Wigman, Sanne H. Booij, Marieke
+Wichers.
+
+Writing - review & editing: Anna Kuranova, Johanna T. W. Wigman, Claudia Menne-Loth-
+mann, Jeroen Decoster, Ruud van Winkel, Philippe Delespaul, Marjan Drukker, Marc de
+Hert, Catherine Derom, Evert Thiery, Bart P. F. Rutten, Nele Jacobs, Jim van Os, Albertine
+J. Oldehinkel, Sanne H. Booij, Marieke Wichers.
+
+References
+
+1. Vigo D, Thornicroft G, Atun R. Estimating the true global burden of mental illness. The Lancet Psychia-
+try. 2016. pp. 171-178. https://doi.org/10.1016/S2215-0366(15)00505-2 PMID: 26851330
+
+2. McGorry PD, Purcell R, Goldstone S, Amminger GP. Age of onset and timing of treatment for mental
+and substance use disorders: Implications for preventive intervention strategies and models of care.
+Curr Opin Psychiatry. 2011. https://doi.org/10.1097/Y CO.0b013e3283477a09 PMID: 21532481
+
+3. Jones PB. Adult mental health disorders and their age at onset. Br J Psychiatry Suppl. 2013; 54: s5—10.
+https://doi.org/10.1192/bjp.bp.112.119164 PMID: 23288502
+
+PLOS ONE | hittps://doi.org/10.1371/journal.pone.0247458 March 4, 2021 14/18
+ PLOS ONE
+
+Network affect dynamics and future psychopathology
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+Kendler KS, Aggen SH, Knudsen GP, Raysamb E, Neale MC, Reichborn-Kjennerud T. The structure of
+genetic and environmental risk factors for syndromal and subsyndromal common DSM-IV axis | and all
+axis Il disorders. Am J Psychiatry. 2011; 168: 29-39. httos://doi.org/10.1176/appi.ajp.2010.10030340
+PMID: 20952461
+
+Afifi TO, Boman J, Fleisher W, Sareen J. The relationship between child abuse, parental divorce, and
+lifetime mental disorders and suicidality in a nationally representative adult sample. Child Abus Neg.
+2009; 33: 139-147. htips://doi.org/10.1016/j.chiabu.2008.12.009 PMID: 19327835
+
+Norman RE, Byambaa M, De R, Butchart A, Scott J, Vos T. The Long-Term Health Consequences of
+Child Physical Abuse, Emotional Abuse, and Neglect: A Systematic Review and Meta-Analysis. PLoS
+Med. 2012; 9: e€1001349. https://doi.org/10.1371/journal.pmed. 1001349 PMID: 23209385
+
+Carr CP, Martins CMS, Stingel AM, Lemgruber VB, Juruena MF. The role of early life stress in adult psy-
+chiatric disorders: a systematic review according to childhood trauma subtypes. J Nerv Ment Dis. 2013;
+201: 1007-20. htips://doi.org/10.1097/NMD.0000000000000049 PMID: 24284634
+
+Fernandes V, Osorio FL. Are there associations between early emotional trauma and anxiety disor-
+ders? Evidence from a systematic literature review and meta-analysis. Eur Psychiatry. 2015; 30: 756—
+764. https://doi.org/10.1016/j.eurpsy.2015.06.004 PMID: 26163920
+
+Mandelli L, Petrelli C, Serretti A. The role of specific early trauma in adult depression: A meta-analysis
+of published literature. Childhood trauma and adult depression. European Psychiatry. 2015. pp. 665—
+680. https://doi.org/10.1016/j.eurpsy.2015.04.007 PMID: 26078093
+
+Myin-Germeys I, Oorschot M, Collip D, Lataster J, Delespaul P, van Os J. Experience sampling
+research in psychopathology: opening the black box of daily life. Psychol Med. 2009; 39: 1533-1547.
+https://doi.org/10.1017/S0033291708004947 PMID: 19215626
+
+HasmiL, Drukker M, Guloksuz S, Menne-Lothmann C, Decoster J, van Winkel R, et al. Network
+approach to understanding emotion dynamics in relation to childhood trauma and genetic liability to psy-
+chopathology: Replication of a prospective experience sampling analysis. Front Psychol. 2017;8.
+https://doi.org/10.3389/fpsyg.2017.00008 PMID: 28194118
+
+Wichers M, Schrijvers D, Geschwind N, Jacobs N, Myin-Germeys I, Thiery E, et al. Mechanisms of
+gene—environment interactions in depression: evidence that genes potentiate multiple sources of adver-
+sity. Psychol Med. 2009; 39: 1077. htips://doi.org/10.1017/S0033291708004388 PMID: 18834553
+
+Hartmann JA, Wichers M, van Bemmel AL, Derom C, Thiery E, Jacobs N, et al. The serotonin trans-
+porter 5-HTTLPR polymorphism in the association between sleep quality and affect. Eur Neuropsycho-
+pharmacol. 2014; 24: 1086-1090. https://doi.org/10.1016/).euroneuro.2014.01.015 PMID: 24486182
+
+Jacobs N, van Os J, Derom C, Thiery E, Delespaul P, Wichers M. Neuroticism explained? From a non-
+informative vulnerability marker to informative person-context interactions in the realm of daily life. Br J
+Clin Psychol. 2011; 50: 19-82. htips://doi.org/10.1348/014466510X491397 PMID: 21332518
+
+Myin-Germeys I, Krabbendam L, Delespaul PAEG, Van Os J. Do life events have their effect on psy-
+chosis by influencing the emotional reactivity to daily life stress? Psychol Med. 2003; 33: 327-333.
+https://doi.org/10.1017/s0033291702006785 PMID: 12622311
+
+Kramer I, Simons CUPP, Wigman JTW, Collip D, Jacobs N, Derom C, et al. Time-lagged moment-to-
+moment interplay between negative affect and paranoia: New insights in the affective pathway to psy-
+chosis. Schizophr Bull. 2014; 40: 278-286. https://doi.org/10.1093/schbul/sbs194 PMID: 23407984
+
+Reininghaus U, Gayer-Anderson C, Valmaggia L, Kempton MJ, Calem M, Onyejiaka A, et al. Psycho-
+logical processes underlying the association between childhood trauma and psychosis in daily life: an
+experience sampling study. Psychol Med. 2016; 46: 2799-2813. https://doi.org/10.1017/
+S003329171600146X PMID: 27400863
+
+Tempesta D, Socci V, De Gennaro L, Ferrara M. Sleep and emotional processing. Sleep Medicine
+Reviews. 2018. htips://doi.org/10.1016/j.smrv.2017.12.005 PMID: 29395984
+
+Blaxton JM, Bergeman CS, Whitehead BR, Braun ME, Payne JD. Relationships among nightly sleep
+quality, daily stress, and daily affect. Journals Gerontol—Ser B Psychol Sci Soc Sci. 2017. https://doi.
+org/10.1093/geronb/gbv060 PMID: 26307483
+
+Sin NL, Almeida DM, Crain TL, Kossek EE, Berkman LF, Buxton OM. Bidirectional, Temporal Associa-
+tions of Sleep with Positive Events, Affect, and Stressors in Daily Life Across a Week. Ann Behav Med.
+2017. https://doi.org/10.1007/s12160-016-9864-y PMID: 28188584
+
+Wichers M, Lothmann C, Simons CUP, Nicolson NA, Peeters F. The dynamic interplay between nega-
+tive and positive emotions in daily life predicts response to treatment in depression: A momentary
+assessment study. Br J Clin Psychol. 2012; 51: 206-222. htips://doi.org/10.1111/).2044-8260.2011.
+02021.x PMID: 22574805
+
+Collip D, Wigman JTW, Myin-Germeys |, Jacobs N, Derom C, Thiery E, et al. From Epidemiology to Daily
+Life: Linking Daily Life Stress Reactivity to Persistence of Psychotic Experiences in a Longitudinal General
+Population Study. PLoS One. 2013; 8. httos://doi.org/10.1371/journal.pone.0062688 PMID: 23626848
+
+PLOS ONE | hittps://doi.org/10.1371/journal.pone.0247458 March 4, 2021 15/18
+ PLOS ONE
+
+Network affect dynamics and future psychopathology
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+Hohn P, Menne-Lothmann C, Peeters F, Nicolson NA, Jacobs N, Derom C, et al. Moment-to-Moment
+Transfer of Positive Emotions in Daily Life Predicts Future Course of Depression in Both General Population
+and Patient Samples. PLoS One. 2013; 8. https://doi.org/10.1371/journal.pone.0075655 PMID: 24086602
+
+Trull TJ, Lane SP, Koval P, Ebner-Priemer UW. Affective Dynamics in Psychopathology. Emot Rev.
+2015; 7: 355-361. https://doi.org/10.1177/1754073915590617 PMID: 27617032
+
+Klippel A, Viechtbauer W, Reininghaus U, Wigman JTW, van Borkulo CD, Myin-Germeys I, et al. The
+Cascade of Stress: A Network Approach to Explore Differential Dynamics in Populations Varying in Risk
+for Psychosis. Schizophr Bull. 2017; 1-10. htips://doi.org/10.1093/schbul/sobw153 PMID: 27799359
+
+Wichers M, Wigman JTW, Myin-Germeys |. Micro-Level Affect Dynamics in Psychopathology Viewed
+From Complex Dynamical System Theory. Emot Rev. 2015; 7: 1-6. htips://doi.org/10.1177/
+1754073915590623
+
+Borsboom D, Cramer AOJ. Network analysis: An integrative approach to the structure of psychopathol-
+ogy. Annual Review of Clinical Psychology. 2013. https://doi.org/10.1146/annurev-clinpsy-050212-
+185608 PMID: 23537483
+
+Borsboom D. A network theory of mental disorders. World Psychiatry. 2017; 5-13. htips://doi.org/10.
+1002/wps.20375 PMID: 28127906
+
+Pe ML, Kircanski K, Thompson Ru, Bringmann LF, Tuerlinckx F, Mestdagh M, et al. Emotion-Network
+Density in Major Depressive Disorder. Clin Psychol Sci. 2015; 3: 292-300. https://doi.org/10.1177/
+2167702614540645 PMID: 31754552
+
+Wigman JTW, van Os J, Borsboom D, Wardenaar KJ, Epskamp §S, Klippel A, et al. Exploring the under-
+lying structure of mental disorders: cross-diagnostic differences and similarities from a network per-
+spective using both a top-down and a bottom-up approach. Psychol Med. 2015; 45: 2375-2387. hitips://
+doi.org/10.1017/S0033291715000331 PMID: 25804221
+
+Bringmann LF, Pe ML, Vissers N, Ceulemans E, Borsboom D, Vanpaemel W, et al. Assessing temporal
+emotion dynamics using networks. Assessment. 2016; 1-11. https://doi.org/10.1177/
+1073191116645909 PMID: 27141038
+
+Lydon-Staley DM, Xia M, Mak HW, Fosco GM. Adolescent Emotion Network Dynamics in Daily Life and
+Implications for Depression. Journal of Abnormal Child Psychology. 2018. https://doi.org/10.1007/
+$10802-018-0474-y PMID: 30203118
+
+De Vos S, Wardenaar KJ, Bos EH, Wit EC, Bouwmans MEu, De Jonge P. An investigation of emotion
+dynamics in major depressive disorder patients and healthy persons using sparse longitudinal net-
+works. PLoS One. 2017;12. httos://doi.org/10.1371/journal.pone.0178586 PMID: 28570696
+
+Snippe E, Viechtbauer W, Geschwind N, Jonge P de, Wichers M. The Impact of Treatments for Depres-
+sion on the Dynamic Network Structure of Mental States: two Randomized Controlled Trials. Psycholo-
+cal Med. 2017; 1-10. httops://doi.org/10.1038/srep46523 PMID: 28425449
+
+Schweren L, Van Borkulo CD, Fried E, Goodyer IM. Assessment of symptom network density as a prog-
+nostic marker of treatment response in adolescent depression. JAMA Psychiatry. 2018. pp. 98-100.
+https://doi.org/10.1001/jamapsychiatry.2017.3561 PMID: 29188277
+
+Groen RN, Snippe E, Bringmann LF, Simons CJP, Hartmann JA, Bos EH, et al. Capturing the risk of
+persisting depressive symptoms: A dynamic network investigation of patients’ daily symptom experi-
+ences. Psychiatry Res. 2019. https://doi.org/10.1016/j.psychres.2018.12.054 PMID: 30791337
+
+McGorry P. Transition to adulthood: The critical period for pre-emptive, disease-modifying care for
+schizophrenia and related disorders. Schizophr Bull. 2011. https://doi.org/10.1093/schbul/sbr027
+PMID: 21505119
+
+Paus T, Keshavan M, Giedd JN. Why do many psychiatric disorders emerge during adolescence?
+Nature Reviews Neuroscience. 2008. htips://doi.org/10.1038/nrn2513 PMID: 19002191
+
+Kessler RC, McLaughlin KA, Green JG, Gruber MJ, Sampson NA, Zaslavsky AM, et al. Childhood
+adversities and adult psychopathology in the WHO World Mental Health Surveys. Br J Psychiatry.
+2010; 197: 378-85. hitps://doi.org/10.1192/bjp.bp.110.080499 PMID: 21037215
+
+Jorm AF, Dear KBG, Rodgers B, Christensen H. Interaction between mother’s and father’s affection as
+a risk factor for anxiety and depression symptoms—Evidence for increased risk in adults who rate their
+father as having been more affectionate than their mother. Soc Psychiatry Psychiatr Epidemiol. 2003.
+https://doi.org/10.1007/s00127-003-0620-9 PMID: 12664227
+
+Loos R, Derom C, Vlietinck R, Derom R. The East Flanders Prospective Twin Survey (Belgium): A pop-
+ulation-based register. Twin Res. 1998; 1: 167-175. htips://doi.org/10.1375/136905298320566131
+PMID: 10100808
+
+Loos R, Derom C, Vlietinck R, Derom R. The East Flanders Prospective Twin Survey (Belgium): A pop-
+ulation-based register. Twin Res. 1998; 1: 167-175. htips://doi.org/10.1375/136905298320566131
+PMID: 10100808
+
+PLOS ONE | hittps://doi.org/10.1371/journal.pone.0247458 March 4, 2021 16/18
+ PLOS ONE
+
+Network affect dynamics and future psychopathology
+
+43.
+
+44.
+
+45.
+
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+51.
+
+52.
+
+53.
+
+54.
+
+55.
+
+56.
+
+57.
+
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+64.
+
+Pries LK, Guloksuz S, Menne-Lothmann C, Decoster J, Winkel R van, Collip D, et al. White noise
+speech illusion and psychosis expression: An experimental investigation of psychosis liability. PLoS
+One. 2017;12. htips://doi.org/10.1371/journal.pone.0183695 PMID: 28832672
+
+Derogatis L. SCL-90. Administration, scoring & procedures manual-l for the (revised) version and other
+instruments of the psychopathology rating scale series. Balt MD Clin Psychom Res Unit, Johns Hopkins
+Univ Sch Med. 1977.
+
+Arntz A, Wessel |. Jeugd trauma vragenlijst [Dutch version of the childhood trauma questionnaire]. The
+Netherlands. 1996.
+
+Jacobs N, Myin-Germeys I, Derom C, Delespaul P, van Os J, Nicolson NA. A momentary assessment
+study of the relationship between affective and adrenocortical stress responses in daily life. Biol Psy-
+chol. 2007; 74: 60-66. doi:S0301-0511(06)00165-7 [pii]\r httos://doi.org/10.1016/).biopsycho.2006.07.
+002 PMID: 16942831
+
+Smits IAM, Timmerman ME, Barelds DPH, Meijer RR. The Dutch Symptom Checklist-90-Revised: Is
+the use of the subscales justified? Eur J Psychol Assess. 2015. httos://doi.org/10.1027/1015-5759/
+a000233
+
+Terluin B, De Boer MR, De Vet HCW. Differences in connection strength between mental symptoms
+might be explained by differences in variance: Reanalysis of network data did not confirm staging. PLoS
+One. 2016; 11: 1-12. htips://doi.org/10.1371/journal.pone.0155205 PMID: 27880771
+
+Delespaul PAEG. Assessing schizophrenia in daily life: the experience sampling method. Maastricht
+University. 1995.
+
+Feldman Barrett L, Russell JA. Independence and bipolarity in the structure of current affect. J Pers Soc
+Psychol. 1998; 74: 967-984. httos://doi.org/10.1037/0022-3514.74.4.967
+
+Russell JA, Weiss A, Mendelsohn GA. Affect Grid: A Single-Item Scale of Pleasure and Arousal. J Pers
+Soc Psychol. 1989; 57: 493—502. https://doi.org/10.1037/0022-3514.57.3.493
+
+Harvey SB, Wessely S, Kuh D, Hotopf M. The relationship between fatigue and psychiatric disorders:
+Evidence for the concept of neurasthenia. J Psychosom Res. 2009. https://doi.org/10.1016/j.
+jpsychores.2008. 12.007 PMID: 19379961
+
+Brandes CM, Kushner SC, Tackett JL. Negative affect. Developmental Pathways to Disruptive,
+Impulse-Control, and Conduct Disorders. 2018. htips://doi.org/10.1016/B978-0-12-81 1323-3.00005—5
+
+Bulteel K, Tuerlinckx F, Brose A, Ceulemans E. Using Raw VAR Regression Coefficients to Build Net-
+works can be Misleading. Multivariate Behav Res. 2016; 51: 330-344. https://doi.org/10.1080/
+00273171.2016.1150151 PMID: 27028486
+
+Wang L, Zhang Q, Maxwell SE, Bergeman CS. On Standardizing Within-Person Effects: Potential Prob-
+lems of Global Standardization. Multivariate Behavioral Research. 2019. hitips://doi.org/10.1080/
+00273171.2018.1532280 PMID: 30663381
+
+Pinheiro J, Bates D, DebRoy S, Sarkar D, Team TRC. nime: Linear and Nonlinear Mixed Effects Mod-
+els. R package version. 2009. Available: http://scholar.google.com/scholar?start=10&q=mixed+effects
++model&hl=en&as_sdt=2000#8
+
+Epskamp S, Cramer AOJ, Waldrop LJ, Schmittmann VD, Borsboom D. qgraph. Netw Vis relationships
+Psychom data. 2012; 48: 1-18. Available: http://www. jstatsoft. org/v48/i04/paper
+
+Bakker JM, Goossens L, Lange I, Michielse S, Schruers K, Lieverse R, et al. Real-life validation of
+reduced reward processing in emerging adults with depressive symptoms. J Abnorm Psychol. 2017;
+126: 713-725. htips://doi.org/10.1037/abn0000294 PMID: 28782974
+
+van Borkulo CD, Boschloo L, Kossakowski JJ, Tio P, Schoevers RA, Borsboom D, et al. Comparing net-
+work structures on three aspects: A permutation test. Manuscr Submitt. 2016; 34. https://doi.org/10.
+13140/RG.2.2.29455.38569
+
+Steegen S, Tuerlinckx F, Gelman A, Vanpaemel W. Increasing Transparency Through a Multiverse
+Analysis. Perspect Psychol Sci. 2016. https://doi.org/10.1177/1745691616658637 PMID: 27694465
+
+Arrindell W, Ettema H, Groenman N, Brook F, Janssen |, Slaets J, et al. Further Dutch experiences with
+the Symptom Checklist-90 revised. Psycholoog. 2003.
+
+van Borkulo CD, Boschloo L, Borsboom D, Penninx BWJH, Waldorp LJ, Schoevers RA. Association of
+Symptom Network Structure With the Course of Longitudinal Depression. JAMA Psychiatry. 2015;
+1219. https://doi.org/10.1001/jamapsychiatry.2015.2079 PMID: 26561400
+
+Boeing G. Visual Analysis of Nonlinear Dynamical Systems: Chaos, Fractals, Self-Similarity and the
+Limits of Prediction. Systems. 2016; 4: 37. httos://doi.org/10.3390/systems4040037
+
+Tompson MC, Langer DA, Hughes JL, Asarnow JR. Family-Focused Treatment for Childhood Depres-
+sion: Model and Case Illustrations. Cogn Behav Pract. 2017. https://doi.org/10.1016/).cbpra.2016.06.
+003 PMID: 28966545
+
+PLOS ONE | hittps://doi.org/10.1371/journal.pone.0247458 March 4, 2021 17/18
+ PLOS ONE
+
+Network affect dynamics and future psychopathology
+
+65.
+
+66.
+
+67.
+
+68.
+
+69.
+
+70.
+
+71.
+
+Wittenborn AK, Rahmandad H, Rick J, Hosseinichimeh N. Depression as a systemic syndrome: Map-
+ping the feedback loops of major depressive disorder. Psychol Med. 2016. hitps://doi.org/10.1017/
+S0033291715002044 PMID: 26621339
+
+Costello EJ, Copeland W, Angold A. Trends in psychopathology across the adolescent years: What
+changes when children become adolescents, and when adolescents become adults? J Child Psychol
+Psychiatry Allied Discip. 2011; 52: 1015-1025. https://doi.org/10.1111/).1469-7610.201 1.02446.x
+PMID: 21815892
+
+McGorry P, Nelson B. Why we need a transdiagnostic staging approach to emerging psychopathology,
+early diagnosis, and treatment. JAMA Psychiatry. 2016. https://doi.org/10.1001/jamapsychiatry.2015.
+2868 PMID: 26765254
+
+McGorry PD, Hartmann JA, Spooner R, Nelson B. Beyond the “at risk mental state” concept: transition-
+ing to transdiagnostic psychiatry. World Psychiatry. 2018. https://doi.org/10.1002/wps.20514 PMID:
+29856558
+
+Bos FM, Snippe E, Bruggeman R, Wichers M, van der Krieke L. Insights of patients and clinicians on
+the promise of the experience sampling method for psychiatric care. Psychiatr Serv. 2019. hiips://doi.
+org/10.1176/appi.ps.201900050 PMID: 314384558
+
+Kramer I, Simons CUP, Hartmann JA, Menne-Lothmann C, Viechtbauer W, Peeters F, et al. A therapeu-
+tic application of the experience sampling method in the treatment of depression: A randomized con-
+trolled trial. World Psychiatry. 2014. htips://doi.org/10.1002/wps.20090 PMID: 24497255
+
+von Klipstein L, Riese H, van der Veen DC, Servaas MN, Schoevers RA. Using person-specific net-
+works in psychotherapy: challenges, limitations, and how we could use them anyway. BMC Med. 2020.
+https://doi.org/10.1186/s12916-020-01818-0 PMID: 33222699
+
+PLOS ONE | hittps://doi.org/10.1371/journal.pone.0247458 March 4, 2021 18/18

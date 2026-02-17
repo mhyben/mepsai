@@ -1,0 +1,1263 @@
+Journal of Psychosomatic Research 139 (2020) 110261
+
+Contents lists available at ScienceDirect
+
+ee
+EESyENOSOMAtIGR esearch
+
+Journal of Psychosomatic Research
+
+Le ae
+
+a
+
+LSEVIER journal homepage: www.elsevier.com/locate/jpsychores
+
+Network approach of mood and functional gastrointestinal symptom
+
+Check for
+
+dynamics in relation to childhood trauma in patients with irritable bowel updates
+
+syndrome and comorbid panic disorder
+
+Marjan Drukker*”*’', Jill C.H. Peters®’, Lisa Vork”, Zlatan Mujagic”, Bart P.F. Rutten®,
+Jim van Os*“, Ad A.M. Masclee’, Joanna W. Kruimel”, Carsten Leue®
+
+* Department of Psychiatry and Neuropsychology, School of Mental Health and NeuroScience (MHeNS), Maastricht University Medical Centre, Maastricht, the Netherlands
+> Division of Gastroenterology-Hepatology, Department of Internal Medicine, Maastricht University Medical Centre, Maastricht, the Netherlands
+
+“ Department of Psychiatry, Brain Centre Rudolf Magnus, University Medical Centre Utrecht, Utrecht, the Netherlands
+
+“ Department of Psychosis Studies, Institute of Psychiatry, King's Health Partners, King's College London, London, UK
+
+ARTICLE INFO ABSTRACT
+
+Keywords: Objective: Irritable bowel syndrome (IBS) has a high comorbidity with mental disorders. The present paper aims
+Childhood trauma to visualise the interplay between IBS and affect (anxiety and mood) in daily life. Furthermore, this interplay
+Ecological momentary assessment may be different depending on risk factors such as childhood trauma.
+
+Irritable bowel syndrome
+
+Negative affect
+
+Networks of psychological symptoms
+Positive affect
+
+Methods: Using momentary assessment (Experience Sampling Method), data of 24 individuals diagnosed with
+both IBS and panic disorder were analysed (15 non-trauma and 9 low-trauma-score patients). Networks were
+constructed, based on multilevel time-lagged linear regression analysis. Regression coefficients present network
+connections including three negative affect items (down, irritated, rushed), three positive affect items (happy,
+enthusiastic, cheerful), three abdominal complaints (abdominal pain, bloating, nausea) and one social item
+(feeling lonely). Those networks were stratified by levels of childhood trauma based on the Childhood Trauma
+Questionnaire.
+Results: Connections within the group of mood items and within the group of abdominal complaints were more
+frequent than between abdominal complaints and mood items. When data were stratified by childhood trauma,
+networks were different. In addition, node strengths were stronger in low-trauma than in non-trauma, although
+only one was significantly different (enthusiastic). Overall, there were mainly non-significant connections and a
+clear pattern was not visible.
+Conclusions: A time-lagged network provides additional insight in connections between abdominal complaints
+and affective complaints, in patients with IBS and panic disorder, with different levels of childhood trauma. More
+research is needed to gain a better understanding of symptom formation and the impact of variation in context
+on individual symptom experiences in IBS with affective comorbidity.
+
+Baseline data of a clinical trial: NCTO1551225 (http://www.clinicaltrials.gov).
+
+1. Introduction anxiety and depression [1,2]. A graphical presentation of the connec-
+
+tions between abdominal complaints and mood assessed several times a
+
+Within the group of patients diagnosed with irritable bowel syn- day may improve the understanding of this multifactorial interplay.
+
+drome (IBS) a large subgroup has comorbid panic disorder [1]. Both in Moreover, those connections may differ depending on childhood
+IBS patients and in the specific patient group diagnosed with both IBS trauma.
+
+and panic disorder, abdominal complaints often are accompanied by IBS is a disorder of the gut-brain axis characterized by abdominal
+
+* Corresponding author at: Department of Psychiatry and Psychology, School of Mental Health and NeuroScience (MHeNS), P.O. Box 616, 6200 MD Maastricht, the
+Netherlands.
+E-mail addresses: Marjan.Drukker@MaastrichtUniversity.nl (M. Drukker), jillian.peters@mumc.nl (J.C.H. Peters), |.vork@maastrichtuniversity.nl (L. Vork),
+z.mujagic@maastrichtuniversity.nl (Z. Mujagic), b.rutten@maastrichtuniversity.nl (B.P.F. Rutten), a.masclee@mumc.nl (A.A.M. Masclee),
+j-kruimel@mume.nl (J.W. Kruimel), c.leue@mumce.n! (C. Leue).
+' Contributed equally.
+
+https://doi.org/10.1016/j.jpsychores.2020.110261
+
+Received 25 February 2020; Received in revised form 28 September 2020; Accepted 28 September 2020
+
+Available online 02 October 2020
+
+0022-3999/ © 2020 The Author(s). Published by Elsevier Inc. This is an open access article under the CC BY license
+(http://creativecommons.org/licenses/by/4.0/).
+ M. Drukker, et al.
+
+pain, and altered bowel habits [3]. It is associated with higher stress-
+sensitivity and frequent psychological comorbidity [4,5]. Changes in
+mood and exposure to stress may influence gut motility and visceral
+pain perception [6,7]. Moreover, abdominal complaints may become
+more severe when stress levels are higher, while this is associated with
+higher levels of depression and anxiety in a dose-response fashion [8].
+
+Affective disorders and disorders of the gut-brain interaction are
+both stress-related conditions, which are moderated by contextual in-
+fluences impacting each other [9]. In clinical practice, there is a large
+underdiagnosed group of patients, suffering from IBS and comorbid
+panic disorder [1]. Previous research showed that these diagnoses fre-
+quently co-occur and patients with IBS often have symptoms of anxiety
+and depression [1,2,10]. Their common presentation often remains
+undetected leading to refractory treatment [11,12]. Data were collected
+in this patient group, in order to get more insight in the interplay be-
+tween abdominal complaints, mood symptoms and social perceptions,
+as well as possibly shared pathophysiology.
+
+Given that IBS and mental disorders overlap and are described as bi-
+directionally associated co-morbidities [6], psychiatric symptoms, such
+as affective complaints, and psychosocial stressors may influence the
+pathophysiology and symptomatology of IBS [6]. In that manner, ne-
+gative affect (NA), which plays a key role in anger, anxiety and de-
+pression, might lead to deregulation along the brain-gut-axis and may
+contribute to symptomatology in IBS patients. Consequently, NA is as-
+sociated with unhealthy physiological functioning, while positive affect
+(PA) is associated with increased health [13]. In addition, anxiety,
+depression, stress experience and recurrent negative social interactions
+are associated with health perception and help-seeking behaviour in IBS
+[14-16].
+
+Although comorbidity of mental disorders and IBS is acknowledged,
+both strength and nature of the interaction of the various symptoms are
+not well understood [6]. Before the introduction of ecological mo-
+mentary assessment technology in IBS symptom measurement, there
+was a lack of valid instruments to assess IBS symptoms in real life
+[17,18]. Daily or weekly retrospective self-reported questionnaires
+were available, but these bear the risk of recall and contextual biases.
+
+The present study uses data collected by an electronic momentary
+assessment tool (i.e. Experience Sampling Method (ESM)) [19,20]. Data
+on real-time experiences are obtained by sending an auditory signal
+(‘beep’) at random moments, inviting persons to fill in questions on a
+digital device. Thus, patients are actively involved in their own data
+collection [19]. The associations between a priori selected abdominal
+complaints, mood symptoms and social perceptions along a time axis
+can be presented in a network graph were complaints and symptoms
+are the nodes and regression coefficients are the edges between the
+nodes. The obtained network could help to understand the symptom
+formation in patients suffering from IBS and panic disorder because a
+network approach shows the dynamic and possible causal interaction
+among symptoms. Symptoms are not only reflective of underlying dis-
+orders, a mental disorder constitutes of a causal system of interacting,
+self-reinforcing symptoms [21]. This way insight in mechanisms of IBS-
+symptom formation and its connection with PA and NA can be ob-
+tained.
+
+Data to generate networks can also be stratified by a variable such
+as childhood trauma. In individuals with IBS there is a higher pre-
+valence of early adverse life events such as childhood abuse, domestic
+violence or household mental illness in comparison with healthy con-
+trols [22]. Childhood trauma has been associated with a diagnosis of
+IBS as well as with abdominal complaints and mood [8,22,23]. When
+childhood maltreatment influences the development of affective ten-
+dencies, this could contribute to bodily distress [24]. Hence, it is hy-
+pothesized that connections in a network, including abdominal com-
+plaints and mood symptoms could be different depending on the level
+of the subjects’ childhood trauma [22,24].
+
+The first aim is to investigate how abdominal complaints, mood
+symptoms and social perceptions are associated with each other over
+
+Journal of Psychosomatic Research 139 (2020) 110261
+
+time in patients with IBS and comorbid panic disorder. The second aim
+is to investigate whether connections between abdominal complaints
+and mood differ between patients with different levels of childhood
+trauma, in order to improve the understanding of this multifactorial
+interplay.
+
+2. Methods
+2.1. Study participants and study design
+
+The data set included baseline data of a “single-centre, double-blind,
+parallel-group randomized controlled trial of escitalopram versus pla-
+cebo for patients diagnosed with IBS and comorbid panic disorder”
+[9,25,26]. Between February 2012 and June 2016, study participants
+were recruited at two locations in the Maastricht University Medical
+Centre, that is the outpatient clinic of the Med-Psych-Centre (MPC) and
+the department of gastroenterology-hepatology. The MPC outpatient
+clinic delivered integrated care, a combined consultation of a hospital-
+psychiatrist and a gastroenterologist, as described elsewhere [1]. In-
+clusion and exclusion criteria are presented in appendix A [9,27,28].
+The study protocol was approved in 2011 by the medical-ethics com-
+mittee of Maastricht University Medical Center (MUMC), Maastricht,
+the Netherlands, and was registered in the US National Library of
+Medicine (http://www.clinicaltrials.gov, NCT01551225). The study
+was executed according to the principles of the revised Declaration of
+Helsinki (59th WMA General Assembly, Seoul, Republic of Korea, Oc-
+tober 2008), also including informed consent. Twenty-nine patients
+provided ESM data.
+
+2.2. Measurements
+
+2.2.1. Childhood trauma
+
+History of childhood trauma was assessed using the Dutch shortened
+version of the Childhood Trauma Questionnaire (CTQ) [29]. This
+questionnaire investigates trauma in youth, in particular the history of
+abuse (sexual, emotional or physical) and emotional or physical neglect
+[30]. The answers are scored on a 5 item Likert scale (never true to very
+often true) and a sum score was generated [30]. A score below 36 points
+indicated no trauma experiences; a score below 51 points indicated a
+low level of trauma experiences [31]. Subjects with moderate child-
+hood trauma and severe childhood trauma were not available in the
+present sample.
+
+2.2.2. Experience Sampling Method (ESM)
+
+ESM is a momentary assessment tool using a digital device or a
+telephone app to collect data randomly and repeatedly during the day
+for multiple days [19]. The focus is on the person's momentary mental
+and physical state and behaviour, and ESM data are collected in the
+subject's daily life [19]. In this study, ESM data were collected on seven
+consecutive days, at 10 random moments during the day between
+7.30 a.m. and 10.30 p.m., using a palmtop computer. For the scoring, a
+7-point Likert scale was used (1 = not at all to 7 = extremely) [19,26].
+Among others, ESM items included abdominal complaints, mood (af-
+fective states, see below) and social perceptions (e.g. feeling lonely,
+appendix B [32]). Because part of the missed beeps are missed for valid
+reasons, a general rule is to include subjects in the analysis when at
+least 33% of the beeps is answered [19,33].
+
+A relatively small number of subjects was included and the number
+of subjects was lower in the low-trauma group. The multiple ESM as-
+sessments per person increased the power [34].
+
+2.3. Affective states
+Two core dimensions of affective states are documented in the
+
+emotional experience of psychological distress and wellbeing: PA and
+NA [13]. Cognitive and emotional components such as happiness,
+ M. Drukker, et al.
+
+interest, enthusiasm and motivation can be defined as PA. NA reflects
+aversive mood states, such as guilt, anger, sadness and depression [13].
+For ESM, a standard set of PA and NA items was developed [33,35].
+
+2.4. The construction of networks
+
+Networks were constructed stratified by low childhood trauma and
+no childhood trauma (hereafter low-trauma and non-trauma).
+Abdominal complaints, mood items and social items were considered
+for inclusion. All abdominal pain items without floor effects were se-
+lected. Only one social item was included (i.e., “feeling lonely”) because
+others were preceded by a trigger question and thus not answered each
+beep. Experts decided which mood items were of most interest for the
+patient group with IBS and comorbid panic disorder. The original se-
+
+99 66 99 66
+
+lection included “down”, “irritated”, “enthusiastic”, “happy”, “abdom-
+inal pain”, “bloating” and “lonely”. Three other selected items, “an-
+xious”, “relaxed” and “flatulence”, were replaced because regression
+analyses (see below) did not achieve convergence. When replacing
+these items by similar items “rushed”, “cheerful” and “nausea”, re-
+
+spectively, convergence was achieved.
+
+2.5. Statistical analysis
+
+The statistical analysis was performed using Stata version 13 ap-
+plying multilevel linear regression models [36]. In ESM data, multiple
+observations per individual are clustered and the mixed command in
+Stata is ideally suited to deal with this clustering. Down, irritated, ru-
+shed, enthusiastic, happy, cheerful, abdominal pain, bloating, nausea
+and lonely were included as the dependent variables. The lags (t-1) of
+these dependent variables were the independent variables in the re-
+gression models. A lagged variable is the same variable assessed at the
+previous time point (5 min to three hours before the current). Fur-
+thermore, a time variable was added to all the regression models
+(beepcode = dayno * 10 + beepnumber) to control for time trends
+[19,37]. This resulted in the following equation:
+
+yy = (BO + uo) + Bl * lag mood down, + B2 * lag mood
+irritated; + B3 lag mood rushedj + B4 lag mood
+enthusiastic; + B5 * lag mood happy;; + B6 * lag mood cheerful,; + B7
+* lag abdominal pain; + B8 * lag bloating;; + B9 * lag nauseaj + B10 *
+lag mood lonely;,; + (B11 + u,,;) * beepcode,; + e.
+
+Where i is the assessment level and j is the subject level, Y is the
+dependent variable, and each dependent variable is analysed in a se-
+parate regression model. A random intercept (BO + uo;) and a random
+slope for beepcode (B11 + wij) were included in the model, and
+covariance was unstructured [37,38]. Due to the complexity of the
+model, inclusion of random slopes for the lagged variables resulted in
+convergence problems. To obtain correct p-values permutations were
+performed (see below).
+
+Ten independent variables and ten dependent variables resulted in
+100 regression coefficients and a 10-by-10 matrix including all re-
+gression coefficients (B). Because all analyses were stratified by child-
+hood trauma (non-trauma/low-trauma) two sets of 100 regression
+coefficients were obtained. These 2 x 100 regression coefficients were
+visualized in two network graphs using the qgraph package in R to
+show the bidirectional associations between the ten variables [39,40].
+In this way, the connection between the variables (e.g., down) at time
+
+Journal of Psychosomatic Research 139 (2020) 110261
+
+point t-1 predicts another variable (e.g., irritated; Bgown-irritatea) at time
+point t [87]. A self-loop indicates the connection between a specific
+node at time point t-1 and time point t (e.g., Bgown-down) [37,41,42].
+
+2.6. Centrality indices
+
+Excel and the qgraph package in R [40], were used to calculate
+centrality of the network nodes. There are various types of centrality
+[43]. All centrality measures indicate how central a node is in the
+network. This is operationalised in several ways. First, the sum of the
+outgoing nodes (outward strength). Second, the sum of the incoming
+nodes (inward strength). Third, the sum of the outward strength and the
+inward strength (node strength). A previous study included the self-
+loop, both in the inward strength and in the outward strength, thus in
+the node strength the self-loop is included twice [37]. Finally, closeness
+is operationalised as the sum of the inverse length of the shortest paths
+between a node and all the other nodes in the graph [37,44,45]. Here,
+the shortest path is literally the shortest route between one node and
+another. Betweenness is another type of centrality, but this is not ap-
+plicable when studying networks of psychological symptoms [44,46].
+
+2.7. Permutation testing
+
+Given that after including random slopes of all independent vari-
+ables convergence was not achieved, models including a random slope
+for beepcode only were run. Because of that, p-values obtained from the
+multilevel linear regression models are too optimistic [34]. Thus, per-
+mutation tests were performed [1] to examine the statistical sig-
+nificance of the regression coefficients and [2] to analyse differences in
+regression coefficients between both trauma strata [37,38]. To test
+statistical significance of the regression coefficients, the distribution of
+the regression coefficients under the null hypothesis was obtained by
+running 3000 permutation tests. For this, the dependent variable was
+removed from the data and within subjects randomly reordered and
+merged to the original data. Subsequently, the regression coefficient
+obtained from the real multilevel regression analysis was placed on that
+normal distribution. This way, valid p-values were obtained.
+
+The second set of permutation tests aimed to test whether slopes in
+the low-trauma group were different from the non-trauma group. For
+this, the trauma variable was removed from the data and randomly
+merged to the original data at subject level. Subsequently, slopes from
+both networks were subtracted and again the real difference between
+the slopes was placed on the normal distribution of the differences
+under the null hypothesis to obtain a p-value [37,38].
+
+3. Results
+3.1. Sample characteristics
+
+Of the twenty-nine patients, twenty-four persons completed a
+minimum of 33% beeps and were included in the analyses. Sixteen
+patients (66.7%) were female. The mean age in the total sample was
+36.8 years (SD 15.5 years; Table 1).
+
+Nine patients (37.5%) experienced low levels of childhood trauma
+and fifteen (62.5%) had no childhood trauma (Table 1). None of the
+patients had moderate or severe childhood trauma. In the low-trauma
+
+Table 1
+Baseline characteristics.
+All subjects Range Low-trauma (n = 9) Non-trauma (n = 15) Test®
+Female gender, n (%) 16 (66.7) 6 (66.7) 10 (66.7) X? = 0, df = 1, p = 0.99
+Age in years, mean (sd) 36.8 (15.5) 20-66 36.3 (18.1) 37.0 (14.3) t = 0.1, df = 22, p = 0.92
+CTQ score, mean (sd) 34.2 (1.6) 25-48 42.9 (1.1) 28.9 (1.1) t = —8.6, df = 22,p < 0.001
+
+a
+
+t-Test for continuous variables by trauma and chi-square test for dichotomous variables by trauma.
+ M. Drukker, et al.
+
+Table 2
+Descriptives of functional gastrointestinal and mood symptoms by trauma
+group (all items range 1-7).
+
+All subjects Low-trauma; Non-trauma;
+
+(n = 24) n = 9, 482 beeps n = 15, 772 beeps
+
+Mean (sd*) Mean (sd*) Mean (sd*)
+Down 2.0 (1.4) 2.6 (1.5) 1.6 (1.1)
+Irritated 1.9 (1.3) 2.3 (1.6) 1.6 (1.1)
+Rushed 2.2 (1.5) 2.9 (1.6) 1.8 (1.2)
+Enthusiastic 4.4 (1.6) 3.9 (1.7) 4.7 (1.4)
+Happy 4.9 (1.5) 4.3 (1.6) 5.2 (1.3)
+Cheerful 4.1 (1.7) 3.3 (1.7) 4.6 (1.4)
+Abdominal pain 2.8 (1.5) 3.4 (1.7) 2.5 (1.3)
+Bloating 3.1 (2.0) 3.3 (2.1) 3.0 (1.9)
+Nausea 1.4 (1.1) 1.5 (1.2) 1.3 (1.0)
+Lonely 1.4 (1.0) 1.9 (1.4) 1.2 (0.6)
+
+* Overall sd.
+
+group and the non-trauma group, the mean CTQ sum score was 42.9
+and 28.9, respectively. Age and gender did not differ between the low-
+trauma and the non-trauma group (Table 1). Table 2 shows means of
+abdominal complaints and mood symptoms by trauma group.
+
+3.2. Network graphs
+
+Fig. 1 shows the network in all subjects. Fig. 2 shows the network in
+the low-trauma group (A) and in the non-trauma group (B), respec-
+tively. In both the low-trauma group and the non-trauma group, self-
+loops were strongest. Within the set of mood items and within ab-
+dominal complaints there were more significant connections, but nei-
+ther mood nor abdominal complaints items clustered in the network.
+There were connections between abdominal complaints and mood or
+vice versa, but only a few were significantly different between the low-
+trauma and non-trauma group. For example, lonely (at t-1) was asso-
+ciated with nausea (B lonely-nausea) in the non-trauma group but not
+in the low-trauma group and this was significantly different (non-
+trauma B = -0.09, low-trauma B = 0.19, p = 0.04).
+
+Overall, the non-trauma and low-trauma networks were rather dif-
+ferent. Except for the self-loops, only two regression coefficients were
+
+Journal of Psychosomatic Research 139 (2020) 110261
+
+significant in both the low-trauma and the non-trauma group: happy-
+cheerful and bloating-abdominal pain. Various connections were sig-
+nificantly different in the low-trauma compared with the non-trauma
+group. However, despite the significant difference these connections
+were not statistically significant in either the low-trauma or the non-
+trauma group and a pattern was not visible.
+
+3.3. Centrality indices
+
+Table 3 presents centrality indices stratified by childhood trauma.
+For example, in the low-trauma group, closeness was highest in nausea,
+enthusiastic and abdominal pain. This means that these symptoms were
+closest to the other mood items and abdominal complaints. Only the
+node strength for enthusiastic differed statistically significant between
+low-trauma and non-trauma.
+
+For each separate variable node strengths in the low-trauma groups
+were higher than in the non-trauma group, but only the difference in
+node strength of the mood state “enthusiastic” reached significance.
+
+4. Discussion
+
+This network study, using repetitive momentary assessment data, is
+the first demonstrating how abdominal complaints and mood symptoms
+in IBS patients with comorbid panic disorder are connected with each
+other over time, from a daily life perspective. To our knowledge, the
+current study is the first assessing differences in ESM symptom net-
+works between various levels of childhood trauma in IBS patients and
+results need to be replicated.
+
+Although connections within mood items and within abdominal
+complaints were stronger than between these constructs, there were
+also connections between mood and abdominal complaints. The net-
+works in the low-trauma and non-trauma groups were rather different.
+When a connection was statistically significant in one of the networks,
+it was weaker in the other network and no longer significant, but none
+of these connections differed significantly between the networks. Most
+connections that did differ between the low-trauma and the non-trauma
+network were not statistically significant in any of the two networks.
+Node strength was stronger in the low-trauma group, but this was only
+statistically significant in “enthusiastic”.
+
+(1s) Abdominal
+
+@ A1: abdominal pain
+A2: bloating
+@ A3: nausea
+
+M2: irritated
+
+: rush
+
+M4: enthusiast
+M5: happy
+M6: cheerful
+
+@©02000 0
+=
+ee)
+
+Social
+O $1: lonely
+
+Fig. 1. Psychological symptoms network structure including abdominal complaints, mood and lonely in all subjects.
+ M. Drukker, et al.
+
+\
+
+OQ
+
+A Low-trauma
+
+Positive connections are solid lines, negative connections are dashed lines.
+
+%
+(Qw)
+Jf 5 *
+
+Journal of Psychosomatic Research 139 (2020) 110261
+
+Co) ©
+
+Abdominal
+
+(ws @ A1: abdominal pain
+@ A2: bloating
+e@ A3: nausea
+
+M2: irritated
+M3: rush
+
+M4: enthusiast
+M5: happy
+M6: cheerful
+
+Social
+O $1: lonely
+
+B Non-trauma
+
+* regression coefficient is statistically significant # regression coefficient is significantly different from the other network
+
+Fig. 2. Network structure for the low-trauma group (A) and the non-trauma group (B).
+
+Table 3
+Centrality indices of the networks in the low-trauma and the non-trauma groups.
+All subjects Low-trauma group Non-trauma group p-Value®
+Closeness Inward Outward Node Closeness Inward Outward Node Closeness Inward Outward Node
+strength strength strength strength strength strength strength strength strength
+Down 0.007 0.67 0.78 1.45 0.009 0.86 1.08 1.94 0.005 0.57 0.52 1.10 0.09
+Irritated 0.005 0.47 0.51 0.97 0.007 0.90 0.96 1.86 0.006 0.70 0.52 1.22 0.43
+Rushed 0.005 0.58 0.55 1.13 0.006 0.83 0.61 1.44 0.008 0.64 0.71 1.35 0.77
+Enthusiastic 0.005 0.51 0.70 1.21 0.009 0.84 1.19 2.03 0.004 0.65 0.36 1.01 0.01...
+Happy 0.006 0.51 0.44 0.96 0.008 0.86 0.70 1.56 0.007 0.55 0.68 1.24 0.83
+Cheerful 0.005 0.41 0.47 0.87 0.006 0.77 0.57 1.34 0.007 0.68 0.54 1.21 0.79
+Abdominal pain 0.006 0.56 0.68 1.24 0.010 0.68 1.00 1.68 0.005 0.82 0.71 1.53 0.92
+Bloating 0.004 0.76 0.51 1.27 0.007 0.97 0.76 1.72 0.004 0.68 0.56 1.24 0.48
+Nausea 0.005 0.61 0.64 1.25 0.010 0.81 1.16 1.97 0.008 0.62 0.84 1.46 0.59
+Lonely 0.005 0.61 0.41 1.02 0.006 1.02 0.54 1.56 0.009 0.41 0.89 1.29 0.95
+
+* Did node strength in low-trauma group differ from node strength in non-trauma group? p-Value obtained using permutation testing.
+
+*p < 0.05.
+
+When stratifying by childhood trauma, 2 x 100 regression coeffi-
+cients were presented; differences of the same connection in the two
+networks and centrality measures were also tested. This is multiple
+testing. Figs. 1 and 2 present networks and significances, but these
+should be interpreted with caution. When alpha is 0.05, one in 20 re-
+sults is false positive. For this reason, we searched for patterns and more
+general conclusions rather than to scrutinize each significant connec-
+tion. We could have corrected for multiple testing (e.g., using Bonfer-
+roni), but in general those corrections are too strict leading to too many
+false negatives [47]. When Bonferroni correction was performed (re-
+search question 1: 100 connections; research question 2: 2 x 100
+connections, 100 differences and 10 node strengths), alpha would have
+been reduced to 0.05/410 = 0.00021. Only four self-loops remained
+statistically significant (low-trauma group: down, irritated; non-trauma
+group: abdominal pain, bloating). The p-value of the difference in en-
+thusiastic-irritated between the networks was also lower than 0.00021.
+However, p-values based on approximately 3000 permutations are not
+precise in small p-values.
+
+4.1. Comparison of current with previous findings
+
+4.1.1. Mood and abdominal complaints
+Lagged variables as used in the present analysis are assessed be-
+tween 10 min and 3 h before the current assessment. It is possible that
+
+when shorter time periods were chosen, connections between the
+constructs (here the constructs mood and abdominal complaints, re-
+spectively) would have been stronger. As could have been expected,
+items that load on the same construct have stronger connections
+[3,48-50]. Both in the network including all subjects and in the net-
+works stratified by childhood trauma, connections between mood items
+and abdominal complaints were less strong. This is not surprising. The
+connections between mood and abdominal complaints are worth
+mentioning. In research enquiring psychopathology and abdominal
+complaints cross-sectionally or once every four months, psycho-
+pathology was also associated with abdominal complaints [51,52]. The
+brain-gut axis is hypothesized to be involved in underlying mechan-
+isms. The brain-gut axis is a useful framework under which the inter-
+action between functional gastrointestinal disorders and emotional
+complaints can be studied, postulating that functional gastrointestinal
+disorders represent a sensitized response to earlier threats (i.e., child-
+hood adversity, earlier traumatic events), which results in perceived
+emotional and bodily distress [8,51—54].
+
+4.1.2. Mood, abdominal complaints and childhood trauma
+
+In the presented networks, node strengths in the low-trauma group
+were higher than in the non-trauma group, but only one was statisti-
+cally significant: “enthusiastic”. When assessing centrality, the present
+findings also revealed stronger connections in the low-trauma group
+ M. Drukker, et al.
+
+(both total centrality and mood centrality, data not shown), but when
+checking the individual regression coefficients this difference was not
+visible (also see methodological issues).
+
+So, there is some evidence for stronger connections between mood
+items in the low-trauma group than in the non-trauma group, but this is
+not fully consistent. A previous study in healthy population twins
+showed some evidence for stronger connections between mood items
+(“cheerful”, “relaxed”, “irritated”, “anxious”, “insecure”, “down”) in
+subjects with childhood trauma than in subjects without childhood
+trauma, but this could not be replicated in another population twin
+sample [37,41]. In both twin samples, levels of childhood trauma in the
+trauma group were relatively low, as in the present study.
+
+As opposed to childhood trauma, a previous study included daily
+stress as a node in the network of individuals with various levels of risk
+for psychosis [38]. Patients diagnosed with psychotic disorder had
+stronger network connections than healthy controls and connections in
+first degree relatives were stronger than in healthy controls, but less
+strong as in patients [38]. Similarly, in patients diagnosed with psy-
+chotic disorder connections were stronger than in healthy controls [42].
+Thus, both in subjects with a risk factor for psychopathology such as
+childhood trauma and in subjects with increasing levels of psycho-
+pathology, connections between mood items seemed stronger. How-
+ever, more evidence is needed.
+
+Although, a clear pattern did not become visible, we may conclude
+that connections between abdominal symptoms of IBS and mood differ
+between different levels of childhood trauma. The connections between
+abdominal complaints on the one hand and increased NA and decreased
+PA on the other in fact are symptom experiences in IBS patients with
+panic disorder. Thus, even low levels of trauma might impact symptom
+experiences. Because causal inferences are difficult [45,55], this con-
+clusion is only tentative. The suggested impact on symptom experiences
+could be due to differences in emotional awareness between patients of
+the low-trauma and the non-trauma group [56,57]. There are various
+reasons why this study did not reveal a clear network pattern, which
+could better distinguish between non-trauma and low-trauma patients.
+First, the present data only included a low-trauma and a non-trauma
+category and not higher levels of trauma (see strengths and limitations).
+Second, previous n = 1 studies with 500-1000 ESM assessments in one
+patient did show clear differences between networks [44,58]. Although
+both in the present data and in previous n = 1 analyses, ESM assess-
+ments with a lag could be analysed, analyses using extended data sets
+from a single person might be more sensitive than analyses using
+standard ESM data collection in multiple persons.
+
+4.2. Strengths and limitations
+
+As described earlier, data collected by ESM has sufficient validity,
+sensitivity and psychometric properties and it allowed us to compare
+groups despite of the relatively small number of participants
+[18—20,26]. In addition, ESM reduces recall bias and gives insight in the
+symptom formation due to prospectively collected experiences and its
+behavioural consequences [17—20,26]. The inclusion of lags enabled us
+to analyse changes in symptom levels over time [19,37]. However, it is
+important to realize that despite temporal relationships are shown,
+causality cannot be proven [45,55].
+
+The present paper has some limitations. First, no persons with a
+moderate or high trauma level were found in this sample. Hence, we
+emphasize that the results and differences between the groups, as dis-
+cussed above, were based on the difference between low-trauma and
+non-trauma. More research including patients with moderate or high
+trauma experiences is needed to obtain insight in networks in cases of
+more severe childhood trauma.
+
+Second, power was relatively low, despite the multiple assessments
+per person. Despite the low power and the few significances, the pre-
+sented networks give insight in underlying processes in this specific
+patient group. Some subjects used ESM for a few days more than
+
+Journal of Psychosomatic Research 139 (2020) 110261
+
+according to protocol, because of the power we did not remove the days
+that were additionally filled in. Third, the number of subjects and thus
+power was lower in the low-trauma group than in the non-trauma
+group. Possibly due to this, the multilevel regression analysis did not
+achieve convergence for the a priori selected set of variables.
+Fortunately, the alternative set was not much different, and we could
+answer our research questions with this set. Three a priori selected
+complaints were replaced by similar items. Despite the substantially
+lower power, the low-trauma group had 23 significant connections as
+opposed to 28 in the non-trauma group. Finally, for reasons of read-
+ability 10 items were included in the networks presented in the current
+
+paper.
+
+4.3. Conclusion and clinical implications
+
+The present study showed that the use of ESM data in a time-lagged
+network model provides insight in the relationship between abdominal
+complaints and mood in patients with IBS and comorbid panic disorder.
+The use of ESM in this specific patient group and the generation of
+networks at the group level is feasible.
+
+Connections within the mood items and within the abdominal
+complaints were stronger than connections between mood and ab-
+dominal complaints and vice versa. In addition, networks of these pa-
+tients, suffering from IBS and comorbid panic disorder, with low
+childhood trauma or without childhood trauma were different.
+Although only one difference was statistically significant, node strength
+was stronger in patients with low levels of childhood trauma than in
+patients without childhood trauma.
+
+This study provides more insight in the relationship between var-
+ious symptoms in this specific underdiagnosed patient group with
+complex psychosomatic complaints. Connections as shown in a network
+may foster doctors to:
+
+- better understand patients with comorbidities and, therefore, may
+help to personalize diagnostic procedures and to provide tailor-
+made treatment options for IBS-patients, ultimately leading to less
+somatic, as well as less affective symptoms and a better quality of
+life in this patient group.
+develop an integrated and customized care trajectory including
+cognitive behavioural therapy. When individuals collect ESM for a
+longer period, single persons' networks can give even more insight
+with respect to the individual patient's needs. Previously, individual
+networks were generated in a patient with psychotic disorder, bi-
+polar disorder and Parkinson's disease, respectively [44,45,58].
+- apply trauma related interventions, such as Eye Movement
+Desensitization and Reprocessing (EMDR) specified on trauma pro-
+cessing, when a patient reports childhood trauma.
+
+In addition, the association between childhood trauma and IBS
+symptom formation may profit from the use of trauma questionnaires in
+order to provide important information in the diagnostic process of IBS-
+patients with comorbid psychopathology. When a particular patient
+had childhood trauma, one should keep in mind that this may impact
+affective as well as somatic symptoms.
+
+Funding
+
+This research did not receive any specific grant from funding
+agencies in the public, commercial, or not-for-profit sectors.
+
+Declaration of Competing Interest
+
+None.
+ M. Drukker, et al.
+
+Appendix A. Inclusion and exclusion criteria
+
+Inclusion criteria:
+
+- Written informed consent
+
+- Age between 18 and 70 years
+
+- The presence of a panic disorder diagnosed by a psychiatrist (CL)
+based on the DSM IV criteria [27]
+
+- A diagnosis of IBS with subtyping according to the Rome III criteria
+by a gastroenterologist (JWK) [28]
+
+- The absence of other causes for the abdominal complaints based on
+previous examination and medical history
+
+Exclusion criteria:
+
+- Pregnancy and lactation
+
+- Cardiac disease or known prolongation of the QT-interval or long
+QT-syndrome or the use of medication which could cause this QT-
+prolongation
+
+- Inability to stop medication with an influence on the gastrointestinal
+motility or perception
+
+- Administration of escitalopram in 180 days prior to the study
+
+- Other treatment for anxiety or IBS or co-intervention (except tran-
+sient administration of alprazolam)
+
+- Abdominal surgery (except for uncomplicated appendectomy, cho-
+lecystectomy and hysterectomy) and drug abuse or excessive alcohol
+consumption [25]
+
+Appendix B. ESM ‘beep’ questions
+
+WO ON AT BRWN FE
+
+Se
+Oo a)
+
+WwWWWWWWWNHNNNNNNONNNRP RP RP KR RPK eR
+NOOR WBNFOWOAN ODT AWBNHR COMO ON OD GOB W
+
+oy)
+ee)
+
+. | FEEL ENTHUSIASTIC
+
+. | FEEL DOWN
+
+. | FEEL IRRITATED
+
+. | FEEL SATISFIED
+
+. I FEEL RUSHED
+
+. | FEEL RESTLESS
+
+. | FEEL HAPPY
+
+. | FEEL LONELY
+
+. I FEEL STRONG
+
+. | FEEL ANXIOUS
+
+. | FEEL RELAXED
+
+. IT FEEL WORRIED
+
+. | FEEL INSPIRED
+
+. | FEEL DISAPPOINTED
+
+. | FEEL UNCERTAINLY
+
+. | FEEL EXCITED
+
+. | FEEL GUILTY
+
+. 1AM AFRAID TO LOSE MY SELF-MANAGEMENT
+. | HAVE THE FEELING TO BE SEPARATE FROM MYSELF
+. 1 CANNOT RELEASE MY THOUGHTS
+
+. 1AM WORRYING
+
+. GLOBALLY, I AM FEELING OKAY RIGHT NOW
+. WHERE I AM?
+
+. WITH WHO ARE I?
+
+. AND ALSO WITH ...
+
+. AND ALSO WITH ...
+
+. | FIND THIS COMPANY PLEASANT
+
+. | FEEL ACCEPTED
+
+. IN THIS COMPANY I FEEL COMFORTABLE
+
+. | PREFER TO BE ALONE
+
+. WE ARE DOING SOMETHING TOGETHER
+
+. | FIND IT PLEASANT TO BE ALONE
+
+. | PREFER TO BE IN COMPANY OF OTHER PEOPLE
+. WHAT AM I DOING (just before the beep)?
+
+. AND NEXT ...
+
+. AND ...
+
+. | WOULD LIKE TO DO SOMETHING ELSE
+
+. | THINK I AM ACTIVE
+
+Journal of Psychosomatic Research 139 (2020) 110261
+
+39. I LIKE THIS ACTIVITY
+
+40. THIS TAKES EFFORT FOR ME
+
+41. I CAN DO THIS
+
+42. THIS IS A CHALLENGE
+
+43. I AM HUNGRY
+
+44. I AM TIRED
+
+45. I AM NOT FEELING WELL
+
+46. I HAVE PALPATIONS
+
+47. 1 TRANSPIRE
+
+48. I HAVE NERVES TINGLES
+
+49. 1 AM SHORT OF BREATH
+
+50. I HAVE A LUMP IN MY THROAT
+
+51. I HAVE A PRESSURE ON MY CHEST
+
+52. I AM DIZZY
+
+53. I HAVE A HOT FLASH
+
+54. I HAVE CHILLS
+
+55. I HAVE PAIN IN UPPER ABDOMEN
+
+56. I HAVE PAIN IN THE LOWER ABDOMEN
+
+57. 1 HAVE HEARTBURNS
+
+58. I AM NAUSEOUS
+
+59. I HAVE ABDOMINAL DISTENSION
+
+60. I SUFFER FROM FLATULENCE
+
+61. I HAVE TO BURP
+
+62. SINCE THE PREVIOUS BEEP I DID PHYSICAL EXERCISE
+
+63. SINCE THE PREVIOUS BEEP I...
+
+64. SINCE THE PREVIOUS BEEP I USED...
+
+65. SINCE THE PREVIOUS BEEP I USED ALSO...
+
+66. THINK OF THE MOST IMPORTANT EVENT SINCE THE PREV-
+IOUS BEEP
+
+67. THIS EVENT WAS (unpleasant-enjoyable)
+
+68. THIS EVENT WAS (unimportant-important)
+
+69. SINCE THE PREVIOUS BEEP I HAD DEFECATION
+
+70. MY STOOL SEEMED AS: Figure of Bristol Stool Scale [32]
+
+Appendix C. Supplementary data
+
+Supplementary data to this article can be found online at https://
+doi.org/10.1016/j.jpsychores.2020.110261.
+
+References
+
+[1] J. Kruimel, C. Leue, B. Winkens, D. Marcus, S. Schoon, R. Dellink, et al., Integrated
+medical-psychiatric outpatient care in functional gastrointestinal disorders im-
+proves outcome: a pilot study, Eur. J. Gastroenterol. Hepatol. 27 (6) (2015)
+721-727.
+
+[2] M. Fadgyas-Stanculete, A.M. Buga, A. Popa-Wagner, D.L. Dumitrascu, The re-
+lationship between irritable bowel syndrome and psychiatric disorders: from mo-
+lecular changes to clinical manifestations, J. Mol. Psychiatry 2 (1) (2014) 4.
+
+[3] D.A. Drossman, W.L. Hasler, Rome IV-functional GI disorders: disorders of gut-brain
+interaction, Gastroenterology 150 (6) (2016) 1257-1261.
+
+[4] B.G. Meerveld, A.C. Johnson, Mechanisms of stress-induced visceral pain, J.
+Neurogastroenterol. Motil. 24 (1) (2018) 7-18.
+
+[5] M. Zamani, S. Alizadeh-Tabari, V. Zamani, Systematic review with meta-analysis:
+the prevalence of anxiety and depression in patients with irritable bowel syndrome,
+Aliment. Pharmacol. Ther. 50 (2) (2019) 132-143.
+
+[6] M. Fadgyas-Stanculete, A. Buga, A. Popa-Wagner, D. Dumitrascu, The relationship
+between irritable bowel syndrome and psychiatric disorders: from molecular
+changes to clinical manifestations, J. Mol. Psychiatry 2 (2014) 1-7.
+
+[7] A.Y. Thijssen, D.M. Jonkers, C. Leue, P.P. van der Veek, M. Vidakovic-Vukic,
+
+Y.R. van Rood, et al., Dysfunctional cognitions, anxiety and depression in irritable
+bowel syndrome, J. Clin. Gastroenterol. 44 (10) (2010) e236-e241.
+
+[8] C. Leue, J. Kruimel, D. Vrijens, A. Masclee, J. van Os, G. van Koeveringe, Functional
+urological disorders: a sensitized defence response in the bladder-gut-brain axis,
+Nat. Rev. Urol. 14 (3) (2017) 153-163.
+
+[9] C. Leue, Hyperarousal in the Hospital and What to Do about it. The MED-PSYCH-
+NET - A Transitional Network Approach Fostering Personalized Care in
+Psychosomatic Medicine, Datawyse University Press Maastricht, Maastricht, 2017.
+
+[10] A. Mykletun, F. Jacka, L. Williams, J. Pasco, M. Henry, G.C. Nicholson, et al.,
+Prevalence of mood and anxiety disorder in self reported irritable bowel syndrome
+(IBS). An epidemiological population based study of women, BMC Gastroenterol. 10
+(2010) 88.
+
+[11] C. Leue, G. Driessen, J.J. Strik, M. Drukker, R.W. Stockbrugger, P.M. Kuijpers, et al.,
+Managing complex patients on a medical psychiatric unit: an observational study of
+ M. Drukker, et al.
+
+[12]
+
+[13]
+
+[14]
+
+[15]
+
+[16]
+
+[17]
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+[24]
+
+[25]
+
+[26]
+
+[27]
+[28]
+
+[29]
+
+[30]
+
+[31]
+[32]
+[33]
+[34]
+
+[35]
+
+university hospital costs associated with medical service use, length of stay, and
+psychiatric intervention, J. Psychosom. Res. 68 (3) (2010) 295-302.
+
+H.B. El-Serag, P. Pilgrim, P. Schoenfeld, Systemic review: natural history of irritable
+bowel syndrome, Aliment. Pharmacol. Ther. 19 (8) (2004) 861-870.
+
+M.R. Muscatello, A. Bruno, G. Scimeca, G. Pandolfo, R.A. Zoccali, Role of negative
+affects in pathophysiology and clinical expression of irritable bowel syndrome,
+World J. Gastroenterol. 20 (24) (2014) 7570-7586.
+
+J.M. Lackner, C.X. Ma, L. Keefer, D.M. Brenner, G.D. Gudleski, N. Satchidanand,
+et al., Type, rather than number, of mental and physical comorbidities increases the
+severity of symptoms in patients with irritable bowel syndrome, Clin. Gastroenterol.
+Hepatol. 11 (9) (2013) 1147-1157.
+
+Z. Weerts, L. Vork, Z. Mujagic, D. Keszthelyi, M.A.M. Hesselink, J. Kruimel, et al.,
+Reduction in IBS symptom severity is not paralleled by improvement in quality of
+life in patients with irritable bowel syndrome, Neurogastroenterol. Motil. 31 (8)
+(2019) e13629.
+
+N.A. Koloski, P.M. Boyce, M.P. Jones, N.J. Talley, What level of IBS symptoms
+drives impairment in health-related quality of life in community subjects with ir-
+ritable bowel syndrome? Are current IBS symptom thresholds clinically mean-
+ingful? Qual. Life Res. 21 (5) (2012) 829-836.
+
+Z. Mujagic, C. Leue, L. Vork, R. Lousberg, D.M. Jonkers, D. Keszthelyi, et al., The
+experience sampling method—a new digital tool for momentary symptom assess-
+ment in IBS: an exploratory study, Neurogastroenterol. Motil. 27 (9) (2015)
+1295-1302.
+
+L. Vork, D. Keszthelyi, Z. Mujagic, J.W. Kruimel, C. Leue, I. Ponten, et al.,
+Development, content validity, and cross-cultural adaptation of a patient-reported
+outcome measure for real-time symptom assessment in irritable bowel syndrome,
+Neurogastroenterol. Motil. 30 (3) (2018).
+
+S.J. Verhagen, L. Hasmi, M. Drukker, J. van Os, P.A. Delespaul, Use of the experi-
+ence sampling method in the context of clinical trials, Evid. Based Ment. Health. 19
+(3) (2016) 86-89.
+
+J. van Os, S. Verhagen, A. Marsman, F. Peeters, M. Bak, M. Marcelis, et al., The
+experience sampling method as an mHealth tool to support self-monitoring, self-
+insight, and personalized health care in clinical practice, Depress Anxiety 34 (6)
+(2017) 481-493.
+
+R.J. McNally, Can network analysis transform psychopathology? Behav. Res. Ther.
+86 (2016) 95-104.
+
+S.H. Park, E.J. Videlock, W. Shih, A.P. Presson, E.A. Mayer, L. Chang, Adverse
+childhood experiences are associated with irritable bowel syndrome and gastro-
+intestinal symptom severity, Neurogastroenterol. Motil. 28 (8) (2016) 1252-1260.
+T. Ju, B.D. Naliboff, W. Shih, A.P. Presson, C. Liu, A. Gupta, et al., Risk and pro-
+tective factors related to early adverse life events in irritable bowel syndrome, J.
+Clin. Gastroenterol. 54 (2018) 63-69.
+
+D. Kealy, S.M. Rice, J.S. Ogrondniczuk, A. Spidel, Childhood trauma and somatic
+symptoms among psychiatric outpatients: investigating the role of shame and guilt,
+Psychiatry Res. 268 (2018) 169-174.
+
+J.W. Kruimel, C. Leue, Protocol: Randomized Controlled Trial of Escitalopram
+Versus Placebo for Patients With Irritable Bowel Syndrome and Panic Disorder,
+Maastricht University Medical Centre, 2011 NCT01551225 2011. Available from:
+https://www.clinicaltrials. gov.
+
+L. Vork, Z. Mujagic, M. Drukker, D. Keszthelyi, J.M. Conchillo, M.A.M. Hesselink,
+et al., The experience sampling method-evaluation of treatment effect of escitalo-
+pram in IBS with comorbid panic disorder, Neurogastroenterol. Motil. 31 (1) (2019)
+e13515.
+
+American Psychiatric Association, Diagnostic and Statistical Manual of Mental
+Disorders, 5th ed., American Psychiatric Association, Washington, DC, 2013.
+
+D.A. Drossman, D.L. Dumitrascu, Rome III: New standard for functional gastro-
+intestinal disorders, J. Gastrointestin. Liver Dis. 15 (3) (2006) 237-241.
+
+D.P. Bernstein, L. Fink, L. Handelsman, J. Foote, M. Lovejoy, K. Wenzel, et al.,
+Initial reliability and validity of a new retrospective measure of child abuse and
+neglect, Am. J. Psychiatry 151 (8) (1994) 1132-1136.
+
+B.D. Thombs, D.P. Bernstein, J. Lobbestael, A. Arntz, A validation study of the
+Dutch childhood trauma questionnaire-short form: factor structure, reliability, and
+known-groups validity, Child Abuse Negl. 33 (8) (2009) 518-523.
+
+D.P. Bernstein, L. Fink, Childhood Trauma Questionnaire Manual, Psychological
+Corporation, Orlando, 1998.
+
+S.J. Lewis, K.W. Heaton, Stool form scale as a useful guide to intestinal transit time,
+Scand. J. Gastroenterol. 32 (9) (1997) 920-924.
+
+P.A.E.G. Delespaul, M.W.D. Vries (Ed.), Assessing Schizophrenia in Daily Life the
+Experience Sampling Method, Universitaire Pers Maastricht, Maastricht, 1995.
+
+T. Snijders, R. Bosker, Multilevel Analysis, an Introduction to Basic and Advanced
+Modeling, SAGE Publications, London, 1999 (266 pp.).
+
+N. Jacobs, C. Menne-Lothmann, C. Derom, E. Thiery, J. van Os, M. Wichers,
+
+[36]
+
+[37]
+
+[38]
+
+[39]
+
+[40]
+
+[41]
+
+[42]
+
+[43]
+[44]
+
+[45]
+
+[46]
+
+[47]
+
+[48]
+
+[49]
+
+[50]
+
+[51]
+
+[52]
+
+[53]
+
+[54]
+
+[55]
+
+[56]
+
+[57]
+
+[58]
+
+Journal of Psychosomatic Research 139 (2020) 110261
+
+Deconstructing the familiality of variability in momentary negative and positive
+affect, Acta Psychiatr. Scand. 127 (4) (2013) 318-327.
+
+StataCorp, C. Station (Ed.), Stata Statistical Software: Release 13, TX: StataCorp, LP,
+2013.
+
+L. Hasmi, M. Drukker, S. Guloksuz, W. Viechtbauer, E. Thiery, C. Derom, et al.,
+Genetic and environmental influences on the affective regulation network: a pro-
+spective experience sampling analysis, Front. Psychiatry 9 (2018) 602.
+
+A. Klippel, W. Viechtbauer, U. Reininghaus, J. Wigman, C. van Borkulo, Merge,
+et al. the Cascade of stress: a network approach to explore differential dynamics in
+populations varying in risk for psychosis, Schizophr. Bull. 44 (2) (2018) 328-337.
+TeamR, R: A Language and Environment for Statistical Computing, R-Foundation
+for Statistical Computing, Vienna, 2013.
+
+Sacha Epskamp, Angelique O.J. Cramer, Lourens J. Waldorp, V.D. Schmittmann,
+D. Borsboom, qgraph: network visualizations of relationships in psychometric data,
+J. Stat. Software 48 (4) (2012) 1-18.
+
+L. Hasmi, M. Drukker, S. Guloksuz, C. Menne-Lothmann, J. Decoster, R. van Winkel,
+et al., Network approach to understanding emotion dynamics in relation to child-
+hood trauma and genetic liability to psychopathology: replication of a prospective
+experience sampling analysis, Front. Psychol. 8 (2017) 1908.
+
+J.T. Wigman, J. van Os, D. Borsboom, K.J. Wardenaar, S. Epskamp, A. Klippel,
+
+et al., Exploring the underlying structure of mental disorders: cross-diagnostic dif-
+ferences and similarities from a network perspective using both a top-down and a
+bottom-up approach, Psychol. Med. 45 (11) (2015) 2375-2387.
+
+T. Opsahl, F. Agneessens, J. Skvoretz, Node centrality in weighted networks: gen-
+eralizing degree and shortest paths, Soc. Networks 32 (2010) 245-251.
+
+M. Bak, M. Drukker, L. Hasmi, J. van Os, An n=1 clinical network analysis of
+symptoms and treatment in psychosis, PLoS One 11 (9) (2016) e0162811.
+
+R.M.J. van der Velden, A.E.P. Mulders, M. Drukker, M.L. Kuijf, A.F.G. Leentjens,
+Network analysis of symptoms in a Parkinson patient using experience sampling
+data: ann = 1 study, Mov. Disord. 33 (12) (2018) 1938-1944.
+
+L.F. Bringmann, T. Elmer, S. Epskamp, R.W. Krause, D. Schoch, M. Wichers, et al.,
+What do centrality measures measure in psychological networks? J. Abnorm.
+Psychol. 128 (8) (2019) 892-903.
+
+S. Nakagawa, A farewell to Bonferroni: the problems of low statistical power and
+publication bias, Behav. Ecol. 15 (6) (2004) 1044-1045.
+
+R. Goekoop, J.G. Goekoop, A network view on psychiatric disorders: network
+clusters of symptoms as elementary syndromes of psychopathology, PLoS One 9
+(11) (2014) e112734.
+
+S.J.W. Verhagen, J.A. Berben, C. Leue, A. Marsman, P. Delespaul, J. van Os, et al.,
+Demonstrating the reliability of transdiagnostic mHealth routine outcome mon-
+itoring in mental health services using experience sampling technology, PLoS One
+12 (10) (2017) e0186294.
+
+I. Myin-Germeys, F. Peeters, R. Havermans, N.A. Nicolson, M.W. DeVries,
+
+P. Delespaul, et al., Emotional reactivity to daily life stress in psychosis and affec-
+tive disorder: an experience sampling study, Acta Psychiatr. Scand. 107 (2) (2003)
+124-131.
+
+N.A. Koloski, N.J. Talley, P.M. Boyce, Does psychological distress modulate func-
+tional gastrointestinal symptoms and health care seeking? A prospective, commu-
+nity Cohort study, Am. J. Gastroenterol. 98 (4) (2003) 789-797.
+
+J.M. Lackner, J. Jaccard, E.B. Blanchard, Testing the sequential model of pain
+processing in irritable bowel syndrome: a structural equation modeling analysis,
+Eur. J. Pain 9 (2) (2005) 207-218.
+
+J.M. Lackner, G.D. Gudleski, E.R. Thakur, T.J. Stewart, G.J. Iacobucci, B.M. Spiegel,
+The impact of physical complaints, social environment, and psychological func-
+tioning on IBS patients’ health perceptions: looking beyond GI symptom severity,
+Am. J. Gastroenterol. 109 (2) (2014) 224-233.
+
+T.C. Olde Hartman, P.L. Lucassen, E.H. van de Lisdonk, H.H. Bor, C. van Weel,
+Chronic functional somatic symptoms: a single syndrome? Br. J. Gen. Pract. 54
+(509) (2004) 922-927,
+
+S. Epskamp, C.D. van Borkulo, D.C. van der Veen, M.N. Servaas, A.M. Isvoranu,
+H. Riese, et al., Personalized network modeling in psychopathology: the importance
+of contemporaneous and temporal connections, Clin. Psychol. Sci. 6 (3) (2018)
+416-427.
+
+R.D. Lane, F.S. Anderson, R. Smith, Biased competition favoring physical over
+emotional pain: a possible explanation for the link between early adversity and
+chronic pain, Psychosom. Med. 80 (9) (2018) 880-890.
+
+R. Smith, G.D. Gudleski, R.D. Lane, J.M. Lackner, Higher emotional awareness is
+associated with reduced pain in irritable bowel syndrome patients: preliminary
+results, Psychol. Rep. 123 (2020) 2227-2247 (33294119868778).
+
+A. Voigt, D. Kreiter, C. Jacobs, E. Revenich, N. Serafras, M. Wiersma, et al., Clinical
+network analysis in a bipolar patient using an experience sampling mobile health
+tool: an n=1 study, Bipolar Disord. Open Access. 4 (1) (2018) 121.

@@ -1,0 +1,912 @@
+JMIR MENTAL HEALTH Huckins et al
+
+Original Paper
+
+Causal Factors of Anxiety and Depression in College Students:
+Longitudinal Ecological Momentary Assessment and Causal
+Analysis Using Peter and Clark Momentary Conditional
+Independence
+
+Jeremy F Huckins', PhD; Alex W DaSilva', BSc; Elin L Hedlund’, BA; Eilis I Murphy’, BA; Courtney Rogers’, MEd;
+
+Weichen Wang’, ME; Mikio Obuchi’, MA; Paul E Holtzheimer’ a MD; Dylan D Wagner, PhD; Andrew T Campbell’,
+PhD
+
+‘Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH, United States
+“Department of Computer Science, Dartmouth College, Hanover, NH, United States
+
+National Center for PTSD, White River Junction, VT, United States
+
+*Department of Psychiatry, Dartmouth-Hitchcock Medical Center, Lebanon, NH, United States
+Department of Psychology, Ohio State University, Columbus, OH, United States
+
+Corresponding Author:
+
+Jeremy F Huckins, PhD
+
+Department of Psychological and Brain Sciences
+Dartmouth College
+
+HB6207
+
+Hanover, NH, 03755
+
+United States
+
+Phone: 1 5086574825
+
+Email: jeremy.f. huckins@dartmouth.edu
+
+Abstract
+
+Background: Across college campuses, the prevalence of clinically relevant depression or anxiety 1s affecting more than 27%
+of the college population at some point between entry to college and graduation. Stress and self-esteem have both been hypothesized
+to contribute to depression and anxiety levels. Although contemporaneous relationships between these variables have been
+well-defined, the causal relationship between these mental health factors is not well understood, as frequent sampling can be
+invasive, and many of the current causal techniques are not well suited to investigate correlated variables.
+
+Objective: This study aims to characterize the causal and contemporaneous networks between these critical mental health factors
+in a cohort of first-year college students and then determine if observed results replicate in a second, distinct cohort.
+
+Methods: Ecological momentary assessments of depression, anxiety, stress, and self-esteem were obtained weekly from two
+cohorts of first-year college students for 40 weeks (1 academic year). We used the Peter and Clark Momentary Conditional
+Independence algorithm to identify the contemporaneous (t) and causal (t-1) network structures between these mental health
+metrics.
+
+Results: All reported results are significant at P<.001 unless otherwise stated. Depression was causally influenced by self-esteem
+(t-1 r,, cohort 1 [C1]=—0.082, cohort 2 [C2]=—0.095) and itself (t-1 r,, C1=0.388, C2=0.382) in both cohorts. Anxiety was causally
+
+influenced by stress (t-1 Tp C1=0.095, C2=0.104), self-esteem (t-1 Tp, C1=—0.067, C2=—0.064, P=.002), and itself (t-1 Tp of
+C1=0.293, C2=0.339) in both cohorts. A causal link between anxiety and depression was observed in the first cohort (t-I r,,
+C1=0.109) and only observed in the second cohort with a more liberal threshold (t-1 r,,, C2=0.044, P=.03). Self-esteem was only
+causally influenced by itself (t-1 r,, C1=0.389, C2=0.393). Stress was only causally influenced by itself (t-1 r,, C1=0.248,
+C2=0.273). Anxiety had positive contemporaneous links to depression (t Tp C1=0.462, C2=0.444) and stress (t Tp C1=0.354,
+
+C2=0.358). Self-esteem had negative contemporaneous links to each of the other three mental health metrics, with the strongest
+negative relationship being stress (t Tp C1=—0.334, C2=—0.340), followed by depression (t Tp C1=—0.302, C2=—0.274) and anxiety
+
+https://mental .jmir.org/2020/6/e 16684 JMIR Ment Health 2020 | vol. 7 | iss. 6 | e16684 | p. 1
+(page number not for citation purposes)
+
+RenderX
+ JMIR MENTAL HEALTH Huckins et al
+
+(t r,, Cl=—-0.256, C2=—0.208). Depression had positive contemporaneous links to anxiety (previously mentioned) and stress (t
+tT), C1=0.250, C2=0.231).
+
+Conclusions: This paper is an initial attempt to describe the contemporaneous and causal relationships among these four mental
+health metrics in college students. We replicated previous research identifying concurrent relationships between these variables
+and extended them by identifying causal links among these metrics. These results provide support for the vulnerability model of
+depression and anxiety. Understanding how causal factors impact the evolution of these mental states over time may provide key
+information for targeted treatment or, perhaps more importantly, preventative interventions for individuals at risk for depression
+
+and anxiety.
+
+(JMIR Ment Health 2020;7(6):e16684) doi: 10.2196/16684
+
+KEYWORDS
+
+depression; anxiety; self-esteem; stress; causality; ecological momentary assessments; mental health; network; college
+
+Introduction
+
+Depression and Anxiety Prevalence and Risk Factors
+
+Worldwide, depression is estimated to affect over 300 million
+individuals, and anxiety is estimated to affect over 260 million
+individuals [1]. A recent survey in the United States showed
+that individuals 18-25 years of age had the highest rate of major
+depressive episodes with a prevalence of over 13% [2]. On
+college campuses across the United States, more than 66% of
+students reported overwhelming anxiety within the last 12
+months and more than 46% reported being so depressed it was
+difficult to function [3]. In the same report, more than 27% of
+undergraduates were found to have been diagnosed or treated
+for anxiety, depression, or both. In this paper, we focus on
+first-year undergraduate students, as they are a high-risk
+demographic going through a variety of life changes, many of
+which are risk factors for depression and anxiety, including
+living in a new geographic location, attending a new school,
+and meeting new friends [4-6]. This complex and changing
+period in students’ lives provides a unique window into the
+complex relationship between mental health metrics.
+
+Two factors that may precipitate anxious or depressive
+symptoms are increased stress and low self-esteem [4,7-10].
+Because stress and low self-esteem are often correlated with
+anxiety and depression, it can be difficult to disentangle the
+causal associations between these factors. New methodological
+developments in causal network reconstruction permits the
+estimation of causal networks from time series data.
+Implementing these methods might allow for the estimation of
+the causal network relating stress, self-esteem, anxiety, and
+depression among college students. If increased stress and low
+self-esteem are causal markers that precede anxiety and
+depression, then these methods might be useful for earlier
+identification or preventative intervention for people at risk.
+Moreover, they may help to identify factors that could be targets
+for programmatic or institutional changes and, thereby, reduce
+the prevalence of anxiety and depression.
+
+Defining Mental Health Metrics for Ultrabrief
+Measurements
+
+Identifying temporal patterns of occurrence and causal factors
+underlying these mental disorders will be critical to addressing
+
+the growing mental health problems on college campuses and
+elsewhere. An unresolved question is the exact nature of causal
+
+https://mental .jmir.org/2020/6/e 16684
+
+RenderX
+
+relationships between the four variables previously mentioned.
+Although multiple definitions exist for these constructs, we
+focus on a subset of these, so they can be surveyed frequently
+and with minimal effort needed by the subject. Stress can be
+defined as a negative emotional or physical experience that has
+subsequent physiological or behavioral changes directed toward
+adaptation, either by changing the situation or accommodating
+its effects [11]. In this study, we focus on self-reported stress,
+given the complexities associated with measuring actual stress
+exposure. State self-esteem is considered a person’s sense of
+their own worth or value at the current moment [12]. The Patient
+Health Questionnaire (PHQ)-4 is frequently used as a brief
+measure with relatively good diagnostic performance for
+depression and anxiety, being comprised of the PHQ-2 and
+Generalized Anxiety Disorder-2 (GAD-2) [13]. As measured
+within this context, anxiety will be considered persistent and
+excessive worry. Similarly, depression is multifaceted, but we
+will focus on anhedonia and negative affect components, given
+their gross diagnostic abilities of anxiety and depression in
+college students [14]. Although focusing on these specific
+aspects of these mental health metrics is likely to be limiting,
+they allow for quick and more frequent assessments while
+maintaining rough diagnostic abilities.
+
+Models of Depression and Anxiety
+
+There are a variety of models that predict how these variables
+influence each other across the lifespan. Data supporting these
+models have generally been sparsely sampled, with weeks or
+months separating 3-5 waves (time points) for each survey
+[15,16]. Here we focus on a few of these models, giving
+precedence to models with strong empirical support where
+primary relationships between two or more variables are
+mentioned. The vulnerability model of mental health [17]
+suggests that vulnerability and the likelihood of a mental health
+episode are linked in a trait-state relationship. Recent adaptations
+of the vulnerability model specifically predict that low
+self-esteem will lead to subsequent increases in depression and
+have received strong empirical support [18]. The diathesis-stress
+model postulates that there is a wide constellation of factors
+that may predispose someone to depression or anxiety and that
+stress is a moderating variable. Many models of anxiety are also
+based on the vulnerability model. These models include a
+stressor or trigger that may lead to subsequent increases in
+anxious symptoms and progress to clinical levels of anxiety,
+depending on the context [19,20]. The scar model predicts that
+
+JMIR Ment Health 2020 | vol. 7 | iss. 6 | e16684 | p. 2
+(page number not for citation purposes)
+ JMIR MENTAL HEALTH
+
+depressive periods may lead to future low self-esteem [21,22].
+The reciprocal relation model posits that stress leads to future
+anxiety and anxiety leads to future stress, and low self-esteem
+leads to increased depression and depression leads to future low
+self-esteem [18]. These diverse and not always complementary
+models beg testing with many time points, which may be able
+to more fully elucidate the relationship between true causal
+relationships. At a time where replication in social and affective
+neuroscience is in question, it is critically important to replicate
+results in distinct cohorts when possible [23,24].
+
+Ecological Momentary Assessments to Measure Mental
+Health Metrics
+
+Increasing the sampling rate and study duration compared to
+previous causal studies would provide unique insight into the
+relationships among these mental health metrics. Recent
+technological advances allow for more frequent sampling with
+ecological momentary assessments (EMAs), which can be less
+invasive and more naturalistic than typical laboratory-based
+studies if the sampling frequency is not burdensome. With
+EMAs, questions can be sent directly to a person’s smartphone
+as often as desired [25,26]. EMA frequency should be balanced
+to minimize demand on the subject while maximizing coverage
+of potentially rapidly changing responses related to underlying
+mental health metrics with consideration for subject retention
+over the entire study duration. In an attempt to retain individuals
+across their entire collegiate experience, we selected weekly
+EMA sampling.
+
+Causal and Contemporaneous Network Detection
+
+The ability to sample individuals’ mental health metrics more
+frequently allows for the possibility of testing models and
+theories present in the psychological literature, as well as
+generating new ones. With larger amounts of data, more methods
+to analyze causal influences can be considered. Autoregressive
+models such as Granger causality can be used to assess aspects
+of causation in an observed system [27]. Notably, Granger
+causality is susceptible to high dimensionality and missing data,
+and most implementations are not able to dissociate causal
+influences from highly correlated variables in a reasonable
+manner. Given the correlation present between the measured
+mental health metrics, Granger causality is not a reasonable
+method to select. Luckily, recent advances in causal network
+detection methods allow for parsing large, correlated time series
+with missing data. Peter and Clark Momentary Conditional
+Independence (PCMCI) is a method that can reconstruct robust
+causal networks for time series data that contain some missing
+points (ie, nonresponses from students in this study) while
+dealing with high dimensionality and highly correlated variables
+more effectively than many other methods while still retaining
+a low false-positive rate [28,29].
+
+Although many research groups have demonstrated that stress,
+self-esteem, anxiety, and depression are all correlated, an
+unresolved question is if there are causal influences between
+these variables. A variety of psychological models related to
+interactions of these mental health metrics have been proposed,
+but much of the extant literature does not have temporal
+frequency and the total number of time points required to
+perform many of the recently developed causality methods. In
+
+https://mental .jmir.org/2020/6/e 16684
+
+RenderX
+
+Huckins et al
+
+this study, we aim to characterize the causal network of
+relationships between stress, self-esteem, depression, and anxiety
+as assessed by EMAs collected through the smartphone app,
+StudentLife. We first test this in a sample of first-year college
+students using PCMCI, then retest the same analysis in a
+completely independent cohort of subjects. Subsequently, we
+attempt to determine which psychological models of anxiety
+and depression best fit the current results and discuss possible
+implications.
+
+Methods
+
+Participants
+
+Participants were first-year undergraduate students with eligible
+smartphones recruited from the Dartmouth College community
+during their first academic term. The Committee for the
+Protection of Human Subjects at Dartmouth College approved
+this study. Each participant provided written informed consent
+in accordance with guidelines set by the committee and received
+their choice of either course credit or monetary compensation
+(US $10 per week of EMAs answered) for study participation
+[30]. A subsample of cohort 1 (C1) participants were included
+in a previous study [31]. Two cohorts, corresponding to
+subsequent class years, were included. C1 included 106 subjects
+(75 females, mean age at the beginning of the study 18.25 years,
+SD 0.63, range 18-22). One subject was removed from the study
+for having a phone incompatible with our data collection app,
+leaving Cl with 105 subjects. Cohort 2 (C2) included 114
+subjects (75 females, mean age at the beginning of the study
+18.12 years, SD 0.45, range 18-20). One subject withdrew within
+a week of starting the study, and their data was excluded from
+further analyses, leaving C2 with 113 subjects.
+
+Ecological Momentary Assessments and Data
+Processing
+
+Brief surveys of depression, anxiety, stress, and state self-esteem
+were assessed for 40 weeks (1 academic year) using EMAs
+(Multimedia Appendix 1), a method to assess an individual’s
+mental state in a naturalistic setting outside of the laboratory
+[25]. StudentLife, an app for Android and iOS, was installed
+on each participant’s smartphone [32] and used to administer
+EMAs at a random time point once per week for 40 weeks.
+Individuals were also able to manually open the StudentLife
+app and take the EMA in an unprompted manner. Data from
+StudentLife is uploaded to a secure server whenever a participant
+is both using WiFi and charging their phone, which they were
+encouraged to do daily. The EMA questions analyzed in this
+study included the PHQ-4, with depressive (PHQ-2) and anxious
+(GAD-2) components [13]. State self-esteem was measured
+with three questions selected from the State Self-Esteem Scale,
+which included a relevant question from each of the following
+categories: social, appearance, and performance [33]. Stress
+was measured by asking “Are you feeling stressed now?” with
+a 5-point Likert scale [34] with response labels ranging from
+“Not at All” to “Extremely.” Anonymized data was exported
+from StudentLife servers. Responses for an individual were
+averaged in the rare case that multiple responses were received
+within a given week. Individuals were able to access and answer
+the EMAs whenever they wanted, not just when prompted by
+
+JMIR Ment Health 2020 | vol. 7 | iss. 6 | e16684 | p. 3
+(page number not for citation purposes)
+ JMIR MENTAL HEALTH
+
+the app. Weekly responses from all subjects were concatenated
+and buffered with three lines of missing values so that transition
+points between subjects would not weigh as causal influences.
+All missing values were replaced with “999? Cl had 3404
+weeks of responses to all four mental health metrics (mean 28.8,
+median 30, SE 0.74) across 105 individuals, and C2 had 3614
+weeks of responses (mean 26.7, median 29, SE 0.77) across
+114 individuals. A total of 7018 out of 8760 possible weeks
+contained responses across 219 individuals (80% response rate).
+
+Causal and Contemporaneous Network Detection
+
+The goal of the current work is to determine the causal and
+contemporaneous network structure among the mental health
+metrics collected on a weekly basis. Contemporaneous network
+structure is the relationship between variables within the same
+time point, while causal network structure is the relationship
+between variables at different time points. PCMCI has the
+advantage of being able to recover causal networks that include
+multiple sources of causation and is suitable for data sets with
+missing responses and correlated variables [28 ,29,35]. PCMCI
+was implemented using the partial correlation method from the
+Tigramite software package (version 4.0.0) [36]. PCMCTI is a
+two-step method that begins with a fully connected causal
+network graph. Condition selection, or PC1, a modification of
+the Peter and Clark algorithm, is the first step of PCMCI, which
+attempts to reduce the number of connections in the graph.
+Momentary conditional independence (MCI) is the second step
+of PCMCI, which consists of testing links for causal
+relationships (using partial correlations in this study).
+
+Condition selection is a method to reduce the number of network
+connections that are interrogated for causal influences. Condition
+selection identifies nodes from previous time points that are
+likely to be real connections. Condition selection is the first
+phase of the PCMCI algorithm implemented in Tigramite [37]
+and is performed to reduce the number of potential causal
+connections interrogated. It applies a fast variant of PCl, a
+modification of the Peter and Clark algorithm [38] (for an
+in-depth description of PC1 and PCMCI please refer to [29]).
+PC] identifies relevant conditions (variable at a given time lag)
+that may have predictive power for all variables. In this context,
+condition selection is performed using a liberal initial alpha
+value of .2 to retain more possible connections than not (as is
+recommended by the software author in the documentation [36]
+and is the default for the function in Tigramite version 4.0.0)
+while reducing the total number of connections to be tested in
+the second phase of PCMCTI.
+
+MCI, the second step of PCMCTI, identifies contemporaneous
+and causal relationships from the reduced set of connections
+passed to it from the PCI algorithm. Contemporaneous
+relationships are those that occur at the same time or faster than
+the sampling rate (within the same week in this study) and
+directionality cannot be assessed. Causal relationships are those
+
+https://mental .jmir.org/2020/6/e 16684
+
+RenderX
+
+Huckins et al
+
+that occur across time points (between weeks in this study).
+MCI was implemented through partial correlation estimated
+with a linear ordinary least squares regression and a test for
+nonzero linear Pearson correlation on the residuals at an alpha
+of .005. By using condition selection (PC1) paired with MCI
+using the partial correlation test, this method is able to account
+for autocorrelation, leading to well-controlled false-positive
+rates [28]. Partial correlation was selected from available test
+statistics within this framework due to its ease of interpretability,
+ability to work with all survey values, and ability to measure
+the association between a given pair of variables while removing
+variance associated with other variables, critical when looking
+at highly correlated mental health metrics. Visualization of
+contemporaneous and causal network graphs were generated
+using qgraph [39].
+
+Results
+
+Causal influences are shown as directed lines with arrow heads
+revealing directionality (Figure |, top), while contemporaneous
+influences are shown separately with undirected lines for clearer
+visualization (Figure 1, bottom). All displayed connections were
+significant at P<.005. Relationships described in the text were
+significant at P<.001 unless otherwise mentioned. Depression
+was causally influenced by self-esteem (t-1 r,, C1=—0.082,
+
+C2=—0.095) and itself (t-1 r,, C1=0.388, C2=0.382) in both
+cohorts. Anxiety was causally influenced by stress (t-1 r,,
+C1=0.095, C2=0.104), self-esteem (t-1 Tp C1=0.067,
+C2=-0.064, P=.002), and itself (t-1 r,, C1=0.293, C2=0.339)
+in both cohorts. A causal link between anxiety and depression
+was observed in the first cohort (t-1 r,, C1=0.109) and only
+
+observed in the second cohort with a more liberal threshold (t-1
+T,, C2=0.044, P=.03 not displayed in Figure 1). Self-esteem
+was not causally influenced by any metrics except for itself (t-1
+T,, C1=0.389, C2=0.393). Stress was not causally influenced
+by any metrics except for itself (t-1 r,, C1=0.248, C2=0.273).
+
+The PCMCI partial correlation (r,) analysis of contemporaneous
+
+relationships revealed significant contemporaneous influences
+(P< .001) among all four mental health metrics (Figure 1, top).
+Observed contemporaneous undirected links (time t) included
+positive links between anxiety, depression, and stress. Anxiety
+had positive contemporaneous links to depression (try,
+
+C1=0.462, C2=0.444) and stress (t r,, C1=0.354, C2=0.358).
+Self-esteem had negative contemporaneous links to each of the
+other three mental health metrics, with the strongest negative
+relationship being stress (t Tp; C1l=-0.334, C2=-0.340), followed
+by depression (t r,, C1=—0.302, C2=—0.274) and anxiety (t r,,
+C1=—0.256, C2=—0.208). Depression had ___sopositive
+contemporaneous links to anxiety (previously mentioned) and
+stress (t r,, C1=0.250, C2=0.231).
+
+JMIR Ment Health 2020 | vol. 7 | iss. 6 | e16684 | p. 4
+(page number not for citation purposes)
+ JMIR MENTAL HEALTH
+
+Huckins et al
+
+Figure |. Causality graph observing previous week (t-1) connections on mental health metrics collected through ecological momentary assessments
+weekly for cohorts | (top left) and 2 (top right) at a threshold of P<.005. Contemporaneous connections presented for cohorts | (bottom left) and 2
+(bottom right). Solid lines are positive relationships and dashed lines are negative relationships with magnitude marked on the graph, listing the partial
+correlation value. For causal relationships, the arrowhead signifies directionality. Anx: anxiety; Dep: depression; SE: self-esteem; Str: stress.
+
+Cohort 1
+
+D.39
+
+9
+5 0.
+=
+UO
+:
+Y)
+5 Dep
+cD)
+Cc 7
+-0.3 0-46
+vo
+O
+©. 0.05
+= §.33
+oD) » 035
+oe]
+> Str
+UO
+Discussion
+
+Summary of Primary Findings
+
+Weekly EMAs of self-esteem, depression, stress, and anxiety
+were collected in two separate cohorts of over 200 college
+students across an academic year, with an average response rate
+of 80%. These EMAs were submitted to the PCMCI algorithm,
+which identified increased stress as a causal factor of future
+anxiety. Decreased self-esteem was identified as a causal factor
+of future depression and, to a lesser extent, anxiety. Increased
+depression was observed as a causal factor for future anxiety,
+but only in one of the two cohorts at a threshold of P<.005.
+These results help confirm the vulnerability model and extend
+previous literature by providing evidence for model testing.
+
+This paper and previous research show congruent patterns of
+correlation among the mental health metrics observed [40]:
+positive relationships among depression, anxiety, and stress,
+and inverse relationships between self-esteem and the other
+mental health metrics. These findings are also congruent with
+
+https://mental .jmir.org/2020/6/e 16684
+
+RenderX
+
+Cohort 2
+
+0.38
+
+oS
+
+previously validated similarities between these EMA surveys
+and longer web-based surveys of related mental health metrics
+[31,41]. Analyses using PCMCI provide insight into the causal
+temporal dynamics between these mental health metrics. Positive
+correlations were observed among depression, anxiety, and
+stress, while these 3 metrics were negatively correlated with
+self-esteem, as expected based on previous research.
+
+Causal Network Detection
+
+The most novel and important part of this study is the application
+of the PCMCI algorithm for the identification of the causal
+network structure among mental health metrics [28]. PCMCI
+is a two-part algorithm, which when compared to other
+causality-detection algorithms, provides low false-positive rates
+combined with high power to detect real causal links. By
+reducing the number of connections tested in the causal network
+using PC1, PCMCI allows for higher dimensional data to be
+tested when compared with Granger causality or most other
+causal methods. By using partial correlation as the testing metric
+for the MCI phase of PCMCI, all variables are tested
+
+JMIR Ment Health 2020 | vol. 7 | iss. 6 | e16684 | p. 5
+(page number not for citation purposes)
+ JMIR MENTAL HEALTH
+
+simultaneously, and interactions between correlated variables
+can be dissociated, something that has been elusive when
+implementing Granger causality. Within the current data set,
+conditioning with PC1 is likely less important, as we are using
+only four variables, while using partial correlation is critically
+important, and these mental health metrics are all at least
+somewhat correlated. The current results show that increases
+in stress cause subsequent increases in anxiety, while increases
+in self-esteem cause subsequent decreases in depression and,
+to a lesser extent, anxiety. These findings are consistent with
+the extant literature [7,40], but, to our knowledge, we are the
+first group to run a causal network analysis with moderately
+dense (weekly) temporal coverage extending across a whole
+academic year (40 weeks), identifying similar results across
+two distinct cohorts.
+
+Causal Findings and Existing Theories of Depression
+and Anxiety
+
+The causal interactions among these mental health metrics can
+provide evidence to support some current psychological theories.
+This paper supports the vulnerability model, which suggests
+that low self-esteem can lead to subsequent depression or anxiety
+(Figure |) [42,43]. We did not observe evidence supporting the
+scar model, where depression causally influences self-esteem,
+or the reciprocal relation model, where low self-esteem and
+depression have a feedback loop. Other groups have observed
+some support for the scar model, but to a lesser extent than the
+vulnerability model [7,8]. The meta-analysis by Sowislo and
+Orth [7] looked at prospective effects between these variables
+for each study, many of which included longer time frames with
+less frequent sampling than we observed here. It is possible that
+we would need to greatly increase the number of time points
+modeled as possible causal factors and collect data for a longer
+period of time to observe effects in support of the scar model.
+
+The diathesis-stress model has been applied in both depressive
+and anxious contexts, where pre-existing conditions such as
+low self-esteem are risk factors, and stressful events can trigger
+subsequent increases in depression or anxiety in higher risk
+individuals [9]. There is some support for the diathesis-stress
+model in this paper, where self-esteem is a causal factor for
+anxiety and depression, and stress is a causal factor for anxiety.
+Conversely, with a time lag of 1 week, we did not see direct
+interactions between stress and self-esteem. It is possible that
+the interactions hypothesized between these variables in the
+diathesis-stress model may play out on a much longer timescale
+than observed here (multiple to many months or years, which
+has some support in the literature) or may primarily be related
+to trait self-esteem and not state self-esteem as measured here.
+
+Future Directions and Limitations
+
+Although the current work provides an analysis of regularly
+sampled mental health metrics in a college population, a lag of
+1 week was selected for simplicity and interpretability. It is
+possible that other lag intervals may provide additional insight
+into the causal dynamics of these variables. Given how rapidly
+mental states can change, weekly resolution may not be the
+optimal timescale to detect causality between these variables,
+where more frequent sampling could help further elucidate
+contemporaneous changes. Moreover, longitudinal sampling
+
+https://mental .jmir.org/2020/6/e 16684
+
+RenderX
+
+Huckins et al
+
+over many years may be better suited to testing the scar model
+[44]. There are a variety of moderating factors such as gender,
+socioeconomic status, and first-generation college student status
+that could potentially alter the observed results and should be
+investigated in future work.
+
+The frequency of sampling needs to be balanced with the burden
+on study participants, since requesting frequent responses would
+likely lead to increased participant attrition and may even be
+an added stressor. As the current study looks to retain individuals
+over their entire college experience, minimizing the burden on
+the participant is likely to be a key to retention. Given the goal
+of long-term participant retention, the total number of questions
+asked through weekly EMAs was minimized, meaning limited
+coverage of anxiety or depressive symptoms. Although this may
+restrict the overarching implications that can be drawn from the
+current study, the questions were selected based on previous
+validation and maximal ability to diagnose anxious or depressive
+symptoms while asking minimal questions [13,14]. Furthermore,
+the questions from the PHQ-4 were not changed from Kroenke
+and colleagues [13], meaning they asked about the last 2 weeks,
+which may be suboptimal for the elucidation of causal factors
+and likely to underestimate the true magnitude of causal
+influences.
+
+Values of these mental health metrics may change more rapidly
+than the weekly rate that they are sampled at in this study.
+Signals associated with fast fluctuations in these metrics would
+decrease our ability to identify relationships, particularly those
+that replicate across multiple cohorts, suggesting that the
+observed results are real and, if anything, underestimate the
+strength of the relationship between these variables. Increasing
+the sampling rate to daily or hourly could provide greatly
+improved insights into the nature of the temporal relationships
+between these metrics; although, it would increase participant
+burden and possibly decrease retention. A balance may be
+provided by using mobile smartphone sensing features to
+provide some insight into the optimal EMA sampling frequency
+for future studies. Smart triggering of EMAs, which is based
+on changes in smartphone features such as motion, conversation,
+or location, could reduce the total number of times a participant
+is asked to answer EMA questions while optimizing the temporal
+resolution and helping to better determine causal relationships
+among variables. Smartphone sensing features can be sampled
+hourly or even by the minute with little participant burden except
+for decreased battery life. Identifying sets of features such as
+the number of conversations, sleep, or number of locations
+visited [41] that predict shifts in mental states may help with
+both smart triggering of EMAs and identification of a more
+precise moment in time when an individual’s feelings change
+[45 46]. Identifying predictive features would add complexities
+to the data analysis pipeline and could be critical to balancing
+the amount of time requested of each participant over several
+years, as well as the temporal resolution needed to properly
+elucidate causal structures. Many theories and models have been
+created to describe the relationship among these mental health
+metrics. With increased survey sampling rates available with
+EMA and improvements in methods for detecting causal
+network structure, the ability to test these models and generate
+more refined ones becomes a possibility.
+
+JMIR Ment Health 2020 | vol. 7 | iss. 6 | e16684 | p. 6
+(page number not for citation purposes)
+ JMIR MENTAL HEALTH
+
+Conclusions
+
+This study provides a framework for identifying causal factors
+of anxiety and depression in college students, with the key
+results replicating in two distinct cohorts sampled weekly over
+the course of an academic year. Stress is a causal predictor of
+
+Huckins et al
+
+vulnerability model of depression and suggest that ameliorating
+high rates of stress may reduce subsequent increases in
+self-reported anxiety. Continually testing and expanding models
+of the interactions between these and other mental health metrics
+will be critical to identifying causal factors and potential
+
+treatments or strategies to mitigate them, particularly in groups
+
+anxiety, while low self-esteem is a causal predictor of depression ; ;
+who are at a higher risk than the general population.
+
+and, to a lesser extent, anxiety. These results support the
+
+Conflicts of Interest
+
+None declared.
+
+Multimedia Appendix |
+
+Ecological momentary assessments asked of participants on a weekly basis with the StudentLife app.
+[DOC File ,33 KB-Multimedia Appendix 1]
+
+References
+
+1. World Health Organization. World Mental Health Day 2017 URL: https://www.who.int/mental_health/
+world-mental-health-day/2017/en/
+
+2. National Institute of Mental Health.: National Institute of Mental Health; 2019. Major depression URL: https://www.
+nimh.nih.gov/health/statistics/major-depression.shtml [accessed 2019-11-20]
+
+3. | American College Health Association. American College Health Association national college health assessment Spring
+2006 reference group data report (abridged): the American College Health Association. J Am Coll Health 2007
+Jan;55(4):195-206. [doi: 10.3200/jach.55.4.195-206]
+
+4. Beiter R, Nash R, McCrady M, Rhoades D, Linscomb M, Clarahan M, et al. The prevalence and correlates of depression,
+anxiety, and stress in a sample of college students. J Affect Disord 2015 Mar 01;173:90-96. [doi: 10.1016/j.jad.2014.10.054]
+[Medline: 25462401 |
+
+5. Darling CA, McWey LM, Howard SN, Olmstead SB. College student stress: the influence of interpersonal relationships
+on sense of coherence. Stress Health 2007 Oct;23(4):215-229. [doi: 10.1002/smi.1139]
+
+6. Liu S, Zhu M, Yu DJ, Rasin A, Young SD. Using real-time social media technologies to monitor levels of perceived stress
+and emotional state in college students: a web-based questionnaire study. JMIR Ment Health 2017 Jan 10;4(1):e2. [doi:
+10.2196/mental.5626] [Medline: 28073737]
+
+7. Sowislo JF, Orth U. Does low self-esteem predict depression and anxiety? A meta-analysis of longitudinal studies. Psychol
+Bull 2013 Jan;139(1):213-240. [doi: 10.1037/a0028931] [Medline: 22730921]
+
+8. MannaG, Falgares G, IngogliaS,Como M, De SS. The relationship between self-esteem, depression and anxiety: comparing
+vulnerability and scar model in the Italian context. Mediterr J Clin Psychol 2016;4(3):1619. [doi:
+10.6092/2282-1619/2016.4.1328]
+
+9. Orth U, Robins RW, Meier LL. Disentangling the effects of low self-esteem and stressful events on depression: findings
+from three longitudinal studies. J Pers Soc Psychol 2009 Aug;97(2):307-321. [doi: 10.1037/a0015645] [Medline: 19634977]
+
+10. Liu CH, Stevens C, Wong SH, Yasui M, Chen JA. The prevalence and predictors of mental health diagnoses and suicide
+among U.S. college students: implications for addressing disparities in service use. Depress Anxiety 2019 Jan;36(1):8-17
+[FREE Full text] [doi: 10.1002/da.22830] [Medline: 30188598]
+
+11. Baum A. Stress, intrusive imagery, and chronic distress. Health Psychol 1990;9(6):653-675. [do1: 10.1037/0278-6133.9.6.653]
+
+12. Leary M, Baumeister R. The nature and function of self-esteem: sociometer theory. Adv Exp Soc Psychol 2000;32: 1-62.
+[doi: 10.1016/S0065-2601(00)80003-9]
+
+13. Kroenke K, Spitzer RL, Williams JBW, Lowe B. An ultra-brief screening scale for anxiety and depression: the PHQ-4.
+Psychosomatics 2009 Dec;50(6):613-621. [doi: 10.1176/appi.psy.50.6.613] [Medline: 19996233]
+
+14. Arroll B, Goodyear-Smith F, Crengle S, Gunn J, Kerse N, Fishman T, et al. Validation of PHQ-2 and PHQ-9 to screen for
+major depression in the primary care population. Ann Fam Med 2010;8(4):348-353. [doi: 10.1370/afm.1139] [Medline:
+20644190]
+
+15. Kuster F, Orth U, Meier LL. Rumination mediates the prospective effect of low self-esteem on depression: a five-wave
+longitudinal study. Pers Soc Psychol Bull 2012 Jun;38(6):747-759. [doi: 10.1177/0146167212437250] [Medline: 22394574]
+
+16. Long EE, Young JF, Hankin BL. Temporal dynamics and longitudinal co-occurrence of depression and different anxiety
+syndromes in youth: Evidence for reciprocal patterns in a 3-year prospective study. J Affect Disord 2018 Jul;234:20-27
+[FREE Full text] [doi: 10.1016/j.jad.2018.02.074] [Medline: 29522939]
+
+17. Zubin J, Spring B. Vulnerability: a new view of schizophrenia. J Abnorm Psychol 1977;86(2):103-126. [doi:
+10.1037/0021-843x.86.2.103]
+
+https://mental .jmir.org/2020/6/e 16684 JMIR Ment Health 2020 | vol. 7 | iss. 6 | e16684 | p. 7
+
+(page number not for citation purposes)
+
+RenderX
+ JMIR MENTAL HEALTH Huckins et al
+
+18. Orth U, Robins RW. Understanding the link between low self-esteem and depression. Curr Dir Psychol Sci 2013 Dec
+03;22(6):455-460. [doi: 10.1177/096372 1413492763]
+
+19. Clark DM, Wells A. Social Phobia: Diagnosis, Assessment and Treatment. New York: Guilford Press; 1995.
+
+20. Hodson KJ, McManus FV, Clark DM, Doll H. Can Clark and Wells' (1995) cognitive model of social phobia be applied
+to young people? Behav Cogn Psychother 2008 Jul 01;36(4):449-461. [doi: 10.1017/s1352465808004487]
+
+21. Coyne JC, Gallo SM, Klinkman MS, Calarco MM. Effects of recent and past major depression and distress on self-concept
+and coping. J Abnorm Psychol 1998;107(1):86-96. [doi: 10.1037/0021-843x.107.1.86]
+
+22. Shahar G, Davidson L. Depressive symptoms erode self-esteem in severe mental illness: a three-wave, cross-lagged study.
+J Consult Clin Psychol 2003;71(5):890-900. [doi: 10.1037/0022-006x.71.5.890]
+
+23. DingaR, Schmaal L, Penninx BW, van Tol MJ, Veltman DJ, van Velzen L, et al. Evaluating the evidence for biotypes of
+depression: methodological replication and extension of Drysdale et al. (2017). Neuroimage Clin 2019;22:101796. [doi:
+10.1016/j.nicl.2019.101796] [Medline: 30935858]
+
+24. Camerer CF, Dreber A, Holzmeister F, Ho T, Huber J, Johannesson M, et al. Evaluating the replicability of social science
+experiments in Nature and Science between 2010 and 2015. Nat Hum Behav 2018 Sep;2(9):637-644. [doi:
+10.1038/s41562-018-0399-z] [Medline: 31346273]
+
+25. Shiffman S, Stone AA, Hufford MR. Ecological momentary assessment. Annu Rev Clin Psychol 2008 Apr;4(1):1-32. [dot:
+10.1146/annurev.clinpsy.3.022806.091415] [Medline: 18509902]
+
+26. SmythJM, Smyth JM. Ecological momentary assessment research in behavioral medicine. J Happiness Stud 2003;4(1):35-52.
+[doi: 10.1023/A:1023657221954]
+
+27. Granger C. Causality, cointegration, and control. J Econ Dyn Control 1988 Jun;12(2-3):551-559. [doi:
+10.1016/0165-1889(88)90055-3]
+
+28. Runge J. Causal network reconstruction from time series: from theoretical assumptions to practical estimation. Chaos 2018
+Jul;28(7):075310. [doi: 10.1063/1.5025050] [Medline: 30070533]
+
+29. Runge J, Nowack P, Kretschmer M, Flaxman S, Sejdinovic D. Detecting and quantifying causal associations in large
+nonlinear time series datasets. Sci Adv 2019 Nov;5(11) [FREE Full text] [doi: 10.1126/sciadv.aau4996] [Medline: 31807692]
+
+30. Dartmouth College. Interested in participating in a psychology experiment? URL: https://pbs .dartmouth.edu/research/
+interested-participating-psychology-experiment [accessed 2019-11-20]
+
+31. Huckins JF, daSilva AW, Wang R, Wang W, Hedlund EL, Murphy EI, et al. Fusing mobile phone sensing and brain imaging
+to assess depression in college students. Front Neurosci 2019;13:248. [doi: 10.3389/fnins .2019.00248] [Medline: 30949024]
+
+32. Wang R, Chen F, Chen Z, Li T, Harari G, Tignor S. StudentLife: assessing mental health, academic performance and
+behavioral trends of college students using smartphones. In: Proceedings of the 2014 ACM International Joint Conference
+on Pervasive and Ubiquitous Computing - UbiComp '14. New York, New York, USA: ACM Press; 2014 Presented at:
+UBICOMP '14,; September 13 - 17, 2014; Seattle, WA, USA. [do1: 10.1145/2632048 .2632054]
+
+33. Heatherton TF, Polivy J. Development and validation of a scale for measuring state self-esteem. J Pers Soc Psychol
+1991;60(6):895-910. [doi: 10.1037/0022-3514.60.6.895]
+
+34. Likert R. A technique for the measurement of attitudes. Arch Psychol 1932;22:55.
+
+35. Runge J. Conditional independence testing based on a nearest-neighbor estimator of conditional mutual information. arXiv
+2017 Sep 05;84.
+
+36. Tigramite 4.1 documentation. Tigramite URL: https://jakobrunge.github.io/tigramite/ [accessed 2019-11-20]
+
+37. Runge J. Belmont Forum. 2017. Causal inference and complex network methods for the geosciences URL: https://www.
+belmontforum.org/wp-content/uploads/2018/04/Causal-Inference-and-Complex-Network-Methods-for-the-Geosciences.
+pdf [accessed 2019-11-20]
+
+38. Spirtes P, Glymour C. An algorithm for fast recovery of sparse causal graphs. Soc Sci Comput Rev 2016 Aug 18;9(1):62-72.
+[doi: 10.1177/089443939 100900106]
+
+39. Epskamp S, Cramer AOJ, Waldorp LJ, Schmittmann VD, Borsboom D. qgraph: network visualizations of relationships in
+psychometric data. J Stat Soft 2012;48(4). [doi: 10.18637/jss.v048 i104]
+
+40. Nima AA, Rosenberg P, Archer T, Garcia D. Anxiety, affect, self-esteem, and stress: mediation and moderation effects on
+depression. PLoS One 2013;8(9):e73265. [doi: 10.1371/journal.pone.0073265] [Medline: 24039896]
+
+41. Wang R, Wang W, daSilva A, Huckins JF, Kelley WM, Heatherton TF, et al. Tracking depression dynamics in college
+students using mobile phone and wearable sensing. Proc ACM Interact Mob Wearable Ubiquitous Technol 2018 Mar
+26;2(1):1-26. [doi: 10.1145/3191775]
+
+42. Sabshin M. Depression: clinical, experimental and theoretical aspects. Arch Gen Psychiatry 1968 Dec 01;19(6):766. [do1:
+10.100 1/archpsyc.1968.01740120126024]
+
+43. Metalsky GI, Joiner TE. Vulnerability to depressive symptomatology: a prospective test of the diathesis-stress and causal
+mediation components of the hopelessness theory of depression. J Pers Soc Psychol 1992;63(4):667-675. [doi:
+10.1037/0022-3514.63.4.667]
+
+44. MuW, Luo J, Rieger S, Trautwein U, Roberts B. The relationship between self-esteem and depression when controlling
+for neuroticism. Collabra Psychol 2019;5:11. [doi: 10.1525/collabra.204]
+
+https://mental .jmir.org/2020/6/e 16684 JMIR Ment Health 2020 | vol. 7 | iss. 6 | e16684 | p. 8
+
+RenderX
+
+(page number not for citation purposes)
+ JMIR MENTAL HEALTH Huckins et al
+
+45. Obuchi M, Sasaki W, Okoshi T, Nakazawa J, Tokuda H. Investigating interruptibility at activity breakpoints using smartphone
+activity recognition API. In: UBICOMP/ISWC °16 ADJUNCT. New York, New York, USA: ACM Press; 2016 Presented
+at: UBICOMP; September 12-16, 2016; Heidelberg, Germany p. 1602-1607. [do1: 10.1145/2968219.2968556|
+
+46. Pejovic V, Musolesi M. InterruptMe: designing intelligent prompting mechanisms for pervasive applications. In: UBICOMP
+'14. New York, New York, USA: ACM Press; 2014 Presented at: UBICOMP; September 13-17, 2014; Seattle, WA, USA
+p. 897-908. [do1: 10.1145/2632048 .2632062]
+
+Abbreviations
+
+Cl: cohort 1
+
+C2: cohort 2
+
+EMA: ecological momentary assessment
+
+GAD-2: Generalized Anxiety Disorder-2
+
+MCI: momentary conditional independence
+
+PCMCI: Peter and Clark Momentary Conditional Independence
+PHQ: Patient Health Questionnaire
+
+Edited by J Torous; submitted 14.10.19; peer-reviewed by M Bulgheroni, C Vansimaeys; comments to author 01.01.20; revised version
+received 20.03.20; accepted 09.04.20; published 10.06.20
+
+Please cite as:
+
+Huckins JF, DaSilva AW, Hedlund EL, Murphy EI, Rogers C, Wang W, Obuchi M, Holtzheimer PE, Wagner DD, Campbell AT
+Causal Factors of Anxiety and Depression in College Students: Longitudinal Ecological Momentary Assessment and Causal Analysis
+Using Peter and Clark Momentary Conditional Independence
+
+JMIR Ment Health 2020;7(6):e16684
+
+URL: https://mental.jmir.org/2020/6/e 16684
+
+doi: 10.2196/16684
+
+PMID: 32519971
+
+©Jeremy F Huckins, Alex W DaSilva, Elin L Hedlund, Eilis I Murphy, Courtney Rogers, Weichen Wang, Mikio Obuchi, Paul
+E Holtzheimer, Dylan D Wagner, Andrew T Campbell. Originally published in JMIR Mental Health (http://mental.jmir.org),
+10.06.2020. This is an open-access article distributed under the terms of the Creative Commons Attribution License
+(https://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+provided the original work, first published in JMIR Mental Health, is properly cited. The complete bibliographic information, a
+link to the original publication on http://mental.jmir.org/, as well as this copyright and license information must be included.
+
+https://mental .jmir.org/2020/6/e 16684 JMIR Ment Health 2020 | vol. 7 | iss. 6 | e16684 | p. 9
+(page number not for citation purposes)
+
+RenderX

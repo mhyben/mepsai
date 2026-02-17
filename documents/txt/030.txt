@@ -1,0 +1,659 @@
+es UNIVERSITY OF HELSINKI
+
+https ://nelda.helsinki.fi
+
+Dynamic fluctuations of emotional states in adolescents with
+delayed sleep phase-A longitudinal network modeling approach
+
+Elovainio, Marko
+
+Elsevier Scientific Publ. Co
+2020-11-01
+
+Elovainio , M , Kuula , L, Halonen , R & Pesonen , A-K 2020 , ' Dynamic fluctuations of
+emotional states in adolescents with delayed sleep phase-A longitudinal network modeling
+approach ' , Journal of Affective Disorders , vol. 276 , pp. 467-475 . https://doi.org/10.1016/j.jad.2020.07.050
+
+http://hdl.handle.net/10138/332500
+10.1016/j.jad.2020.07.050
+
+cc_by_nc_nd
+acceptedVersion
+
+Downloaded from Helda, University of Helsinki institutional repository.
+This is an electronic reprint of the original article.
+This reprint may differ from the original in pagination and typographic detail.
+
+Please cite the original version.
+ 14.5.2020
+Manuscript
+
+Dynamic fluctuations of emotional states in adolescents with delayed sleep phase—a longitudinal
+network modeling approach
+
+Marko Elovainio, PhD !*
+Liisa Kuula, PhD !
+
+Risto Halonen, MPsyc !
+Anu-Katriina Pesonen, PhD !
+
+' Sleep Well Research Program Unit, Department of Psychology and Logopedics, Faculty of
+
+Medicine, University of Helsinki, Finland
+* National Institute for Health and Welfare, Finland
+
+Correspondence: Marko Elovainio, University of Helsinki, P.O. Box 9, 00014, Helsinki, Finland
+Phone: +358 50 3020621, email: marko.elovainio@helsink1.fi
+
+Word count for abstract / main text: / 250 / 3531
+Number of tables and figures: 1 Table / 3 figures
+
+Funding: Academy of Finland
+ ABSTRACT
+
+Background: Very late sleep rhythms are risks for social adjustment problems in adolescence.
+Using ecological momentary assessment data, we quantified and visualized temporal and
+contemporaneous within-persons dynamical relations of sleepiness and emotions in adolescents
+with and without late sleep rhythms.
+
+Methods: We analyzed a temporal network via multilevel vector autoregression (mlV AR)
+modeling and a contemporaneous network through the partial associations between the residuals of
+temporal and the between-subject multilevel models. We tested whether these networks were
+different between those with a late circadian rhythm [concurrent delayed sleep phase (DSP) N =
+172, 37% boys, 63% girls] and those without (N = 143, 22% boys, 78% girls).
+
+Results: In adolescents without DSP, the temporal networks showed continuity only for low mood
+from the previous to the following time point. In adolescents with DSP, there were more predictable
+patterns of emotions. Feelings of depression led to a decrease of positive emotions and increase of
+irritation and anxiety. The contemporaneous networks showed clusters of positive and negative
+emotions 1n both groups and sleepiness decreased the experience of positive emotions concurrently.
+Limitations: DSP in our current study was based only on one out of three diagnostic criteria of the
+full disorder (DSM-5) and it was assessed only once.
+
+Conclusions: These findings indicate that the dynamic organization of emotions and sleepiness 1s
+different in adolescents with and without DSP. DSP adolescents have more predictable and
+maladaptive emotional patterns during the day. Results provide new insight about why individuals
+
+with DSP are at a heightened risk for decreased emotional adjustment.
+ INTRODUCTION
+
+Globally, adolescents are sleeping fewer hours than they need (Owens, Adolescent Sleep Working
+et al. 2014). This 1s followed by daytime sleepiness and symptoms of fatigue. Recent surveys
+indicate a very high prevalence for hypersomnolence symptoms (>40% in U.S. youth), excessive
+daytime sleepiness (>60% in Brazilian youth), or mild daytime sleepiness (>20% in Chinese youth)
+during adolescence (Kolla, He et al. 2019, Meyer, Ferrari Junior et al. 2019, Wang, Liu et al. 2019).
+Not surprisingly, daytime sleepiness has been associated with poorer sleep and a higher risk of
+having mental health problems (Kolla, He et al. 2019).
+
+To better understand adolescent development and the underlying processes, a closer
+look at the dynamics of daytime sleepiness and emotional processes is needed. While a body of
+evidence shows that quality of sleep and related alertness are associated with negative and positive
+emotional states (Caldwell, Caldwell et al. 2004, Kahn-Greene, Killgore et al. 2007, Paterson,
+Dorrian et al. 2011, Watling, Pawlik et al. 2017), little is known about their temporal dynamics.
+Most of the studies have attempted to examine these associations independently (e.g., the effects of
+sleepiness on emotions and the effects of emotions on sleepiness), but such separation does not
+reflect the complexity of their mutual dependencies. Moreover, there appears to be a “vicious
+cycle” as daytime sleepiness may compromise emotional regulation, which in many cases leads to
+increased negative emotion that in turn disrupts sleep, leading to further impairments in alertness
+and emotional wellbeing (Mauss, Troy et al. 2013). Understanding these dynamic and complex co-
+occurring processes and their underlying mechanisms 1s of great importance to understand
+developmental processes in adolescence, often driven by the common condition of chronically
+insufficient sleep (Shochat, Cohen-Zion et al. 2014).
+
+Regarding the dynamics between daytime sleepiness and mood in adolescence, one
+group of adolescents is of specific interest: adolescents having a very late sleep rhythm, or delayed
+
+sleep phase (DSP), which is a subclinical form of the delayed sleep phase disorder (DSPD). DSP 1s
+ often defined as having some of the three symptoms of the full disorder—most often the
+persistently very late sleep rhythm. In population-based studies, this has been operationalized, for
+example, as falling asleep after 1 a.m. at least 3 days per week (Danielsson, Markstrom et al. 2016).
+DSP in adolescence is often followed by negative consequences in school performance (Gradisar
+and Crowley 2013), and it has been associated with depression, anxiety, and symptoms of ADHD
+(Sivertsen, Harvey et al. 2015). However, it is unclear how excessive daytime sleepiness and mood
+are temporally organized. Tracking the daily fluctuations would give much needed understanding of
+the topic.
+
+However, feasible methods to measure and analyze complexity between sleepiness
+and mood or other psychological processes have been scarce. To address the temporal dynamics, a
+method called ecological momentary assessment (EMA), which uses repeated measurements of
+multiple state-like factors with relatively short follow-up intervals, 1s needed. Regarding EMA and
+sleep, previous studies have shown that experiences of fatigue in diseases such as multiple sclerosis
+(Kratz, Murphy et al. 2017, Powell, Liossi et al. 2017) vary dynamically across the day, and
+emotions are associated with these fluctuations (Powell, Liossi et al. 2017). Previous studies have
+also shown that the experiences of psychological problems fluctuate over time, such as suicidal
+ideation, even from hour to hour (Hallensleben, Spangenberg et al. 2017), and there are large
+intrapersonal differences in these fluctuations.
+
+Recently, a psychological network approach and related tools to analyze dynamic
+relationships among multiple psychological variables have been developed (Epskamp, Cramer et al.
+2012, Epskamp 2015). The basic idea behind the psychological network approach 1s that various
+psychological states and problems develop as a result of the interaction among individual symptoms
+or risk factors (Borsboom 2017). For example, troubles in sleeping may result in concentration
+
+problems, which may lead to more rumination and daytime sleepiness, which in turn may lead to
+ negative emotional states. When the relations among these risk factors are sufficiently strong, they
+can be self-sustained via a negative feedback loop.
+
+Network analysis has so far mostly been applied to cross-sectional data but can also
+be applied to EMA data using vector autoregression (VAR) techniques, in which a variable at a
+certain time point (t1) 1s predicted by the same variable at the previous time point (t—1)
+(autoregressive effects) and all other variables at t—1 (cross-lagged effects) (Epskamp, Waldorp et
+al. 2018). These autoregressive and cross-lagged effects can be quantified and visualized in a
+network. The network analyses with VAR techniques have extended more traditional multilevel
+analysis by estimating and visualizing the co-occurrence of multiple variables, allowing generation
+of hypotheses about the potential dynamic process among multiple variables. By allowing VAR
+coefficients to differ across individuals via multilevel modeling, it is possible to model and
+visualize temporal dynamics between sleepiness and mood at the group level. Thus, network
+analyses could guide researchers and clinicians toward more complex and dynamic thinking about
+psychological states (Fried, van Borkulo et al. 2017), such as sleepiness and emotional states. As far
+as we know, there are no published studies focusing on the dynamics of emotional states using
+longitudinal network approach, although some studies have modelled psychiatric problems,
+including suicidality (Rath, de Beurs et al. 2019) and auditory verbal hallucinations (Jongeneel,
+Aalbers et al. 2020).”
+
+Network analysis extends standard time series analysis, such as hierarchal linear
+modeling, by offering a visual representation of the relations among all assessed variables. In our
+study, we applied the VAR method to examine the dynamic associations between daytime
+sleepiness and emotional states, including being depressed, anxious, content, irritated, and happy.
+To increase understanding of the effects of very late sleep rhythms on sleepiness and emotions, we
+compared the sleepiness-emotion networks between those with a concurrent DSP and those without
+
+classified based on actigraphy measurements.
+ METHODS
+Sample and procedure
+
+This research is part of the population-based cohort study SleepHelsink1!. Originally,
+the Finnish Population Registry was utilized to identify all Finnish adolescents born between
+January 1, 1999, and December 31, 2000 (n=10,476), who resided in Helsinki and whose native
+language was registered as Finnish (72% of the total sample). The register thus included 7,539
+adolescents (3,789 born in 1999 and 3,750 born in 2000), of whom 50% were boys. We sent
+invitation letters to all registered adolescents to participate in the SleepHelsinki! study Phase 1,
+which consisted of an online survey primarily targeting sleep, health, and behavior. The estimated
+time for filling in the questionnaire was 30 minutes.
+
+Altogether, 1,411 adolescents (19% of the initial cohort) responded to the online
+survey, with valid responses from 1,374 (18%) participants. The age of the respondents did not
+differ from the initial cohort mean age (p = 0.34), but the respondents were more often girls (66%, p
+< 0.0001). All respondents signed an electronic consent form for Phase |. Ethical permission was
+obtained from The Hospital District of Helsinki and Uusimaa Ethics Committee for gynecology and
+obstetrics, pediatrics, and psychiatry (Decision number 50/13/03/03/2016). The study is registered
+under Clinical Trials (ID: 1287174).
+
+The SleepHelsink1! study (total N = 552) focused on late sleep rhythms. Based by
+online survey questionnaire two subsamples: (A) those without (N=188) and (B) those with late
+sleep rhythms (N=364) were identified and invited to participate in the EMA phase. The criteria for
+belonging to the late sleep phase group was reporting bedtime after 1 a.m. at least three times per
+week. Out of these 552 adolescents, 353 agreed to participate and 24 dropped out before completing
+the EMA phase, leaving us with a sample of 329 adolescents. The EMA period of the study was
+
+conducted between November 2016 and December 2017. The data for this study were thus from
+ late adolescence (mean age 16.9 years, SD = 0.6) when the EMA measurements were done. A total
+of 315 participants provided usable EMA data and formed the final analyses sample.
+
+The participants underwent a minimum 7-day EMA assessment with three signal-
+contingent assessments per day using the “Psymate” software, resulting in a maximum of 66
+assessments per participant. The first EMA signal was scheduled in the morning (around 8—10
+a.m.), the second in the afternoon (1—5 p.m.), and the final in the evening (around 8—10 p.m.).
+Participants could postpone a prompt for 30 minutes if they were not able to answer the questions
+immediately, and they had the possibility to reject a prompt. The data set consisted of 4,348
+observations (315 persons).
+
+Additionally, adolescents’ sleep timing was measured using accelerometers
+(GeneActiv Original, Kimbolton, UK) to determine and confirm possible DSP tendencies. Mean
+sleep duration in those with DSP was 7:23 hours (SD=1:01) and 1n those without 8:09 hours
+(SD=0:43). The sleep mid-point in those with DSP was 5:31 (SD=1:05) and in those without 3:50
+(SD=0:36).
+Measures
+
+During the EMA assessment, participants rated their momentary sleepiness-perceived
+depressiveness, anxiousness, irritation, contentedness, and happiness by answering a structured 14-
+item questionnaire. At each measurement point, participants reported how alert vs. sleepy they felt
+during the last 10 minutes on a 9-point scale with 5 anchors (1 = very alert; 3 = alert; 5 = neither
+alert nor sleepy; 7 = sleepy but no trouble staying awake; and 9 = very sleepy, fighting to stay
+awake) (Karolinska Sleepiness Scale, KSS).
+
+Additionally, participants reported how they felt using two positive effect and three
+negative effect items using 7-point scales from | (not at all) to 7 (very much). These specific
+emotions were chosen to include those most frequently appearing in several longer affect checklists
+
+(Diener and Emmons 1984, Watson, Clark et al. 1988). The constructs represented were depression,
+ anxiety (worried), and hostility (irritated) on the negative affect side. Activation (energetic/
+sleepiness) and positive feelings (happy, and content) were represented on the positive side. The list
+was required to be short to facilitate its use over multiple daily assessments.
+
+The actigraphy measurements covered a minimum of 3 nights (range 3—12 nights) and
+yielded a binary classification of concurrent DSP tendency. This information was calculated based
+on going to sleep after 1 a.m. at least three times per week. The classification was used to compare
+the emotional responses of those with weaker circadian control to those without. Based on the
+actigraphy measurements 172 participants were classified as having a late circadian rhythm and
+having a concurrent delayed sleep phase (DSP) and 143 were classified as not having DSP (non-
+
+delayed sleep phase / non-DSM) circadian rhythm. Of those with DSM 63% were girls and of those
+
+with non-DSM 78% were girls (x? = 8.22, df= 1, p-value = 0.004 for sex difference). Parental
+
+education was used as a measure of parental socio-economic status (SES). Participants were asked
+to report the highest educational attainment of their parents, and the highest report was selected as
+the basis for classifying participants’ SES as (1) lower (2) middle, or, (3) upper. Lower SES
+included minimum compulsory educational attainment. Education attained beyond this (i.e.
+vocational school, technical college) was classified as middle level SES. SES was classified as
+upper level if either parent had university level degree. Most of the parents of those in DSP (N=
+119, 73%) and in those non-DSP (N = 105, 77%) belonged to the highest SES category. There were
+no differences in parental socioeconomic status measured as education (lower / middle/ upper)
+
+between the DSP and non -DSP group (X2(2) = 0.83, p = 0.66).
+
+Statistical analysis
+To estimate the different network structures over all participants, we applied
+multilevel vector autoregression (mIlVAR) models on the data (Epskamp, Waldorp et al. 2018), as
+
+implemented within the mlVAR package in R. In conducting the analyses and presenting the results
+ we mostly followed the procedure presented by Jongeneel and others (Jongeneel, Aalbers et al.
+2020). Temporal dynamics within individuals are estimated by regressing scores of an emotion at
+time t on a previous (1.e., lagged) value of itself at t-1. VAR modeling indicates that all variables at
+time t are regressed on a t-1 version of themselves, resulting in a vector of lagged regression
+coefficients (fixed effects). The multilevel modeling allows the VAR coefficients to differ between
+individuals (random effects), and a temporal network was estimated. When visualizing the networks
+in a two-dimensional graph, we used the Fruchterman-Reingold (FR) algorithm, which places nodes
+that are highly connected in the center of the network. The estimates of between-subject effects, the
+sample means within subjects, were used as predictors. The contemporaneous network was
+estimated using the residuals of the multilevel model that were used to estimate the temporal and
+between-subject effects (Epskamp, Waldorp et al. 2018).
+
+In the graphical representation of the network, variables are presented as nodes. These
+networks are called temporal networks because they can be indicative of potential causality given
+that one variable preceded the other 1n time. Epskamp et al. (2018) introduced an additional
+network for estimating EMA data (a contemporaneous network) that can be used in the partial
+association between the residuals of the temporal network that are the result of associations between
+the variables that are not explained by the current chosen time interval, the chosen lag, or anything
+else that is not explicitly measured and modeled. In the contemporaneous network, the edges
+between nodes represent the partial correlation obtained after controlling for both temporal effects
+and all other variables in the same window of measurement (Epskamp, Waldorp, Mottus, &
+Borsboom, 2017; Fisher, Reeves, Lawyer, Medaglia, & Rubel, 2017). When data are collected from
+multiple subjects, between-person networks using EMA data may also be estimated. Between-
+subject predictors are calculated using the covariance structure of stationary means. In addition, we
+calculated the centrality measures of each symptom in each network (strength centrality identifies
+
+how well each emotion in a network 1s associated with the other emotions). We calculated the
+ strength of the nodes for all networks, using the R package qgraph (Epskamp et al., 2012). In the
+temporal network centrality indicates both how well each emotion is predicted by others (in-
+strength) and how well it predicts others (out-strength).
+
+Variables were standardized before estimation and scaled within persons via mIVAR.
+Networks were presented using the graph package in R.
+RESULTS
+
+Means and standard deviations for all emotions and sleepiness in those with and
+without DSP are presented in Table | and the distribution of the emotions in the high and low
+sleepiness group in Figure |. Those with DSP more often experienced anxiety, depression, and
+irritation, and those without DSP more often were happy and content. There were no differences in
+sleepiness reporting between the groups. Only small differences were found in distributions of
+emotion reporting between those with and without DSP (Figure 1). Girls were slightly less happy
+(mean 4.34 vrs. 4.81, p-value 0.006), less content (mean 4.46 vrs. 5.04, p-value 0.002), and more
+anxious (mean 2.32 vrs. 1.88, p-value 0.025) than boys.
+Temporal networks
+The temporal network including the directed associations is based on time series EMA data that was
+analyzed with timelags. All variables at a certain measurement point 1s predicted by the same
+variable and all other variables at the previous measurement point providing information about the
+temporal multivariate relations. All coefficients are allowed to differ across individuals by using
+multilevel modeling, and thus time dynamics are possible to model and visualize at the group level.
+The left top panel in Figure 2 shows how emotions predicted themselves (autoregressions) and each
+other across time (adjusted predictions) in those without DSP and the left bottom panel in those
+with DSP. Green lines represent positive and red lines (dotted) represent negative associations. The
+thickness of the line corresponds to the strength of the association. The panels in the right-hand side
+
+show the centrality measures.
+ In individuals without DSP, there were no significant patterns observable in the
+fluctuation of emotions except a bidirectional loop between depression and trritation (0.12, p =
+0.002/0.06, p = 0.17) and a continuous loop within depression and anxiety. In individuals with DSP,
+there were several significant patterns in the temporal fluctuations of emotions. Feelings of
+depression led to a decrease of positive emotions (depressed -> happy, -0.074, p = 0.032 and
+depressed -> content -0.100, p = 0.004) and increase of irritation (0.09, p = 0.006) and anxiety
+(0.08, p =0.005) in the next measurement point. Irritation led both to a more positive mood (irritated
+-> happy, 0.088, p = 0.001, irritated -> content 0.057, p = 0.030) and less sleepiness (-0.080, p =
+0.009) and also to a less anxious state of mind (-0.07, p = 0.003). None of the emotional states were
+predicted by sleepiness (p-values of fixed effects coefficient from sleepiness to emotional states all
+non-significant. Being anxious predicted sleepiness (0.08, p = 0.04) and happiness (-0.09, p =
+0.005). Only depressiveness and anxiousness predicted themselves in the consecutive measurement
+points.
+
+In the temporal network, irritation had the highest on tn-strength in those without DSP
+and happiness in those with DSP, which shows that these emotions were most strongly predicted by
+other emotions in these groups. In those without depressiveness and in those with DSP irritation and
+depressiveness had high out-strength, meaning that their outgoing temporal associations were
+relatively high (compared to other emotions in the network). However, considering the small
+number of associations (edge weights) in those without DSP, it appears that none of the emotions
+are strong predictors of other emotions.
+
+Contemporaneous networks
+
+The contemporaneous network, including all separate measurement points of each variable,
+investigates concurrent relations between emotions. These relations are controlled for temporal
+effects and all other emotions the same timepoint to compute a partial (independent of other
+
+associations) correlations network and thus takes the temporal relationship into account. The
+ relationships within a measurement point can be separately analyzed from relationships between
+timepoints in temporal models. In other words, it shows how emotions tend to co-occur at the same
+moment, controlling for all other emotions at the same moment and for all temporal relations
+among emotions.
+
+Figure 3 shows the contemporaneous network between sleepiness and emotions in
+individuals with and without DSP. The contemporaneous networks showed a clustering of positive
+and negative emotions in both groups. Specifically, both sleepiness and irritation decreased the
+experience of positive emotions concurrently. The contemporaneous networks were strikingly
+similar in both groups. However, there were also subtle differences. In individuals with DSP,
+sleepiness was associated only with decreased positive emotions, whereas 1n individuals without
+DSP, sleepiness was in inverted association with irritation and in positive association with
+depression. In both groups, positive emotions and depressiveness had the highest strength centrality.
+Between subject network
+Similarly, the between-individual networks (Figure 4) shows the pair-wise associations among the
+mean levels of emotions over all measurement points, when adjusting for the mean levels of all
+other emotions in the network. The between-subjects model 1s comparable to cross-sectional
+analyses. In general, a positive connection between depressiveness, irritation and anxiety in this
+analysis indicate that people with higher scores on depressiveness during a week tend to have
+higher scores on anxiety/irritation during the same period and vice versa. In both DSP groups,
+positive and negative emotions were again associated with each other and in that sense the results
+presented in Figure 4 were relatively similar to those of the contemporaneous networks. In those
+without DSP, happiness was negatively associated with irritation but in those with DSP, happiness
+was negatively associated with depressiveness. Sleepiness was negatively associated sleepiness in
+DSP whereas in non-DSP group sleepiness was associated with irritation. In those without DSP the
+
+most central emotion was irritation, but in those with DSP it was happiness.
+ DISCUSSION
+
+Poor sleep patterns, sleepiness, and related emotional states form a complex network
+of associations that fluctuate over time. As far we know, no studies thus far have focused on
+delayed sleep phase and investigated how it affects everyday emotions. In our study, we applied
+mlVAR models to analyze the temporal and contemporaneous associations between sleepiness and
+multiple emotional states and analyzed whether these networks were different between those
+suffering from very late sleep rhythm (DSP) and others. Previous research suggests that DSP 1s
+associated with elevated anxiety and depression scores (Saxvig, Pallesen et al. 2012) and other
+problems relating to emotion regulation as well as mental health problems (Sivertsen, Harvey et al.
+2015). The causes behind DSP are multiple: biological mechanisms and those relating to
+psychological wellbeing are prominent in delaying sleep phase, especially during adolescence
+(Micic, Lovato et al. 2016). The same pathways that might lead to DSP are likely to result in poorer
+emotional welfare because anxiety and rumination tend to result in later sleep onset times—these
+phenomena may also occur reciprocally with late sleep timing (Hiller, Lovato et al. 2014, Stewart,
+Gibb et al. 2018). On the other hand, a lack of self-regulating skills is likely to be associated with
+later sleep timing or delayed sleep phase (Owens, Dearth-Wesley et al. 2016). These overall
+associations have been reported in several studies (Gradisar and Crowley 2013). However, it is not
+known how these general challenges are related to dynamic fluctuations of emotions during the day.
+
+In our study, individuals with DSP reported higher average levels of irritation,
+depressiveness, and anxiousness and lower levels of contentedness and happiness than those
+without. This observation 1s in line with findings from a large American study investigating over
+10,000 adolescents aged 13—18 years. They reported increased risks of mental problems, suicidality,
+and mood disorders in relation to greater bedtime delay, and they also found that adolescent sleep
+behavior deviated substantially from recommended optimal standards, which was also the case in
+
+our current study (Zhang, Paksarian et al. 2017). We found that, specifically in individuals with
+ DSP, there were several significant patterns in the temporal fluctuations of emotions, whereas in
+individuals without DSP, the only temporal associations were seen in the bidirectional loop between
+depression and irritation and 1n the continuity of anxiety. In the DSP group, feeling depressed led
+equally to irritation and anxiety but also to feeling less happy and content at the following
+measurement point. Interestingly, in the DSP group, feelings of irritation seemed to be a driving
+node that led to feeling less sleepy, happier, and more content and equally less anxious. While
+depression preceded irritation, 1t could show how irritation may function as a catalyst emotion to
+feel better.
+
+Without negative feedback loops between emotions unbalanced states that are never
+able to recover or reach any positive state of mind would result. Thus, at some point, there need to
+be a recovery from negative emotion and in DSP adolescents, and feeling irritated was such as
+node. Irritation is not only a negative emotion, but the arousal associated with this emotion may
+also potentiate self-directed action to solve the situation causing irritation and then lead to recovery
+of the emotion. For adolescents, the irritation maybe also a more frequent emotional response
+compared to adults, and, according to the current findings, an important trigger to get out of the
+negative emotion loop.
+
+Unexpectedly, sleepiness was not a driving state of mind for specific emotions in the
+next time point in either the DSP or non-DSP group; thus, none of the emotional states were
+predicted by sleepiness in the previous time point. The DSP group did not report more daytime
+sleepiness than the non-DSP group. In objective measurements, they had a later sleep rhythm of 1
+hour and 40 minutes, but the difference in sleep duration was only 45 minutes. The mean sleep
+duration in the DSP group was over 7 hours during the measurement period, suggesting a sub-
+optimal but still reasonable amount of sleep. Previous studies have shown that partial daily sleep
+restriction of 2-4 hours increases subjective sleepiness (Lo, Groeger et al. 2012, Slobodanka, Basta
+
+et al. 2013). It was recently reported that restricting sleep for 1 hour over 6 days caused increased
+ sleepiness (Santisteban, Brown et al. 2019). In that study, however, a similar impact was observed
+in the control group with a placebo treatment (sham restriction), which suggests subjective
+sleepiness to be affected by the individual’s conception of obtained sleep. Accordingly, the DSP
+group in our study may regard their conventional sleep amount sufficient.
+
+Nevertheless, while sleepiness had no association with any of the emotions in
+temporal networks, it was positioned as expected in the contemporaneous network. It showed how
+feeling sleepy associated with being less happy and content; thus, sleepiness was associated with
+reduced positive emotion. Only in the non-DSP group, sleepiness associated also with increased
+depression. In both the DSP and non-DSP groups, the different negative and positive feelings
+appeared as separate clusters that were inversely correlated.
+
+Although a large body of evidence suggests that poor sleep increases the experience of
+negative emotions, reduces the occurrence of positive emotions, and changes the ways in which
+individuals experience, understand, express, and regulate these emotions (Walker and van der Helm
+2009, Kahn, Sheppes et al. 2013), only a few studies have been able to model and analyze the
+dynamic, ongoing process of emotion generation. The strength of the network analyses and
+specifically the mlVAR models is the ability to model such complex and potentially causal
+relationships. The finding that irritation, rather than depression or anxiety, is the key emotion in
+long-term emotional generation and regulation is to be replicated in future studies. This result
+would be in line with a body of research showing an association between sleep deprivation and
+increased anger and aggression, which was found in men and women and across various age groups
+(Saghir, Syeda et al. 2018).
+
+Similar findings were obtained by the previous study using EMA in those with and
+without psychiatric disorders. Cousins and co-workers (2011) found that although the relationships
+between individual emotions and sleep duration were strongly dependent on present psychiatric
+
+disorders, more time asleep was associated with more positive affect for all diagnostic groups the
+ following day. However, in adolescents with diagnosed depression disorders, positive emotions
+were associated with longer sleep duration in the following night. Higher daytime positive affect in
+those with anxiety disorders was associated with less time in bed (Cousins, Whalen et al. 2011).
+
+The findings from the contemporaneous network models as compared to the ones
+from the temporal network models suggest that the emotions that we normally think follow each
+other, in fact, does that very rapidly or basically are present simultaneously. That means that
+positive emotions co-occur with other positive emotions and negative with other negative emotions.
+These rapid predictions or co-occurrences followed very similar patterns in both DSP groups.
+Fluctuations from positive to negative and from negative to positive happens with a time lag and
+that fluctuation seems to be more apparent in those with DSP.
+Limitations
+
+There are some limitations that need to be considered. First, the definition of DSP in
+our current study was based only on one out of three diagnostic criteria of the full disorder (DSM-
+5). The very late sleep rhythm was also assessed only once, without knowing whether it referred to
+persistently late or transiently late sleep rhythm. False classifications are possible regarding
+subclinical DSP. Nevertheless, the sleep rhythm was defined with actigraphy, which increases
+reliability of the assessment. Although EMA has multiple strengths compared to surveys and other
+measurement techniques, the intensive nature of EMA studies makes it very difficult to scale up the
+number of participants. The participants also must be trained in the use of devices and programs.
+However, the target population of this study was probably very familiar with both phones and the
+types of devices used. Given the considerable respondent burden involved, there was a risk of
+selective drop out (those with DSP sleepiness, depression, or anxiety would not respond). In our
+study, the mean number of responses was larger in those with DSP than those without. However, in
+general, it would have been preferable to be able to gather more observations per participant from
+
+the mIVAR modeling. One clear advantage of the temporal network over conventional statistical
+ models is that associations are bidirectional meaning that all variables are stmultaneously predictors
+and outcomes which provides information about the temporal multivariate relations 1n the data.
+
+There were more girls than boys in our sample but larger share of boys belonged to
+the DSP group. Thus, although the potential effects of gender differences on the association
+between emotions is probably small, that needs to be confirmed in the future studies. Our data were
+mostly collected during the school year, and data collection was paused for the summer holidays.
+The actigraphy measurement period was aimed to represent typical sleep behavior, and we found no
+differences between DSP groups across the representativeness of all seven weekdays. We can’t rule
+out bias due to residual confounding as this was an observational study. One factor potentially
+causing such bias, is socioeconomic status of the family, that may associate with both DSP and
+emotions. However, there were no differences in parental socioeconomic status between DSP and
+non-DSP groups in our sample and thus that could have technically not been a confounder in the
+models.
+Conclusions
+
+A delayed sleep phase is extremely common in adolescents but rarely studied beyond
+sleep behavior or sporadic health effects. Our study explores practical implications that emerge in
+everyday life. The findings in our study highlight that DSP 1s related to higher levels of irritation,
+depressiveness, and anxiousness and lower levels of contentedness and happiness than those with
+earlier sleep phases. This suggests that DSP may play a part in every reaction and every emotion a
+
+teenager experiences and thus further emphasizes the need for support for those with DSP.
+ REFERENCES
+
+Borsboom, D. (2017). "A network theory of mental disorders." World Psychiatry 16: 5-13.
+Caldwell, J. A., J. L. Caldwell, J. K. Smith and D. L. Brown (2004). "Modafinil's effects on simulator
+performance and mood in pilots during 37 h without sleep." Aviat Space Environ Med 75(9): 777-
+784.
+
+Cousins, J. C., D. J. Whalen, R. E. Dahl, E. E. Forbes, T. M. Olino, N. D. Ryan and J. S. Silk (2011).
+"The bidirectional association between daytime affect and nighttime sleep in youth with anxiety
+and depression." J Pediatr Psychol 36(9): 969-979.
+
+Danielsson, K., A. Markstrom, J. E. Broman, L. von Knorring and M. Jansson-Frojmark (2016).
+“Delayed sleep phase disorder in a Swedish cohort of adolescents and young adults: Prevalence
+and associated factors." Chronobiol Int 33(10): 1331-1339.
+
+Diener, E. and R. A. Emmons (1984). "The independence of positive and negative affect." Journal
+of Personality and Social Psychology 47: 1105-1117.
+
+Epskamp, S. (2015). "bootnet: Bootstrap methods for various network estimation routines." R-
+package.
+
+Epskamp, S., A. O. Cramer, L. J. Waldorp and e. al. (2012). "qgraph: network visualizations of
+relationships in psychometric data. ." J Stat Softw 12: 1-18.
+
+Epskamp, S., L. J. Waldorp, R. Mottus and D. Borsboom (2018). "The Gaussian Graphical Model in
+Cross-Sectional and Time-Series Data." Multivariate Behav Res: 1-28.
+
+Fried, E. |., C. D. van Borkulo, A. O. Cramer, L. Boschloo, R. A. Schoevers and D. Borsboom (2017).
+“Mental disorders as networks of problems: a review of recent insights." Soc Psychiatry Psychiatr
+Epidemiol 52(1): 1-10.
+
+Gradisar, M. and S. J. Crowley (2013). "Delayed sleep phase disorder in youth." Curr Opin
+Psychiatry 26(6): 580-585.
+
+Hallensleben, N., L. Soangenberg, T. Forkmann, D. Rath, U. Hegerl, A. Kersting, T. W. Kallert and H.
+Glaesmer (2017). "Temporal Dynamics of Suicide Thoughts. First Results of an Ecological
+Momentary Assessment Study in Inpatients with depressive Disorders." Zeitschrift Fur
+Psychosomatische Medizin Und Psychotherapie 63(1): 60-61.
+
+Hiller, R. M., N. Lovato, M. Gradisar, M. Oliver and A. Slater (2014). "Trying to fall asleep while
+catastrophising: what sleep-disordered adolescents think and feel." Sleep Med 15(1): 96-103.
+Jongeneel, A., G. Aalbers, I. Bell, E. 1. Fried, P. Delespaul, H. Riper, M. van der Gaag and D. van den
+Berg (2020). "A time-series network approach to auditory verbal hallucinations: Examining
+dynamic interactions using experience sampling methodology." Schizophr Res 215: 148-156.
+Kahn, M., G. Sheppes and A. Sadeh (2013). "Sleep and emotions: bidirectional links and underlying
+mechanisms." Int J Psychophysiol 89(2): 218-228.
+
+Kahn-Greene, E. T., D. B. Killgore, G. H. Kamimori, T. J. Balkin and W. D. Killgore (2007). "The
+effects of sleep deprivation on symptoms of psychopathology in healthy adults." Sleep Med 8(3):
+215-221.
+
+Kolla, B. P., J. P. He, M. P. Mansukhani, S. Kotagal, M. A. Frye and K. R. Merikangas (2019).
+“Prevalence and Correlates of Hypersomnolence Symptoms in US Teens." J Am Acad Child Adolesc
+Psychiatry 58(7): 712-720.
+
+Kratz, A. L., S. L. Murphy and T. J. Braley (2017). "Ecological Momentary Assessment of Pain,
+Fatigue, Depressive, and Cognitive Symptoms Reveals Significant Daily Variability in Multiple
+Sclerosis." Arch Phys Med Rehabil 98(11): 2142-2150.
+
+ Lo, J. C., J. A. Groeger, N. Santhi, E. L. Arbon, A. S. Lazar, S. Hasan, M. von Schantz, S. N. Archer and
+D. J. Dijk (2012). "Effects of partial and acute total sleep deprivation on performance across
+cognitive domains, individuals and circadian phase." PLoS One 7(9): e45987.
+
+Mauss, I. B., A. S. Troy and M. K. LeBourgeois (2013). "Poorer sleep quality is associated with lower
+emotion-regulation ability in a laboratory paradigm." Cogn Emot 27(3): 567-576.
+
+Meyer, C., G. J. Ferrari Junior, R. D. Andrade, D. G. Barbosa, R. C. da Silva, A. Pelegrini and E. P.
+Gomes Felden (2019). "Factors associated with excessive daytime sleepiness among Brazilian
+adolescents." Chronobiol Int 36(9): 1240-1248.
+
+Miicic, G., N. Lovato, M. Gradisar, S. A. Ferguson, H. J. Burgess and L. C. Lack (2016). "The etiology
+of delayed sleep phase disorder." Sleep Med Rev 27: 29-38.
+
+Owens, J., G. Adolescent Sleep Working and A. Committee on (2014). "Insufficient sleep in
+adolescents and young adults: an update on causes and consequences." Pediatrics 134(3): e921-
+932.
+
+Owens, J. A., T. Dearth-Wesley, D. Lewin, G. Gioia and R. C. Whitaker (2016). "Self-Regulation and
+Sleep Duration, Sleepiness, and Chronotype in Adolescents." Pediatrics 138(6).
+
+Paterson, J. L., J. Dorrian, S. A. Ferguson, S. M. Jay, N. Lamond, P. J. Murphy, S. S. Campbell and D.
+Dawson (2011). "Changes in structural aspects of mood during 39-66 h of sleep loss using matched
+controls." Appl Ergon 42(2): 196-201.
+
+Powell, D. J. H., C. Liossi, W. Schlotz and R. Moss-Morris (2017). "Tracking daily fatigue fluctuations
+in multiple sclerosis: ecological momentary assessment provides unique insights." J Behav Med
+40(5): 772-783.
+
+Rath, D., D. de Beurs, N. Hallensleben, L. Soangenberg, H. Glaesmer and T. Forkmann (2019).
+"Modelling suicide ideation from beep to beep: Application of network analysis to ecological
+momentary assessment data." Internet Interv 18: 100292.
+
+Saghir, Z., J. N. Syeda, A. S. Muhammad and T. H. Balla Abdalla (2018). "The Amygdala, Sleep Debt,
+Sleep Deprivation, and the Emotion of Anger: A Possible Connection?" Cureus 10(7): e2912.
+Santisteban, J. A., T. G. Brown, M. C. Ouimet and R. Gruber (2019). "Cumulative mild partial sleep
+deprivation negatively impacts working memory capacity but not sustained attention, response
+inhibition, or decision making: a randomized controlled trial." Sleep Health 5(1): 101-108.
+
+Saxvig, |. W., S. Pallesen, A. Wilhelmsen-Langeland, H. Molde and B. Bjorvatn (2012). "Prevalence
+and correlates of delayed sleep phase in high school students." Sleep Med 13(2): 193-199.
+Shochat, T., M. Cohen-Zion and O. Tzischinsky (2014). "Functional consequences of inadequate
+sleep in adolescents: a systematic review." Sleep Med Rev 18(1): 75-87.
+
+Sivertsen, B., A. G. Harvey, S. Pallesen and M. Hysing (2015). "Mental health problems in
+adolescents with delayed sleep phase: results from a large population-based study in Norway." J
+Sleep Res 24(1): 11-18.
+
+Slobodanka, P., M. Basta, A. Vgontzas, |. Kritikou, M. Shaffer, M. Tsaoussoglou, D. Stiffler, Z.
+Stefanakis, E. Bixler and G. P. Chrousos (2013). "Effects of recovery sleep after one work week of
+mild sleep restriction on interleukin-6 and cortisol secretion and daytime sleepiness and
+performance." Am J Physiol Endocrinol Metab( 305): E890—-E896,.
+
+Stewart, E., B. Gibb, G. Strauss and M. Coles (2018). "Disruptions in the Amount and Timing of
+Sleep and Repetitive Negative Thinking in Adolescents." Behav Sleep Med: 1-9.
+
+Walker, M. P. and E. van der Helm (2009). “Overnight therapy? The role of sleep in emotional
+brain processing." Psychol Bull 135(5): 731-748.
+
+Wang, Z. Y., Z. Z. Liu, C. X. Jia and X. Liu (2019). "Age at menarche, menstrual problems, and
+daytime sleepiness in Chinese adolescent girls." Sleep 42(6).
+
+ Watling, J., B. Pawlik, K. Scott, S. Booth and M. A. Short (2017). "Sleep Loss and Affective
+Functioning: More Than Just Mood." Behav Sleep Med 15(5): 394-409.
+
+Watson, D., L. A. Clark and A. Tellegen (1988). "Development and validation of brief measures of
+positive and negative affect: The PANAS scales." Journal of Personality and Social Psychology 54:
+1063-1070.
+
+Zhang, J., D. Paksarian, F. Lamers, |. B. Hickie, J. He and K. R. Merikangas (2017). "Sleep Patterns
+and Mental Health Correlates in US Adolescents." J Pediatr 182: 137-143.
+
+ Figure 1. The distributions of sleepiness and emotional states in those with and without DSP
+
+Figure 2. Temporal networks of sleepiness and emotional states according to DSP status. The green
+lines represent positive and red negative partial correlations. Strength centrality represent the extent
+how well a node is connected to other nodes. A high in-strength means the node is strongly
+predicted by other nodes and high out-strength means that the node is a strong predictor of other
+nodes.
+
+Figure 3. Contemporaneous networks of sleepiness and emotional states according to DSP status.
+The green lines represent positive and red negative partial correlations. Strength centrality represent
+the extent how well a node is connected to other nodes.
+
+Figure 4. Between — subject networks of sleepiness and emotional states according to DSP
+
+status. The green lines represent positive and red negative partial correlations. Strength centrality
+represent the extent how well a node is connected to other nodes.
+
+Table 1. Emotional states and number of measurements by groups of DSP
+
+Means and (SD)
+No Yes
+
+N=1,833 N=2,293 p-value
+Sleepiness during the day (range 1-8) 4.52 (1.99) 4.56(1.91) 0.505
+Feeling happy (range 1-7) 4.59 (1.37) 4.43 (1.42) 0.001
+Feeling content (range 1—7) 4.62 (1.48) 4.40 (1.48) <0.001
+Feeling depressed (range 1-7) 1.92 (1.29) 2.19(1.56) <0.001
+Feeling irritated (range 1—7) 2.29 (1.56) 2.42 (1.59) 0.012
+Feeling anxious (range 1-7) 2.19 (1.52) 2.39 (1.70) <0.001
+Number of measurement times 11.3 (9.55) 11.9(10.0) 0.030
+

@@ -1,0 +1,900 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/301792693
+
+Assessing Temporal Emotion Dynamics Using Networks
+
+Article in Assessment: May 2016
+
+DOI: 10.1177/1073191116645909
+
+CITATIONS
+198
+
+8 authors, including:
+Laura Bringmann
+University of Groningen
+102 PUBLICATIONS 4,276 CITATIONS
+
+SEE PROFILE
+
+Eva Ceulemans
+KU Leuven
+
+258 PUBLICATIONS 5,710 CITATIONS
+
+SEE PROFILE
+
+All content following this page was uploaded by Laura Bringmann on 05 May 2016.
+
+The user has requested enhancement of the downloaded file.
+
+Madeline Lee Pe
+
+European Organisation for Research and Treatment of Cancer
+
+68 PUBLICATIONS 2,972 CITATIONS
+
+SEE PROFILE
+
+Denny Borsboom
+University of Amsterdam
+
+349 PUBLICATIONS 50,161 CITATIONS
+
+SEE PROFILE
+
+ResearchGate
+ Assessing ‘Temporal Emotion Dynamics Using Networks
+
+Laura F’. Bringmann, Madeline L. Pe, Nathalie Vissers, Eva Ceulemans,
+Denny Borsboom, Wolf Vanpaemel, Francis ‘Tuerlinckx, Peter Kuppens
+KU Leuven
+
+Introduction
+
+Experience sampling methods (ESM; Csikszentmihalyi & Larson, 2014; Trull & Ebner-Priemer,
+2013) and ecological momentary assessment (EMA; Shiffman & Stone, 1998; Stone & Shiffman, 1994) are
+being increasingly used to study dynamic psychological processes such as mood (aan het Rot, Hogenelst,
+& Schoevers, 2012; Hamaker, Ceulemans, Grasman, & Tuerlinckx, 2015; Jahng, Wood, & Trull, 2008;
+Wichers, Wigman, & Myin-Germeys, in press). A particularly relevant aspect thereof is their temporal
+dynamics (Nesselroade, 2004).?
+
+When studying temporal dynamics, the focus is not on detecting a gross underlying trend, as is
+often the case in developmental research, but rather on the intricate temporal dependence of and between
+variables, or how variables within an individual influence each other or themselves over time (Brandt
+& Williams, 2007; Molenaar, 1985; Walls & Schafer, 2006). Often the models used to study temporal
+dynamics are multivariate in nature, and both the influence that a variable has on itself (e.g., how
+self-predictive is sad mood) as well as its effects on other variables (e.g., how does sad mood augment or
+blunt subsequent anger emotions) are analyzed (Koval, Pe, Meers, & Kuppens, 2013; Kuppens, Stouten,
+& Mesquita, 2009; Kuppens, Allen, & Sheeber, 2010; Pe & Kuppens, 2012; Suls, Green, & Hillis, 1998).
+
+One increasingly popular approach to study, visualize, and analyze multivariate dynamics is net-
+
+work analysis (Borsboom & Cramer, 2013; Bringmann, Vissers, et al., 2013; Bringmann, Lemmens,
+
+‘Address for correspondence: Department Quantitative Psychology and Individual Differences; University of Leuven;
+Tiensestraat 102 - box 3713; 3000 Leuven; Belgium; tel.+32163 26052; email: laura.bringmann@ppw.kuleuven.be. The
+research leading to the results reported in this paper was sponsored in part by Belgian Federal Science Policy within the
+framework of the Interuniversity Attraction Poles program (IAP/P7/06), as well as by grant GOA/15/003 from the KU
+Leuven, and grant G.0806.13 from the Fund of Scientific Research Flanders.
+ Huibers, Borsboom, & Tuerlinckx, 2015; Fried, Nesse, Zivin, Guille, & Sen, 2014; McNally et al., 2015;
+Ruzzano, Borsboom, & Geurts, 2015; Wichers, 2014). This network perspective leads to a new way of
+thinking about the nature of psychological constructs, phenomena or processes by offering new tools
+for studying dynamical processes in psychology. In the network approach, psychological constructs,
+processes or phenomena are represented as complex systems of interacting components (Barabasi, 2011;
+Costantini et al., 2015; Cramer, Borsboom, Aggen, & Kendler, 2012). For instance, emotional well-being
+can be considered to consist of a number of dynamically interacting components, such as behavioral,
+physiological, and experiential emotion components. Likewise, mental disorders can be viewed as a
+result of the mutual interplay of symptoms of the disorder. ‘These components interact with each other
+across time, making up the internal dynamics and by that, the very nature of the phenomenon under
+study. It is these dynamics that are studied in a network approach (Borsboom, Cramer, Schmittmann,
+Epskamp, & Waldorp, 2011; Cramer, Waldorp, van der Maas, & Borsboom, 2010; Schmittmann et al.,
+2013). In this paper, we will illustrate the network approach using an empirical example focusing on
+
+the relation between the daily fluctuations of emotions and neuroticism.
+
+The network approach
+
+A network consists of nodes (i.e., the components of the phenomenon, construct or process) and
+edges (or links) connecting the nodes (Barrat, Barthelemy, Pastor-Satorras, & Vespignani, 2004). In
+our approach, the links have a certain strength that indicates the strength of the (positive or negative)
+relationship between the nodes (Opsahl, Agneessens, & Skvoretz, 2010). The nodes and edges can be
+easily visualized graphically (see for example Figure 1). Networks can be constructed based on different
+kinds of data such as cross-sectional or longitudinal data and using different kinds of models for inferring
+the edges. Depending on the data and model used to infer the network, the edges connecting the nodes
+have a specific meaning. In this article, we focus on longitudinal data and on the vector autoregressive
+(VAR) model (Brandt & Williams, 2007). A VAR-based network allows studying the dynamics among
+the components that constitute a certain construct, phenomenon or process across time. For example,
+in the network of Figure 1, the edges on the nodes are the self-loops, or the effect the emotion has
+on itself from one time point to the next, and the edges between the emotions are the cross-regressive
+effects, or the effect a variable has on other variables from one time point to the next, controlling for
+
+the other variables.
+
+In addition, several features of the network can be derived that can shed light on central properties
+ omy ee
+
+Figure 1. A hypothetical example of an emotion network. The three nodes are the three emotions: Happy,
+Angry and Sad. The red arrows are the negative (i.e., inhibitory) edges and the green arrows the positive (i.e.,
+excitatory) edges. The thickness of the arrows represents the strength of the edges. For example, the edges on
+
+the nodes (the self-loops) are the strongest links in the network.
+ of the dynamical interplay between the components or nodes. Such features can involve the overall
+network or specific parts of the network. One interesting characteristic of the overall network is its
+density, which indicates how strongly the network is interconnected. ‘The denser a network is, the more
+strongly the variables interact (Newman, 2010). Another, more specific, feature of the network is node
+centrality. Centrality refers to the importance or how focal one specific variable or node is in the network
+
+(Freeman, 1978).
+
+Empirical example
+
+We will illustrate how networks can be inferred using a multilevel extension of the VAR model
+(Bringmann, Vissers, et al., 2013), and how they can be used to gather new insights on temporal emotion
+dynamics. In particular, we will focus on the relation between emotion dynamics and neuroticism in
+healthy subjects, using two previously collected ESM datasets. Neuroticism is one of the main dimensions
+reflecting individual differences in personality, and is particularly relevant for emotional experience.
+Specifically, it reflects a tendency to experience negative emotions, and is considered to constitute a
+broad risk factor for mood disorder and psychopathology (Barlow, Sauer-Zavala, Carl, Bullis, & Ellard,
+2014).
+
+In this application, we will first look at the general patterns of edges connecting the emotion
+variables, which are referred to as the population networks. Second, we will assess features of the network
+structure by studying the density of the individual emotion networks and their relation to neuroticism.
+In a third step, we will study whether several centrality measures of the individual networks (strength,
+closeness and betweenness) and the self-loops are related to neuroticism. To our knowledge, this is
+the first time that both the full temporal emotion network and its parts are studied and related to
+neuroticism, giving a more complete picture of moment-to-moment dynamics in emotion as a function
+of the trait of neuroticism. The method used here will be described in detail. Moreover, Matlab and R
+code to replicate the main results of the first dataset will be given, so that other researchers can apply
+
+the network method to their own data (see Appendices).*
+
+?To use this code please read first the R file.
+ Method
+Dataset 1
+
+Parts of dataset 1 have been published elsewhere (Bringmann, Vissers, et al., 2013; Koval, Kuppens,
+Allen, & Sheeber, 2012; Pe, Koval, & Kuppens, 2013; Pe, Raes, et al., 2013). 95 undergraduate students
+from the University of Leuven in Belgium (age: M = 19 years, SD = 1; 62% female) participated
+in an experience sampling method (ESM) study. Over the course of seven days, participants carried
+a palmtop computer on which they had to fill out questions about mood and social context in their
+daily lives 10 times a day. Participants were beeped to fill out the ESM questionnaires at random times
+within 90-minute windows. They had to rate, among other things, their current feelings of negative
+and positive emotions on a continuous slider scale, ranging from 1 (not at all, e.g., angry) to 100 (very,
+e.g., angry). On average, participants responded to 91% of the beeps (SD = 7 %). In order to avoid
+selection bias, we analyzed all six emotion variables measured in this study (positive affect: relaxed and
+happy; negative affect: dysphoric, anxious, sad and angry), which were selected to capture all quadrants
+of the affective circumplex defined by the dimensions of valence and arousal (see e.g., Russell, 2003).
+Furthermore, neuroticism was assessed with the Dutch version of the Ten Item Personality Inventory
+(Gosling, Rentfrow, & Swann, 2003; Hofmans, Kuppens, & Allik, 2008), resulting in a score ranging
+from 1 to 7 (M = 3.4; SD = 1.5). Participants were selected from a large pool of participants to ensure
+a wide range of depression scores. ‘Therefore, the participants in this dataset have a wider range of
+
+neuroticism scores than the participants in dataset 2.
+
+Dataset 2
+
+Parts of this dataset have been published elsewhere (Kuppens, Champagne, & Tuerlinckx, 2012;
+Kuppens, Oravecz, & Tuerlinckx, 2010; Pe & Kuppens, 2012). In this study, the participants consisted
+of 79 undergraduate students from the University of Leuven in Belgium (age: M = 24, SD = 8; 63
+7% female). A similar ESM procedure as in the first dataset was used. Participants were beeped to fill
+out the ESM questionnaires 10 times a day, again on a scale ranging from 0 to 100, but for a longer
+time period, namely 14 consecutive days. We extracted all emotion variables, which were 10 in this case
+(positive affect: relaxed, happy, satisfied, excited; negative affect: dysphoric, anxious, irritated, sad,
+stressed and angry), again selected to cover all quadrants of the affective space. Participants responded
+on average to 82% of the programmed beeps (SD = 10). Neuroticism was assessed with the 12-item
+
+scale of the Dutch version of the NEO Five-Factor Inventory (Hoekstra, Ormel, & De Fruyt, 1996),
+
+D
+ which resulted in a score ranging from 1 to 5 (M = 3.0, SD = 0.7).
+
+Estimating the networks
+
+To assess temporal emotion dynamics and their relation to neuroticism, an emotion network was
+created for each individual. The edges or links of the individual networks were obtained using a multilevel
+VAR model (Bringmann, Vissers, et al., 2013; Bringmann et al., 2015). The standard VAR model
+(Brandt & Williams, 2007) estimates the extent to which a current emotion (time point t) can be
+predicted from all other emotions at a previous moment (time point t— 1), corresponding to the network
+edges. Each emotion is regressed on its lagged values (autoregressive effect) and the lagged values of each
+of the other emotions (cross-lagged effects). In the present context, time t — 1 and time t refer to two
+consecutive beeps within the same day (overnight lags were removed). It is assumed that the data are
+stationary, implying that the mean and the moment-to-moment interactions of the emotion processes
+stay stable over time (Chatfield, 2003; Hamaker & Dolan, 2009). As we study multiple individuals,
+we implement the VAR model within a multilevel modeling framework, to allow for random, person-
+specific auto- and crossregressive effects, and so that we can model the temporal emotion dynamics not
+only within an individual, but also at group level, estimating both average or population (fixed) and
+individual (random) effects.
+
+Univariate multilevel VAR analyses are conducted for each emotion separately using restricted
+maximum likelihood estimation. ‘This results in 6 univariate regression equations for the first dataset
+and 10 univariate regression equations for the second dataset. Taking the first dataset with 6 emotions
+as an example, we get the following equation for each emotion j (i.e., relaxed, happy, dysphoric, anxious,
+
+sad and angry, or 7 = 1,...,6, respectively):
+
+Yotj = Yopj + Vipj relaxed +1 + Yapj - hapPYpt—1 + Y3pj * dysphortCy 4-1 (1)
++ YApj * ANXLLOUSy 4-1 + Y5pj5 + SAA 2-1 + Yopj * ANGTYpt—1 + Eptj-
+Thus, for dataset 1, Y,:; represents the value for the j-th emotion for person p (p = 1,2,...,95)
+at beep t (tf = 2,...,10). The regression coefficients (i.e., the intercept and the regression weights) of
+
+this equation 1 are decomposed as follows:
+
+Veoj = Pri + Okp;, (2)
+
+where the slopes 5;; (k > 0, since k = 0 codes for the intercept) represent the fixed effects (the
+
+edges in the network), or the extent to which the emotions at time t — 1 can predict the emotion 7
+
+6
+ at time t over all individuals. The person-specific deviation (random effect) from the average effect is
+captured in the component b;,;. The random effects are assumed to come from a multivariate normal
+distribution, estimating an unstructured covariance matrix of the random effects. Using the empirical
+Bayes estimates of the random effects, emotion networks for each individual are constructed. Specifically,
+for each edge in the network, the individual random effect is added to the fixed effect for each emotion
+variable. For instance, the edge from emotion & to emotion j has a value of Yrpj = Bei + Ogp; in the
+individual network of person p. To reduce the likelihood of errors in the analyses, all multilevel analyses
+were run in Matlab (Mathworks, Inc.) as well as in Mplus (Muthén & Muthén, 2012) and by different
+researchers. Visualization and computation of the measures of centrality relied on the qgraph R package
+(Epskamp, Cramer, Waldorp, Schmittmann, & Borsboom, 2012).
+
+Regarding the analysis, there are three important additional aspects to mention here. First, as
+we estimate multivariate networks with both autoregressive and cross-lagged effect, all predictors were
+person-mean centered (centered around each individual’s mean score) before the analysis (Hamaker &
+Grasman, 2014). Note that this might lead to a slight underestimation of the autoregressive effects.
+Second, to control for differences in variability between individuals, i.e. to make sure that associations
+between neuroticism and network characteristics were not driven by differences in emotion variance,
+we conducted analyses involving both non-standardized and standardized coefficients.? Within-person
+standardization of the coefficients was done as described in (Schuurman, Ferrer, de Boer-Sonnenschein,
+
+4 Third, note that the edges only represent the unique direct effects of the
+
+& Hamaker, in press).
+variables and not the shared effects (just as in standard multiple regression; Bulteel, Tuerlinckx, Brose,
+& Ceulemans, in press). This means that a part of the explained variance cannot be taken into account
+
+and thus an edge might be less strong or stronger if this shared variance was taken into account.
+
+Network analyses
+The population networks
+
+Before we focus on individual networks and their relationship to neuroticism, we will first look at
+the average networks. ‘These population networks show the general patterns of connections between the
+
+emotion variables. The edges in the population networks represent the slopes 6;; (k > 0; i-e., the fixed
+
+3One exception is the analyses using self-loops. In order to standardize the edges of the network, the standard
+deviations of the predictor and outcome variables are used. Since a self-loop has the same predictor as outcome variable
+
+the standardized and unstandardized edges are equal.
+4Note that there are different ways to standardize that lead to slightly different results.
+ effects). The population networks are presented in Figure 2, made with the R-package qgraph (Epskamp
+et al., 2012).
+
+Density
+
+For each individual network, the density was computed of 1) the overall network (all emotions), 2)
+the negative emotions only and 3) positive emotions only. This was done by averaging over the absolute
+values of the slopes or edges in the network of the emotions of interest. We used the absolute values so
+that negative and positive edge values do not cancel each other out.
+
+Further, to illustrate the relation between density and neuroticism, we created three neuroticism
+groups (i.e., low, medium and high neuroticism) by ranking the neuroticism scores. In a next step,
+we constructed networks for the low and high neuroticism group separately (eventually resulting in
+two networks for overall, negative and positive emotion density for both datasets). If we focus on the
+overall network for simplicity of explanation, then the arrows indicate the edge strengths of the temporal
+connections between emotions. The average absolute value of the edge strength and the corresponding
+standard deviation (SD) is calculated across all participants and pairs of variables. Next, edges get
+classified: 15D below the mean (weak connection strength, dotted arrows), between 15D below and
+above the mean (moderate connection strength, dashed arrows) and 15D above the mean (strong
+
+connection strength, solid arrows).
+
+Centrality
+
+We calculated the most common centrality measures degree (or in case of a weighted network the
+term strength is used), closeness and betweenness. Each centrality measure defines centrality of a node
+(variable) in the network in a different way (Freeman, 1978; Newman, 2010). To explain these concepts,
+it is instructive to think metaphorically that the nodes transmit information across time to each other.
+As the network used here is a directed network, we can study both the out-strength centrality and
+the in-strength centrality. Out-strength indicates the (summed) strength of the outgoing edges or how
+much information a node sends away to the other nodes, and thus a node with a high out-strength
+centrality tends to excite or inhibit many other nodes in the network. In-strength indicates the strength
+of the incoming edges, or how much information a node receives from the other nodes, and thus its
+susceptibility to being excited or inhibited by other nodes in the network.’ Both out- and in strength
+
+take only into account the edges to which a node is directly connected.
+
+°We thank an anonymous reviewer for suggesting this interpretation.
+ A node high in closeness centrality is at a relatively short distance from the other nodes in the
+network, and is thus likely to be influenced quickly by them. Closeness thus represents how fast an
+emotion can be reached from the other nodes in the network. Distances between nodes are calculated
+based on edge strength, taking into account direct and indirect edges connecting the node to other nodes
+
+(See for more information: Borgatti, 2005; Costantini et al., 2015; Opsahl et al., 2010).
+
+Betweenness centrality is a measure of how many times a node appears on the shortest paths
+between other nodes in the network. Thus, a node with a high betweenness centrality is a node through
+which the information in the network has to pass often and can be seen as an important node in
+funneling the information flow in the network. This measure also takes into account direct and indirect
+edges connecting the node to other nodes. Note that all the centrality measures are based on the absolute
+
+values of the edges.
+
+The relation between the network characteristics and neuroticism
+
+Neuroticism scores of all individuals were correlated with density of the individual networks (calcu-
+lated on the overall, negative and positive networks) and centrality measures (out-strength, in-strength,
+closeness and betweenness) using Pearson’s product moment correlations. Since the centrality measures
+are concerned with the influences between variables or nodes (cross-regressive effects) in the network,
+self-loops or autoregressive effects (in the emotion literature also known as emotional inertia; Suls et
+al., 1998) are ignored in these focal network measures. Therefore, the correlation between the self-loops
+
+and neuroticism was calculated separately for each emotion.
+
+Results
+
+The networks in Figure 2 represent the average patterns between the emotions. Only edges that
+were significant (i.e., a p— value of less than 0.05) are shown, which is purely for visualization purposes.
+The figures show that emotions can either augment or blunt each other (Pe & Kuppens, 2012). Aug-
+menting refers to the increase of the experience of other emotions. For example, there exist clusters of
+negative and positive emotions. Within these clusters, emotions of the same valence tend to in general
+augment each other. In contrast, emotions of different valence (for example, sad and happy) seem to
+blunt or decrease each other. Furthermore, the self-loops in the networks are among the strongest edges.
+
+For example, in general when a person feels sad, (s)he is not only less likely to feel happy at the next
+
+9
+ moment, but also likely to still experience sadness at the next moment.® These results correspond with
+the theoretical expectations and empirical findings based on the nomothetic relations in an emotion
+circumplex, namely that emotions of the same valence are more likely to be correlated with each other
+
+than with emotions of different valence (Vansteelandt, Van Mechelen, & Nezlek, 2005).
+
+Dataset 1 Dataset 2
+
+Figure 2. This figure shows the population network of the dataset 1 (left panel) and the dataset 2 (right panel).
+Solid green edges correspond to positive and dashed red edges to negative connections. Only edges that surpass
+the significance threshold are shown (i.e., for which the p-value of the t-statistic is smaller than 0.05). The
+emotions in the networks are organized so that they align with the emotion circumplex from which they were
+
+selected.
+
+The results in ‘Table 1 show a consistent and strong positive relation between neuroticism and
+overall emotion density as well as negative emotion density. This pattern is not only consistent across
+datasets, but also when controlling for variability (i.e., after standardization), indicating that individ-
+uals high in neuroticism also have a significantly denser overall network and negative emotion network
+than individuals low in neuroticism. ‘The results for the positive emotions emotion network were less
+consistent. The relation between the positive emotion network and neuroticism was only significant in
+the second dataset and was less strong than the relationship between neuroticism and the overall and
+
+negative emotion networks. Figures 3 and 4, focusing on the high and low ends of neuroticism, also
+
+©Note that the number of possible edges is proportional to the number of nodes and thus the network for dataset 2 is
+
+not necessarily more strongly connected than the network for dataset 1.
+
+10
+ features this pattern: he difference between emotion density in individuals with a high and low score
+in neuroticism is more pronounced for the overall emotion density and negative emotion density than
+
+for positive emotion density.
+
+Table 1: Density and its relation to neuroticism
+
+Non-standardized Standardized
+Data 1 Data 2 Data 1 Data 2
+
+Emotion Network r D r D r D r Dp
+
+Overall AQ <.001 .42 <.001 .49 <.001 .41 <.001
+Negative 51 <.001 44 <.001 .51 <.001 .43 <.001
+Positive 12 26 30 ©6008 ~—SiLL 27 ~~ 320 ~=.007
+
+Tables ?? and ?? show that there is a difference across the datasets in the out- and in-strength
+centrality. In dataset 1 individuals with high neuroticism scores have significantly high out-strength
+centrality for all negative emotions and even for the positive emotion ‘happy’. However, none of these
+results replicated for dataset 2, although the correlations are consistently positive. In contrast, the
+positive significant relation between neuroticism and in-strength centrality of all five emotions (happy
+was non-significant in both datasets) of dataset 1 was also found in dataset 2. Thus, there is more
+evidence for a positive relation between in-strength centrality of emotions and neuroticism than out-
+
+strength centrality of emotions and neuroticism.
+
+As is apparent in ‘Table 4, closeness centrality is positively related to neuroticism for almost all
+emotions (except ‘stressed’) in both datasets, even after standardization. This is in contrast to the
+relationship between betweenness centrality (influencing the overall information flow) and neuroticism
+(see Table 5. Although in some cases the relation was significant, it was not very strong, and none of
+
+the findings replicated in both datasets.
+
+Finally, regarding the self-loops and their relation to neuroticism, it is evident that only the self-
+loops of emotions ‘sad’ and ‘anxious’ were significantly related to neuroticism in both datasets (see Table
+
+6).
+
+11
+ Table 2: Out-strength centrality and its relation to neuroticism
+
+Non-standardized Standardized
+
+Data 1 Data 2 Data 1 Data 2
+
+Out-strength r D r D r D r D
+Angry A41 = <.001 .219 052 «=.495 =<.001 = .238 ~~ 035
+Dysphoric .266 O09 126 .267 = .249 O15 088 44
+Sad AOT <.001 .085 .458 402 <.001 .029 ~~ .799
+Anxious 289 O04 188 098  .313 O02 202 025
+Relaxed 157 128 15 188  .18 082 195 = .085
+Happy 42. <.001 .204 O71 481 <.001 .252 025
+Satisfied 298  .008 331  .003
+Excited 361 001 349 002
+Irritated 315 .005 30 = .002
+Stressed 283  .012 267 017
+
+Discussion
+
+In this study, we found that for individuals with high levels of neuroticism, the associations found
+in the population level network were qualitatively the same but more pronounced (i.e., denser) than for
+their less neurotic peers. This effect was especially clear in the negative emotion network and was found
+in both datasets irrespective of standardization. Although in some cases the positive emotion network
+was significantly denser in individuals with a high neuroticism score, this effect was rather weak and not
+consistent across both datasets. ‘hese findings are noteworthy because they further reinforce the idea
+that neuroticism is characterized specifically by negative emotions that tend to co-occur (even across
+time). This is also in line with the results of (Pe et al., 2015), who found that individuals with the
+clinical diagnosis of depression have especially a denser negative emotion network than non-depressed
+individuals (see also Wigman et al., 2015 for a similar result).
+
+These results also support previous research on early warning signs reflecting vulnerability for
+emotional disorder. Individuals who experience a higher autocorrelation have slower dynamics, which
+
+can be seen as predictive of a transition into depression (van de Leemput et al., 2014). In the same way,
+
+12
+ Table 3: In-strength centrality and its relation to neuroticism
+
+Non-standardized Standardized
+Data 1 Data 2 Data 1 Data 2
+In-strength r D r D r D r D
+
+Angry ot <.001 232 040 346 O01 212 060
+Dysphoric AQT <.001 406 <.001 394 <.001 423 <.001
+Sad 348 <.001 338 002 316 <.001 302 O02
+Anxious TA <.001 ATO <.001 371 <.001 395 <.001
+Relaxed 391 <.001 SAT O02 341 O01 280 O13
+Happy — .003 98 —.093 416 O24 815 —.196 084
+Satisfied — .068 00 —.053 641
+Excited — .057 .616 — .048 672
+Irritated 192 .O9 163 152
+Stressed 151 184 130 204
+
+people who are highly neurotic and have strong self-loops (autoregressive effects) and strong connections
+between their emotions (cross effects) can be seen as being prone to experience a critical slowing down
+
+and thus an episode of depression.
+
+Regarding the relation between centrality measures of the specific emotions and neuroticism, the
+results were more mixed. Although in the first dataset there were strong associations between the out-
+strength of individual emotions and neuroticism, this was not replicated in the second dataset. ‘This
+could be due to the larger differences in neuroticism between individuals in the first versus the second
+dataset; alternatively these differences may reflect sampling error, as centrality indices are composites
+of many distinct parameters each of which is subject to random fluctuations due to the sampling of
+individuals from the population and the sampling of time points within individuals. ‘The association
+between in-streneth centrality and neuroticism, however, did replicate: Individuals experiencing a high
+degree of neuroticism were more likely to have a network in which angry, dysphoric, sad, anxious or
+relaxed had a high in-strength centrality, i.e., these emotions were more likely to be directly affected by
+
+the other emotions at the next time point.
+
+13
+ Table 4: Closeness centrality and its relation to neuroticism
+
+Non-standardized Standardized
+
+Data 1 Data 2 Data 1 Data 2
+
+Closeness r D r D r D r D
+Angry 493 <.001 .386 <.001 .503 <.001 .4388 <.001
+Dysphoric 373 <.001 — .22 052 308 <.001  .261 020
+Sad O01 <.001 ~~ .363 O01 A75 <.001  .381 O01
+Anxious 305 003 312 O05 310 O02 381  <.001
+Relaxed 303 <.001  .351 O02 394 <.001  .368 O01
+Happy 436 <.001 .3886 <.001 .481 <.001 .485 <.001
+Satisfied A408  <.001 A37 = <.001
+Excited AAT = <.001 A50 = <.001
+Irritated 456 = <.001 464 = <.001
+Stressed 316 O01 367 0.001
+
+Moreover, closeness centrality (how fast an emotion variable can be reached) was positively related
+with neuroticism for all emotions except for stressed. Betweenness centrality (the importance of a
+variable in funneling the emotion flow), on the other hand, did not reveal a clear association with
+
+neuroticism.
+
+Finally, the self-loops indicated that individuals with higher emotional inertia or overspill of espe-
+cially the emotions sad and anxious were more neurotic. ‘This is in line with previous research, which
+found that high negative emotional inertia or the spillover of negative emotions was linked to neuroticism
+
+(Suls et al., 1998; Suls & Martin, 2005).
+
+Thus, the more strongly connected emotion networks in highly neurotic individuals seem to be
+driven by in-strength centrality or the fact that emotions are affected by the other emotions of the
+network in a negative way (negative emotions get augmented whereas relaxed gets mostly blunted by
+the other emotions). Additionally, an important feature of the networks of highly neurotic individuals
+seems to be that most emotions can be reached fast (closeness centrality). These results show that, to
+
+better understand the relationship between neuroticism and emotions, not only the full network density
+
+14
+ Table 5: Betweenness centrality and its relation to neuroticism
+
+Non-standardized Standardized
+Data 1 Data 2 Data 1 Data 2
+Betweenness r D r D r Dp r Pp
+
+Angry 156 131 —.033  .771 133 198  —.093  .414
+Dysphoric 151 143 287 010 179 083 282 012
+Sad 120 248 291 O09 124 230 160 158
+Anxious 096 304 324 O04 O27 197 299 O07
+Relaxed —.101 3829 —.089 .484 —.116 .263 —.046  .687
+Happy —.058 579 —.100 .882 —.094 .864 —.043 ~ .704
+Satisfied —.271 016 —.163 .152
+Excited —.047 679 —.056  .621
+Irritated —.016 = .888 —.069  .548
+Stressed —.225  .046 —.150  .187
+
+should be taken into account, but also the local structure of the network.
+
+A limitation of this study is its generalizability. Even though the results often replicated in the
+two datasets, in both datasets the participants were undergraduate students living in Belgium and the
+studies were conducted in the same lab. ‘To be able to generalize the results, it would be interesting to use
+studies from other labs with different participants (e.g., older individuals and from different countries) to
+replicate the results. In addition, only a limited number of emotions were assessed, especially regarding
+positive emotions. Additionally, only the unique effects of the edges in the network are taken into
+account and thus a (possibly large) part of the explained variance is not included in the network.
+Solutions to take both unique and shared variance into consideration, such as the relative importance
+matrices, are currently only suitable for VAR models, and are not straightforward to generalize to a
+multilevel framework (Bulteel et al., in press). A further problem concerns spurious relationships in
+networks. As emotion processes are complicated dynamic systems it is unlikely that we have captured
+the full emotional process with the limited number of variables used in this paper, and thus spurious
+
+relationships might have been revealed. A promising solution to see if an edge is truly direct or spurious
+
+15
+ Table 6: Self-loops and their relation to neuroticism
+
+Data 1 Data 2
+
+Sel f-loops r p r P
+Angry 226 028 219 052
+Dysphoric 295 O04 167 141
+Sad AIT <.001 .265 018
+Anxious 207 O12 362 O01
+Relaxed — 122 .240 —.133  .248
+Happy 169 .102 303 O07
+Satisfied 108 341
+Excited 327 003
+Irritated 128 .262
+Stressed 240 033
+
+Note: In order to standardize the edges of the net-
+work the standard deviations of the predictor and
+outcome variables are used. Since a self-loop has
+the same predictor as outcome variable the stan-
+
+dardized and unstandardized edges are equal.
+
+is through the use of ancestral graphs, which have been used in {MRI research for studying connectivity.
+Ancestral graphs are able to explicitly model whether there are relevant variables missing from a network
+model (Bringmann, Scholte, & Waldorp, 2013; Waldorp, Christoffels, & van de Ven, 2011). Future
+research should focus on developing these kinds of techniques further so that they can also be used in
+
+multilevel analyses.
+
+As this study was based on mere correlations between neuroticism and emotions networks, it would
+be fruitful to have a more experimental setup in which one studies temporal emotion dynamics within
+individuals having different levels of neuroticism at different points in time. It is likely that individuals
+do not experience the same level of neuroticism continuously (Fleeson, 2001, 2004). Therefore, it would
+
+be interesting to see if in periods when neuroticism is, for example, less severe, one indeed would find
+
+16
+ less dense emotion networks than in periods when neuroticism is more severe. Note that in order to
+study such changing dynamics, extensions of the multilevel VAR technique will be needed, such as the
+multilevel threshold autoregressive model (de Haan-Rietdijk, Gottman, Bergeman, & Hamaker, 2014)
+or a time-varying autoregressive model (Bringmann et al., in press).
+
+In this paper we have illustrated some of the possibilities of the network approach for studying
+temporal dynamics of psychological phenomena. More specifically, we have applied the network ap-
+proach to an empirical example: the daily fluctuations of emotions and neuroticism. Whereas most
+studies have focused on aggregated or summed negative emotions and found that individuals with neu-
+roticism tend to have a longer recovery of their negative emotions (i.e., higher emotional inertia; Suls &
+Martin, 2005), network analyses give a deeper understanding of this process. We have shown that there
+are emotion-specific effects, and moreover, it seems that the inflow and the speed of flow from other
+emotions was especially driving the stronger connectivity in more neurotic individuals. ‘These new ways
+of analyzing emotions and other psychological phenomena can provide important information for better
+understanding how emotions are related to psychopathology, and for example how individuals get stuck
+
+in their emotions.
+
+References
+
+aan het Rot, M., Hogenelst, K., & Schoevers, R. A. (2012). Mood disorders in everyday life: A systematic
+review of experience sampling and ecological momentary assessment studies. Clinical Psychology Review,
+32(6), 510-523.
+
+Barabasi, A.-L. (2011). The network takeover. Nature Physics, 8(1), 14.
+
+Barlow, D. H., Sauer-Zavala, S., Carl, J. R., Bullis, J. R., & Ellard, K. K. (2014). The nature, diagnosis, and
+treatment of neuroticism back to the future. Clinical Psychological Science, 2(3), 344-365.
+
+Barrat, A., Barthelemy, M., Pastor-Satorras, R., & Vespignani, A. (2004). The architecture of complex weighted
+networks. Proceedings of the National Academy of Sciences, 101(11), 3747-3752.
+
+Borgatti, S. P. (2005). Centrality and network flow. Social networks, 27(1), 55-71.
+
+Borsboom, D., & Cramer, A. (2013). Network analysis: an integrative approach to the structure of psy-
+chopathology. Annual Review of Clinical Psychology, 9, 91-121.
+
+Borsboom, D., Cramer, A., Schmittmann, V. D., Epskamp, S., & Waldorp, L. J. (2011). The small world of
+psychopathology. PloS one, 6(11), e27407.
+
+Brandt, P. T., & Williams, J.T. (2007). Multiple time series models. series: Quantitative applications in the
+
+social sciences. ‘Thousand Oaks, CA: Sage Publications Inc.
+
+17
+ Bringmann, L. F., Hamaker, E. L., Vigo, D. E., Aubert, A., Borsboom, D., & Tuerlinckx, F. (in press). Chang-
+ing dynamics: Time-varying autoregressive models using generalized additive modeling. Psychological
+
+Methods.
+
+Bringmann, L. F., Lemmens, L. H., Huibers, M. J., Borsboom, D., & Tuerlinckx, F. (2015). Revealing the
+dynamic network structure of the beck depression inventory-ii. Psychological medicine, 45(04), 747-757.
+
+Bringmann, L. F., Scholte, H. S., & Waldorp, L. J. (2013). Matching structural, effective, and functional con-
+nectivity: A comparison between structural equation modeling and ancestral graphs. Brain connectivity,
+3(4), 375-385.
+
+Bringmann, L. F., Vissers, N., Wichers, M., Geschwind, N., Kuppens, P., Peeters, F., ... Tuerlinckx, F. (2013).
+A network approach to psychopathology: New insights into clinical longitudinal data. PloS One, 8(4),
+e60188.
+
+Bulteel, K., Tuerlinckx, F., Brose, A., & Ceulemans, E. (in press). Using raw var regression coefficients to build
+networks can be misleading. Multivariate Behavioral Research.
+
+Chatfield, C. (2003). The analysis of time series: An introduction (Fifth ed.). Boca Raton, FL: Chapman and
+Hall/CRC.
+
+Costantini, G., Epskamp, $., Borsboom, D., Perugini, M., Mottus, R., Waldorp, L. J., & Cramer, A. O. (2015).
+State of the art personality research: A tutorial on network analysis of personality data in r. Journal of
+Research in Personality, 54, 13-29.
+
+Cramer, A., Borsboom, D., Aggen, S., & Kendler, K. (2012). The pathoplasticity of dysphoric episodes: differ-
+ential impact of stressful life events on the pattern of depressive symptom inter-correlations. Psychological
+medicine, 42(05), 957-965.
+
+Cramer, A., Waldorp, L. J., van der Maas, H. L., & Borsboom, D. (2010). Comorbidity: a network perspective.
+Behavioral and Brain Sciences, 33(2-3), 137-150.
+
+Csikszentmihalyi, M., & Larson, R. (2014). Validity and reliability of the experience-sampling method. In
+M. Csikszentmihalyi (Ed.), Flow and the foundations of positive psychology (pp. 35-54). New York:
+Springer.
+
+de Haan-Rietdijk, S., Gottman, J. M., Bergeman, C. S., & Hamaker, E. L. (2014). Get over it! A multilevel
+threshold autoregressive model for state-dependent affect regulation. Psychometrika, 1—25.
+
+Epskamp, S., Cramer, A., Waldorp, L. J., Schmittmann, V. D., & Borsboom, D. (2012). Qgraph: Network
+visualizations of relationships in psychometric data. Journal of Statistical Software, 48(4), 1-18.
+
+Fleeson, W. (2001). Toward a structure-and process-integrated view of personality: Traits as density distribu-
+tions of states. Journal of personality and social psychology, 80(6), 1011-1027.
+
+Fleeson, W. (2004). Moving personality beyond the person-situation debate the challenge and the opportunity
+
+18
+ of within-person variability. Current Directions in Psychological Science, 18(2), 83-87.
+
+Freeman, L. C. (1978). Centrality in social networks conceptual clarification. Social networks, 1(3), 215-239.
+
+Fried, E. I., Nesse, R. M., Zivin, K., Guille, C., & Sen, S. (2014). Depression is more than the sum score of its
+parts: individual dsm symptoms have different risk factors. Psychological medicine, 44 (10), 2067-2076.
+
+Gosling, 5. D., Rentfrow, P. J., & Swann, W. B. (2003). A very brief measure of the Big-Five personality
+domains. Journal of Research in Personality, 37(6), 504-528.
+
+Hamaker, E. L., Ceulemans, E., Grasman, R., & Tuerlinckx, F. (2015). Modeling affect dynamics: State of the
+art and future challenges. Emotion Review, 7(4), 316-322.
+
+Hamaker, E. L., & Dolan, C. V. (2009). Idiographic data analysis: Quantitative methods from simple to ad-
+vanced. In J. Valsiner, P. C. M. Molenaar, M. Lyra, & N. Chaudhary (Eds.), Dynamic process methodology
+in the social and developmental sciences (pp. 191-216). New York, NY: Springer-Verlag.
+
+Hamaker, E. L., & Grasman, R. P. (2014). To center or not to center? investigating inertia with a multilevel
+autoregressive model. Frontiers in Psychology, 5. doi: 10.3389/fpsyg.2014.01492
+
+Hoekstra, H., Ormel, J., & De Fruyt, F. (1996). Handleiding NEO-PI-R en NEO-FFI Big Five persoonlijkhei-
+dsvragenlijsten [Dutch manual for NEO-PI-R and NEOFFI Big Five personality questionnaires]. Lisse,
+the Netherlands: Swets and Zeitlinger.
+
+Hofmans, J., Kuppens, P., & Allik, J. (2008). Is short in length short in content? An examination of the
+domain representation of the ‘Ten Item Personality Inventory scales in Dutch language. Personality and
+Individual Differences, 45(8), 750-755.
+
+Jahng, S., Wood, P. K., & Trull, T. J. (2008). Analysis of affective instability in ecological momentary assess-
+ment: Indices using successive difference and group comparison via multilevel modeling. Psychological
+Methods, 13(4), 354-375.
+
+Koval, P., Kuppens, P., Allen, N. B., & Sheeber, L. (2012). Getting stuck in depression: The roles of rumination
+and emotional inertia. Cognition & emotion, 26(8), 1412-1427.
+
+Koval, P., Pe, M. L., Meers, K., & Kuppens, P. (2013). Affect dynamics in relation to depressive symptoms:
+Variable, unstable or inert? Emotion, 13(6), 1132.
+
+Kuppens, P., Allen, N. B., & Sheeber, L. B. (2010). Emotional inertia and psychological maladjustment.
+Psychological Science, 21, 984-991.
+
+Kuppens, P., Champagne, D., & Tuerlinckx, F. (2012). The dynamic interplay between appraisal and core
+affect in daily life. Frontiers in Psychology, 3, 1-8.
+
+Kuppens, P., Oravecz, Z., & Tuerlinckx, F. (2010). Feelings change: accounting for individual differences in
+the temporal dynamics of affect. Journal of Personality and Social Psychology, 99(6), 1042-1060.
+
+Kuppens, P., Stouten, J., & Mesquita, B. (2009). Individual differences in emotion components and dynamics:
+
+19
+ Introduction to the special issue. Cognition and Emotion, 23(7), 1249-1258.
+
+McNally, R. J., Robinaugh, D. J., Wu, G. W., Wang, L., Deserno, M. K., & Borsboom, D. (2015). Mental
+disorders as causal systems a network approach to posttraumatic stress disorder. Clinical Psychological
+Science, 3(6), 836-849.
+
+Molenaar, P. C. M. (1985). A dynamic factor model for the analysis of multivariate time series. Psychometrika,
+50(2), 181-202.
+
+Muthén, L. K., & Muthén, B. O. (2012). Mplus User’s Guide [Computer software manual]. Los Angeles, CA:
+Muthén & Muthén.
+
+Nesselroade, J. R. (2004). Intraindividual variability and short-term change. Gerontology, 50(1), 44-47.
+
+Newman, M. (2010). Networks: an introduction. Oxford University Press.
+
+Opsahl, T., Agneessens, F., & Skvoretz, J. (2010). Node centrality in weighted networks: Generalizing degree
+and shortest paths. Social Networks, 32(3), 245-251.
+
+Pe, M. L., Kircanski, K., Thompson, R. J., Bringmann, L. F., Tuerlinckx, F., Mestdagh, M., ... others (2015).
+Emotion-network density in major depressive disorder. Clinical Psychological Science, 3(2), 292-300.
+
+Pe, M. L., Koval, P., & Kuppens, P. (2013). Executive well-being: Updating of positive stimuli in working
+memory is associated with subjective well-being. Cognition, 126(2), 335-340.
+
+Pe, M. L., & Kuppens, P. (2012). The dynamic interplay between emotions in daily life: Augmentation,
+blunting, and the role of appraisal overlap. Emotion, 12(6), 1320.
+
+Pe, M. L., Raes, F., Koval, P., Brans, K., Verduyn, P., & Kuppens, P. (2013). Interference resolution moderates
+the impact of rumination and reappraisal on affective experiences in daily life. Cognition & emotion,
+27(3), 492-501.
+
+Russell, J. A. (2003). Core affect and the psychological construction of emotion. Psychological Review, 110(1),
+145-172.
+
+Ruzzano, L., Borsboom, D., & Geurts, H. M. (2015). Repetitive behaviors in autism and obsessive—compulsive
+disorder: New perspectives from a network analysis. Journal of autism and developmental disorders,
+45(1), 192-202.
+
+Schmittmann, V. D., Cramer, A., Waldorp, L. J., Epskamp, S., Kievit, R. A., & Borsboom, D. (2013). Decon-
+structing the construct: A network perspective on psychological phenomena. New Ideas in Psychology,
+31(1), 43-53.
+
+Schuurman, N. K., Ferrer, E., de Boer-Sonnenschein, M., & Hamaker, E. L. (in press). How to compare
+cross-lagged associations in a multilevel autoregressive model. Psychological Methods.
+
+Shiffman, S., & Stone, A. A. (1998). Ecological momentary assessment: A new tool for behavioral medicine
+
+research. In D. Krantz & A. Baum (Eds.), Technology and methods in behavioral medicine (pp. 117-131).
+
+20
+ Mahwah, NJ: Lawrence Erlbaum Associates.
+
+Stone, A. A., & Shiffman, S. (1994). Ecological momentary assessment (EMA) in behavorial medicine. Annals
+of Behavioral Medicine, 16, 199-202.
+
+Suls, J., Green, P., & Hillis, S. (1998). Emotional reactivity to everyday problems, affective inertia, and
+neuroticism. Personality and Social Psychology Bulletin, 24 (2), 127-136.
+
+Suls, J., & Martin, R. (2005). The daily life of the garden-variety neurotic: Reactivity, stressor exposure, mood
+spillover, and maladaptive coping. Journal of personality, 73(6), 1485-1510.
+
+Trull, T. J., & Ebner-Priemer, U. (2013). Ambulatory assessment. Annual Review of Clinical Psychology, 9,
+151-176.
+
+van de Leemput, I. A., Wichers, M., Cramer, A., Borsboom, D., Tuerlinckx, F., Kuppens, P., ... Scheffer, M.
+(2014). Critical slowing down as early warning for the onset and termination of depression. Proceedings
+of the National Academy of Sciences, 111(1), 87-92.
+
+Vansteelandt, K., Van Mechelen, I., & Nezlek, J. B. (2005). The co-occurrence of emotions in daily life: A
+multilevel approach. Journal of Research in Personality, 39(3), 325-335.
+
+Waldorp, L., Christoffels, I., & van de Ven, V. (2011). Effective connectivity of fmri data using ancestral graph
+theory: Dealing with missing regions. Neurolmage, 54(4), 2695-2705.
+
+Walls, T. A., & Schafer, J. L. (2006). Models for intensive longitudinal data. Oxford, England: Oxford
+University Press.
+
+Wichers, M. (2014). The dynamic nature of depression: a new micro-level perspective of mental disorder that
+meets current challenges. Psychological Medicine, 44 (07), 1349-1360.
+
+Wichers, M., Wigman, J., & Myin-Germeys, I. (in press). Micro-level affect dynamics in psychopathology
+viewed from complex dynamical system theory. Emotion Review.
+
+Wigman, J., van Os, J., Borsboom, D., Wardenaar, K., Epskamp, S., Klippel, A., ... Wichers, M. (2015).
+Exploring the underlying structure of mental disorders: cross-diagnostic differences and similarities from
+a network perspective using both a top-down and a bottom-up approach. Psychological medicine, 45(11),
+
+2379-2387.
+
+21
+ High neuroticism dataset 1 Low neuroticism dataset 1
+
+-- -
+
+oa
+
+'
+
+'
+mat
+
+ue
+
+'
+
+'
+
+'
+
+'
+
+-
+
+Ut
+
+Overall Affect
+
+Negative Affect
+
+Positive Affect
+
+oe
+
+Figure 3. The emotion networks for dataset 1 for individuals with a high and low neuroticism score. In the
+
+network, the arrows indicate the absolute strengths of the temporal connections between emotions. Arrows that
+
+are dotted indicate weak connection strength, arrows that are dashed indicate moderate connection strength
+
+and bold arrows indicate strong connection strength.
+
+22
+ High neuroticism dataset 2 Low neuroticism dataset 2
+
+Stressed|*
+
+Irritated ae = ae = on
+
+Overall Affect
+
+— Relaxed
+
+Negative Affect
+
+Positive Affect
+
+Figure 4. The emotion networks for dataset 2 for individuals with a high and low neuroticism score. In the
+network, the arrows indicate the absolute strengths of the temporal connections between emotions. Arrows that
+
+are dotted indicate weak connection strength, arrows that are dashed indicate moderate connection strength
+
+and bold arrows indicate strong connection strength.
+
+23

@@ -1,0 +1,1119 @@
+Accepted for publication in “Computers in Human Behavior”
+
+Note: This is an uncorrected version of an author’s manuscript accepted for publication.
+Copyediting, typesetting, and review of the resulting proofs will be undertaken on this manuscript
+before final publication. During production and pre-press, errors may be discovered that could
+
+affect the content.
+
+Social media use and well-being: A prospective experience-sampling study
+
+Lien Faelens!”, Kristof Hoorelbeke!, Bart Soenens”, Kyle Van Gaeveren*, Lieven De Marez’,
+Rudi De Raedt!, & Ernst H.W. Koster!
+1. Department of Experimental Clinical and Health Psychology, Ugent, Henri Dunantlaan
+2, B-9000, Ghent, Belgium
+2. Department of Developmental, Personality and Social Psychology, Ugent, Henri
+Dunantlaan 2, B-9000, Ghent, Belgium
+3. Department of Communicatien Sciences, imec-mict-UGent, Miriam Makebaplein |
+
+B- 9000 Ghent, Belgium
+ Social media use and well-being: A prospective experience-sampling study
+
+Abstract
+
+Facebook and Instagram are currently the most popular Social Network Sites (SNS) for young
+adults. A large amount of research examined the relationship between these SNS and well-being,
+and possible intermediate constructs such as social comparison, self-esteem, and repetitive negative
+thinking (RNT). However, most of these studies have cross-sectional designs and use self-report
+indicators of SNS use. Therefore, their conclusions should be interpreted cautiously. Consequently,
+the goal of the current experience sampling study was to examine the temporal dynamics between
+objective indicators of SNS use, and self-reports of social comparison, RNT, and daily fluctuations
+in negative affect. More specifically, we assessed 98 participants 6 times per day during 14 days to
+examine reciprocal relationships between SNS use, negative affect, emotion regulation, and key
+psychological constructs. Results indicate that (1) both Facebook and Instagram use predicted
+reduced well-being, and (2) self-esteem and RNT appear to be important intermediate constructs
+in these relationships. Future longitudinal and experimental studies are needed to further support
+
+and extend the current research findings.
+
+Key words: Social media, Social comparison, Self-esteem, Repetitive Negative thinking,
+Negative Affect
+ 1. Introduction
+
+Social network sites (SNS) are described as “web-based services that allow individuals to (1)
+construct a public or semi-public profile within a bounded system, (2) articulate a list of other users
+with whom they share a connection, and (3) view and traverse their list of connections and those
+made by others within the system” (boyd & Ellison, 2007, p. 211). The rapid rise of SNS such as
+Facebook and Instagram has attracted billions of users, who use these platforms on a daily basis
+(Pew Research Center, 2019; Vandendriessche & De Marez, 2019). Recent estimates indicate that
+these mediums are most frequently used by young adults, with 79% of 18-29 year olds having a
+Facebook and 67% of 18 year olds having Instagram accounts, respectively.
+
+Given the immense popularity of Facebook and Instagram among young adults, researchers
+started to investigate the relationship between SNS and mental health (e.g., Berry, 2004). However,
+the results of these studies are inconclusive. Whereas several studies found a negative relationship
+between Facebook use (Blachnio et al., 2016; Satici, & Uysal, 2015; Shakya, & Christakis, 2017;
+Verduyn et al., 2015), Instagram use (Frison & Eggermont, 2017; Fardouly et al., 2018; Sherlock
+& Wagstaff, 2018) and well-being, others found no association, a negligible association (Jelenchick
+et al., 2013; Vannucci et al., 2019), or even a positive association (Grieve et al., 2013; Mackson et
+al., 2019; Park & Lee, 2014; Valenzuela et al., 2009, Yang & Lee, 2020). Meta-analytic results
+reported by Huang (2017) mainly support the (small) negative association between SNS use and
+well-being (r = -.07). Importantly, the associations obtained depended on the indicator of mental
+health. That is, the overall relations between SNS use and negative mental health outcomes such
+as depression and loneliness were negative but weak. The mean relations for positive indicators
+such as self-esteem and life satisfaction, however, were close to zero. These results are in line with
+the conclusions of the meta-analytic review of Yoon (2019), who also found a small positive
+
+association (r = .11) between time spent on SNS and depressive symptomatology. Although both
+ meta-analytic studies suggest that SNS use is linked to reduced well-being, it is important to note
+that the obtained effect sizes are rather small (Cohen, 1992). In addition, there was also large
+heterogeneity in the effect sizes observed across the included studies (e.g., Yoon, 2019). Given the
+high prevalence of SNS use in modern society, this finding points to the importance of research
+focused on increasing our understanding on how SNS use impacts well-being. In particular, it
+remains unclear which psychological constructs or individual differences may be involved as
+possible mediators or moderators in this relationship.
+
+An investigation of the underlying processes and mechanisms is important to understand
+the inconsistent results obtained for associations between SNS use and mental health. Recently,
+multiple candidate intervening variables have been forwarded. For example, Verduyn and
+colleagues (2017) suggested social comparison as a possible mediator in the negative relationship
+between SNS use and well-being. Festinger (1954) proposed that human beings have a tendency
+to compare themselves with others in order to assess their opinions and abilities. More specifically,
+he made a distinction between upward and downward social comparison. Upward comparison
+takes place when comparing oneself with someone who is considered to be superior, whereas
+downward comparison occurs when comparing oneself with someone inferior. The rise of SNS has
+made information about others more accessible than ever, thereby increasing the likelihood that
+people engage in social comparison and in upward comparison in particular. Indeed, SNS such as
+Facebook and Instagram provide ample opportunity for selective and favorable self-presentation.
+As a consequence of the chronic exposure to a high amount of idealized information, users may
+evaluate themselves more negatively and feel less satisfied with their lives (Appel et al., 2016;
+Chou & Edge, 2012). Research has indeed shown that being exposed to attractive pictures leads to
+negative affect and decreased self-esteem (Vogel et al., 2014).
+
+Because the engagement in social comparison associated with SNS use may have
+
+repercussions for self-worth, it is important to consider the role of self-esteem in associations
+ between SNS use and mental health. Self-esteem has been defined as an individual’s overall
+evaluation of self-worth (Rosenberg et al., 1995). Abundant research has investigated the
+relationship between trait self-esteem and well-being, showing that high self-esteem is related to
+positive outcomes such as life satisfaction (e.g., Diener & Diener, 1995), whereas low self-esteem
+is typically linked to negative outcomes, including psychopathology (e.g., Sowislo & Orth, 2013).
+However, theory (Kernis, 2003) and research (Okada, 2010) suggest that self-esteem is a rather
+complex construct that also has dynamic aspects. Indeed, previous studies indicated that it is
+important to take into account not only individuals’ basic level of self-esteem but also fluctuations
+in Self-esteem (e.g., Franck & De Raedt, 2007). This may be especially important in a social media
+context, since SNS have the potential to affect individuals’ temporary states of self-esteem,
+suggesting that self-esteem may be mood-reactive in this context (e.g., Clasen, 2015; Vogel et al.,
+2014). With regards to the fluctuations in self-esteem the construct contingent self-esteem (e.g.,
+Crocker & Wolfe, 2001) seems of importance. This construct describes the degree to which one’s
+self-esteem depends on certain self-relevant standards (Kernis et al., 2008; Paradise & Kernis,
+2002; Sowislo et al., 2014). For instance, someone may only feel attractive and worthy if a profile
+picture receives at least 100 likes. However, if they fail to achieve this goal (e.g., by getting for
+example only 80 likes), this can lead to a sudden decrease in self-esteem. Therefore, this construct
+may be of direct relevance in a social media context, where users are constantly exposed to an
+enormous amount of self-relevant information (e.g., attractive pictures of others, likes, and
+comments). In particular, individuals whose self-esteem depends on social feedback via SNS, seem
+to be at risk for ill-being (e.g., Kanat-Maymon et al., 2018; Sabik et al., 2019).
+
+Another purported mechanism that could be crucial in linking social comparison and self-
+esteem to mental health is repetitive negative thinking (RNT). In particular, social comparison on
+SNS may give rise to elevated levels of RNT (e.g., prompting thoughts such as “Why are others
+
+more happy than I am?’’), which is likely to impact self-esteem, and vice versa. Indeed, cross-
+ sectional research suggests that SNS use is associated with elevated levels of RNT, where it has
+been suggested that RNT may mediate the relationship between the passive consumption of
+(strategically presented) information and social anxiety (e.g., Shaw et al., 2015). Importantly,
+Feinstein and colleagues (2013) provided longitudinal evidence for the mediating role of RNT in
+the relationship between negative social comparison on SNS and depressive symptomatology. As
+such, in addition to social comparison and self-esteem, RNT may be an important construct to take
+into account when modeling the relationship between SNS use and well-being.
+
+Overall, relatively few studies have studied the complex interrelations between SNS use,
+self-esteem, RNT, and mental health. In a previous set of cross-sectional studies, we used network
+analysis to model the unique pathways between self-reported SNS use and psychopathology
+(Faelens et al., 2019). These studies showed that: (1) SNS use was linked to more social
+comparison, (2) social comparison linked SNS use with self-esteem, and (3) self-esteem linked
+social comparison with rumination and reduced well-being (1.e., symptoms of depression, anxiety,
+and stress). These findings were recently replicated in a third large-scale cross-sectional study
+(Faelens et al., under review). Although informative, these initial studies had a number of
+limitations. First, as is the case for most studies in the SNS literature, they relied on a cross-
+sectional design, which does not permit to address the direction of effects in associations between
+studied variables. For this purpose, temporal dynamics should be taken into account, suggesting
+the need for prospective designs (Bos et al., 2017). Second, the majority of studies relied on self-
+report measures of SNS use, which are susceptible to recall bias (e.g., Thomée, 2018). Indeed,
+research has shown that estimates of smartphone or SNS usage may significantly differ from actual
+usage (e.g., Boase & Ling; Junco, 2013). More specifically, several researchers have argued that
+self-report questionnaires are not suitable for measuring habitual processes (e.g., Ellis et al., 2018;
+Stacy, 1997). Therefore, results obtained with self-reports of SNS use should be interpreted
+
+cautiously.
+ Addressing these limitations, the aim of the current study was to examine the temporal
+relations between SNS use and wellbeing, taking into account other factors such as social
+comparison, (contingent) self-esteem and rumination which are likely implicated in this
+relationship. This study contributes to the literature in a number of ways. First, provided that there
+are likely to be immediate effects of SNS use on social comparison and self-esteem, fluctuations
+and relations between these constructs need to be examined in a dynamic fashion and using a fine-
+grained timescale. For this purpose, we relied on experience sampling modeling (ESM), a
+methodology rarely used in research on SNS use to date (but see Aalbers et al., 2019; Kross et al.,
+2013). Second, in order to prevent problems with incorrect or socially desirable estimations of SNS
+use, we opted to use monitoring software. Third, findings from previous studies are typically
+limited to one SNS platform, whereas participants often use a combination of multiple platforms
+(e.g., Vandendriessche & De Marez, 2019). Since Facebook and Instagram are currently the most
+popular platforms for young adults in Belgium, we focused on those SNS (e.g., Vandendriessche
+& De Marez, 2019). Fourth, in order to capture the complexity of interrelationships between SNS
+use and various psychological mechanisms and well-being, we relied on a network approach. Each
+of these issues is discussed in greater detail below.
+
+We used ESM (Csikszentmihalyi & Larson, 1987), a structured diary technique, to assess
+moment-to-moment fluctuations in participants’ tendency to compare oneself on SNS, self-esteem,
+RNT, and negative affect. The advantage of this methodology is that it decreases recall bias
+associated with retrospective report and increases the reliability and ecological validity (Hektner
+et al., 2007). Furthermore, while prior research used self-report measures to assess participants’
+SNS use (e.g., Aalbers et al., 2019), we used monitoring software which was installed on
+participants’ smartphones, tablets, laptops, and/or desktops. The first advantage of monitoring
+
+software is that it gives a more accurate estimate of the intensity of SNS use because it is not
+ affected by recall bias. Second, the monitoring software runs in the background. Consequently, it
+assesses which applications or websites are being used in a discrete way.
+
+Next, we used network methodology to quantify the dynamic interplay between our
+constructs of interest. That is, network analysis allows to explore the interrelationships between
+our constructs of interest in a data-driven manner (Borsboom & Cramer, 2013; Bringmann &
+Eronen, 2018). Furthermore, this rather novel analytical approach allows visualization of complex
+data in an intuitive manner. As such, the application of network analysis to time series data on use
+of SNS, indicators of self-esteem, social comparison, RNT, and negative affect holds potential to
+facilitate our understanding of the relation between SNS use and psychological well-being.
+
+Network models consist of nodes, representing the constructs included in the analysis, and
+edges, representing the observed links between these constructs (Borsboom & Cramer, 2013).
+Importantly, recent statistical and methodological developments allow the application of network
+analysis to model the dynamic interplay between psychological constructs (Bringmann et al., 2016;
+Epskamp et al., 2018). Such analyses allow computation of temporal, contemporaneous, and
+between-subjects networks (e.g., Aalbers et al., 2019; Hoorelbeke et al., 2019). For the purpose of
+the current study, the temporal and contemporaneous network models are most relevant. Temporal
+networks depict the lagged associations between the constructs of interest from one point in time
+(time t-1) to the next (time t). Contemporaneous networks, on the other hand, visualize the
+associations between the constructs within the same timeframe. For instance, Aalbers et al. (2019)
+recently used network analysis to model the relation between fluctuations in self-reported SNS use
+and depressive symptoms, where they hypothesized to find positive temporal relations between
+passive SNS use and depressive symptomatology. In contrast to their expectations, self-reported
+passive SNS use did not predict fluctuations in depressive symptomatology (temporal network).
+However, self-reported passive SNS use was positively associated with co-occurring depressive
+
+symptoms, among which concentration problems, fatigue, loss of interest, and loneliness
+ (contemporaneous network). In contrast to temporal network models, contemporaneous network
+models do not allow to draw conclusions regarding the direction of effects, limiting the extent to
+which they allow to infer causation. At the same time, however, it has been argued that these
+contemporaneous network models may better capture fast-paced action (Epskamp et al., 2018).
+That is, psychological processes are likely to operate at a fast pace, which may not be fully captured
+by ESM periods which typically use timeframes of multiple hours. As such, plotting both temporal
+and contemporaneous network models may allow for a more detailed understanding of the relations
+between SNS use, negative affect, and intervening variables, allowing to generate specific
+hypotheses to be tested in future confirmatory studies.
+
+In sum, the current prospective study aims to extend prior work by combining advanced
+methodological techniques (ESM, log data for SNS use, network analysis) to gain insight in the
+dynamic relations between SNS use, social comparison, self-esteem, RNT, and fluctuations in
+negative affect in daily life.
+
+Building on previous cross-sectional findings (Faelens et al., 2019), our first aim is to model
+the temporal order by which use of Facebook predicts fluctuations in negative affect, taking into
+account the role of social comparison, self-esteem, and RNT. For this purpose, we will compute a
+temporal network including Facebook use, social comparison, self-esteem, RNT, and negative
+affect. Due to the lack of prospective studies modeling the predictive relation between the
+constructs of interest, formulation of clear temporal hypotheses is complicated. However, we
+expected that (1) Facebook use would be a significant predictor of negative affect, and that (2)
+social comparison, self-esteem, and RNT would be important intermediate constructs in this
+relationship.
+
+Next, after controlling for temporal effects, we will model patterns of co-occurring activity
+between Facebook use and the constructs of interest through a contemporaneous network. Together
+
+with the findings of the temporal network, this will allow for a more detailed understanding of how
+ Facebook use relates to indicators of well-being in daily life. Again, based on previous cross-
+sectional studies (Faelens et al., 2019; Faelens et al., under review), we expected that Facebook use
+would be related to negative affect via social comparison, self-esteem and RNT as intermediate
+constructs.
+
+Finally, for exploratory purposes, given the limited amount of former research exploring
+the relation between the constructs of interest and Instagram use, we will also compute a temporal
+and contemporaneous network model reflecting the relation between Instagram use and
+(fluctuations in) self-esteem, RNT, and negative affect in daily life. Due to the fact that both
+Facebook and Instagram are strongly image-based SNS, we expected that similar associations
+would be observed as in the Facebook networks. More specifically, we hypothesized that Instagram
+would be related to negative affect via social comparison, self-esteem, and RNT. At the same time,
+however, given that Instagram is a different SNS, the possibility exists that the relation between
+Instagram use and negative affect runs via somewhat different mechanisms.
+
+2. Method
+2.1. Inclusion and exclusion criteria
+
+This study is part of a larger project which comprised four phases: telephonic screening,
+baseline assessment, ESM-phase of 14 days, and a follow-up assessment. The current study reports
+the findings from the ESM-phase. Given that we were aiming to attract young adult SNS users,
+participants were recruited via Facebook, Instagram posts, and advertisements. In order to take part
+in the study, participants had to meet the following criteria: (1) aged between 18 and 35 years; (2)
+own a Facebook and Instagram account; (3) have an Android smartphone (for the purpose of
+monitoring Facebook and Instagram use). We focused on Facebook and Instagram since these are
+the two most popular SNS in Belgium. This study has been conducted in accordance with the
+
+Declaration of Helsinki and was approved by the local ethical committee of the Faculty of
+
+10
+ Psychology and Educational Sciences of Ghent University. Informed consent was obtained from
+all participants.
+2.2. Materials
+2.2.1. Software
+
+The current study used monitoring software to collect data on participants’ Facebook and
+Instagram usage during the ESM-phase. More specifically, the logging application mobileDNA
+
+(https://play.google.com/store/apps/details?id=be.ugent.mobiledna&hl=nl) was downloaded on
+
+the participants’ smartphone to capture precise information on how much time participants spent
+on Facebook or Instagram via their smartphone. Participants were not able to see their own screen
+time during the study. Since the application was not supported by IOS, participants needed to have
+a smartphone with an Android operating system in order to be eligible for participation in the study.
+
+Via the free version of the software package ManicTime (https://www.manictime.com), we
+
+monitored participants’ Facebook and Instagram screen time via their laptops and tablets. This
+monitoring software could be installed on computers/tablets with an Apple, Windows, Android, or
+Linux operating system. Participants were provided a manual with installation instructions
+following the telephonic screening, which allowed the logging of Facebook and Instagram use
+
+before the onset of the ESM-procedure.
+
+2.2.2. ESM-items.
+
+We used ESM to assess the dynamic interplay between Facebook / Instagram use, social
+comparison, self-esteem, RNT, negative affect for 14 consecutive days.
+Participants received text-messages six times per day between 10am and 8pm via the web-based
+application SurveySignal (Hofmann & Patel, 2015). Text-messages occurred at fixed intervals of
+two hours (10am, 12pm, 2pm, 4pm, 6pm, 8pm). Each text message contained a unique link to an
+
+online survey, assessing the psychological constructs of interest. Participants were requested to
+
+11
+ complete the assessment within the next 30 minutes of receiving the signal. A reminder signal was
+sent if no response was given within 15 min. To enforce timely responses, the link(s) timed out 30
+minutes after the first signal was sent.
+
+An initial pool of items was adapted from the study of Hoorelbeke and colleagues (2016).
+Additional items were added for the purpose of the current study. Before the start of the study, all
+items were piloted in a sample of 7 participants during a period of one week, after which a focus
+group took place. In this focus group we discussed the design of the study and the included
+questionnaires and ESM-items. Based on the comments and suggestions of the participants, where
+the focus group suggested the use of “filler items” to prevent a heavy focus on negative aspects of
+SNS use, we ended up with a final survey of 19 items, 9 of which are included in the analyses
+presented in the current manuscript (Table 1). Participants were instructed to rate each item with
+regards to the interval between the current and previous text-message they responded to. Possible
+responses ranged from 0 (“‘not at all’’) to 100 (‘very much’’).
+
+Two items measured the extent to which participants non-directionally compared
+themselves with others on Facebook or Instagram. These items were developed based on the
+Comparison Orientation Measure-Facebook (COME; Steers et al., 2014). Similarly, we relied on
+the Rosenberg Self-Esteem Scale (RSES; Rosenberg, 1965) and the Contingent Self-Esteem Scale
+(CSS; Paradise & Kernis, 1999) to develop two self-esteem items, with one item rating the extent
+to which they felt insecure (1.e., low level of self-esteem) and the other one measuring the extent
+
+to which their self-esteem depended on others (1.e., contingent self-esteem).
+
+The level of RNT was assessed using one item, prompting participants to rate the extent to
+which they worried since the previous signal they responded to. This item was based on the
+Ruminative Responses Scale (RRS; Treynor et al., 2003)
+In addition, we assessed the extent to which participants reported being in a negative affective state
+
+(angry, tense, sad, anxious), using items adapted from Hoorelbeke and colleagues (2016). The
+
+12
+ indicators of negative affect were combined in a composite score for negative affect (ranging from
+O - 100, in line with the other items). A higher score on the composite measure for negative affect
+
+reflects being in a more negative affective state (ICC = 48).
+
+2.3. Data-analysis
+
+Data analysis was conducted in R (version 3.6.1; for detailed information of all packages
+involved, see Supplemental materials). Participants were included in the analyses if self-report data
+and log data on use of Facebook and Instagram was available for >50% of the assessments.
+
+Assumption check. In line with Bringmann (2016) and Aalbers et al. (2019), we relied on
+the Kwiatkowski-Phillips-Schmidt-Shin Unit Root test (Kwiatkowski et al., 1992) to test for
+stationarity of the data. In addition, Kolmogorov-Smirnov tests were used to test whether the
+variables of interest followed a normal distribution. To account for multiple testing, Bonferroni
+correction was used.
+
+Network analysis. To address our research questions, we conducted two separate network
+analyses. First, based on the cross-sectional findings of Faelens et al. (2019), we modeled the
+relation between intensity of Facebook use, as indicated by an objective indicator for Facebook
+use, and fluctuations in self-reported social comparison on Facebook, (contingent) self-esteem,
+RNT, and negative affective state. Second, for exploratory purposes, we re-ran these analyses with
+Instagram use and self-reported social comparison on Instagram.
+
+For both SNS, we computed a temporal and contemporaneous network model using the
+mlVAR package (version 0.4.4; Epskamp et al., 2017). The networks were obtained using a two-
+step multilevel vector autoregressive (VAR) approach (Epskamp et al., 2018). Only the significant
+connections are visualized in the network model.
+
+First, for each of the nodes in the model, performance at time t is predicted by performance
+at time t-1 of all other nodes, including an autocorrelation for the dependent variable. As a result,
+
+six multiple regression equations are estimated, where — due to the operationalization of the items
+
+13
+ — t-1 refers to the last signal the participant responded to. Variables are centered using within-
+subject centering. This first computational step allows estimation of the temporal network models,
+where edges are directed and reflect the unique prediction of one node at time t-1 to another node
+at time t. Second, residuals stemming from the first step are used in multilevel regression models,
+where residuals of one node at time t are predicted by all other nodes at time t. This allows
+estimation of the contemporaneous network models which reflect patterns of co-occurring activity
+(Epskamp et al., 2018), modeling how use of SNS relate to social comparison, self-esteem, RNT,
+and negative affect within each assessment period. The obtained coefficients are plotted as network
+models using the qgraph package (version 1.6.4; Epskamp et al., 2012). The network models only
+include edges that are significantly different from zero, where edge thickness reflects strength of
+connectivity. Positive associations are presented as blue lines, whereas negative associations are
+presented as red / dashed lines. In the temporal network models, the arrows indicate the direction
+of effects from time t—1 to time t. The contemporaneous network models, however, are undirected.
+For the latter models, two coefficients are obtained per pair of nodes (1.e., one stemming from the
+model where X is predicted by Y, taking into account the impact of the other nodes, and a second
+coefficient stemming from the model where Y is predicted by X). To avoid false positive edges,
+edges were only included in the contemporaneous network model if they appeared as significant in
+both regression models (AND-rule). Network models were plotted using the Fruchterman-
+Reingold algorithm (Fruchterman & Reingold, 1991), positioning nodes in the model based on
+their level of connectivity. As such, strongly connected nodes take a more central position in the
+network, whereas less connected nodes are positioned in the periphery of the network.
+3. Results
+
+3.1. Sample Characteristics
+
+Following the screening procedure, 107 participants entered the study, of which 2 withdrew
+
+because the study was more time-consuming than expected. In addition, 7 participants - for which
+
+14
+ available data was <50% - were excluded from the analyses. Consequently, the final sample
+consisted of 98 participants (ratio male: female = 24 : 74; age: M = 22.39, SD = 3.08). Within the
+obtained sample, 81.68% of assessments were completed (in the presence of logs of Facebook /
+Instagram use), resulting in a total of 6724 unique observations within a time frame of two weeks.
+Sample statistics and intraclass correlations (ICC) for the variables of interest are reported in Table
+
+2.
+
+3.2. Assumption Check
+
+The results from the Kwiatkowski-Phillips-Schmidt-Shin Unit Root tests suggest that the
+assumption of stationarity was met for each of the variables included in the network (Bonferroni
+corrected ps > .05). However, the Kolmogorov-Smirnov tests suggested that normality could not
+be assumed for the distribution of our variables and their corresponding within-person means (all
+Bonferroni corrected ps < .05). In particular, we detected right-skew or kurtosis > 2.00 for
+Facebook Use, Instagram Use, Social Comparison on Facebook, and Social Comparison on
+
+Instagram and Negative Affect.!
+
+3.4. Temporal Facebook Network
+
+We first modeled the temporal relations between Facebook use and our variables of interest.
+The obtained temporal network (Figure 1) indicates that Facebook use plays a key role in the model,
+linking change in social comparison, self-esteem, RNT, and negative affect over time to one
+another. That is, the amount of time spent on Facebook at time t-1 was the only node uniquely
+
+predicting the state of each of the other nodes at time t. In particular, use of Facebook at time t-1
+
+' Tn order to evaluate effects of violation of this assumption on the robustness of our results, in line with Aalbers et al. (2019) we re-ran the
+
+network analyses using log transformation where adequate. Results stemming from these sensitivity analyses are similar to the findings
+
+presented in the current manuscript and are added as supplemental materials.
+
+15
+ predicted more subsequent social comparison, increased RNT, increased negative affect, and
+reduced self-esteem at time t, as shown by positive relations between Facebook use, feeling
+insecure, and the contingent self-esteem item. Contingent self-esteem predicted feeling more
+insecure at time t. Moreover, each of the self-esteem items predicted more future social comparison
+on Facebook. Finally, as mentioned before, Facebook use predicted feelings of insecurity, RNT,
+and negative affect at time t, which are all strongly interrelated as shown by the bidirectional
+pathways between RNT, feelings of insecurity, and negative affect.
+
+Given that each of these nodes show significant positive autocorrelations, with the
+exception of Facebook use itself, our results suggest that initial social media use may potentially
+have a longer lasting impact on psychological well-being, activating multiple self-reinforcing
+
+nodes and feedback loops. The corresponding adjacency matrix is added as supplemental material.
+
+3.5. Contemporaneous Facebook Network
+
+Second, we computed a contemporaneous network to model how use of Facebook and
+social comparison on Facebook uniquely related to RNT, (contingent) self-esteem, and negative
+affective state within the same measurement period. Although this network is strictly undirected,
+and as such allows no interpretations regarding direction of effects, it is likely that associations
+captured within such a model may reflect more fast-paced interactions between the variables of
+interest. The obtained contemporaneous network (Figure 2; for the adjacency matrix, see
+supplemental material) suggests that time spent on Facebook is uniquely related to social
+comparison on the platform, with social comparison in turn linking Facebook use to the other
+constructs of interest. In particular, social comparison was positively related to co-occurring RNT,
+feeling insecure about oneself, and the contingent self-esteem item. Contingent self-esteem and
+
+feeling insecure were positively related. RNT and feeling insecure showed positive associations
+
+16
+ with current negative affective state. In addition, self-esteem showed a positive association with
+
+RNT.
+
+3.6. Instagram Networks
+
+Third, for exploratory purposes, we then continued modeling the temporal relationship
+between Instagram use, social comparison on Instagram, and our variables of interest (Figure 3a).
+In line with the pattern of results stemming from the analysis of Facebook use, time spent on
+Instagram emerged as one of the most connected nodes in the temporal network. In addition,
+Instagram use at time t-1 predicted more social comparison, RNT, feeling insecure, and worsening
+of mood at time t. Contingent self-esteem predicted social comparison on Instagram and feeling
+insecure. Feeling insecure was bidirectionally related with both RNT and negative affect. In
+addition, there was also a bidirectional relation between RNT and negative affect. Compared to the
+temporal network of Facebook use, Instagram use did not predict future contingent self-esteem. In
+addition, feeling insecure about oneself did not predict future social comparison on Instagram.
+Instead, we observed a positive relation between RNT and future social comparison on Instagram
+and a negative relationship between negative affect and future social comparison. Again, each of
+the nodes except for the indicator of time spent on Instagram showed a significant positive
+autocorrelation.
+
+Finally, using a contemporaneous network we modeled how Instagram use and social
+comparison on Instagram uniquely related to (contingent) self-esteem, RNT, and negative affective
+state within the same measurement period (Figure 3b). We only observed a negative association
+between Instagram use and the contingent self-esteem item. In line with the contemporaneous
+network of Facebook use, social comparison on Instagram showed a positive association with
+
+feeling insecure, contingent self-esteem and RNT. Negative affective state again demonstrated
+
+17
+ positive associations with RNT and feeling insecure, which were also positively related. In
+
+addition, contingent self-esteem also showed positive associations with feeling insecure and RNT.
+
+4. Discussion
+
+A large body of research focused on the relationship between SNS use and well-being, and
+constructs that may be involved in this relationship. However, the vast majority of these studies are
+cross-sectional in nature, which limits making inferences about the direction of effects. To
+circumvent this problem, we conducted a prospective study that models the interrelations between
+SNS use, social comparison, self-esteem, RNT, and negative affect. Moreover, we attempted to
+address limitations of previous research by combining experience sampling modeling, SNS
+monitoring software, and network analyses. Based on initial findings reported by Faelens et al.
+(2019), we expected that social comparison, self-esteem, and RNT would be important constructs
+playing an intervening role in the relationship between Facebook use and well-being. Below we
+will discuss the results of the temporal and contemporaneous networks which depict the dynamic
+interplay between our constructs of interest.
+
+The temporal Facebook network showed that time investment on Facebook was a
+significant predictor of all the psychological processes and indicators of well-being that were
+included in the network. Specifically, Facebook use at time t-1 predicted higher levels of
+subsequent social comparison, decreased self-esteem, increased RNT, and negative affect at time
+t, which is in line with previous longitudinal and experimental research findings (Feinstein et al.,
+2013; Kross et al., 2013; Vogel et al., 2014; Verduyn et al., 2017). Interestingly, none of these
+relations appeared to be bidirectional. That is, future time investment on Facebook was not
+predicted by any of the included constructs. This finding is consistent with previous experience
+sampling studies examining the relationship between Facebook use and affective well-being. For
+
+instance, in a two week ESM-design, Kross et al. (2013) found that participants’ affective state did
+
+18
+ not predict future Facebook use. Concerning the other constructs, we are not aware of any
+prospective studies that explicitly examined the influence of social comparison, self-esteem, or
+RNT on future Facebook use.
+
+In addition to the observed immediate effects of Facebook use on indicators of well-being,
+we also expected to observe indirect effects linking SNS use to well-being. In particular, based on
+earlier cross-sectional findings we expected that Facebook use would be related to social
+comparison and self-esteem, via which it would predict RNT and negative affective state. Our
+research findings partially support this hypothesis. Importantly, in line with our hypothesis, our
+results support a more prominent role of feelings of insecurity and rumination in the dynamic
+relation between Facebook use and negative affect. More precisely, contingent self-esteem
+predicted decreases in self-esteem, which in turn predicted an increase in repetitive negative
+thinking and subsequent negative affect. Moreover, (1) the bidirectional relationships between self-
+esteem and RNT, self-esteem and negative affect, and RNT and negative affect, (2) the
+unidirectional effect of self-esteem on social comparison, and (3) the positive autocorrelations for
+each of these constructs, may illustrate how these effects mutually reinforce and sustain each other.
+
+However, in contrast to our expectations we did not find any effect of self-reported social
+comparison on Facebook on self-esteem, RNT, or negative affect. A possible explanation for this
+(null) finding is that social comparison may be a psychological process that operates at a fast pace
+(e.g., operating within minutes), and therefore is not fully captured when modeling lagged effects
+using ESM methodology with lags of multiple hours. Notably, most studies examining the
+directional effects of social comparison on well-being are experimental studies. In these studies,
+participants are usually exposed to an upward comparison target, after which effects on mood and
+self-esteem are registered immediately (e.g., Vogel et al., 2014). Another possible explanation is
+that participants may not be fully aware of ongoing social comparison processes (for a meta-
+
+analytic review see: Want, 2009), which could explain the relative low levels of self-reported social
+
+19
+ comparison within our sample (Table 2). Consequently, our explicit self-report measurements may
+not be able to capture the effects of these (nonconscious) processes (Henderson-King et al., 2001;
+Verduyn et al., 2015) on self-esteem, RNT, and negative affect. Next, our social comparison item
+was non-directional by nature. However, since especially upward comparison on SNS is linked to
+negative outcomes, it is possible that our item did not fully capture its’ detrimental effects.
+Consequently, future studies should distinguish between upward and downward social comparison.
+
+In this context, it is interesting to note that - although undirected — the expected association
+between Facebook use and social comparison did emerge in the contemporaneous network. In the
+contemporaneous network, Facebook intensity was uniquely linked to social comparison on
+Facebook, which in turn links Facebook intensity to the indicators of self-esteem and RNT, which
+were positively related. Subsequently, both feelings of insecurity and RNT were positively related
+to negative affective state. These results replicate the previously reported partial correlation
+networks of Faelens et al. (2019), who found that social comparison and self-esteem obtained a
+central role in linking Facebook use and indicators of psychopathology. Here, it is possible that
+Facebook use is related to negative affect due to its link with social comparison, self-esteem and
+RNT, where Facebook use increases the likelihood of social comparison, which is related to more
+co-occurring RNT and lower self-esteem. Vice versa, given the undirected nature of the
+contemporaneous network, it is also likely that when being in a negative affective state, one 1s more
+likely to experience RNT, which together with self-esteem may be related to more social
+comparison and Facebook use.
+
+We also modeled temporal and contemporaneous Instagram networks to explore the
+interrelationships between Instagram use and our constructs of interest. When we look at the
+temporal network, we obtained interrelationships that are strongly in line with the observed
+temporal Facebook network. However, we also observed some differences between the networks
+
+obtained for both SNS, which may be due to the different nature of Facebook and Instagram, and
+
+20
+ to differential time investment of participants on these networks in the context of the current study
+(cf. Table 2). In particular, Instagram use did not predict contingent self-esteem, which was rather
+unexpected. However, in line with the temporal Facebook network, intensity of Instagram use still
+predicted subsequent social comparison (on Instagram), decreased self-esteem, increased RNT, and
+negative affect. The fact that none of the included constructs predicted future Instagram use,
+indicates that it is more likely that Instagram leads to decreases in well-being than the other way
+around. This is partially in line with the results of Schmuck et al. (2019), who found that intensity
+of Instagram use negatively predicted future well-being. However, in line with our findings, well-
+being and self-esteem did not predict future Instagram use. Contrary to our findings, they did not
+find a direct relationship between Instagram use and future social comparison on SNS. However,
+this may be due to different study designs. While our ESM study examined the predictive value of
+Instagram use on social comparison in rather short time frames, Schmuck and colleagues (2019)
+examined this effect over a four-month-interval. Next, in accordance with our temporal Facebook
+network, we also identified several indirect pathways through which Instagram use may impact
+affect. That is, our findings illustrate the central role of feelings of insecurity and RNT in the
+relationship between Instagram use and negative affective state. In addition, some indirect
+pathways are slightly different compared to the context of Facebook. Similar to the Facebook
+network, contingent self-esteem predicted an increase in social comparison and a decrease in self-
+esteem. There were reciprocal relationships between self-esteem and RNT, self-esteem and
+negative affect, and also between RNT and negative affect. In line with the Facebook network we
+also did not find any effect of social comparison on feelings of insecurity, RNT or negative affect.
+Again, it is possible that our current methodology has problems to accurately capture some of these
+(nonconscious) processes. In addition, whereas we observed a direct relation between feeling
+insecure and social comparison on Facebook, this relation did not occur in the Instagram network.
+
+Instead we observed a direct positive association between RNT and social comparison on
+
+21
+ Instagram. Moreover, negative affect was negatively related with future social comparison on
+Instagram. This suggests that people who experience negative emotions at t-1 may try to regulate
+their emotions by comparing themselves less with the strategically presented content at t. Taken
+together, these findings suggest that there are a lot of similarities but also some minor differences
+between Facebook and Instagram in some of the temporal relationships linking both SNS to well-
+being.
+
+Finally, we estimated the contemporaneous Instagram network. First, contrary to previous
+findings, we did not observe a significant association between intensity of Instagram use and social
+comparison (e.g., Sherlock & Wagstaff, 2019; Teo, & Collinson, 2019). However, previous studies
+used self-report measures to assess SNS use which may significantly differ from log data (e.g.,
+Boase & Ling, 2013; Junco, 2013). Next, we found a negative association between Instagram use
+and contingent self-esteem, which was rather unexpected. Together with the previously reported
+finding that Instagram use was unrelated to contingent self-esteem in the temporal network, this
+finding suggests that Instagram use does not necessarily elicit more fragile self-worth. Possibly,
+the type of Instagram use plays an important role. Faelens et al. (2019, under review) demonstrated
+a negative association between active public use of Facebook (referring to activities that enhance
+direct interactions between users, such as sharing updates and posting photos; Frison & Eggermont,
+2015) and self-reported contingent self-esteem. Since the main focus of Instagram is on the posting
+and sharing of pictures, it is likely that Instagram lends itself more to active public use than
+Facebook. As such, the obtained time logs of Instagram use may reflect SNS use in a more active
+public way than is the case for Facebook use in the current study, which may explain the presence
+of this edge in the contemporaneous network of Instagram use and the absence of a similar edge in
+the corresponding Facebook network. However, since we rely on broad log data that did not
+distinguish between different patterns of Instagram use, future research is needed to examine this
+
+post-hoc explanation.
+
+22
+ Next, in line with the contemporaneous network of Facebook use, social comparison on
+Instagram was related to feeling more insecure, higher contingent self-esteem and higher RNT,
+which were all positively connected with each other. Moreover, both feeling insecure and RNT
+were positively related with negative affect. These associations are consistent with previous studies
+which found that comparison on Instagram was associated with lower levels of self-esteem, higher
+contingent self-worth, and higher levels of rumination (Meier & Schafer, 2018; Stapleton et al.,
+2017; Teo & Collinson, 2018). Furthermore, Meier and Schafer (2018) observed a negative link
+between self-esteem and negative affect. Furthermore, Hoorelbeke and colleagues (2016) found a
+positive relation between RNT and fluctuations in negative affect, and vice versa.
+
+To our knowledge, the current study is the first prospective study that modeled the
+dynamics between Facebook / Instagram use and well-being, while using ESM and log data.
+Nonetheless, this study is not without limitations. First, sampling biases may have occurred due to
+the fact that (1) we recruited participants via Facebook groups of students at Ghent University and
+Facebook/Instagram advertising (e.g., we may have recruited more heavy users), and (2) we could
+only include Android users due to the logging software (e.g., Android users have lower SES than
+Iphone users; Schmall, 2018). Therefore, our results may not be generalizable to the general
+population of young adults aged 18-35 years.
+
+Second, previous studies illustrated that different types of SNS usage may be differentially
+related to well-being outcomes. Specifically, while passive consumption of content of other users
+seems to decrease well-being, (private) interactions with our connections seem to increase well-
+being (e.g., Frison & Eggermont, 2015; Frison & Eggermont, 2017; Verduyn, 2017). However,
+due to the use of log data, we were not able to make this distinction. Monitoring software logs time
+investment on SNS and does not store what participants do within the applications in order to
+respect their privacy. Nevertheless, self-report items do not accurately capture SNS use, therefore
+
+monitoring software seems to be the best option as to date (e.g., Boase & Ling, 2013; Junco, 2013).
+
+23
+ Third, although ESM-methodology increases the ecological validity of a study, it has the
+disadvantage that only a limited amount of items or variables can be included in the study (Hektner
+et al., 2007). Consequently, our constructs are measured using single-items measures, where the
+psychometric are less well-established compared to widely used questionnaires. In this context, the
+use of a pilot study and focus group during the phase of development of the ESM-items forms a
+key strength of this study.
+
+Fourth, since the goal of the current study was to examine when and how a negative
+relationship between SNS use and well-being is observed, we only included key constructs that
+have been supported by previous research (Faelens et al., 2019; Verduyn et al, 2017; Vogel et al.,
+2014). Nonetheless, we may have overlooked other important variables. Again, due to the nature
+of ESM procedures, only a limited number of variables can be included.
+
+Fifth, previous research suggested that motivations of SNS use may play an important role
+in the relationship between SNS intensity and mental health outcomes. However, in the current
+study, we did not take this factor into account. Consequently, in order to extend the current research
+findings, future studies should include participants’ motivations of SNS use.
+
+Sixth, the statistical approach used operates under the assumption of a multivariate normal
+distribution and stationarity of data. Although the assumption of stationarity was met, in line with
+previous studies some of our variables showed right-skew or kurtosis (Aalbers et al., 2019). To
+date it is unclear to what extent the statistical analyses we relied on are robust against such
+violations. In line with previous work in this area using a similar statistical approach (Aalbers et
+al.,2019), we conducted a sensitivity analysis using log-transformed variables. This yielded similar
+temporal and contemporaneous network models. Relevant discrepancies between main and
+
+sensitivity analysis are discussed in supplemental material.
+
+24
+ Finally, recent innovations made it possible to evaluate the stability and accuracy of cross-
+sectional network models. Unfortunately, these methods are not yet available for the two-step
+multilevel VAR models presented in our manuscript.
+
+5. Conclusion
+
+The current study set out to model the dynamic relations between SNS use and key
+psychological mechanisms that are proposed to influence mental health. In particular, we logged
+Facebook and Instagram use, and modeled the relation between both constructs, self-reported social
+comparison, self-esteem, RNT, and fluctuations in negative affect. Importantly, our findings
+suggest that: (1) both Facebook and Instagram use predict increased negative affect, and (2) self-
+esteem and RNT appear to be important intervening constructs in these relationships. Future
+longitudinal and experimental studies are needed to further clarify the complex relation between
+
+SNS use and wellbeing.
+
+25
+ References
+
+Aalbers, G., McNally, R. J., Heeren, A., de Wit, S., & Fried, E. I. (2019). Social media and
+depression symptoms: A network perspective. Journal of Experimental Psychology:
+General, 148, 1454-1462. https://doi.org/10.1037/xge0000528
+
+Appel, H., Gerlach, A. L., & Crusius, J. (2016). The interplay between Facebook use, social
+comparison, envy, and depression. Current Opinion in Psychology, 9, 44-49.
+https://do1.org/10.1016/j.copsyc.2015.10.006
+
+Berry, D. (2004). The relationship between depression and emerging adulthood: Theory
+generation. Advances in Nursing Science, 27, 53-69. https://doi.org/10.1097/00012272-
+20040 1000-00007
+
+Btachnio, A., Przepiorka, A., & Pantic, I. (2016). Association between Facebook addiction, self-
+esteem and life satisfaction: A cross-sectional study. Computers in Human Behavior, 55,
+701-705. https://doi.org/10.1016/j.chb.2015.10.026
+
+Boase, J., & Ling, R. (2013). Measuring mobile phone use: Self-report versus log data. Journal of
+Computer-Mediated Communication, 18, 508-519. https://doi.org/10.1111/jec4.12021
+
+Borsboom, D., & Cramer, A. O. J. (2013). Network analysis: An integrative approach to the
+structure of psychopathology. Annual Review of Clinical Psychology, 9, 91-121.
+https://doi.org/10.1146/annurev-clinpsy-050212-185608
+
+Bos, F.M., Snippe, E., de Vos, S., Hartmann, J. A., Simons, C.J. P., van der Krieke, L., ... Wichers,
+M. (2017). Can We Jump from Cross-Sectional to Dynamic Interpretations of Networks?
+Implications for the Network Perspective in Psychiatry. Psychotherapy and
+Psychosomatics, 86(3), 175-177. https://doi.org/10.1159/000453583
+
+boyd, D. M., & Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship.
+Journal of computer-mediated Communication, 13, 210-230.
+
+https://doi.org/10.1111/j.1083-6101.2007.00393.x
+
+26
+ Bringmann, L. F. (2016). Dynamical networks in psychology: More than a pretty picture?
+[Unpublished doctoral dissertation]. KU Leuven.
+
+Bringmann, L. F., & Eronen, M. I. (2018). Don’t blame the model: Reconsidering the network
+approach to psychopathology. Psychological Review, 125(4), 606-615.
+https://do1.org/10.1037/revO0000 108
+
+Bringmann, L. F., Pe, M. L., Vissers, N., Ceulemans, E., Borsboom, D., Vanpaemel, W., .. .
+Kuppens, P. (2016). Assessing temporal emotion dynamics using networks. Assessment, 23,
+425-435. https://doi.org/10.1177/1073191116645909
+
+Chou, H.T.G., & Edge, N. (2012). “They are happier and having better lives than I am’: the impact
+of using Facebook on perceptions of others’ lives. Cyberpsychology, Behavior, and Social
+Networking, 15(2), 117-121. https://do1.org/10.1089/cyber.201 1.0324
+
+Clasen, P. C., Fisher, A. J., & Beevers, C. G. (2015). Mood-Reactive Self-Esteem and Depression
+Vulnerability: Person-Specific Symptom Dynamics via Smart Phone Assessment. PLOS
+ONE, 10, e0129774. https://doi.org/10.1371/journal.pone.0129774
+
+Cohen, J. (1992). A power’ primer. Psychological Bulletin, 112, 155-159.
+https://doi.org/10.1037/0033-2909.112.1.155
+
+Crocker, J., & Wolfe, C. T. (2001). Contingencies of self-worth. Psychological Review, 108, 593-—
+623. https://doi.org/10.1037/0033-295x.108.3.593
+
+Csikszentmihalyi, M., & Larson, R. (1987). Validity and Reliability of the Experience-Sampling
+Method. The Journal of Nervous and Mental Disease, 175(9), 526-536.
+https://doi.org/10.1097/00005053-198709000-00004
+
+Diener, E., & Diener, M. (1995). Cross-cultural correlates of life satisfaction and self-esteem.
+Journal of — Personality and Social Psychology, 68(4), 653-663.
+
+https://doi.org/10.1037/0022-3514.68.4.653
+
+27
+ Ellis, D. A., Kaye, L. K., Wilcockson, T. D. W., & Ryding, F. C. (2018). Digital traces of behaviour
+within addiction: Response to Griffiths (2017). International Journal of Mental Health and
+Addiction, 16(1), 240—245. https://doi.org/10.1007/s 1 1469-0 17-9855-7
+
+Epskamp, S., Cramer, A., Waldorp, L., Schmittmann, V. D., & Borsboom, D. (2012). Qgraph:
+Network visualizations of relationships in psychometric data. Journal of Statistical
+Software, 48, 1-18. https://do1.org/10.18637/jss.v048 104
+
+Epskamp, S., Deserno, M. K., & Bringmann, L. F. (2017). mIVAR: Multi-Level Vector
+Autoregression. R package version 0.4.4.
+
+Epskamp, S., Waldorp, L. J., Mottus, R., & Borsboom, D. (2018). The Gaussian Graphical Model
+in Cross-sectional and Time-series Data. Multivariate Behavioral Research, 53, 453-480.
+https://doi.org/10.1080/00273 171.2018 .1454823
+
+Faelens, L., Hoorelbeke, K., Fried, E., De Raedt, R., & Koster, E. H. W. (2019). Negative
+influences of Facebook use through the lens of network analysis. Computers in Human
+Behavior, 96, 13—22. https://doi.org/10.1016/j.chb.2019.02.002
+
+Faelens, L., Van De Putte, E., Hoorelbeke, K., De Raedt, R., & Koster, E.H. A Network Analysis
+of Facebook Use and Well-being in Relation to Key Psychological Variables: Replication
+and Extension (under review)
+
+Fardouly, J., Willburger, B. K., & Vartanian, L. R. (2018). Instagram use and young women’s body
+image concerns and self-objectification: Testing mediational pathways. New Media &
+Society, 20, 1380-1395. doi:10.1177/14614448 17694499
+
+Feinstein, B. A., Hershenberg, R., Bhatia, V., Latack, J. A., Meuwly, N., & Davila, J. (2013).
+Negative social comparison on Facebook and depressive symptoms: Rumination as a
+mechanism. Psychology of Popular Media Culture, 2(3), 161-170.
+
+https://doi.org/10.1037/a0033 111
+
+28
+ Festinger, L. (1954). A Theory of Social Comparison Processes. Human Relations, 7, 117—140.
+https://doi.org/10.1177/001872675400700202
+
+Franck, E., & De Raedt, R. (2007). Self-esteem reconsidered: Unstable self-esteem outperforms
+level of self-esteem as vulnerability marker for depression. Behaviour research and
+therapy, 45, 1531-1541. https://doi.org/10.1016/j.brat.2007.01.003
+
+Frison E. & Eggermont S. (2015). Toward an Integrated and Differential Approach to the
+Relationships Between Loneliness, Different Types of Facebook Use, and Adolescents’
+Depressed Mood. Communication Research 47(5), 701-728.
+https://do1.org/10.1177/0093650215617506.
+
+Frison, E., & Eggermont, S. (2017). Browsing, posting, and liking on Instagram: The reciprocal
+relationships between different types of Instagram use and adolescents' depressed mood.
+Cyberpsychology, Behavior, and Social Networking, 20, 603-609.
+https://do1.org/10.1089/cyber.2017.0156
+
+Fruchterman, T., & Reingold, E. (1991). Graph drawing by force-directed placement. Software:
+Practice and Experience, 21, 1129-1164. https://doi.org/10.1002/spe.4380211102
+
+Grieve, R., Indian, M., Witteveen, K., Tolan, G. A., & Marrington, J. (2013). Face-to-face or
+Facebook: Can social connectedness be derived online?) Computers in human behavior, 29,
+604-609. https://doi.org/10.1016/j.chb.2012.11.017
+
+Hektner, J. M., Schmidt, J. A., & Csikszentmihalyi, M. (2007). Experience sampling method:
+Measuring the quality of everyday life. Sage.
+
+Henderson-King, D., Henderson-King, E., & Hoffman, L. (2001). Media images and women's self
+evaluations: Social context and importance of attractiveness as moderators. Personality and
+Social Psychology Bulletin, 27(11), 1407-1416.
+
+https://doi.org/10.1177/0146167201271 1002
+
+29
+ Hofmann, W., & Patel, P. V. (2015). SurveySignal: A convenient solution for experience sampling
+research using participants’ own smartphones. Social Science Computer Review, 33, 235-
+253. https://doi.org/10.1177/08944393 14525117
+
+Hoorelbeke, K., Koster, E.H. W., Demeyer, I., Loeys, T., & Vanderhasselt, M. A. (2016). Effects
+of cognitive control training on the dynamics of (mal)adaptive emotion regulation in daily
+life. Emotion, 16, 945-956. https://doi.org/10.1037/emo0000169
+
+Hoorelbeke, K., Van den Bergh, N., Wichers, M., & Koster, E.H. W. (2019). Between vulnerability
+and resilience: A network analysis of fluctuations 1n cognitive risk and protective factors
+following remission from depression. Behaviour Research and Therapy, 116, 1-9.
+https://do1.org/10.1016/j.brat.2019.01.007
+
+Huang, C. (2017). Time Spent on Social Network Sites and Psychological Well-Being: A Meta-
+Analysis. Cyberpsychology, Behavior, and Social Networking, 20, 346-354.
+https://doi.org/10.1089/cyber.2016.0758
+
+Jelenchick, L. A., Eickhoff, J. C., & Moreno, M. A. (2013). “Facebook depression?” Social
+networking site use and depression in older adolescents. Journal of Adolescent Health, 52,
+128-130. https://doi.org/10.1016/).jadohealth.2012.05.008
+
+Junco, R. (2013). Comparing actual and self-reported measures of Facebook use. Computers in
+Human Behavior, 29, 626-631 https://doi.org/10.1016/j.chb.2012.11.007
+
+Kanat-Maymon, Y., Almog, L., Cohen, R., & Amichai-Hamburger, Y. (2018). Contingent self-
+worth and Facebook addiction. Computers in Human Behavior, 88, 227-235.
+https://do1.org/10.1016/j.chb.2018.07.011
+
+Kernis, M. H. (2003). Toward a conceptualization of optimal self-esteem. Psychological
+
+inquiry, 14, 1-26. https://doi.org/10.1207/s15327965ph1401_01
+
+30
+ Kernis, M. H., Lakey, C. E., & Heppner, W. L. (2008). Secure versus fragile high self-esteem as a
+predictor of verbal defensiveness: Converging findings across three different markers.
+Journal of Personality, 76, 477-512. https://doi.org/10.1111/j.1467-6494 .2008 .00493.x
+
+Kross, E., Verduyn, P., Demiralp, E., Park, J., Lee, D. S., Lin, N., ... Ybarra, O. (2013). Facebook
+Use Predicts Declines in Subjective Well-Being in Young Adults. PLoS ONE, 8(8), e69841.
+https://do1.org/10.1371/journal.pone.0069841
+
+Kwiatkowski, D., Phillips, P. C. B., Schmidt, P., & Shin, Y. (1992). Testing the null hypothesis of
+stationarity against the alternative of a unit root. Journal of Econometrics, 54, 159-178.
+https://doi.org/10.1111/1467-9892.00213.
+
+Mackson, S. B., Brochu, P. M., & Schneider, B. A. (2019). Instagram: Friend or foe? The
+application’s association with psychological well-being. New Media & Society, 21, 2160-
+2182. https://doi.org/10.1177/14614448 19840021
+
+Meier, A., & Schafer, S. (2018). The Positive Side of Social Comparison on Social Network Sites:
+How Envy Can Drive Inspiration on Instagram. Cyberpsychology, Behavior, and Social
+Networking, 21(7), 411-417. https://doi.org/10.1089/cyber.20 17.0708
+
+Okada, R. (2010). A meta-analytic review of the relation between self-esteem level and self-esteem
+instability. Personality and Individual Differences,  48(2), 243-246.
+https://doi.org/10.1016/j.paid.2009.10.012
+
+Paradise, A. W., & Kernis, M. H. (2002). Self-esteem and psychological well-being: Implications
+of fragile self-esteem. Journal of Social and Clinical Psychology, 21, 345-361.
+https://doi.org/10.1521/jscp.21.4.345 .22598
+
+Paradise, A. W., Kernis, M. H. (1999). Development of the Contingent Self-esteem Scale.
+
+Unpublished data, University of Georgia.
+
+31
+ Park, N., & Lee, S. (2014). College students' motivations for Facebook use and psychological
+outcomes. Journal of Broadcasting & Electronic Media, 58, 601-620.
+https://doi.org/10.1080/08838151.2014.966355
+
+Pew Research Center (2019). Share of U.S. adults using social media, including Facebook, is
+mostly unchanged since 2018. https://www.pewresearch.org/fact-tank/20 19/04/10/share-
+of-u-s-adults-using-social-media-including-facebook-is-mostly-unchanged-since-2018/
+
+Rosenberg, M. (1965). Society and the adolescent self-image. Princeton University Press.
+
+Rosenberg, M., Schooler, C., Schoenbach, C., & Rosenberg, F. (1995). Global Self-Esteem and
+Specific Self-Esteem: Different Concepts, Different Outcomes. American Sociological
+Review, 60, 141-156. https://doi.org/10.2307/2096350
+
+Sabik, N. J., Falat, J.. & Magagnos, J. (2019). When Self-Worth Depends on Social Media
+Feedback: Associations with Psychological Well-Being. Sex Roles, 82(7-8), 411-421.
+https://doi.org/10.1007/s11199-019-01062-8
+
+Satici, S. A., & Uysal, R. (2015). Well-being and problematic Facebook use. Computers in Human
+Behavior, 49, 185-190. https://doi.org/10.1016/j.chb.2015.03.005
+
+Schmall, T. (2018) iPhone and Android users are completely different people. Retrieved from
+
+https://nypost.com/2018/10/25/iphone-and-android-users-are-completely-different-people/
+Shakya, H. B., & Christakis, N. A. (2017). Association of Facebook use with compromised well-
+being: A longitudinal study. American journal of epidemiology, 185, 203-211.
+https://do1.org/10.1093/aje/kww 189
+Shaw, A. M., Timpano, K. R., Tran, T. B., & Joormann, J. (2015). Correlates of Facebook usage
+patterns: The relationship between passive Facebook use, social anxiety symptoms, and
+brooding. Computers in Human Behavior , 48, 575-580.
+
+https://doi.org/10.1016/j.chb.2015.02.003
+
+32
+ Sherlock, M., & Wagstaff, D. L. (2018). Exploring the relationship between frequency of Instagram
+use, exposure to idealized images, and psychological well-being in women. Psychology of
+Popular Media Culture, 8, 482-490. https://do1.org/10.1037/ppm0000 182
+
+Sherlock, M., & Wagstaff, D. L. (2019). Exploring the relationship between frequency of Instagram
+use, exposure to idealized images, and psychological well-being in women. Psychology of
+Popular Media Culture, 8(4), 482—490. https://doi.org/10.1037/ppm0000182
+
+Schmuck, D., Karsay, K., Matthes, J., & Stevic, A. (2019). “Looking Up and Feeling Down’. The
+influence of mobile social networking site use on upward social comparison, self-esteem,
+and well-being of adult smartphone users. Telematics and Informatics, 42, 101240.
+https://do1.org/10.1016/j.tele.2019.101240
+
+Sowislo, J. F., & Orth, U. (2013). Does low self-esteem predict depression and anxiety? A meta-
+analysis of longitudinal studies. Psychological Bulletin, 139, 213-240.
+https://do1.org/10.1037/a002893 1
+
+Sowislo, J. F., Orth, U., & Meier, L. L. (2014). What constitutes vulnerable self-esteem’?
+Comparing the prospective effects of low, unstable, and contingent self-esteem on
+depressive symptoms. Journal of Abnormal Psychology, 123, 737-753.
+https://do1.org/10.1037/a0037770
+
+Stacy, A. W. (1997). Memory activation and expectancy as prospective predictors of alcohol and
+marijuana use. Journal of Abnormal Psychology, 1061), = 61-73.
+https://doi.org/10.1037/0021-843x.106.1.61
+
+Stapleton, P., Luiz, G., & Chatwin, H. (2017). Generation Validation: The Role of Social
+Comparison in Use of Instagram Among Emerging Adults. Cyberpsychology, Behavior,
+
+and Social Networking, 20(3), 142-149. https://doi.org/10.1089/cyber.2016.0444
+
+33
+ Steers M.N., Wickham R.E., Acitelli L.K. (2014). Seeing everyone else’s highlight reels: How
+Facebook usage is linked to depressive symptoms. Journal of Social and Clinical
+Psychology, 33, 701-731. https://doi.org/10.1521/jscp.2014.33.8.701
+
+Teo, N.S. Y., & Collinson, S. L. (2019). Instagram and risk of rumination and eating disorders:
+An Asian perspective. Psychology of Popular Media Culture, 8(4), 491-508.
+https://doi.org/10.1037/ppm0000205
+
+Thomeée, S. (2018). Mobile Phone Use and Mental Health. A Review of the Research That Takes
+a Psychological Perspective on Exposure. International Journal of Environmental Research
+and Public Health, 15(12). https://doi.org/10.3390/ijerph15 122692
+
+Treynor W,. Gonzalez R., & Nolen-Hoeksema, S. (2003). Rumination reconsidered: A
+psychometric analysis. Cognitive therapy and_ research, 27, 247-259.
+https://do1.org/10.1023/a:1023910315561
+
+Valenzuela, S., Park, N., & Kee, K. F. (2009). Is there social capital in a social network site?:
+Facebook use and college students’ life satisfaction, trust, and participation. Journal of
+computer-mediated communication, 14(4), 875-901.  https://doi.org/10.1111/j.1083-
+
+6101.2009.01474.x
+
+Vandendriessche, K., & De Marez, L. (2020). imec.digimeter 2019: Digitale mediatrends in
+Vlaanderen. imec.
+
+Vannucci, A., Ohannessian, C. M., & Gagnon, S. (2019). Use of multiple social media platforms
+in relation to psychological functioning in emerging adults. Emerging Adulthood, 7(6), 501-
+506. https://doi.org/10.1177/21676968 18782309
+
+Verduyn, P., Lee, D.S., Park, J., Shablack, H., Orvell, A., Bayer, J., ... & Kross, E. (2015). Passive
+Facebook usage undermines affective well-being: Experimental and longitudinal evidence.
+Journal of Experimental Psychology: General, 144(2), 480-488.
+
+https://do1.org/10.1037/xge0000057
+
+34
+ Verduyn, P., Ybarra, O., Résibois, M., Jonides, J., & Kross, E. (2017). Do Social Network Sites
+Enhance or Undermine Subjective Well-Being? A Critical Review. Social Issues and Policy
+Review, 11(1), 274-302. https://doi.org/10.1111/sipr.12033
+
+Vogel, E. A., Rose, J. P., Roberts, L. R., & Eckles, K. (2014). Social comparison, social media,
+and self-esteem. Psychology of Popular Media Culture, 3(4), 206-222.
+https://do1.org/10.1037/ppm0000047
+
+Want, S. C. (2009). Meta-analytic moderators of experimental exposure to media portrayals of
+women on female appearance satisfaction: Social comparisons as automatic processes.
+Body Image, 6(4), 257-269. https://doi.org/10.1016/j.bodyim.2009.07 .008
+
+Yang, C. C., & Lee, Y. (2020). Interactants and activities on Facebook, Instagram, and Twitter:
+Associations between social media use and social adjustment to college. Applied
+Developmental Science, 24(1), 62-78. https://doi.org/10.1080/1088869 1 .2018.1440233
+
+Yoon, S., Kleinman, M., Mertz, J., & Brannick, M. (2019). Is social network site usage related to
+depression? A meta-analysis of Facebook—depression relations. Journal of Affective
+
+Disorders, 248, 65—72. https://doi.org/10.1016/j.jad.2019.01.026
+
+35
+ Table 1: ESM-items
+
+ESM-items Construct
+
+Since the previous signal, I have ... (Please indicate by entering a value from 0 (not at all) to 100 (very much))
+Non-directional social comparison on
+
+Compared myself with others on Facebook Facebook
+Compared myself with others on Instagram Non-directional social comparison on
+Instagram
+
+Since the previous signal, I have ... (Please indicate by entering a value from 0 (not at all) to 100 (very much)
+
+Felt insecure Self-esteem
+
+Since the previous signal ... (Please indicate by entering a value from 0 (not at all) to 100 (very much))
+
+The feeling I had about myself depended heavily on what others thought of me Contingent self-esteem
+Since the previous signal, I have ... (Please indicate by entering a value from 0 (not at all) to 100 (very much))
+Worried Repetitive negative thinking
+Felt angry Negative affect
+Felt tense Negative affect
+Felt sad Negative affect
+Felt anxious Negative affect
+
+35
+ Table 2. Sample Characteristics
+
+Variable M SD ICC
+Facebook Use (in seconds) 686.12 814.63 18
+Instagram Use (in seconds) 342.24 463.68 17
+Social Comparison on Facebook 3.29 5.62 30
+Social Comparison on Instagram 4.32 7.74 22
+Repetitive Negative Thinking 18.06 15.88 AO
+Feeling Insecure 16.56 15.41 AS
+Contingent Self-Esteem 17.15 13.45 50
+Negative Affect 12.16 10.41 A8
+
+Note: Ms and SDs refer to within-subject Ms/SDs
+
+* Corresponding author at: Department of Experimental Clinical and Health Psychology,
+Ghent University, Henri Dunantlaan 2, B-9000, Ghent, Belgium. Phone: +32 (0)9 264 94
+14; Fax: +32 (0)9 264 64 89
+
+E-mail address: lien.faelens@ugent.be
+ Figures
+
+Figure 1.
+
+Temporal network model of Facebook use.
+
+Note: Edges in the temporal network represent the unique temporal associations between each
+of the constructs of interest. For example, an arrow from construct Facebook to construct
+rumination represents a unique temporal association between Facebook at t-1 to rumination at
+t. Edge thickness reflects the strength of the temporal association, where strong associations are
+presented using thicker edges. Blue / Full edges represent positive associations, whereas red /
+dashed edges represent negative associations. FB = Facebook Use, SOCF = Social Comparison
+on Facebook, INSE = Feeling Insecure, CSE = Contingent Self-Esteem, RNT = Repetitive
+Negative Thinking, NA = Negative Affective State.
+ Figure 2.
+
+Contemporaneous network model of Facebook use
+
+Note: Edges in the contemporaneous network represent patterns of co-occuring activity. Edge
+thickness reflects the strength of association, where strong associations are presented using
+thicker edges. Positive correlations are presented as blue lines, whereas negative associations
+are presented as red / dashed lines. FB = Facebook Use, SOCF = Social Comparison on
+Facebook, INSE = Feeling Insecure, CSE = Contingent Self-Esteem, RNT = Repetitive
+Negative Thinking, NA = Negative Affective State.
+ Figure 3.
+
+Temporal and contemporaneous network models of Instagram use
+
+Note: (a) Left panel: Temporal Network of Instagram Use; Right panel (b) Contemporaneous
+Network of Instagram Use; INST = Instagram Use, SOCI = Social Comparison on Instagram,
+INSE = Feeling Insecure, CSE = Contingent Self-Esteem, RNT = Repetitive Negative
+Thinking, NA = Negative Affective State.

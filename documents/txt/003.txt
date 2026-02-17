@@ -1,0 +1,301 @@
+Letter to the Editor
+
+Psychotherapy _
+and Psychosomatics
+
+Psychother Psychosom 2017;86:175-177
+DOI: 10.1159/000453583
+
+Can We Jump from Cross-Sectional to Dynamic
+Interpretations of Networks? Implications for the
+Network Perspective in Psychiatry
+
+Fionneke M. Bos®®, Evelien Snippe®, Stijn de Vos®,
+Jessica A. Hartmann", Claudia J.P. Simons €,
+Lian van der Krieke* ©, Peter de Jonge™ ‘, Marieke Wichers®
+
+*University of Groningen, University Medical Center Groningen,
+Rob Giel Research Center, and University of Groningen,
+University Medical Center Groningen, Interdisciplinary
+Center Psychopathology and Emotion Regulation (ICPE),
+
+and ‘Department of Developmental Psychology, University
+of Groningen, Groningen, “Department of Psychiatry and
+Psychology, Maastricht University Medical Center, Maastricht,
+and ©GGzE, Institute of Mental Health Care Eindhoven and De
+Kempen, Eindhoven, The Netherlands; ‘Orygen, The National
+Centre of Excellence in Youth Mental Health, University of
+Melbourne, Melbourne, VIC, Australia
+
+Interest in the network perspective of psychopathology is rap-
+idly growing. This theory conceptualizes mental disorders as net-
+works in which symptoms can trigger the presence of other symp-
+toms [1]. It thus theorizes that symptoms actively generate other
+symptoms, and that this process can eventually lead to a full-blown
+mental disorder. If this is true, then symptom networks may be
+informative for clinical practice; symptoms that are more central
+in the network, and are thus assumed to influence many other
+symptoms, seem to be a logical starting point for intervention.
+However, in order to know how to optimally investigate the net-
+work perspective empirically, it is crucial to first establish whether
+different network approaches (cross-sectional vs. dynamic) result
+in similar conclusions.
+
+Although the network theory described above proposes that
+symptoms are causally related to one other, most of the published
+studies use cross-sectional data on symptoms to find empirical
+support for this [2, 3]. These studies thereby assume, implicitly or
+explicitly, that group-level contemporaneous associations between
+symptoms reflect causal influences between symptoms over time
+[1, 3]. To acquire support for causality, it is important to establish
+a timeline, i.e., that some symptoms temporally precede other
+symptoms [4]. It has been questioned, however, whether concur-
+rent, group-level associations among symptoms inform us on how
+symptoms follow each other over time within individuals [5, 6].
+
+We therefore aimed to investigate to what extent a cross-sec-
+tional network yields the same conclusion as a network on the
+same data that includes dynamic (temporal) associations between
+
+© 2017 The Author(s)
+Published by S. Karger AG, Basel
+
+KARGER
+
+E-Mail karger@karger.com
+www.karger.com/pps
+
+Karger
+Openvaccess
+
+This article is licensed under the Creative Commons Attribution-
+NonCommercial-NoDerivatives 4.0 International License (CC BY-
+NC-ND) (http://www.karger.com/Services/OpenAccessLicense).
+Usage and distribution for commercial purposes as well as any dis-
+tribution of modified material requires written permission.
+
+Received: July 9, 2016
+Accepted after revision: November 17, 2016
+Published online: May 11, 2017
+
+symptoms (i.e., dynamic networks) [7]. If both approaches result
+in similar conclusions, this would greatly facilitate future research
+and clinical applications because cross-sectional data can be more
+easily obtained. If not, then cross-sectional symptom networks are
+unlikely to reflect causal symptom dynamics, as postulated by this
+network theory.
+
+To this end, we used the same experience sampling methodol-
+ogy (ESM) data on mood states to compare the 2 network ap-
+proaches. Data came from the baseline ESM measurements of an
+interventional trial including 104 patients with a DSM-IV-TR di-
+agnosis of a major depressive episode [8]. Patients rated their mo-
+mentary mental states on 7-point Likert scales 10 times a day for 5
+days, resulting in a maximum of 50 measurement points per indi-
+vidual.
+
+Here, we focus on the 7 mood items that reflect symptoms of
+depression and that showed sufficient within-person variance over
+time, namely, sadness, irritation, loneliness, restlessness, worry,
+self-doubt, and anhedonia (i.e., cheerfulness reverse coded).
+
+Given that traditional cross-sectional networks are based on
+(1) a single measurement point per individual, and (2) perceived
+symptoms that are not momentary but estimated over a somewhat
+longer period, we estimated 2 cross-sectional networks, each re-
+flecting 1 of the above situations. First, we estimated partial cor-
+relations between the first observation of the first day of each par-
+ticipant for all 7 symptoms (Fig. 1a). Second, we estimated partial
+correlations between the person-means of the symptoms (Fig. 1b),
+i.e., the mean of all 50 measurement points of a symptom provided
+by 1 individual. Third, a dynamic network was estimated by ex-
+amining the within-person time-lagged associations among the
+symptoms in 7 multilevel vector autoregressive models (Fig. 1c),
+including 1 of the symptoms as the dependent variable and all
+symptoms at a previous moment in time (t - 1) as fixed and ran-
+dom effects [7]. Variables were detrended to remove time trends
+(not detrending the variables yielded similar results) and person-
+means were centered to disaggregate within-person effects from
+between-person effects [9]. The analyses were conducted in
+STATA (v14.1) and the network graphs were made using the
+igraph package in R. For clarity, only significant associations are
+shown in the figures of each network (Fig. 1).
+
+For each network, we computed node strength centrality,
+which is the sum of the absolute value of the strength of all asso-
+ciations of a given symptom with all other symptoms (also nonsig-
+nificant ones) [10]. In the dynamic network, strength can be split
+into “instrength” (the total weight of incoming arrows, not includ-
+ing self-loops) and “outstrength” (the total weight of outgoing ar-
+rows). As betweenness and closeness centrality correlated strong-
+ly with strength centrality, we decided to not additionally report
+these measures here.
+
+The results showed that the network approaches not only iden-
+tified different associations between symptoms, they also yielded
+different conclusions with regards to which symptom is the most
+
+Fionneke M. Bos, MSc
+
+University of Groningen, University Medical Center Groningen
+Rob Giel Research Center
+
+PO Box 30.001, NL-9700 RB Groningen (The Netherlands)
+E-Mail f.m.bos01 @umcg.nl
+
+vz0z snBny Zz) uo ysenBb Aq Jpd eggeGrO00/Ev9LSrE/SZL/€/98/jpd-sjonse/sdd/woosebiey//:d}}4y WOl pepeojumMoq
+ a foe b | Cc 4
+SAD ; | SAD |
+ANH | IRR ANH } \ IRR
+; | ?
+f
+| ,
+—~ _ as 048
+DOU p re | LON DOU } LON |
+b | ‘
+i |
+WOR =) 396 —«—— RES ) / WOR : RES ) WwoR) —_- “| RES |
+~ - ~ oJ {)
+Symptom Node Symptom Node Symptom Node Node
+strength strength instrength outstrength
+centrality centrality centrality centrality
+
+SAD 0.69 SAD 1.44 SAD 0.33 0.18
+
+IRR 0.89 IRR 1.08 IRR 0.21 0.16
+
+LON 0.79 LON 0.74 LON 0.14 0.21
+
+RES 0.89 RES 1.16 RES 0.21 0.10
+
+WOR 1.13 WOR 0.97 WOR 0.18 0.29
+
+DOU 1.15 DOU 0.91 DOU 0.14 0.13
+
+ANH 0.61 ANH 0.74 ANH 0.20 0.34
+
+Fig. 1. The first observation network (n = 104) (a), the person-mean network (n = 104) (b), and the dynamic
+network (” = 104 x 50) (c), including measures of node strength centrality for each approach. SAD, sadness; IRR,
+irritation; LON, loneliness; RES, restlessness; WOR, worry; DOU, self-doubt; ANH, anhedonia. Values in bold
+type denote the centrality estimates that are the most central symptoms within each network approach.
+
+central (Fig. 1). This would have clinical implications if centrality
+is used to guide targets for treatment. Whereas the first observa-
+tions network finds self-doubt to be the most central symptom, the
+person-means network indicates that sadness is the most central
+symptom. The dynamic network also points towards sadness, but
+sadness only has the highest instrength, indicating that it is mostly
+influenced by other symptoms. It does not have the highest out-
+strength, suggesting that it does not have the strongest impact on
+other symptoms. Anhedonia has the highest outstrength in the
+dynamic network, suggesting that any change here would strongly
+influence the occurrence of other symptoms. Thus, the cross-sec-
+tional and dynamic networks would all indicate different targets
+for intervention.
+
+In terms of order of rank, the node strengths of the different
+networks only correlated modestly or even negatively with each
+other. The node strengths of the first observations network corre-
+lated negatively with the node instrengths (r = -0.24) and nega-
+tively with the node outstrengths (r = -0.33) of the dynamic net-
+work. The person-mean node strengths correlated negatively with
+the node outstrengths (r = -0.43) and positively with the node
+instrenghts (r = 0.62) of the dynamic network.
+
+176 Psychother Psychosom 2017;86:175-177
+
+DOT: 10.1159/000453583
+
+Our results strongly suggest that cross-sectional networks do
+not reflect how symptoms trigger each other over time, and there-
+fore may not be interpreted as such. Cross-sectional networks may,
+however, be useful to examine the co-occurrence of symptoms, for
+example, to offer an insight into patterns of current symptom co-
+morbidity across individuals [1]. Thus, if we would like to empiri-
+cally test whether causal symptom dynamics are responsible for the
+development of mental disorders, the use of dynamic network
+analysis is advised. If future studies yield support for the network
+theory, then dynamic network techniques may also have relevance
+for clinical practice in pointing towards promising targets for in-
+tervention.
+
+Acknowledgement
+
+We acknowledge an ERC consolidator grant to M. Wichers
+(project No. 681466; TRANS-ID, 2015), a Rubicon Fellowship
+from the Netherlands Organisation for Scientific Research to J.A.
+Hartmann (NWO 825.15.015), and a VICI grant from the Nether-
+lands Organisation for Scientific Research (NWO/ZonMW No.
+91812607) to P. de Jonge.
+
+Bos/Snippe/de Vos/Hartmann/Simons/
+van der Krieke/de Jonge/Wichers
+
+Color version available online
+
+vz0z snBny Zz) uo ysenBb Aq Jpd eggeGrO00/Ev9LSrE/SZL/€/98/jpd-sjonse/sdd/woosebiey//:d}}4y WOl pepeojumMoq
+ al
+
+aw)
+
+as)
+
+References
+
+Cramer AOJ, Waldorp LJ, van der Maas HLJ, Borsboom D: Comorbid-
+ity: a network perspective. Behav Brain Sci 2010;33:137-150.
+
+van Borkulo C, Boschloo L, Borsboom D, Penninx BWJH, Waldorp LJ,
+Schoevers RA: Association of symptom network structure with the
+course of longitudinal depression. JAMA Psychiatry 2015;12:1219-1226.
+McNally RJ, Robinaugh DJ, Wu GWY, Wang L, Deserno MK, Borsboom
+D: Mental disorders as causal systems: a network approach to posttrau-
+matic stress disorder. Clin Psychol Sci 2015;3:836-849.
+
+Bolger N, Laurenceau J: Intensive Longitudinal Methods: An Introduc-
+tion to Diary and Experience Sampling Research. New York, Guilford
+Press, 2013.
+
+Bos EH, Wanders RBK: Group-level symptom networks in depression.
+JAMA Psychiatry 2016;73:411-411.
+
+Cross-Sectional versus Dynamic
+Interpretations of Networks
+
+as
+
+7
+
+Ps
+
+a)
+
+P10
+
+Molenaar PCM: A manifesto on psychology as idiographic science:
+bringing the person back into scientific psychology, this time forever.
+Measurement 2004;2:201-218.
+
+Bringmann LF, Vissers N, Wichers M, et al: A network approach to psy-
+chopathology: new insights into clinical longitudinal data. PLoS One
+2013;8:e60188.
+
+Kramer I, Simons CJP, Hartmann JA, et al: A therapeutic application of
+the experience sampling method in the treatment of depression: a ran-
+domized controlled trial. World Psychiatry 2014; 13:68-77.
+
+Curran PJ, Bauer DJ:The disaggregation of within-person and between-
+person effects in longitudinal models of change. Annu Rev Psychol 2011;
+62:583-619.
+
+Opsahl T, Agneessens F, Skvoretz J: Node centrality in weighted net-
+works: generalizing degree and shortest paths. Soc Netw 2010;32:245-
+251.
+
+Psychother Psychosom 2017;86:175-177
+
+177
+
+DOT: 10.1159/000453583
+
+vz0z snBny Zz) uo ysenBb Aq Jpd eggeGrO00/Ev9LSrE/SZL/€/98/jpd-sjonse/sdd/woosebiey//:d}}4y WOl pepeojumMoq

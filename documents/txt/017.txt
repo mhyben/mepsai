@@ -1,0 +1,1273 @@
+Routledge
+
+Taylor & Francis Group
+
+39071LN0U
+
+sauce Psychotherapy Research
+
+Research
+
+c
+
+ISSN: 1050-3307 (Print) 1468-4381 (Online) Journal homepage: www.tandfonline.com/journals/tpsr20
+
+Daily dynamic assessment and modelling
+of intersession processes in ambulatory
+psychotherapy: A proof of concept study
+
+Tim Kaiser & Anton-Rupert Laireiter
+
+To cite this article: Tim Kaiser & Anton-Rupert Laireiter (2019) Daily dynamic assessment and
+modelling of intersession processes in ambulatory psychotherapy: A proof of concept study,
+Psychotherapy Research, 29:8, 1062-1073, DOI: 10.1080/10503307.2018.1497213
+
+To link to this article: https://doi.org/10.1080/10503307.2018.1497213
+
+QB © 2019 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+
+Published online: 16 Jul 2018.
+
+EE
+
+&
+Lg Submit your article to this journal @
+
+[stall Article views: 2232
+
+N
+Q View related articles 4
+
+()) View Crossmark data @
+
+ie)
+na
+n
+<x
+&
+~
+
+LP
+
+Citing articles: 2 View citing articles @
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journallnformation?journalCode=tpsr20
+ Psychotherapy Research, 2019 es
+Vol. 29, No. 8, 1062-1073, https://doi.org/10.1080/10503307.2018.1497213 ce Routledge:
+
+| ® Check for updates
+
+EMPIRICAL PAPER
+
+Daily dynamic assessment and modelling of intersession processes in
+ambulatory psychotherapy: A proof of concept study
+
+TIM KAISER ®! & ANTON-RUPERT LAIREITER!?
+
+‘Department of Psychology, University of Salzburg, Salzburg, Austria & *Department of Psychology, University of Vienna,
+Vienna, Austria
+
+(Received 24 Fanuary 2018; revised 18 Fune 2018; accepted 20 Fune 2018)
+
+Abstract
+
+Background: the typical mode of assessment in studies on intersession processes (ISP) in psychotherapy is using cross-sectional
+or weekly measurements. Daily dynamics of intersession processes have not yet been studied. Method: intersession process data
+from 22 ambulatory psychotherapy cases were collected in a naturalistic study with high temporal resolution, resulting in a total
+of 1026 daily measurements. Multilevel vector autoregressive (VAR) modelling was applied to discover the temporal course and
+causal influences among intersession processes. Centrality analysis was applied to discover unique functions of various
+intersession process variables. Results: a group-level network structure was discovered, offering first insights on the role of
+different intersession processes during psychotherapy. Centrality analysis revealed unique roles for various aspects of the
+intersession process. Temporal distance from the last session had only weak influence on the ISP. Conclusions: using short,
+daily measures, the unique role of various aspects of the ISP were uncovered. Some aspects of the ISP, like recalling session
+contents or reflection on future session contents, are facilitators of overall ISP intensity. Other aspects like thoughts on
+payment or appointments or negative treatment-related emotions are likely to suppress ISP.
+
+Keywords: process research; alliance; emotion in therapy; statistical methodology; technology in psychotherapy research &
+training
+
+Clinical and methodological significance: In recent years, an increasing number of empirical studies have been conducted
+to model psychopathological data obtained from high-frequency outpatient studies. Leading authors in this area have called
+for variables other than symptoms to be included in these models. This article is intended to contribute to this by offering a
+short scale for the measurement of intersession processes.
+
+For the first time, intersession processes are modelled
+using approaches from network analysis using data from daily measurements. This offers first insights into the role of different
+change processes in psychotherapy.
+
+I i
+ntroduction Orlinsky, Geller, Tarragona, and Farber (1993) pro-
+
+Asuccessful psychotherapy continues to have an effect
+after a session and between sessions. Over time,
+patients begin to form mental representations of
+their psychotherapy that can be activated between
+
+posed the “representations of a patient’s psychother-
+apy between two. sessions” as a focus for
+psychotherapy research, building the foundation of
+what later on became the concept of intersession pro-
+
+therapy sessions. Following this assumption, cesses (ISP). The concept of ISP encompasses
+
+Correspondence concerning this article should be addressed to Tim Kaiser University of Salzburg, Hellbrunnerstrasse 34, 5020 Salzburg,
+Austria Tim. Kaiser@sbg.ac.at
+
+© 2018 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License
+(http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any
+medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way.
+ thoughts, feelings, and behaviours concerning a
+patient’s current psychotherapy, including the thera-
+pist. ISP occur between two therapy sessions and
+can be of different emotional quality, intensity, and
+frequency. They include memories of words and feel-
+ings towards the dyadic partner as well as application
+of techniques learned in the psychotherapy or thera-
+peutic homework (Hartmann, Orlinsky, & Zeeck,
+2011). ISP have been operationalized and can be
+measured for a specific period between two sessions
+using the “Intersession Experience Questionnaire.”
+Patients’ positive ISP have been linked to a better
+therapy outcome in various studies (Schroder,
+Wiseman, & Orlinsky, 2009) and were found to be
+predictive of therapy outcome if measured weekly
+before a therapy session (Hartmann, Orlinsky,
+Weber, Sandholz, & Zeeck, 2010; Zeeck et al., 2016).
+
+Most of the previous studies have assessed the
+intersession process only retrospectively, using
+cross-sectional designs. One notable exception is a
+multilevel analysis of weekly assessments in a large
+dataset conducted by (Hartmann et al., 2016).
+
+This study showed characteristic patterns of
+change that differed significantly between patients
+with favourable and less favourable outcomes. Due
+to the relatively short time that outpatients are
+exposed to clinical procedures, fine-grained infor-
+mation about their ISP can also be helpful for the
+therapist. Empirical evidence of how a successful
+therapy works between sessions remains remarkably
+scarce. This could be the result of a prolonged
+debate on how change processes in psychology
+should be examined in general (Cronbach & Furby,
+1970; Molenaar, 2004). It has been argued that
+psychological processes do not possess the properties
+that would enable researchers to study them in cross-
+sectional designs because they are non-ergodic
+(Molenaar, 2013). Non-ergodic processes are non-
+stationary, so their mean values and _ variances
+change over time. Moreover, these processes are
+not homogeneous, implying that their underlying
+dynamic model varies across different people. This
+requires data analysis methods that begin at the
+level of intraindividual variation and try to generalize
+individual models to a group level in a second step.
+Although valid arguments have been put forward
+for both individual designs and group studies, these
+approaches need not be mutually exclusive. Recent
+developments in time series analysis have produced
+approaches that can combine the strengths of case
+studies with the robustness of group designs (TI’scha-
+cher & Ramseyer, 2009).
+
+So far, however, the intersession process has not
+been investigated with sufficient temporal resolution
+to really understand its dynamics in psychotherapy.
+The daily measurement of these processes could
+
+Psychotherapy Research 1063
+
+reveal important patterns that show how psychother-
+apy patients process their therapies and deal with
+their experiences in the session. Certain patterns of
+processing might facilitate or inhibit therapeutic
+change. Nowadays, the daily measurement is facili-
+tated by the broad availability of Internet access at
+home and ubiquitous mobile devices. In recent
+years, the dynamic assessment approach has
+become increasingly popular. Using these new tech-
+nologies, different variables that are relevant to psy-
+chotherapy have been studied, such as externalizing
+behaviour (Wright, Beltz, Gates, Molenaar, &
+Simms, 2015) or interpersonal processes (Roche,
+Pincus, Rebar, Conroy, & Ram, 2014) or symptoms
+(Fisher, 2015).
+
+Network Analysis in Clinical Psychology
+
+A relatively new and promising approach for model-
+ling intraindividual differences comes from the field
+of network analysis. A large body of literature on
+the modelling of dynamic data as network structures
+emerged in recent years (Borsboom, 2017; Fried
+et al., 2017). In a recent review of literature, Bors-
+boom (2017) proposed a “network theory of mental
+disorders.” There are many current examples of
+attempts to make dynamic data from the clinical
+context usable. Kroeze et al. (2017) showed how per-
+sonalized feedback can motivate treatment-resistant
+patients to accept interventions better. However,
+network modelling studies focused almost solely on
+symptoms, which led researchers to propose the
+inclusion of other variables in networks (Jones,
+Heeren, & McNally, 2017). First studies on non-
+symptom variables in network models of psycho-
+pathology included several variables that were
+hypothesized to play a causal role in psychopathol-
+ogy. Isvoranu et al. (2017) included childhood
+trauma in symptom networks of psychosis and
+showed possible influences of traumatic experiences
+on the probability of developing psychotic symptoms.
+Hoorelbeke, Marchetti, De Schryver, and Koster
+(2016) investigated risk and resilience factors in
+depression and showed that resilience is a central
+hub in symptom networks of depression that sup-
+presses symptoms and simultaneously promotes
+adaptive emotion regulation. Heeren and McNally
+(2016) included a measure of attentional bias in
+their social anxiety network models, showing its role
+in maintaining social anxiety symptomatology. In
+this study, a new aspect in the treatment of mental
+health disorders will be considered to expand the
+spectrum of aspects relevant for psychotherapy. For
+psychotherapy process research, network analysis is
+likely to offer new insights on how patients process
+ 1064 T. Kaiser and A.-R. Laitreiter
+
+their treatments. The aim of this study is to combine
+the promising theoretical model of intersessional pro-
+cesses with modern methods of Ecological Momen-
+tary Assessment. Network analyses will be used to
+investigate the temporal dynamics of these processes
+in high temporal resolution.
+
+The paper is structured as follows: first, we will
+infer the network representing the temporal dynamics
+of intersession processes. Second, we will perform a
+centrality analysis on the inferred network to interpret
+the role of different ISP.
+
+Method
+Design and Recruitment Process
+
+22 courses of dyadic psychotherapy were selected
+from a dataset aggregated from two projects carried
+out between 2015 and 2017. These cases were
+selected based on data availability Patients who had
+answered the questionnaire for at least 21 consecutive
+days were selected. The data from the two projects
+were aggregated to maximize the statistical power of
+the group model. The first project was a pilot study
+in which the evaluation of ISPs with outpatients was
+tested. In this project the patients were referred by
+their therapists. ‘The resident therapists were con-
+tacted with letters informing them about study goals
+and methods and asking them to contact the research-
+ers when they were ready to refer patients. ‘The thera-
+pists then contacted their clients and provided them
+with the contact details of the research group. The par-
+ticilpating patients were then contacted and inter-
+viewed with an- online questionnaire on
+demographics, their primary diagnoses, treatment
+duration, number of sessions and the theoretical
+approach of their therapists. The number of therapy
+sessions at the beginning of the study could be
+chosen from a menu ranging from 0 to 100 in steps
+of 10 (e.g., 0, less than 10, 11—20, 21-30, etc., with
+the last category being “more than 100”). Therapists
+with all legally recognized approaches were contacted.
+‘These approaches include various psychodynamic
+approaches, humanistic and client-centred therapy,
+systemic therapy, and cognitive-behavioural therapy.
+
+The second project was a study conducted at the
+University of Salzburg’s research ambulance. In this
+project, patients contacting the ambulance were
+directly asked for participation in this study. Patients
+willing to participate were met for a diagnostic inter-
+view to determine their diagnosis.
+
+A German translation of the “Unified Protocol,” a
+transdiagnostic, cognitive-behavioural treatment
+manual (Barlow, 2011) was used in all treatments.
+The manual consists of eight different treatment
+modules, including motivational interviewing,
+
+psychoeducation, cognitive reappraisal, mindfulness
+exercises, exposure, and relapse prevention. It was
+developed to develop an effective, uniform treatment
+method for all disorders whose central problem lies in
+dealing with emotions. These include anxiety dis-
+orders, depression, obsessive-compulsive disorder,
+PTSD. The translator commissioned by the pub-
+lisher has made the German version of the manual
+available to the authors.
+
+Patients suffering from psychosis, bipolar disorder
+and current substance abuse or addiction were
+excluded. In the second project, only patients suffer-
+ing from depression, generalized anxiety disorder,
+social anxiety disorder, and/or obsessive-compulsive
+disorder were recruited.
+
+Additionally, patients completed the German
+version of the SCL-27 (Hardt, Egle, Kappis,
+Hessel, & Brahler, 2004) at intake and once every
+week in the first project. In the second project,
+patients received the PHQ-9 (Kroenke, Spitzer, &
+Williams, 2001) and the GAD-7 (Spitzer, Kroenke,
+Williams, & Lowe, 2006, p. 7) together with the
+daily ISP scale, as well as the GHQ-12 at intake.
+Symptom data will not be included in the reported
+analyses due to lack of statistical power with increas-
+ing items in the group-level network analysis.
+
+In both projects, the same daily measure of inter-
+session processes was used. Courses with a length of
+at least three weeks (20 days) containing at least
+three sessions were selected based on availability.
+The mean length of courses was 46.9 days (SD=
+10.38). Nine patients were selected from the first
+project’s data set while 13 patients were selected
+from the second project. Data from subjects who
+completed more than 21 daily questionnaires were
+included in the study. Overall, 22 participants
+(three male, 19 female) were included. Patient’s
+mean age was 28.95 years (SD=8.60). Client
+characteristics, including symptom severity at
+intake, are summarized in Appendix 1. Age, sex,
+diagnosis, and therapy characteristics (approach
+and number of therapy sessions undergone at the
+beginning of study) were measured with an online
+demographics questionnaire. As compensation for
+participation in the study, feedback sessions were
+offered in which participants could review their
+process data together with a member of the research
+group. Study procedure and aims were reviewed and
+approved by the ethics committee of the University
+of Salzburg.
+
+Materials and Procedures
+
+Short Intersession Process Scale. A short ques-
+tionnaire with 10 items was generated to measure
+ Table I. Means and standard deviations of all items in the short
+intersession process questionnaire averaged over all persons and
+time points.
+
+Item M SD
+
+Positive emotions 46.73 33.99
+Thinking of therapist 34.95 33.80
+Remembering events 34.41 32.19
+Next session 30.94 31.35
+Solving problems 29.42 27.49
+Imagined dialogue 24.40 29.43
+New ideas 20.10 26.35
+Basic conditions 18.99 27.27
+Negative emotions 16.95 21.59
+Last session 17.10 24.90
+
+Note. Item scores range from 0 to 100.
+
+intersession processes. Item content was chosen so
+that it related to the content dimensions found in
+a principal component analysis of the German
+version of the Intersession Experience Question-
+naire (IEQ) by Hartmann, Orlinsky, Geller, and
+Zeeck (2003). Items with significant (>.30)
+primary factor loadings were selected and their for-
+mulation was adapted for daily measurements. The
+items were selected in such a way that they cover the
+original [EQ factors in terms of content but can also
+be interpreted individually. ‘The items can be
+grouped into two rationally constructed scales cor-
+responding to the three content dimensions (item
+group C) that Hartmann et al. (2003) have found.
+Reflecting treatment (containing three items)
+measures thoughts about the patient’s behaviour
+towards psychotherapy. This is an indicator of the
+degree to which a patient is integrated into the
+boundary conditions of his therapy, like session
+scheduling or future sessions’ contents. Relationship
+processes (containing two items) indicates the fre-
+quency of thoughts involving the therapist, indicat-
+ing a desire for contact. Problem-solving contains
+three items remembering therapy contents and
+applying them in patients’ daily routine. In addition,
+two scales with individual items were added that
+correspond to the two emotional dimensions of
+IEQ. These measure positive and negative emotions
+in relation to the therapy. Instead of asking for
+single emotions, examples of positive (relief, hope,
+confidence, security) and negative (anxiety, frustra-
+tion, sadness, hurt) emotions taken from the [EQ
+were included in the item text. Emotions with
+highest factor loadings were chosen as examples.
+Appendix 2 contains the scales and their respective
+items. The intersession questionnaire was com-
+pleted daily. Participants received reminders via E-
+mail or text messages sent to their mobile phones,
+including a link to their daily questionnaire.
+
+Psychotherapy Research 1065
+
+Reminding times could be chosen individually by
+the participants and were typically set to the late
+afternoon or evening. Items were rated on a 0 (not
+at all) to 100 (all the time) scale with steps of one
+point. All process data were recorded using the
+DynAMo_ software package (Kaiser & Lairei-
+ter, 2017). Patients completed an average of 46.9
+(SD = 10.38, range 24-63) daily assessments of
+the scale, resulting in a grand total of 938
+observations.
+
+Data Analysis
+
+Data analysis was conducted using Gnu R . Network
+modelling, analysis, and plotting were performed
+using the mlIVAR, gqgraph, and _ networktools
+packages (Epskamp, Bringmann, & Fy, 2017;
+Epskamp, Cramer, Waldorp, Schmittmann, & Bors-
+boom, 2012; Jones, 2017)
+
+Network analysis. Multilevel vector autoregres-
+sive (mIVAR) models were estimated for the com-
+plete data set. In this model the temporal dynamics
+of the 10 items is represented by a vector autoregres-
+sive (VAR) model. The dependent variable at time fis
+predicted from previous values (t—1) of all variables.
+The number of preceding values used as predictors
+(“lags”) can vary. In the present study, a model
+with one lag (t—1) was preferred to models including
+two (t—2) or three lags (t—3), as this model resulted in
+the lowest Bayesian Information Criterion (BIC) for
+all variables, indicating the best model fit. The depen-
+dent variables in this study are the values of all 10
+items of the Intersession short scale on the previous
+day. A multilevel VAR model combines individual
+VAR models estimated for every patient and consists
+of fixed (average) and random (individual) effects. In
+the present study, only fixed effects were estimated
+due to the relatively short time series. Each ISP
+item was used as a dependent variable once, so 10
+different mlVAR models were estimated. mlVAR
+models can be estimated for stationary data only,
+meaning that a time series fluctuates around a non-
+changing mean value. KPSS tests (Kwiatkowski,
+Phillips, Schmidt, & Shin, 1992) were performed
+for individual time series. If this test is significant, a
+time series contains a positive or negative trend and
+is thus non-stationary. All time series with significant
+non-stationarity were trend adjusted by subtracting
+the linear trend component from the time series.
+Additionally, cubic spline interpolation was applied
+to all time series. This was done to generate
+equally-spaced time series when daily questionnaires
+were not equidistant due to delays in handling time or
+to missing data. All 10 intersession process items
+ 1066 T. Kaiser and A.-R. Laitreiter
+
+were included in the models. In addition, a counter
+variable was included that indicates the days since
+the last therapy session. This way, a possible cycli-
+cal course of the intersession processes resulting
+from the influence of the therapy sessions was to
+be examined.
+
+When mlVAR models are estimated, their results
+can be visualized as network graphs. In these
+graphs, intersession process items are represented
+as nodes, while edges show how different process
+items influence each other over time (temporal
+network) and how they are connected to each other
+at one point in time (contemporary network). Using
+the qgraph package, graphs of estimated networks
+of intersession processes were created. Nodes that
+have strong connections were placed closer to each
+other using the algorithm by Fruchterman and Rein-
+gold (1991). Edges represent fixed (average) effects
+of the influence of one item on the other. Because
+ISP were measured over time, connections can be
+interpreted as approximating causal influence as
+defined by Granger (1969). The stronger the
+relationship between nodes, the thicker the edge con-
+necting them.
+
+In network analysis, centrality analysis can be per-
+formed to determine the relative importance or influ-
+ence of a specific node. This is helpful for interpreting
+results of these analyses especially if networks contain
+many significant associations because centrality
+indices can serve as a summary of findings in a
+network. Analyses were performed by calculating
+different parameters of centrality: “outstrength,”
+instrength, and “betweenness.” Outstrength indi-
+cates how many outgoing arrows an item has and
+how strong the outgoing influences are. Items with
+high outstrength send more information to the
+network. Instrength indicates how many incoming
+arrows a node receives from other nodes. The
+betweenness of a node indicates on how many paths
+between other nodes it 1s located. Nodes with high
+betweenness are important for transmitting infor-
+mation along the network.
+
+Additionally, the one- and two-step expected influ-
+ence (Robinaugh, Miullner, & McNally, 2016) of
+nodes was calculated. The one-step expected influ-
+ence is defined as the sum of all edges extending
+from a given node, while the two-step expected influ-
+ence also includes nodes connected to the initial
+node. This measure was included because negative
+influences were expected in ISP networks. Expected
+influence can be viewed as an extension of out-
+strength by considering whether network edges are
+positive or negative. According to Robinaugh et al.
+(2016), expected influence is considered more appro-
+priate for analysing networks containing edges with
+negative weight.
+
+Results
+Descriptive Statistics
+
+Mean scores and standard deviations of intersession
+process items are summarized in Table I. All items
+showed a high degree of variation. Sources of var-
+iance will be analysed in the next session.
+
+Missing Data
+
+‘The mean percentage of missing daily questionnaire
+data was 10.84 (SD = 9.63) and ranged from 0 to 34.57.
+
+Network Analysis
+
+Graphical representation. Figure 1 shows the
+estimated network of the dynamics between interses-
+sion process item scores after applying significance
+level correction. Solid edges show positive associ-
+ations of item scores from one day on item scores
+on the next day while dashed edges show negative
+associations. For example, an increase of the item
+score “imagined dialogue” on one day predicts an
+increase of the item score of “solving problems.”
+On the other hand, an increase of negative therapy-
+related emotions predicts a lower score of “solving
+problems.” Most items have significant autoregres-
+sive components, indicating a certain temporal stab-
+ility of scores over time. The cyclic time variable
+did not have any influence in the temporal network.
+
+In Figure 2, partial correlations of item scores on
+the same day are visualized. As in the time-lagged
+association network, solid edges indicate a positive
+association while dashed edges represent a negative
+association. For example, patients who imagined dia-
+logues with their therapists (node E) also reflected on
+new ideas for session content on the same day (node
+H). There was only one negative association in the
+contemporaneous network: patients reporting more
+negative treatment-related emotions (node J) report
+less new ideas concerning past session content (node
+C). A positive association was observed between
+nodes K and H, indicating that thoughts concerning
+the next session become more frequent with increased
+temporal distance to the last therapy session.
+
+Correlation coefficients for both the time-lagged
+and the contemporaneous network are listed in
+Appendix 3 and 4.
+
+Centrality analysis. Centrality measures for the
+time-lagged network are summarized in Table II.
+These scores allow inferences on the causal structure
+of intersession experience. Both the “Remembered
+events” and the “Last session” items have a relatively
+high outstrength, meaning that high scores on these
+ Psychotherapy Research 1067
+
+1. Problem solving
+® A: Remembered events
+@ B: Solving problems
+® C: New ideas
+
+2. Relationship processes
+® D: Thinking of therapist
+® E: Imagined dialogue
+
+3. Reflecting treatment
+F: Last session
+
+® G: Basic conditions
+
+® H: Next session
+
+4. Therapy-related emotions
+© |: Positive emotions
+© J: Negative emotions
+
+5. Time variables
+© K: Days since last session
+
+Figure 1 .#Network of time-lagged associations of intersession processes. Only edges that surpass the FDR-corrected significance level are
+visualized. Thicker, darker edges represent stronger connections. Solid edges indicate positive influences while dashed edges indicate negative
+influences.
+
+items are likely to increase item scores in the rest of emotions” have relatively high instrength scores, indi-
+the network on subsequent days. On the other cating that high scores on these items are the result of
+hand, the items “thinking of therapist” and “positive another item’s influence. The betweenness scores are
+
+1. Problem solving
+@ A: Remembered events
+®@ B: Solving problems
+® C: New ideas
+
+2. Relationship processes
+D: Thinking of therapist
+E: Imagined dialogue
+
+3. Reflecting treatment
+® F: Last session
+® G: Basic conditions
+® H: Next session
+
+4. Therapy-related emotions
+© |: Positive emotions
+© J: Negative emotions
+
+5. Time variables
+© K: Days since last session
+
+Figure 2. Network of contemporaneous associations of intersession processes. Only edges that surpass the FDR-corrected significance level
+are visualized. Thicker, darker edges represent stronger connections. Solid edges indicate positive correlations while dashed edges indicate
+negative correlations.
+ 1068 T. Kater and A.-R. Laitreiter
+
+Table II. Centrality measures for the time-lagged network of intersession process items and distance to the last therapy session. The higher a
+
+centrality index, the stronger the influence of the item in the network.
+
+Item Instrength Outstrength Betweenness EI Step 1 EI Step 2
+Remembered events 0.28 0.91 18 1.19 0.94
+Problem-solving 0.47 0.20 12 —0.12 0.10
+New ideas 0.13 0.00 0 0.13 0.11
+Thinking of therapist 0.68 0.10 7 —0.02 0.50
+Imagined dialogue 0.09 0.26 0 0.17 0.23
+Last session 0.36 0.83 25 —0.84 —0.53
+Basic conditions 0.45 0.38 2 —0.65 —0.36
+Next session 0.35 0.25 0) 0.21 0.53
+Positive emotions 0.67 0.37 24 —0.03 0.71
+Negative emotions 0.27 0.50 3 —0.25 0.26
+Distance to last session .08 0.00 0 —0.08 —0.07
+
+Note. EI = Expected Influence, as explained in the methods section.
+
+Table III. Centrality measures for the contemporaneous network of intersession process items and distance to the last therapy session. The
+higher a centrality index, the stronger the influence of the item in the network.
+
+Item Strengh Betweenness EI Step 1 EI Step 2
+Remembered events 0.79 1 0.79 1.29
+Problem-solving 0.48 0 0.48 0.78
+New ideas 0.74 5 0.47 0.86
+Thinking of therapist 1.04 9 1.04 1.81
+Imagined dialogue 0.89 16 0.89 1.51
+Last session 0.46 0 0.46 0.86
+Basic conditions 0.21 0 0.21 0.36
+Next session 0.81 15 0.81 1.30
+Positive emotions 0.66 6 0.66 1.10
+Negative emotions 0.40 0 0.12 0.28
+Distance to last session 0.09 0 0.09 0.16
+
+Note. For contemporary networks, node strength cannot be divided into in- and outstrength because the direction of associations is unknown.
+
+EI = Expected Influence.
+
+highest for nodes that are important for transferring
+information along the network because they link
+nodes to each other. The “last session” and “positive
+emotions” items are an example for this. Expected
+influence scores add to this information by indicating
+the direction of a node’s influence. This is especially
+helpful when interpreting the outstrength of items.
+“Remembered events” has a high positive expected
+influence, so its strong influence on other nodes is
+positive. An increase in this item predicts an increase
+of scores in connected nodes. Conversely, the “last
+session” item has a high outstrength, too, but its
+expected influence scores are negative. This means
+that its influence on connected nodes is negative.
+Similar interpretations are possible for the central-
+ity measures for the contemporaneous network sum-
+marized in Table III. Even though inferences on the
+direction of influences cannot be made in this kind
+of network, relationship processes were identified to
+be most influential in this network, and most strongly
+connected to other nodes. Epskamp and Fried (2016)
+argue that partial contemporaneous correlations in
+networks can serve as exploratory indicators of
+
+causal influence (Appendix 4). Thus, this network
+still conveys important information about the “intra-
+day” influence among intersession processes.
+
+Discussion
+
+We successfully derived a network structure of daily
+reports on intersession processes, showing significant
+temporal and contemporaneous effects and associ-
+ation. This can be considered a first look into the
+dynamics of intersession processes in ambulatory
+psychotherapies.
+
+The most influential nodes in the estimated tem-
+poral network were both related to reflection on the
+last therapy session. The first one asked if the
+patient “remembered or thought about events in the
+last session,” was shown to increase the intensity of
+other ISP items, as indicated by its high positive
+expected influence. To a lesser degree, reflection on
+what to address in the next session had the same
+function.
+ Another item that addressed session content,
+asking if the patient thought about anything that
+they “could not express freely in the last session,”
+predicts a decrease in ISP intensity. This item’s
+content describes a more critical engagement with
+the last session and could be an indicator of negative
+session evaluation, of frustration or anxiety. If
+patients report thoughts on basic conditions of their
+therapies, this predicted lower ISP intensity as well.
+It is conceivable that a patient with a high value for
+this item is currently busy with a postponed or can-
+celled therapy session. Problems with the payment
+of the sessions are also conceivable. Interestingly,
+in-session hindering events have also been associated
+with basic conditions like time and the pace of treat-
+ment in a qualitative study by Richards and Timulak
+(2012). Negative treatment-related emotions sup-
+pressed ISP activity as well, but to a much lesser
+extent than other items with negative expected
+influence.
+
+‘The node, which stands for positive emotions, had
+positive and negative influences on other nodes.
+However, the affected nodes had a positive influence
+in the network. This is reflected by the low step-1
+expected influence and the high step-2 expected
+influence of positive emotions. This node also has a
+high “betweenness” score, indicating that it is a
+“bridge node” and thus relays information across
+the network. Negative treatment-related emotions
+suppress other ISP scores in the first step while the
+connected nodes mainly have a positive influence
+on the network. Positive treatment-related emotions
+predicted favourable outcomes in the study con-
+ducted by Zeeck and Hartmann (2005) while nega-
+tive emotions predicted poorer outcome. At the
+day-to-day level, we found negative treatment-
+related emotions to have a damping function in the
+network model, decreasing the occurrence of other
+processes. This damping influence is in in alignment
+with previous findings stating that negative treat-
+ment-related emotions predicted unfavourable treat-
+ment outcomes (Hartmann et al., 2016).
+
+Relationship-related processes had only a weak
+influence in the temporal network. This could due
+to the relatively high proportion of CBT courses in
+our sample, which is more focused on behavioural
+change and less on working in the therapeutic
+relationship. However, those aspects of the ISP
+were highly influential in the contemporaneous
+network, showing high betweenness and strength
+scores. The causal direction cannot be determined
+in this network, but it is likely that relationship pro-
+cesses play an important role in intra-day ISP.
+Future studies could increase the sampling rate to
+further examine the role of this processes, as more
+frequent recreation of therapeutic dialogue between
+
+Psychotherapy Research 1069
+
+sessions while undergoing therapy was found to
+predict treatment outcome (Zeeck & Hartmann,
+2005). Adding to this finding, Hartmann et al.
+(2016) showed that recreating dialogues was predic-
+tive of negative treatment outcomes when they co-
+occurred with negative emotions.
+
+The integration of our results with those from
+studies using more traditional methods such as
+cross-sectional analyses or multilevel models for
+weekly measurements shows that both approaches
+are important. Our data complement previous
+results by providing a first look at the daily dynamics
+of intersession processes. Given that we found posi-
+tive treatment-related emotions to facilitate the
+propagation of information along the network, this
+could be the mechanism of change that is key for suc-
+cessful therapies.
+
+The “problem-solving” aspect of the ISP was not
+influential in the network, but was strongly influ-
+enced by other nodes, reflected by its instrength. Pro-
+cesses like remembering or applying session content
+can be considered an indicator for the successful
+transfer of therapy contents into a patient’s everyday
+life, including therapeutic homework (Kazantzis,
+Deane, & Ronan, 2000). However, because
+outcome data were not available in our dataset, this
+is merely a speculation. Future studies could
+explore the relationship of these fine mechanics to
+treatment outcome or compare the network struc-
+tures of successful and non-successful therapies.
+Soon, process monitoring systems based on these
+findings could support therapists in planning and
+adjusting their treatments.
+
+Limitations
+
+‘There is several limitations to this study. ‘The focus of
+this study was within-person modelling of intersession
+processes. Thus, the number of participants was low
+when compared to the number of time points and our
+results should be generalized only with caution. Due
+to the exploratory nature of this study, the sample was
+selected based on the availability of data. For this
+reason, the data contain participants from different
+treatment stages and are generally susceptible to
+sampling error. For example, male participants were
+rare in this sample. It could be argued that this accu-
+rately represents the number of men undergoing ambu-
+latory psychotherapy compared to women. In previous
+studies on the intersession process (Hartmann et al.,
+2003, 2011), male participants formed the minority
+as well. ‘The tendency of men to be reluctant in recog-
+nizing mental health problems has been established
+for decades (e.g., Horwitz, 1977). Additionally, the
+average amount of time points allowed patients to
+ 1070 T. Kaiser and A.-R. Laireiter
+
+attain only between four and nine sessions of psy-
+chotherapy. ‘hus, the data should not be interpreted
+as representative of a whole course of psychotherapy.
+
+Psychometrically, it is debatable whether single-
+item scales are useful to measure treatment-related
+emotions. While single-item measures of positive
+and negative affect were shown to be useful (Hoepp-
+ner, Kelly, Urbanoski, & Slaymaker, 2011) further
+data on the validity of the proposed treatment-
+related emotion items are needed.
+
+The daily questionnaires measuring ISP could
+have influenced ISP frequency and intensity as well.
+Patients might not have any thoughts about their
+therapist at all if they were never asked about it. Pro-
+cesses that might take place in a more implicit (or
+unconscious) manner could become explicit when
+measured.
+
+Outlook and Future Work
+
+As already suggested by Jones et al. (2017) for
+network models in clinical psychology, this study
+goes beyond symptoms. Future studies with larger,
+more balanced datasets should examine whether
+intersession processes play a causal role in reducing
+symptoms. This can provide important insights into
+the mechanisms of action of psychotherapy. Monitor-
+ing of intersession processes could also improve the
+understanding of sudden symptom _ reductions
+(sudden gains, Tang and DeRubeis, 1999). ‘These
+sudden changes are in turn predictive of overall
+therapy outcome (Aderka et al., 2012). Sudden
+gains have been identified using post-session ques-
+tionnaires and were linked to patient-rated quality
+of the therapeutic relationship (Lutz et al., 2013).
+
+A warm interpersonal style reported by therapists 1s
+a positive predictor of patient-reported outcomes,
+while a lack of empathy and negative emotions
+towards their patients were negative predictors
+(Nissen-Lie, Havik, Hoglend, Monsen, &
+Rennestad, 2013). It can be speculated that these
+global therapeutic orientations can lead to specific
+dynamics in intersession processes. If a therapist
+engages the patient in a warm and empathic way,
+this might foster positive treatment-related emotions,
+while the opposite could be true if negative personal
+reactions dominate the treatment sessions.
+
+Future studies could relate network centrality of
+intersession processes to other important variables
+in psychotherapy. This would require larger
+samples, so that individual network models could
+be derived, but possibly yields interesting findings.
+For example, the centrality of negative treatment-
+related emotions could be related to less favourable
+outcomes. Conversely, an idiographic approach
+
+could be taken, with single case evaluations or
+small-N designs that contrast intensive repeated
+measurements of intersession processes and symp-
+toms with qualitative data on details of the treatment
+course. This is advisable especially for the study of
+longer and more complex treatments like personality
+disorders. It could be speculated that the temporal
+dynamics (i.e., the correlational structure) change
+with the course of treatment. ‘Thus, the application
+of Mixed Graphical Models (Haslbeck & Waldorp,
+2015) to longer time series of ISP could prove to be
+a fruitful undertaking.
+
+In conclusion, it can be said that researchers with
+daily surveys of the proposed items can improve the
+temporal resolution with which change processes in
+psychotherapy can be observed.
+
+Acknowledgements
+
+We would like to thank Nadine Scharnowski (Uni-
+versity of Kassel, Germany) for providing us with
+the German translation of the Unified Protocol.
+
+ORCID
+Tim Kaiser © http://orcid.org/0000-0002-6307-5347
+
+References
+
+Aderka, I. M, Nickerson, A, Boe, H. J, & Hofmann, S. G. (2012).
+Sudden gains during psychological treatments of anxiety and
+depression: A meta-analysis. fournal of consulting and clinical psy-
+chology, 80(1), 93-101. 10.1037/a0026455
+
+Barlow, D. H. (ed.). (2011). Unified protocol for transdiagnostic treat-
+ment of emotional disorders: therapist guide. New York: Oxford
+University Press.
+
+Borsboom, D. (2017). A network theory of mental disorders. World
+Psychiatry, 16(1), 5-13. doi:10.1002/wps.20375
+
+Cronbach, L. J., & Furby, L. (1970). How we should measure
+“change”: Or should we? Psychological Bulletin, 74(1), 68-80.
+
+Epskamp, S., Bringmann, M. K. D., & F, L. (2017). mlVAR:
+Multi-Level Vector Autoregression (Version 0.4). Retrieved
+from https://CRAN.R-project.org/package=mlIVAR.
+
+Epskamp, S., Cramer, A. O. J., Waldorp, L. J., Schmittmann, V.
+D., & Borsboom, D. (2012). QGraph: Network visualizations
+of relationships in psychometric data. Journal of Statistical
+Software, 48(4), 1-18.
+
+Epskamp, S., & Fried, E. I. (2016). A tutorial on regularized partial
+correlation networks. ArXiv: 1607.01367 [Stat]. Retrieved from
+http://arxiv.org/abs/1607.01367.
+
+Fisher, A. J. (2015). Toward a dynamic model of psychological
+assessment: Implications for personalized care. Yournal of
+Consulting and Clinical Psychology, 83(4), 825-836. doi:10.
+1037/ccp0000026
+
+Fried, E. I., van Borkulo, C. D., Cramer, A. O. J., Boschloo, L.,
+Schoevers, R. A., & Borsboom, D. (2017). Mental disorders
+as networks of problems: A review of recent insights. Social
+Psychiatry and Psychiatric Epidemiology, 52(1), 1-10. doi:10.
+1007/s00127-016-1319-z
+ Fruchterman, T. M., & Reingold, E. M. (1991). Graph drawing by
+force-directed placement. Software: Practice and Experience, 21
+(11), 1129-1164.
+
+Granger, C. W. J. (1969). Investigating causal relations by econo-
+metric models and cross-spectral methods. Econometrica, 37(3),
+424-438. doi:10.2307/1912791
+
+Hardt, J., Egle, U. T., Kappis, B., Hessel, A., & Brahler, E. (2004).
+Die Symptom-Checkliste SCL-27. PPmP-Psychotherapil?|
+Psychosomatik® Medizinische Psychologie, 54(05), 214-223.
+
+Hartmann, A., Orlinsky, D. E., Geller, J. D., & Zeeck, A. (2003).
+[The Intersession Questionnaire—an inventory for the
+measurement of patients’ processing of psychotherapy
+between sessions]. Psychotherapie, Psychosomatik, Medizinische
+Psychologie, 53(11), 464-468.
+
+Hartmann, A., Orlinsky, D., Weber, S., Sandholz, A., & Zeeck, A.
+(2010). Session and intersession experience related to treatment
+outcome in bulimia nervosa. Psychotherapy: Theory, Research,
+Practice, Training, 47(3), 355-370. doi:10.1037/a0021166
+
+Hartmann, A., Orlinsky, D., & Zeeck, A. (2011). The structure of
+intersession experience in psychotherapy and its relation to the
+therapeutic alliance. fournal of Clinical Psychology, 67(10),
+1044-1063. doi:10.1002/jclp.20826
+
+Hartmann, A., Zeeck, A., Herzog, W., Wild, B., de Zwaan, M.,
+Herpertz, S., & Zipfel, S. (2016). The intersession process in
+psychotherapy for anorexia nervosa: Characteristics and
+relation to outcome: intersession process and outcome in anor-
+exia nervosa. Fournal of Clinical Psychology, doi:10.1002/jclp.
+22293
+
+Haslbeck, J. M. B., & Waldorp, L. J. (2015). mgm: Estimating
+time-varying mixed graphical models in high-dimensional
+data. ArXiv, 1510.06871. [Stat]. Retrieved from http://arxiv.
+org/abs/1510.06871.
+
+Heeren, A., & McNally, R. J. (2016). An integrative network
+approach to social anxiety disorder: The complex dynamic
+interplay among attentional bias for threat, attentional control,
+and symptoms. Journal of Anxiety Disorders, 42, 95-104.
+doi:10.1016/j.janxdis.2016.06.009
+
+Hoeppner, B. B., Kelly, J. F., Urbanoski, K. A., & Slaymaker, V.
+(2011). Comparative utility of a single-item vs. multiple-item
+measure of self-efficacy in predicting relapse among young
+adults. fournal of Substance Abuse Treatment, 41(3), 305-312.
+doi:10.1016/j.jsat.2011.04.005
+
+Hoorelbeke, K., Marchetti, I., De Schryver, M., & Koster, E. H. W.
+(2016). ‘The interplay between cognitive risk and resilience
+factors in remitted depression: A network analysis. fournal of
+Affective Disorders, 195, 96-104. doi:10.1016/).jad.2016.02.001
+
+Horwitz, A. (1977). The pathways into psychiatric treatment:
+Some differences between men and women. fournal of Health
+and Social Behavior, 18(2), 169-178. doi:10.2307/2955380
+
+Isvoranu, A.-M., Borkulo, V., C, D., Boyette, L.-L., Wigman,
+J. T. W., Vinkers, C. H., & Borsboom, D. (2017). A network
+approach to psychosis: Pathways between childhood trauma
+and psychotic symptoms. Schizophrenia Bulletin, 43(1), 187-
+196. doi:10.1093/schbul/sbw055
+
+Jones, P. (2017). Networktools: Tools for identifying important nodes in
+networks. Retrieved from https://CRAN.R-project.org/package=
+networktools
+
+Jones, P. J., Heeren, A., & McNally, R. J. (2017). Commentary: A
+network theory of mental disorders. Frontiers in Psychology, 8,
+doi:10.3389/fpsyg.2017.01305
+
+Kaiser, T., & Laireiter, A. R. (2017). DynAMo: A Modular
+Platform for Monitoring Process, Outcome, and Algorithm-
+Based Treatment Planning in Psychotherapy. #VMIR Medical
+Informatics, 5(3), e20. doi:10.2196/medinform.6808
+
+Kazantzis, N., Deane, F. P., & Ronan, K. R. (2000). Homework
+assignments in cognitive and behavioral therapy: A meta-analy-
+sis. Clinical Psychology: Science and Practice, 7(2), 189-202.
+
+Psychotherapy Research 1071
+
+Kroenke, K., Spitzer, R. L., & Williams, J. B. W. (2001). The
+PHQ-9: Validity of a brief depression severity measure.
+Fournal of General Internal Medicine, 16(9), 606-613. doi:10.
+1046/.1525-1497.2001.016009606.x
+
+Kroeze, R., van der Veen, D. C., Servaas, M. N., Bastiaansen, J.
+A., Voshaar, R. C. O., Borsboom, D., & Riese, H. (2017).
+Personalized feedback on symptom dynamics of psychopathol-
+ogy: A proof-of-principle study. Journal for Person-Oriented
+Research, 3(1), 1-11. doi:10.17505/jpor.2017.01
+
+Kwiatkowski, D., Phillips, P. C., Schmidt, P., & Shin, Y. (1992).
+Testing the null hypothesis of stationarity against the alternative
+of a unit root: How sure are we that economic time series have a
+unit root? Journal of Econometrics, 54(1—3), 159-178.
+
+Lutz, W, Ehrlich, TI, Rubel, J, Hallwachs, N, Rottger, M A, Jorasz,
+C, & Mocanu, S. (2013). The ups and downs of psychotherapy:
+Sudden gains and sudden losses identified with session reports.
+Psychotherapy Research, 23(1), 14-24. doi:10.1080/10503307.
+2012.693837
+
+Molenaar, P. C. M. (2004). A Manifesto on Psychology as
+Idiographic Science: Bringing the Person Back Into Scientific
+Psychology, This Time Forever. Measurement: Interdisciplinary
+Research and Perspectives, 2(4), 201-218. doi:10.1207/
+s15366359mea0204_1
+
+Molenaar, P. C. M. (2013). On the necessity to use person-specific
+data analysis approaches in psychology. European Fournal of
+Developmental Psychology, 1001), 29-39.  doi:10.1080/
+17405629.2012.747435
+
+Nissen-Lie, H. A., Havik, O. E., Hoglend, P. A., Monsen, J. T., &
+Ronnestad, M. H. (2013). The contribution of the quality of
+therapists’ personal lives to the development of the working alli-
+ance. Fournal of Counseling Psychology, 60(4), 483-495. doi:10.
+1037/a0033643
+
+Orlinsky, D. E., Geller, J. D., Tarragona, M., & Farber, B. (1993).
+Patients’ representations of psychotherapy: A new focus for psy-
+chodynamic research. fFournal of Consulting and Clinical
+Psychology, 61(4), 596-610. doi:10.1037/0022-006X.61.4.596
+
+Richards, D., & Timulak, L. (2012). Client-identified helpful and
+hindering events in therapist-delivered vs. self-administered
+online cognitive-behavioural treatments for depression in
+college students. Counselling Psychology Quarterly, 25(3), 251-
+262. doi:10.1080/09515070.2012.703129
+
+Robinaugh, D. J., Millner, A. J., & McNally, R. J. (2016).
+Identifying highly influential nodes in the complicated grief
+network. Yournal of Abnormal Psychology, 125(6), 747-757.
+doi:10.1037/abn0000181
+
+Roche, M. J., Pincus, A. L., Rebar, A. L., Conroy, D. E., & Ram,
+N. (2014). Enriching psychological assessment using a person-
+specific analysis of interpersonal processes in daily life.
+Assessment, 21, doi:10.1177/1073191114540320
+
+Schréder, T., Wiseman, H., & Orlinsky, D. (2009). “You were
+always on my mind”: Therapists’ intersession experiences in
+relation to their therapeutic practice, professional character-
+istics, and quality of life. Psychotherapy Research, 19(1), 42-53.
+doi:10.1080/10503300802326053
+
+Spitzer, R. L., Kroenke, K., Williams, J. B., & Lowe, B. (2006). A
+brief measure for assessing generalized anxiety disorder: The
+GAD-7. Archives of Internal Medicine, 166(10), 1092-1097.
+
+Tang, T. Z, & DeRubeis, R. J. (1999). Sudden gains and critical
+sessions in cognitive-behavioral therapy for depression. Journal
+of consulting and chnical psychology, 67(6), 894—904. doi:10.
+1037/0022-006X.67.6.894
+
+Tschacher, W., & Ramseyer, F. (2009). Modeling psychother-
+apy process by time-series panel analysis (ISPA).
+Psychotherapy Research, 19(4—5), 469-481. doi:10.1080/
+10503300802654496
+
+Wright, A. G. C., Beltz, A. M., Gates, K. M., Molenaar, P. C. M.,
+& Simms, L. J. (2015). Examining the dynamic structure of
+ 1072 JT. Katser and A.-R. Laitreiter
+
+daily internalizing and externalizing behavior at multiple levels of analysis. Frontiers in Psychology, 6, doi:10.3389/fpsyg.2015.01914
+Zeeck, A., & Hartmann, A. (2005). Relating therapeutic process to outcome: Are there predictors for the short-term course in anorexic
+patients? European Eating Disorders Review, 13(4), 245-254. doi:10.1002/erv.646
+Zeeck, A., Hartmann, A., Wild, B., De Zwaan, M., Herpertz, S., & Burgmer, M. ... The Antop Study Group (2016). How do patients with
+anorexia nervosa “process” psychotherapy between sessions? A comparison of cognitive—behavioral and psychodynamic interventions.
+Psychotherapy Research, 1-14. doi:10.1080/10503307.2016.1252866
+
+Appendices
+
+Appendix 1 Overview of participants including recruiting source (private practice vs. university centre), basic
+demographic data, diagnoses, treatment approach and number of therapy sessions already undergone before
+the beginning of EMA assessments
+
+No. Recruited Age Sex Primary Diagnosis Approach No. of sessions No. of measurements Intake symptom score
+1 PP 23 F MDD CBT 11-20 45 1.74
+2 PP 24 F Anorexia, MDD PA < 10 49 2.07
+3 PP 47 F Bulimia PA > 100 52 2.30
+4 UC 51 M MDD, SAD CBT 21-30 62 1.58
+5 PP 28 F MDD PA 31-50 48 1.81
+6 PP 32 F PTSD HUM 11-20 57 1.63
+7 PP 36 F Adjustment Disorder HUM 11-20 24 2.22
+8 PP 22 F Anorexia HUM 21-30 63 2.41
+9 PP 26 F MDD PA 11-20 45 1.60
+10 UC 30 F BPD CBT 11-20 53 1.92
+11 UC 26 M MDD CBT 21-30 47 1.5
+12 UC 39 F GAD CBT 31-50 47 1.2
+13 UC 24 F GAD, MDD CBT 21-30 54 1.42
+14 UC 19 F SAD CBT 0 49 2
+
+15 UC 20 F MDD, SAD CBT 0 53 1.83
+16 UC 27 F GAD CBT 0 55 1.5
+17 UC 24 M SAD CBT 0 33 1.5
+18 UC 31 F MDD, GAD CBT 0 33 2.33
+19 UC 35 F GAD CBT 0 33 1.92
+20 UC 20 F SAD CBT 0 36 1.42
+21 UC 19 F DEP CBT 0 43 1.25
+22 UC 34 F SAD CBT 0 45 2
+
+Notes. PP = Private practice, UC = University centre, MDD = Major depressive disorder, BPD = Borderline personality disorder, PT'SD =
+Post-traumatic stress disorder, SAD = Social anxiety disorder, GAD = Generalized anxiety disorder. CBT = Cognitive-behavioral therapy,
+PA = Psychoanalysis, HUM = Humanistic Approach (mainly person-centred therapy following Carl Rogers). Intake scores for PP patients are
+SCL-27 GSI, intake scores for UC patients are mean GHQ-12 scores.
+
+Appendix 2. Proposed scales and items used in the short daily intersession questionnaire
+
+Scale
+
+Item text
+
+Reflecting treatment
+
+Relationship processes
+
+Problem-solving
+
+‘Therapy-related emotions
+
+Did you think about anything that you could not express freely in the last session today?
+
+Did you think about basic conditions (e.g., costs or appointments) of your therapy today?
+
+Did you think of anything that you would like to address in the next session today?
+
+Did you think of your therapist today?
+
+Have you imagined a dialogue with your therapist today?
+
+Have you remembered or thought about events in the last session today?
+
+Did you try solving problems the way you discussed with your therapist today?
+
+Did you have new ideas concerning something that you already discussed with your therapist today?
+
+Did you have positive emotions (e.g., relief, hope, confidence, security) concerning your therapy today?
+Did you have negative emotions (e.g., anxiety, frustration, sadness, hurt) concerning your therapy today?
+
+Note. Items are scored from 0 (not at all) to 100 (all the time). Therapy-related emotions are not meant to be scored as a scale, but as single
+
+items.
+ Psychotherapy Research 1073
+
+Appendix 3. Partial directed correlation matrix of intersession process items and temporal distance to the last
+
+session
+
+Item A B C D E F G H I J K
+A Remembered events .26 —.02 .03 .06 —.07 —.03 —.06 .09 19 .09 Ol
+B Solving problems —.04 41 05 07 14 —.17 .02 .08 —.04 —.16 O01
+C New ideas —.04 13 28 .05 .10 —.01 .00 .O7 —.03 —.08 04
+D Thinking of therapist 13 —.03 —.02 —.02 12 —.19 —.11 13 .08 .O1 02
+
+E Imagined dialogue .02 07 04 .03 .37 —.09 —.03 05 —.08 —.08 .06
+F Last session 17 —.07 .05 —.10 .06 18 —.08 .08 —.02 —.06 .O1
+G Basic conditions .09 .00 .02 —.01 .00 —.09 44 —.02 —.11 —.16 —.02
+H Next session 15 .03 .05 .00 10 —.11 —.09 .26 —.10 —.05 .03
+I Positive emotions .20 —.07 .04 —.01 —.01 —.19 —.05 12 .29 —.09 —.03
+J Negative emotions 18 —.07 .03 04 —.04 —.02 —.10 —.04 —.09 .30 —.01
+K Distance to last session —.01 .0O —.02 Ol .03 —.02 Ol .0O —.08 —.02 .00
+
+Notes. Columns are origin nodes, rows are destination nodes, e.g., Row 10, Column 7 indicates influence of node “Negative emotions” on
+node “Basic conditions.” Correlations printed in bold are significant, p < .05 after FDR correction.
+
+Appendix 4. Partial contemporaneous correlation matrix of intersession process items
+
+A B C D E F G H I J
+A Remembered events —
+B Solving problems 13 —
+C New ideas 11 19 —
+D Thinking of therapist .30 —.06 .02 —
+E Imagined dialogue .09 .06 14 .26 —
+F Last session 13 —.03 .05 13 12 —
+G Basic conditions —.09 .05 Ol .03 .03 .09 —
+H Next session —.01 .03 .06 .08 32 .20 12 —
+I Positive emotions .09 16 15 .26 —.02 Ol .09 12 —
+J Negative emotions 11 —.06 —.14 .05 15 07 .06 —.04 —.01 —
+K Distance to last session —.09 —.05 —.04 Ol —.01 —.01 —.04 .09 —.05 —.01
+
+Note. Correlations printed in bold are significant at the FDR-adjusted alpha level, all p < .05.

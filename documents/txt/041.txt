@@ -1,0 +1,751 @@
+Personality and Individual Differences 165 (2020) 110154
+
+Contents lists available at ScienceDirect eke
+
+Personality and Individual Differences
+
+journal homepage: www.elsevier.com/locate/paid =
+
+State loneliness is associated with emotional hypervigilance in daily life: A
+
+Check for
+
+network analysis Hee
+
+Jie Meng””', Xiaoqgin Wang””', Dongtao Wei””, Jiang Qiu”””
+
+* Key laboratory of cognition and personality (SWU), Ministry of Education, Chongqing 400715, China
+> Department of psychology, Southwest University, Chongqing 400715, China
+
+ARTICLE INFO ABSTRACT
+
+Loneliness is associated with many physical and mental health problems, but the underlying mechanism remains
+unclear. Studies on trait loneliness have found evidence supporting the hypothesis that loneliness is associated
+with hypervigilance for social threats. However, few studies have examined this hypothesis with state loneliness.
+This study aims at testing the hypervigilance hypothesis of loneliness by examining the temporal dynamics
+between state loneliness and the momentary affect in daily life. We measured state loneliness and momentary
+positive and negative affect in 211 college students over a period of 13 days, using the experience sampling
+method. The network analysis revealed that state loneliness has a strong autoregressive effect and is positively
+correlated to sadness, fear, alertness, and hostility in the temporal and contemporaneous networks. In the
+temporal network, state loneliness formed mutually reinforced feedback loops with the feelings of alertness and
+hostility. The between-subject network suggested that the feeling of fear mediated the connections between
+loneliness and alertness, hostility, and anxiety. The centrality analysis showed that loneliness has a high strength
+centrality in the temporal and contemporaneous networks. These findings demonstrate how state loneliness
+
+Keywords:
+
+State loneliness
+
+Positive and negative affect
+Experience sampling method
+Network analysis
+
+interacted with momentary affect in daily life, indicating its association with emotional hypervigilance.
+
+1. Introduction
+
+Loneliness is an aversive experience resulting from a perceived
+discrepancy between people's expected and actual social relationships,
+either quantitatively or qualitatively (Perlman & Peplau, 1982). It has
+recently been considered as a public health problem because of the
+statistical rise in the number of people who report feeling lonely
+(Griffin, 2010; Holt-Lunstad, 2017). Increased loneliness is associated
+with increased depressive symptoms (Cacioppo, Hawkley, & Thisted,
+2010), risk of cardiovascular diseases (Valtorta, Kanaan, Gilbody,
+Ronzi, & Hanratty, 2016), and worsened sleep quality (Hayley et al.,
+2017). More seriously, the impact of loneliness on early mortality is
+higher than obesity and comparable to smoking (Holt-Lunstad, Smith, &
+Layton, 2010). Thus, there is an increasing need to study the me-
+chanism of loneliness to understand how it harms our health.
+
+1.1. The hypervigilance hypothesis of loneliness
+
+According to the evolutionary theory of loneliness (Cacioppo et al.,
+2006; Cacioppo & Cacioppo, 2018), loneliness evolved and served as an
+
+adaptive function motivating individuals to search for social connec-
+tions, as being socially connected is of evolutionary advantage. How-
+ever, since solitary living and within-species aggression significantly
+threaten survival, loneliness also intensifies the tendency of short-term
+self-preservation and enhances vigilance for social threats. Hypervigi-
+lance for social threats produces attentional, confirmatory, and mem-
+orial biases in processing social information (Cacioppo & Hawkley,
+2009). Compared to non-lonely individuals, lonely individuals perceive
+social activities as more threatening, have more negative expectations
+of social interactions, and remember more negative social events. Thus,
+lonely individuals perceive and act more negatively in social interac-
+tions, undermining their chances of forming and maintaining social
+relationships, ultimately resulting in a vicious circle (Cacioppo &
+Hawkley, 2009).
+
+Many studies have shown that loneliness is associated with hy-
+pervigilance for social threats. Experimental studies found that in-
+dividuals suffering a high level of loneliness were more likely to per-
+ceive ambiguous information as threats (Qualter et al., 2013). They are
+more visually attentive to negative social stimuli (Bangee, Harris,
+Bridges, Rotenberg, & Qualter, 2014; Qualter et al., 2013). Studies on
+
+* Corresponding author at: Department of Psychology, Southwest University, Chongqing 400715, China.
+
+E-mail address: qiuj318@swu.edu.cn (J. Qiu).
+' These authors contributed equally to this work
+
+https://doi.org/10.1016/j.paid.2020.110154
+
+Received 2 March 2020; Received in revised form 27 May 2020; Accepted 28 May 2020
+
+Available online 08 June 2020
+0191-8869/ © 2020 Elsevier Ltd. All rights reserved.
+ J. Meng, et al.
+
+neural activity found that lonely individuals exhibit stronger activation
+in the visual cortex and faster neural processing while processing ne-
+gative social stimuli (Cacioppo et al., 2016; Cacioppo, Norris, Decety,
+Monteleone, & Nusbaum, 2009). On the other hand, observational
+studies investigated the affective experience of lonely people in social
+interactions. Studies that used experience sampling method (ESM) re-
+vealed that, compared to socially connected individuals, lonely in-
+dividuals experience more negative and less positive affect in social
+interactions (Hawkley, Preacher, & Cacioppo, 2007). They were also
+more negatively affected by negative companies, suggesting that they
+respond more negatively to social threats (van Roekel et al., 2014; van
+Roekel, Ha, Scholte, Engels, & Verhagen, 2016). Although these ESM
+studies did not examine the objective measures of social threat, the real-
+life paradigms could reflect how lonely individuals respond in actual
+social contexts. Therefore, they were considered as important additions
+to experimental studies (van Roekel et al., 2016).
+
+Most of these studies measured loneliness as a trait, reflecting an
+individual's susceptibility to loneliness in general. However, the mo-
+mentary feeling of loneliness may fluctuate in daily life, influenced by
+different social contexts and company (van Roekel et al., 2018; Van
+Roekel, Scholte, Engels, Goossens, & Verhagen, 2015). Previous ESM
+studies examined the positive and negative affect as averaged scores.
+However, the relationship between loneliness and different emotions
+may be different. According to the hypervigilance hypothesis, as lone-
+liness increases the tendency to perceive and act more negatively,
+feedback loops emerge in the relationship between state loneliness and
+negative momentary affect, indicative of hypervigilance. More specifi-
+cally, state loneliness may increase feelings like fear, alertness, or
+hostility. These feelings also conversely reinforce the feeling of lone-
+liness. Few studies have examined the temporal dynamics between state
+loneliness and momentary affect. The mutually reinforced loops,
+therefore, have not been confirmed in the studies on state loneliness.
+
+1.2. The network approach
+
+This study aims at testing the hypervigilance hypothesis of lone-
+liness by examining the affective consequence of state loneliness. We
+adopted an ESM design for data collection and applied the network
+approach to analyze the temporal dynamics between state loneliness
+and momentary affect in daily life.
+
+The ESM design is suitable for capturing the affective fluctuation, as
+the momentary data are typically collected several times a day for
+several days. Compared to traditional methods, it can minimize recall
+bias and ensures a higher ecological validity (Myin-Germeys et al.,
+2009). As the ESM data contain multiple repeated measurements nested
+within the participants, a multi-level modeling method can be used to
+disaggregate the between-subject and within-subject effects (Hamaker
+& Grasman, 2015).
+
+Recently proposed network perspective has the potential to provide
+a more comprehensive view of dynamic affective mechanisms (Wichers,
+Wigman, & Myin-Germeys, 2015). From the network perspective, psy-
+chological constructs and processes can be represented as complex
+networks of interacting components (Borsboom, 2017; Borsboom &
+Cramer, 2013). For example, daily affect can be represented as a dy-
+namic network that momentary emotions interplay with each other
+over time. The moment-to-moment affect dynamics may play an im-
+portant role in the maintenance of psychological well-being, and spe-
+cific patterns of dynamics may provide information to the emotional
+dysregulation (Kuppens & Verduyn, 2017).
+
+Regarding the analysis of ESM data, recently developed network
+models can produce three networks that characterize different re-
+lationships between psychological variables (Epskamp, Waldorp,
+Mottus, & Borsboom, 2018): temporal network, contemporaneous
+
+Personality and Individual Differences 165 (2020) 110154
+
+network, and between-subject network. The temporal network is a di-
+rected network describing whether variables predict one another over
+time. The connections in this network can imply Granger-causality
+(Schuurman, Ferrer, de Boer-Sonnenschein, & Hamaker, 2016). The
+contemporaneous network represents within time-point correlations
+between variables after statistically adjusting for temporal effects. The
+between-subject network depicts relations between within-subject
+means of the variables. After the network estimation, the relative im-
+portance of the nodes in each network can be evaluated using centrality
+metrics (Costantini et al., 2015).
+
+In this study, we first estimated temporal, contemporaneous, and
+between-subject networks from the ESM data. Thereafter, we examined
+the centrality index of the nodes to evaluate their relative importance.
+We hypothesized that, in the temporal network, loneliness could posi-
+tively predict negative emotions, especially for feelings of alertness,
+hostility, fear, and sadness. The first three could also predict an increase
+in loneliness. In the contemporaneous and between-subject networks,
+we anticipated that loneliness would have positive correlations with
+negative affect and negative correlations with positive affect. As for the
+results of node centrality, we did not have clear expectations because
+few studies had used network metrics to investigate momentary affect.
+
+2. Methods
+2.1. Participants
+
+The participants were recruited through social media (WeChat and
+QQ) and posters from among local university students under the age of
+28 years. For balancing the gender ratio, only male subjects were re-
+cruited in the later stages of recruitment. A total of 232 subjects (106
+males and 126 females) were included in the ESM experiment. In the
+statistical analysis, 21 participants were excluded due to inadequate
+number of responses (less than 20). The mean age of the remaining 211
+participants was 19.81 years (SD = 1.36, range: 18-26), and 55.45% of
+them were females. The Human Participants Review Board of the uni-
+versity approved this study, and all participants provided written in-
+formed consent.
+
+2.2. Procedure
+
+2.2.1. ESM procedure
+
+All the recruited participants join a WeChat (A social media app
+in China) group, and we administered the ESM questionnaires by
+sending web links to this WeChat group. Over 13 days, participants
+were beeped to fill in the questionnaire 5 times a day (from 10 AM to
+10 PM, the average time interval was about 2.5 h). They were asked to
+rate their then-current feelings about loneliness and other positive and
+negative affect on a continuous slider scale, ranging from 0 (not at all)
+to 100 (very much). The participants were informed that the ques-
+tionnaire would be closed 30 min after the beep signal and so they
+needed to respond soon after receiving the beep signal.
+
+2.2.2. Measurements
+
+We measured 10 items to examine the level of state loneliness and
+momentary affect. Three of them measured the level of loneliness:
+“isolated,” “lack companionship,” and “left out.” These items are
+adapted from the revised UCLA loneliness scale (Hughes, Waite,
+Hawkley, & Cacioppo, 2004). The average response of these three items
+was used to represent the level of state loneliness, denoted as “lonely.”
+The remaining items included three positive affect: “happy,” “relaxed,”
+“alert,” and four negative affect: “sad,” “afraid,” “hostile,” and “an-
+xious.” “Afraid,” “hostile,” and “alert” were selected to indicate the
+emotional state of hypervigilance. The other four emotions to cover the
+ J. Meng, et al.
+
+four quadrants of the circumplex model of affect along the axes of va-
+lence and arousal (Posner, Russell, & Peterson, 2005). “Happy” and
+“relaxed” corresponded to high and low arousal in positive affect, and
+“anxious” and “sad” corresponded to high and low arousal in negative
+affect, respectively.
+
+2.3. Statistical analysis
+
+2.3.1. Descriptive statistics
+
+The average number of responses was 54.53 (SD = 13.66), ran-
+ging from 39 to 65. For each ESM variable, a within-subject mean was
+calculated. Subsequently, we calculated the mean and standard devia-
+tions of these within-subject means for all variables. We also reported
+descriptive statistics stratified by gender.
+
+2.3.2. Network estimation
+
+The mlVAR package (version 0.4.4) in R (version 3.6.1) was used to
+estimate the network structures in a two-step implementation
+(Bringmann et al., 2013; Epskamp, Waldorp, et al., 2018). In step 1, the
+temporal and between-subject networks were estimated with multi-
+level vector autoregressive (VAR) models. Each variable was modeled
+by a two-level VAR model as the assessments (Level 1) were nested
+within subjects (Level 2). For each variable, we obtained the regression
+coefficients of the lag-1 predictors and partial correlation coefficients of
+subject-specific means. The fixed effects of lag-1 coefficients were vi-
+sualized as directed connections in the temporal network. Coefficients
+of the subject-specific means were used to construct the between-sub-
+ject network. In step 2, the contemporaneous network was estimated
+with a similar multi-level model from the residuals of step 1. It modeled
+the partial correlations between variables within the same time-points.
+
+We estimated correlated random temporal and contemporaneous
+effects. The first measurement of a day was not regressed on the last
+measurement of the previous day. The statistical threshold was set at
+a = 0.05, and only statistically significant edges were retained. The
+contemporaneous and between-subject networks contain two p values
+for each edge (i.e., one from the regression of node A to node B, the
+other from node B to node A). In these networks, edges were considered
+significant only when their p values were both smaller than the
+threshold. We used the “Fruchterman-Reingold” algorithm to visualize
+the temporal network (Fruchterman & Reingold, 1991). To facilitate
+comparison between networks, the layouts of other two networks were
+set as the same as the temporal network.
+
+2.3.3. Centrality analysis
+
+We only analyzed the strength centrality of the variables as other
+centrality metrics are considered unsuitable for psychological networks
+(Bringmann et al., 2019). The strength centrality is calculated by taking
+the sum of all absolute weights of the directly connected edges of a
+node. In the directed temporal network, it is further subdivided into
+out-strength centrality and in-strength centrality. The former indicates
+how many outgoing edges a node sends to other directly connected
+nodes. The latter indicates how many incoming edges it receives.
+
+2.3.4. Evaluating gender and age effects
+
+Gender and age may influence the level of loneliness (Maes,
+Qualter, Vanhalst, Van den Noortgate, & Goossens, 2019; Mund,
+Freuding, Mobius, Horn, & Neyer, 2020). As the mIVAR package did not
+implement the option of adding subject-level covariates, we performed
+the following analysis to evaluate the potential gender and age effects:
+(1) We removed the data of 9 participants aged above 22 years and re-
+estimated the networks. (2) For each variable, we ran a multilevel
+linear regression model only including age and gender as subject-level
+covariates and re-estimated the networks using the residuals. We then
+
+Personality and Individual Differences 165 (2020) 110154
+
+Table 1
+
+The descriptive statistics of within-subject means of the ESM variables.
+Variables M SD
+Happy 51.52 18.23
+Relaxed 44.37 16.60
+Alert 13.59 13.75
+Lonely 14.25 13.74
+Sad 16.68 13.12
+Afraid 13.35 13.09
+Hostile 11.69 12.48
+Anxious 19.29 14.93
+
+compared the re-analyzed networks with the original networks by
+correlating their edge weights.
+
+3. Results
+3.1. Descriptive statistics
+
+Table 1 shows the descriptive statistics of within-subject means of
+the variables. The descriptive statistics stratified by gender are reported
+in the supplementary materials (Table S4).
+
+3.2. The structure of networks
+
+The estimated networks are shown in Figs. 1-3, the coefficients and
+p values of all edges are provided in the supplementary materials (Table
+S1-S3).
+
+Fig. 1 shows the estimated temporal network of the eight variables.
+All the remained edges are positive in sign, which means when an
+emotion increased it tended to increase itself and other emotions in the
+next time-point. The strongest temporal effects were autoregressive
+effects: “lonely (0.19),” “happy (0.16),” and “relaxed (0.12).” State
+loneliness positively predicted “sad (0.11),” “hostile (0.07),” “alert
+(0.06),” and “afraid (0.06).” On the other hand, “hostile (0.03),” “alert
+(0.05),” and “anxious (0.02)” also positively predicted loneliness. These
+created feedback loops between loneliness and “alert” and between
+loneliness and “hostile.” Although “afraid” did not positively connect to
+loneliness, it interconnected with the nodes predictive of loneliness:
+“alert (0.07),” “hostile (0.05),” and “anxious (0.07).”
+
+Fig. 2 shows the contemporaneous network of the eight variables.
+The nodes can be divided into two clusters: a positive cluster containing
+“happy” and “relaxed,” and a negative cluster including “lonely,”
+“alert,” “sad,” “afraid,” “hostile,” and “anxious.” These nodes were
+positively and densely interconnected within the cluster and negatively
+connected to nodes in the other cluster. State loneliness positively
+connected with all the negative nodes and negatively correlated to
+“happy.” Among these connections, the strongest edges were “lonely”
+to “sad (0.18),” “lonely” to “hostile (0.17),” and “lonely” to “afraid
+(0.15).”
+
+As shown in Fig. 3, the structures of between-subject and con-
+temporaneous networks were similar. However, the connections of the
+between-subject network were more sparse. In this network, “lonely”
+positively connected to “sad,” “afraid,” and “relaxed.” It negatively
+connected to “happy.” It did not directly connect to “hostile” and
+“alert.” “Afraid” was strongly connected to “alert (0.43)” and “hostile
+(0.39).”
+
+3.3. Centrality analysis
+
+Fig. 4 shows the centrality values of all nodes, and the values are
+standardized for each network. “Lonely” had the highest out-strength
+ J. Meng, et al.
+
+0.16
+
+happy |
+
+relaxed
+
+0.11
+
+0.19
+
+centrality in the temporal network and a high strength centrality in the
+contemporaneous network. “Sad” had a low out-strength centrality but
+a high in-strength centrality. “Afraid” was high in both the out-strength
+and in-strength centrality.
+
+3.4. The effects of gender and age
+
+The network structures remained nearly unchanged after excluding
+older participants. All the Pearson correlation coefficients between edge
+weights of the re-analyzed networks and edge weights of the original
+networks were above 0.99 (temporal: 0.991, contemporaneous: 0.999,
+between-subject: 0.998).
+
+The results of the multilevel linear regressions are provided in the
+supplementary materials (Table S5). The fixed effects of gender and age
+did not significantly affect the measured variables. The network struc-
+tures of the residuals were also highly consistent with the original re-
+sults (all the Pearson correlation coefficients of the 3 networks were
+above 0.99).
+
+4. Discussion
+
+In this study, we examined the interactions between state loneliness
+and the other momentary affect using a network approach. State
+loneliness had a strong autoregressive effect and was positively corre-
+lated with daily feelings of sadness, fear, alertness, and hostility in the
+temporal and contemporaneous networks. In the temporal network,
+state loneliness formed mutually reinforced feedback loops with the
+feelings of alertness and hostility. These findings demonstrated how
+state loneliness interacted with momentary affect in daily life, in-
+dicating its association with emotional hypervigilance.
+
+Our network analysis suggested that state loneliness is associated
+with emotional hypervigilance in daily life. The directed cross-lagged
+
+Personality and Individual Differences 165 (2020) 110154
+
+Fig. 1. The temporal network. Arrows represent the
+lag-1 predictions between variables. The loops re-
+present autoregressive effects. Blue edges denote
+positive connections. The values represent the
+strength of regression coefficients. Thicker edges
+represent stronger connections. (For interpretation
+of the references to color in this figure legend, the
+reader is referred to the web version of this article.)
+
+sad
+
+effects in the temporal network indicated that change of state loneliness
+is predictive of the negative affect, suggesting potential causal path-
+ways. The contemporaneous connections implied that the interactions
+between these emotions unfold rapidly, within the time frame of two to
+three hours in our case. According to the evolutionary theory of lone-
+liness, loneliness triggers hypervigilance for social threats (Cacioppo &
+Cacioppo, 2018). Consistently, previous studies found that lonely in-
+dividuals allocate more attention resources to negative social stimuli
+(Bangee et al., 2014; Cacioppo et al., 2009; S. Cacioppo et al., 2016;
+Qualter et al., 2013) and perceive more negatively in social interactions
+(Hawkley et al., 2007; Qualter et al., 2013). In addition to the findings
+of trait loneliness, our study showed that state loneliness in daily life
+positively predicts feelings of sadness, fear, hostility, and alertness,
+which provided a more detailed description of affective interactions in
+line with the hypervigilance hypothesis. Further, the feedback loops
+illustrate possible pathways to the emergence of chronic loneliness.
+
+The strong autoregressive effect in the temporal network suggested
+that loneliness is slow in emotional dynamics and tends to sustain over
+time. The autoregressive parameter is considered as a measure of
+emotional inertia or regulatory weakness (Hamaker & Grasman, 2015).
+The high emotional inertia may be one of the reasons for the association
+between loneliness and low psychological well-being. A recent meta-
+analysis investigating dynamic fluctuations in daily emotions showed
+that slower recovery to a normative state is associated with lower levels
+of psychological well-being, particularly for negative affect (Myin-
+Germeys et al., 2018). Consistent with our findings, a previous ESM
+study also found that loneliness has a strong autoregressive effect (van
+Winkel et al., 2017).
+
+The centrality analysis suggested that state loneliness plays an ac-
+tive role in daily emotional dynamics. A node with a high strength
+centrality tends to interact with many nodes in the network. High out-
+strength and low in-strength centrality suggested that loneliness is
+ J. Meng, et al.
+
+relaxed
+
+likely to trigger other negative emotions but less likely to be influenced
+by the others. In contrast, the node “sad” had low out-strength but high
+in-strength centrality, implying that people tend to feel sad when other
+negative affect increases. Together with a high strength centrality in the
+contemporaneous network, loneliness has a high potential to influence
+other emotions. Consistently, a previous study showed that change in
+loneliness could lead to changes in a constellation of socioemotional
+states, including positive and negative mood, optimism, and self-esteem
+(Cacioppo et al., 2006). Therefore, the current result suggested that
+targeting loneliness for intervention might effectively reduce negative
+affect in daily life.
+
+The result of the between-subject network has implications for the
+mediation effects of “afraid” on individual differences of loneliness.
+Since indirect connections of the partial correlation networks can be
+indicative of mediation effects (Epskamp & Fried, 2018), the result
+suggested that “afraid” mediates the links between loneliness and
+feelings of alertness, hostility, and anxiety. Consistently, the temporal
+network also showed a similar pattern. Loneliness positively predicted
+“afraid,” but not vice versa. “Alert,” “hostile,” and “anxious” were all
+interconnected with “afraid”. Finally, “afraid” was high on both the
+out-strength and in-strength centrality. Altogether, these results sug-
+gested that the susceptibility of feeling afraid might play as a mediator
+that contributes to individual differences of loneliness.
+
+4.1. Limitations
+
+This study has several limitations. The first one relates to sample
+and data. The participants were not screened for neurological or psy-
+chiatric disorders. This may affect the generalizability of our conclu-
+sions as we cannot rule out the potential confounding effects of mental
+diseases. It is unlikely that the full emotional process was captured
+
+Personality and Individual Differences 165 (2020) 110154
+
+Fig. 2. The contemporaneous network. Edges re-
+present partial correlations between variables. Blue
+edges denote positive connections, and red edges
+denote negative connections. The values represent
+the strength of partial correlations. Thicker edges
+represent stronger connections. (For interpretation
+of the references to color in this figure legend, the
+reader is referred to the web version of this article.)
+
+given the limited number of variables used in this study. Further, since
+we did not measure social interactions and contexts, we cannot examine
+how these influenced state loneliness and affective dynamics. Future
+studies could benefit from collecting more relevant information about
+daily affect, social contexts, and social interactions.
+
+The second limitation relates to statistical methods. The stationary
+assumption of variables for the multi-level VAR modeling might not
+hold. Using a time-varying model can be helpful for future studies if
+more observations are available (Bringmann, Ferrer, Hamaker,
+Borsboom, & Tuerlinckx, 2018). We cannot evaluate the accuracy and
+stability of our network models as the currently available methods only
+apply to cross-sectional data (Epskamp, Borsboom, & Fried, 2018).
+
+The third one relates to causal interpretation. The connections es-
+timated in networks were analyzed based on observational data.
+Without experimental design, this study can only indicate potential
+causal relations.
+
+4.2. Conclusion
+
+Using the network approach, this study provided a more detailed
+description of temporal dynamics between state loneliness and mo-
+mentary affect in daily life. We found that increased state loneliness is
+associated with emotional hypervigilance.
+
+CRediT authorship contribution statement
+
+Jie Meng:Conceptualization, Methodology, Formal analysis,
+Writing - original draft.Xiaogin  Wang:Conceptualization,
+Methodology, Investigation, Data curation.Dongtao Wei:Writing -
+review & editing.Jiang OQiu:Supervision, Funding acquisition.
+ J. Meng, et al.
+
+Personality and Individual Differences 165 (2020) 110154
+
+Fig. 3. The between-subject network. Edges re-
+present partial correlations between variables. Blue
+edges denote positive connections, and red edges
+denote negative connections. The values represent
+the strength of partial correlations. Thicker edges
+represent stronger connections. (For interpretation
+of the references to color in this figure legend, the
+reader is referred to the web version of this article.)
+
+relaxed
+04
+Temporal Contemporaneous Between-subjects
+OutStrength InStrength Strength Strength
+
+sad 5
+relaxed 5
+lonely 5
+hostile 4
+happy *
+anxious 5
+alert >
+afraid 5
+
+-1.0-0.50.0 0.5 1.01.5 -1 0 1 -1.5-1.0-0.50.0 0.5 1.0 1.5 1 0 14. 2
+
+Fig. 4. The strength centrality indices of the ESM variables. The values were standardized for each network.
+Acknowledgements Jiang Scholars Program, National Outstanding Young People Plan, and
+
+This research was supported by the National Natural Science
+Foundation of China (31771231, 31800950), Natural Science
+Foundation of Chongqing (cstc2019jcyj-msxmX0520), Social Science
+Planning Project of Chongqing (2018PY80) and Fundamental Research
+Funds for the Central Universities (SWU119007, SWU1809358), Chang
+
+Chongqing Talent Program.
+
+Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at https://
+doi.org/10.1016/j.paid.2020.110154.
+ J. Meng, et al.
+
+References
+
+Bangee, M., Harris, R. A., Bridges, N., Rotenberg, K. J., & Qualter, P. (2014). Loneliness
+and attention to social threat in young adults: Findings from an eye tracker study.
+Personality and Individual Differences, 63, 16-23.
+
+Borsboom, D. (2017). A network theory of mental disorders. World Psychiatry, 16(1),
+5-13.
+
+Borsboom, D., & Cramer, A. O. (2013). Network analysis: an integrative approach to the
+structure of psychopathology. Annual Review of Clinical Psychology, 9, 91-121.
+
+Bringmann, L. F., Elmer, T., Epskamp, S., Krause, R. W., Schoch, D., Wichers, M., &
+Snippe, E. (2019). What do centrality measures measure in psychological networks?
+Journal of Abnormal Psychology, 128(8), 892.
+
+Bringmann, L. F., Ferrer, E., Hamaker, E. L., Borsboom, D., & Tuerlinckx, F. (2018).
+Modeling nonstationary emotion dynamics in dyads using a time-varying vector-
+autoregressive model. Multivariate Behavioral Research, 53(3), 293-314.
+
+Bringmann, L. F., Vissers, N., Wichers, M., Geschwind, N., Kuppens, P., Peeters, F., &
+Tuerlinckx, F. (2013). A network approach to psychopathology: new insights into
+clinical longitudinal data. PLoS One, 8(4), e60188.
+
+Cacioppo, J. T., & Cacioppo, S. (2018). Loneliness in the modern age: An evolutionary
+theory of loneliness (ETL). Advances in experimental social psychology. Vol. 58.
+Advances in experimental social psychology (pp. 127-197). Elsevier.
+
+Cacioppo, J. T., & Hawkley, L. C. (2009). Perceived social isolation and cognition. Trends
+in Cognitive Sciences, 13(10), 447-454.
+
+Cacioppo, J. T., Hawkley, L. C., Ernst, J. M., Burleson, M., Berntson, G. G., Nouriani, B., &
+Spiegel, D. (2006). Loneliness within a nomological net: An evolutionary perspective.
+Journal of Research in Personality, 40(6), 1054-1085.
+
+Cacioppo, J. T., Hawkley, L. C., & Thisted, R. A. (2010). Perceived social isolation makes
+me sad: 5-year cross-lagged analyses of loneliness and depressive symptomatology in
+the Chicago Health, Aging, and Social Relations Study. Psychology and Aging, 25(2),
+453.
+
+Cacioppo, J. T., Norris, C. J., Decety, J., Monteleone, G., & Nusbaum, H. (2009). In the eye
+of the beholder: individual differences in perceived social isolation predict regional
+brain activation to social stimuli. Journal of Cognitive Neuroscience, 21(1), 83-92.
+
+Cacioppo, S., Bangee, M., Balogh, S., Cardenas-Iniguez, C., Qualter, P., & Cacioppo, J. T.
+(2016). Loneliness and implicit attention to social threat: A high-performance elec-
+trical neuroimaging study. Cognitive Neuroscience, 7(1-4), 138-159.
+
+Costantini, G., Epskamp, S., Borsboom, D., Perugini, M., Mottus, R., Waldorp, L. J., &
+Cramer, A. O. (2015). State of the aRt personality research: A tutorial on network
+analysis of personality data in R. Journal of Research in Personality, 54, 13-29.
+
+Epskamp, S., Borsboom, D., & Fried, E. I. (2018). Estimating psychological networks and
+their accuracy: A tutorial paper. Behavior Research Methods, 50(1), 195-212.
+
+Epskamp, S., & Fried, E. I. (2018). A tutorial on regularized partial correlation networks.
+Psychological Methods, 23(4), 617.
+
+Epskamp, S., Waldorp, L. J., Mottus, R., & Borsboom, D. (2018). The Gaussian graphical
+model in cross-sectional and time-series data. Multivariate Behavioral Research, 53(4),
+453-480.
+
+Fruchterman, T. M. J., & Reingold, E. M. (1991). Graph drawing by force-directed pla-
+cement. Software: Practice and Experience, 21(11), 1129-1164. https://doi.org/10.
+1002/spe.4380211102.
+
+Griffin, J. (2010). The lonely society? Mental Health Foundation.
+
+Hamaker, E. L., & Grasman, R. P. (2015). To center or not to center? Investigating inertia
+with a multilevel autoregressive model. Frontiers in Psychology, 5, 1492.
+
+Hawkley, L. C., Preacher, K. J., & Cacioppo, J. T. (2007). Multilevel modeling of social
+interactions and mood in lonely and socially connected individuals: The MacArthur social
+neuroscience studies.
+
+Hayley, A. C., Downey, L. A., Stough, C., Sivertsen, B., Knapstad, M., & @verland, S.
+(2017). Social and emotional loneliness and self-reported difficulty initiating and
+maintaining sleep (DIMS) in a sample of Norwegian university students. Scandinavian
+Journal of Psychology, 58(1), 91-99.
+
+Personality and Individual Differences 165 (2020) 110154
+
+Holt-Lunstad, J. (2017). The potential public health relevance of social isolation and
+loneliness: Prevalence, epidemiology, and risk factors. Public Policy & Aging Report,
+27(4), 127-130.
+
+Holt-Lunstad, J., Smith, T. B., & Layton, J. B. (2010). Social relationships and mortality
+risk: A meta-analytic review. PLoS Medicine, 7(7), e1000316.
+
+Hughes, M. E., Waite, L. J.. Hawkley, L. C., & Cacioppo, J. T. (2004). A short scale for
+measuring loneliness in large surveys: Results from two population-based studies.
+Research on Aging, 26(6), 655-672.
+
+Kuppens, P., & Verduyn, P. (2017). Emotion dynamics. Current Opinion in Psychology, 17,
+22-26.
+
+Maes, M., Qualter, P., Vanhalst, J., Van den Noortgate, W., & Goossens, L. (2019). Gender
+differences in loneliness across the lifespan: A meta-analysis. European Journal of
+Personality, 33(6), 642-654. https://doi.org/10.1002/per.2220.
+
+Mund, M., Freuding, M. M., Mobius, K., Horn, N., & Neyer, F. J. (2020). The stability and
+change of loneliness across the life span: A meta-analysis of longitudinal studies.
+Personality and Social Psychology Review, 24(1), 24-52. https://doi.org/10.1177/
+1088868319850738.
+
+Myin-Germeys, I., Kasanova, Z., Vaessen, T., Vachon, H., Kirtley, O., Viechtbauer, W., &
+Reininghaus, U. (2018). Experience sampling methodology in mental health research:
+New insights and technical developments. World Psychiatry, 17(2), 123-132.
+
+Myin-Germeys, I., Oorschot, M., Collip, D., Lataster, J., Delespaul, P., & Van Os, J. (2009).
+Experience sampling research in psychopathology: Opening the black box of daily
+life. Psychological Medicine, 39(9), 1533-1547.
+
+Perlman, D., & Peplau, L. A. (1982). Theoretical approaches to loneliness. Loneliness: A
+sourcebook of current theory, research and therapy (pp. 123-134). .
+
+Posner, J., Russell, J. A., & Peterson, B. S. (2005). The circumplex model of affect: An
+integrative approach to affective neuroscience, cognitive development, and psycho-
+pathology. Development and Psychopathology, 17(3), 715-734. https://doi.org/10.
+1017/S0954579405050340.
+
+Qualter, P., Rotenberg, K., Barrett, L., Henzi, P., Barlow, A., Stylianou, M., & Harris, R. A.
+(2013). Investigating hypervigilance for social threat of lonely children. Journal of
+Abnormal Child Psychology, 41(2), 325-338.
+
+Schuurman, N. K., Ferrer, E., de Boer-Sonnenschein, M., & Hamaker, E. L. (2016). How to
+compare cross-lagged associations in a multilevel autoregressive model. Psychological
+Methods, 21(2), 206.
+
+Valtorta, N. K., Kanaan, M., Gilbody, S., Ronzi, S., & Hanratty, B. (2016). Loneliness and
+social isolation as risk factors for coronary heart disease and stroke: Systematic re-
+view and meta-analysis of longitudinal observational studies. Heart, 102(13),
+1009-1016.
+
+van Roekel, E., Goossens, L., Verhagen, M., Wouters, S., Engels, R. C., & Scholte, R. H.
+(2014). Loneliness, affect, and adolescents’ appraisals of company: An experience
+sampling method study. Journal of Research on Adolescence, 24(2), 350-363.
+
+van Roekel, E., Ha, T., Scholte, R. H., Engels, R. C., & Verhagen, M. (2016). Loneliness in
+the daily lives of young adults: Testing a socio-cognitive model. European Journal of
+Personality, 30(1), 19-30.
+
+Van Roekel, E., Scholte, R. H., Engels, R. C., Goossens, L., & Verhagen, M. (2015).
+Loneliness in the daily lives of adolescents: An experience sampling study examining
+the effects of social contexts. The Journal of Early Adolescence, 35(7), 905-930.
+
+van Roekel, E., Verhagen, M., Engels, R. C., Scholte, R. H., Cacioppo, S., & Cacioppo, J. T.
+(2018). Trait and state levels of loneliness in early and late adolescents: Examining
+the differential reactivity hypothesis. Journal of Clinical Child & Adolescent Psychology,
+47(6), 888-899.
+
+van Winkel, M., Wichers, M., Collip, D., Jacobs, N., Derom, C., Thiery, E., . . . Peeters, F.
+(2017). Unraveling the role of loneliness in depression: The relationship between
+daily life experience and behavior. Psychiatry, 80(2), 104-117.
+
+Wichers, M., Wigman, J., & Myin-Germeys, I. (2015). Micro-level affect dynamics in
+psychopathology viewed from complex dynamical system theory. Emotion Review,
+7(4), 362-367.

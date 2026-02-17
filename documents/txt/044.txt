@@ -1,0 +1,1244 @@
+Journal of Quantitative Criminology (2021) 37:693-714
+https://doi.org/10.1007/s10940-020-09462-w
+
+ORIGINAL PAPER
+
+®
+
+Check for
+updates
+
+A Network-Based Examination of the Longitudinal
+Association Between Psychopathy and Offending Versatility
+
+Evan McCuish'® - Martin Bouchard! - Eric Beauregard
+
+Published online: 28 May 2020
+© Springer Science+Business Media, LLC, part of Springer Nature 2020
+
+Abstract
+
+Objectives Concerns about the value of features of psychopathy to explanations of offend-
+ing may be driven by challenges with testing this relationship as opposed to the construct’s
+limited predictive validity. The current study introduced psychopathology network mode-
+ling as an analytic strategy capable of addressing these challenges through a more nuanced
+description of the structural and statistical association between features of psychopathy and
+offending. To provide more direct implications for criminological theory and research, this
+included examining whether within-individual changes in features of psychopathy were
+associated with within-individual change in offending.
+
+Methods Data on male and female young offenders from the Pathways to Desistance
+Study (1=1354) were used to examine the association between features of psychopathy
+and offending versatility, as measured by the Youth Psychopathic Traits Inventory and the
+Self Report of Offending scale, respectively. Three network structures were modeled that
+separated the variance in the relationship between features of psychopathy and offending
+into between-subjects and within-individual networks.
+
+Results Between-subjects and within-individual analyses indicated that interpersonal and
+affective features of psychopathy were positively associated with offending versatility. The
+network approach indicated that remorselessness and manipulativeness were central fea-
+tures of psychopathy that were also associated with offending versatility. Remorselessness
+in particular helped bridge together conceptually distinct features of psychopathy.
+Conclusions Psychopathology network modeling illustrated the value of features of psy-
+chopathy to mainstream criminological theory and research. These features included
+interpersonal and affective deficits, which previously were identified as poor predictors of
+offending outcomes.
+
+Keywords Developmental criminology - Network science - Psychopathology networks -
+Psychopathy - Young offenders
+
+Electronic supplementary material The online version of this article (https://doi.org/10.1007/s 1094
+0-020-09462-w) contains supplementary material, which is available to authorized users.
+
+bX) Evan McCuish
+ecm2 @sfu.ca
+
+Extended author information available on the last page of the article
+
+D) Springer
+ 694 Journal of Quantitative Criminology (2021) 37:693-714
+
+Introduction
+
+Although population heterogeneity theoretical perspectives commonly pinpoint low self
+control as the key indicator of antisocial propensity (Gottfredson and Hirschi 1990; Nagin
+and Paternoster 2000), the constellation of features that comprise psychopathy may better
+measure antisocial propensity (Corrado et al. 2015). This is because psychopathy encapsu-
+lates features of low self control (e.g., sensation-seeking, impulsivity, irresponsibility) but
+also interpersonal deficits such as manipulativeness, deceitfulness, and interpersonal domi-
+nance. Such characteristics influence negative interactions with others that are asserted to
+increase the likelihood of offending (Corrado et al. 2015). Psychopathy also includes affec-
+tive deficits such as callous-unemotional (CU) traits, disregard for the well-being of others,
+and a lack of empathy. Such characteristics are associated with poorer responses to treat-
+ment (Olver et al. 2013a) and less sensitivity to the feelings of others (Salekin 2016), both
+of which imply that an individual may continue offending (Corrado et al. 2015). Accord-
+ingly, several arguments have been made for the incorporation of psychopathy into main-
+stream criminological theory and research (DeLisi 2016; Farrington 2005; Fox et al. 2015).
+At the same time, prior empirical work showed that total scores on a measure of psychopa-
+thy was not as important to criminal behavior compared to self-control alone (DeLisi et al.
+2018). A problem with examining total scores is that it disregards the possible multidimen-
+sional nature of psychopathy (e.g., its underlying interpersonal, affective, and behavioral
+dimensions). The aim of the current study was to explore the importance of psychopa-
+thy to criminological theory and research by using psychopathology network modeling to
+investigate both between-person and within-individual effects of features of psychopathy
+on offending while also modeling interrelationships between these different features to pro-
+vide a better understanding of the nature of this construct.
+
+Evidence of the Relationship Between Psychopathy and Offending
+
+Despite evidence that psychopathy is one of the most important risk factors for criminal
+behavior (Hart 1998), debate about the appropriate number and nature of its underlying
+dimensions (see Hare and Neumann 2010; Skeem and Cooke 2010) helped identify an
+important issue for further research. On the one hand, studies using prototypicality analy-
+ses, item-response theory, and psychopathology networks indicated that individual features
+of psychopathy associated with its interpersonal and affective dimensions were core fea-
+tures of psychopathy! whereas behavioral features and criminal behavior associated with
+its lifestyle and antisocial dimensions were not (Cooke and Michie 1997; Kreis et al. 2012;
+McCuish et al. 2019; Preszler et al. 2018; Verschuere et al. 2018). On the other hand, dis-
+aggregation of psychopathy total scores typically revealed that behavioral and criminal
+behavior dimensions were related to recidivism, but its interpersonal and affective dimen-
+sions were not (Colins et al. 2012; Edens et al. 2007; Kennealy et al. 2010; Leistico et al.
+2008; Olver et al. 2013b; Walters 2012). Put differently, the features that most poorly repre-
+sented the psychopathy construct were often identified as the only features of psychopathy
+related to criminal behavior.
+
+' We use the term “features of psychopathy” to describe individual traits that comprise the overarching
+construct and “psychopathy” to describe the co-occurrence of these features.
+
+D) Springer
+ Journal of Quantitative Criminology (2021) 37:693-714 695
+
+These findings, taken together with concern that the relationship between psychopa-
+thy and offending was accounted for by low self control (e.g., DeLisi et al. 2018; Walters
+2004), directly challenge the value of integrating psychopathy within criminological theory
+and research. Psychopathy may have little to add to criminological theory given that prior
+criminal behavior and low self control are accounted for by in other theories (e.g., Got-
+tfredson and Hirschi 1990). However, we suggest that there are two challenges that come
+with testing the relationship between psychopathy and offending that should be addressed
+before making conclusions about this construct’s importance to offending and criminologi-
+cal theory.
+
+The first challenge concerns how the psychopathy construct should be represented
+when modeling its association with offending. There are two common approaches. The
+first uses total scores on a measurement tool to predict offending outcomes. The second
+examines individual features of psychopathy (e.g., CU traits) independently from other fea-
+tures (see Salekin et al. 2018). Both approaches have been criticized. Some argued against
+using instrument total scores to predict offending because this approach masked important
+information about the contributions of specific features of psychopathy (Fanti et al. 2018).
+Using total scores does not allow researchers to unpack whether the relationship between
+psychopathy and offending was solely due to behavioral features of the disorder. Others
+argued that examining features of psychopathy in isolation was inappropriate because the
+full psychopathy construct is poorly represented by the manifestation of just a single fea-
+ture (e.g., Salekin et al. 2018). Further, examining features of psychopathy in isolation
+ignored potentially important interactions (Lilienfeld 2018) given the interrelated nature of
+personality traits that comprise the psychopathy construct (Gottfried et al. 2019). In sum,
+both of these common approaches have received criticism that has left researchers in the
+dark regarding how to represent psychopathy test scores in statistical models.
+
+Researchers have recommended addressing these criticisms by including interpersonal,
+affective, and behavior dimensions of psychopathy in the same model to elucidate their
+relative importance to the development of offending (e.g., Colins et al. 2012; Ridder and
+Kosson 2018) as well as how these dimensions interact (Lilienfeld 2018; Salekin et al.
+2018). This recommendation is based on the idea that if psychopathy is a multidimensional
+construct, it should be represented as such in tests of its relationship with offending. How-
+ever, when different dimensions have been included simultaneously to examine offending
+outcomes, only the behavioral dimension tended to emerge as important for offending (e.g.,
+Edens et al. 2007; Kennealy et al. 2010; Olver et al. 2013a, b; Walters 2012). In sum, it
+is possible to conclude that while psychopathy may be a multidimensional construct, its
+interpersonal and affective dimensions do not increase the risk of offending. Before reach-
+ing such a conclusion, it may be necessary to look more closely at the features that com-
+prise these dimensions. Disaggregation may reveal interpersonal and affective features that
+are important to offending.
+
+Disaggregation of dimensions results in the simultaneous testing of a wide range of dif-
+ferent features of psychopathy. It is necessary to examine these features simultaneously
+to avoid reigniting concern about examining different features of psychopathy in isola-
+tion given that this may not appropriately reflect the manifestation of the construct (e.g.,
+Lilienfeld 2018; Salekin et al. 2018). Avoiding these earlier concerns raises a separate
+issue, which is that an appropriate analytic strategy must be able to model interrelation-
+ships between many different features of psychopathy, whether each feature is related to
+offending, and in doing so must avoid identifying spurious relationships (i.e., Type I error).
+Such an analytic strategy should also facilitate the modeling of interrelationship between
+these features akin to the proposed multidimensional nature of the disorder. The ability to
+
+D) Springer
+ 696 Journal of Quantitative Criminology (2021) 37:693-714
+
+examine interrelationships between features of psychopathy, and not just how these fea-
+tures relate to offending, is useful for examining questions about psychopathy as a disorder
+versus as a constellation of co-occurring traits.” In the absence of an appropriate analytic
+strategy, important questions remain regarding which features of psychopathy are most
+important to the disorder (Salekin 2016), whether criminal behavior is one such feature
+(Hare and Neumann 2010) or better characterized as an outcome of the disorder (Skeem
+and Cooke 2010), and whether there is overlap between the features that are core to psy-
+chopathy and the features that predict offending.
+
+The second major challenge pertains to how to test the relationship between features
+of psychopathy and offending in ways that address questions pertinent to criminological
+theory and research. While there have been recommendations for incorporating psychopa-
+thy into mainstream criminological theory (e.g., Corrado et al. 2015; DeLisi 2016; Fox
+et al. 2015), the utility of psychopathy has been demonstrated primarily through its ability
+to predict recidivism (Corrado et al. 2015; c.f., Colins et al. 2015; Walters 2015; Vahl et al.
+2014). This represents a misalignment between criminology theoretical interests and psy-
+chopathy research. Several major criminological perspectives, especially those with origins
+in criminal career research and developmental life course (DLC) criminology, are not as
+concerned with single-item indicators of offending (1.e., recidivism). Examining offend-
+ing during just one period in the life course does not address questions about the impact of
+within-individual change in risk factors on within-individual change in offending (Loeber
+and Le Blanc 1990). In sum, conclusions about the limited utility of psychopathy beyond
+its behavioral features were primarily based on studies that used between-group compari-
+sons and relied on single-item indicators of offending measured at one time-point, which
+has relatively limited implications for criminological theory and research.
+
+Using Psychopathology Network Modeling to Address Challenges in Testing
+the Relationship Between Psychopathy and Offending
+
+Although network science is not new to criminology, it is primarily used to examine social
+interactions among individuals via social network analysis (SNA; e.g., Bouchard and
+Malm 2016; McGloin and Kirk 2010). SNA is concerned with the structural properties
+of groups of individuals, including how these individuals are connected through differ-
+ent types of social relations (e.g., co-offenders) and whether the nature of social relation-
+ships is informative of individual and group behavior (Knoke and Yang 2008; Wasserman
+and Faust 1994). In SNA, nodes are used to represent individuals or groups and an edge
+between them represents the nature of the relationship (e.g., co-offenders, members of the
+same gang, gangs in conflict). Instead of using individuals or groups as the unit of analysis,
+psychopathology networks focus on the structure of individual-level characteristics (e.g.,
+symptoms of mental disorders; Borsboom and Cramer 2013). Nodes represent symptoms
+or behaviors and edges represent the magnitude of the association between nodes. As in
+SNA, psychopathology networks use various indices to identify which nodes are most cen-
+tral to the network (Opsahl et al. 2010). In SNA, degree centrality identifies which indi-
+viduals or groups are most well-connected to all other individuals or groups in the network.
+
+* This is not to suggest that the only possible conclusion is that psychopathy is a network of co-occurring
+traits; there are multiple perspectives on the nature or structure of psychopathy and this paper does not pro-
+vide an answer as to the relative importance of these different perspectives (see Lilienfeld et al. 2019).
+
+D) Springer
+ Journal of Quantitative Criminology (2021) 37:693-714 697
+
+Betweenness centrality identifies which individuals or groups are depended upon as “‘bro-
+kers” between otherwise unconnected individuals or groups (Freeman 1977). In psycho-
+pathology networks, strength centrality is the equivalent to degree centrality in SNA and
+identifies which symptoms or behaviors are most well-connected (e.g., the absolute weight
+of all correlation coefficients) to all other symptoms or behaviors in the network. Between-
+ness centrality identifies which symptoms or behaviors are depended upon as bridges
+between conceptually distinct symptoms or behaviors and can help explain the etiology of
+multidimensional constructs.
+
+Psychopathology networks do not simply illustrate interrelationships between nodes;
+they help visualize the structure of relationships (or lack thereof) between nodes within a
+network (see Borsboom and Cramer 2013 for a review). For example, two nodes may not
+share an edge despite being close to one another in the network. This information indicates
+conceptual similarity between nodes but also that their shared relations with other nodes
+in the network fully accounts for the association between these two. Such information may
+indicate redundancies in the network. Network structure can also illustrate how conceptu-
+ally distinct nodes (1.e., nodes located on opposite sides of the network) nevertheless share
+a Statistical relationship. Broadly speaking, psychopathology networks can address a range
+of questions that have implications for criminological theory, research, and policy. This
+is especially true with respect to uncovering the structure of relationships between multi-
+item constructs (e.g., adverse childhood experiences, low self control, psychosocial matu-
+rity, temperament) and offending, including which items are most important to the con-
+struct (i.e., based on network centrality) and which items are most important for criminal
+behavior.
+
+Psychopathy is one such multi-item construct and network analyses may help address
+debates regarding which features are the most important to the disorder and whether inter-
+personal and affective features are associated with criminal behavior, even after controlling
+for features similar to low self control (Walters 2004). Unlike cluster analyses, psychopa-
+thology network modeling does not identify groups of individuals according to the degree
+or nature of their test scores. Psychopathology network modeling satisfies recent interest in
+studying interrelationships among different features of psychopathy and their association
+with offending (Lilienfeld 2018; Salekin et al. 2018). It also is capable of addressing ques-
+tions unique to DLC principles, such as the relationship between within-individual change
+in features of psychopathy and within-individual change in offending.
+
+Current Study
+
+The current study used psychopathology network modeling to address calls for research
+that looks beyond the predictive validity of individual features of psychopathy in isola-
+tion (e.g., CU traits) while also investigating the relative importance of different features
+of psychopathy and the interrelationships among such features (e.g., Ridder and Kosson
+2018; Lilienfeld 2018; Salekin et al. 2018). This was done by simultaneously modeling
+the interrelationships among features of psychopathy as well as the relationships between
+these features and offending. This allowed the study to describe the structural properties of
+psychopathy, which provided context to statistical associations between such features and
+offending. This approach specifically addressed Lilienfeld’s (2018) suggestion that research
+on psychopathy awaited “a better understanding of its subdimensions, their interrelations”
+(p. 83). Whereas prior studies focused almost exclusively on recidivism, psychopathology
+network modeling was used to analyze, from both between-subjects and within-individual
+
+D) Springer
+ 698 Journal of Quantitative Criminology (2021) 37:693-714
+
+perspectives, the longitudinal relationship between repeated measures of features of psy-
+chopathy and a multi-item measure of offending. This approach allowed for a more direct
+interpretation of the value of psychopathy to criminological theory by (a) using an ana-
+lytic strategy that aligned with DLC interests in within-individual change and (b) helping
+unpack the specific features of psychopathy useful for understanding offending.
+
+Method
+Sample and Procedures
+
+Data were used from the Pathways to Desistance Study, which involved interviews with
+adolescent male (n=1170) and female (n=184) offenders from Phoenix, Arizona and
+Philadelphia, Pennsylvania. Archived data were made available by the Interuniversity Con-
+sortium for Political and Social Research (Mulvey 2013). Participants were convicted of
+at least one crime and approximately half of the sample had a history of felony violent
+crimes. Male participants involved in drug-related crimes was limited to a maximum of
+15% of the sample to capture more serious offenders. Computer-assisted interviews were
+performed in the homes of participants, in public, and in correctional facilities. Partici-
+pants were informed that the interview was confidential except in instances of suspected
+child abuse or imminent danger to others. Most participants were Black (41.4%), Hispanic
+(33.5%), or White (20.2%). The remaining sample were listed as ‘Other’ (4.8%). Youth
+were an average of 16.04 years old (SD=1.14) at their first interview. Follow-up inter-
+views were conducted at six-month intervals for a three-year period and then at one-year
+intervals for a four-year period. The Youth Psychopathic Traits Inventory (YPI; Andershed
+et al. 2002), which is the instrument of focus in the current study, was first implemented at
+the 6-month follow-up interview. However, because the current study performed analyses
+that assumed equidistant measurement periods, only the 12-, 24-, 36-, 48-, 60-, 72-, and
+84-month follow-up periods were used.
+
+Measures
+
+Youth Psychopathic Traits Inventory (Andershed et al. 2002). The YPI is a 50-item, four-
+point (1-4) Likert scale self-report measure of features of psychopathy in adolescence. The
+YPI items map onto ten subscales: Dishonest Charm (e.g., using charm to trick others),
+Grandiosity (e.g., belief in being better than others), Lying (e.g., enjoying lying), Manipu-
+lation (e.g., making people believe thing that are untrue), Remorselessness (e.g., absence
+of guilt), Unemotionality (e.g., feeling calm in dangerous situations), Callousness (e.g.,
+contempt for emotion), Thrill Seeking (e.g., wanting to be where the action is), Impulsiv-
+ity (e.g., endorsing impulsive lifestyle), and Irresponsibility (e.g., missing work or school).
+Across the seven waves of data used here, Cronbach’s alpha values for the ten subscales
+ranged from 0.43 (Callousness) to 0.87 (Manipulation). Average subscale scores were
+as follows: Dishonest Charm (M=9.53; SD=2.76), Grandiosity (M= 10.69; SD=2.29),
+Lying (M=7.86; SD=2.11), Manipulation (M=8.88; SD=2.67), Remorselessness
+(M=9.09; SD=2.21), Unemotionality (W=10.86; SD=2.06), Callousness (M=11.45;
+SD=1.93), Thrill Seeking (M= 12.61; SD=2.53), Impulsivity (M= 10.96; SD=2.58), and
+Irresponsibility (M=9.69; SD=2.30).
+
+D) Springer
+ Journal of Quantitative Criminology (2021) 37:693-714 699
+
+Given the novelty of research on psychopathy networks, especially in terms of how
+they related to criminal behavior, focusing on the YPI’s 10 subscales rather than mod-
+eling a network of all 50 items helped err on the side of parsimony. A between-subjects
+network of all 50 items required modeling 1125 unique partial correlations for a single
+network, which raised concerns about whether the current study had an appropriate
+sample size for network modeling (Epskamp et al. 2018a). The focus on the ten sub-
+scales was designed to strike a balance between looking at individual items and only
+looking at the YPI’s Grandiose-Manipulative (GM), Callous-Unemotional (CU), and
+Impulsive-Irresponsible (II) dimensions (Andershed et al. 2002). The aggregation of
+features of psychopathy within these different dimensions did not allow for a more
+precise understanding of which specific features of psychopathy were informative of
+offending. The use of network analysis allowed for the inclusion of all ten subscales in
+the same model. Doing so avoided prior concerns about testing the predictive validity
+of different features of psychopathy in isolation as the psychopathy construct is more
+than just the manifestation of a single feature (Salekin et al. 2018). It also allowed for a
+more precise examination of how features of psychopathy related to offending (e.g., as
+opposed to aggregating different interpersonal features into one dimension). However,
+because other instruments, such as the PCL: YV, do not include these subscales, net-
+work analyses were also reproduced using the YPI’s three dimensions (see Supplemen-
+tary Materials), which more closely resemble the three-factor model initially identified
+by Cooke and Michie (2001) and facilitate replication tests in future research.
+
+Self Report of Offending (SRO; Huizinga et al. 1991). The SRO was administered at
+each wave of data collection. Two items, (“ever went joyriding” and “ever broke into a
+car to steal’) were not consistently administered and so a modified version of the SRO
+was used to create an offending versatility scale based on a count of the number of
+different self-reported offending behaviors (k= 22) engaged in between assessments.
+The SRO included items measuring property damage, possession of stolen property,
+drug possession and trafficking, and violent offenses. Examining offending versatility
+helped capture an offending pattern that was not over-weighted by an individual’s fre-
+quent involvement in minor crimes (Sweeten et al. 2013). Across the seven waves, the
+average score on the SRO versatility scale was 1.21 (SD=1.50).
+
+Missing Data
+
+For the YPI, 68.1% of the sample had complete data across all waves. At any given
+wave, no more than 16.5% of participants had missing data. For the SRO, 67.4% of the
+sample had complete data across all waves. At any given wave, no more than 16.8% of
+participants had missing data. Missing data were imputed using the missForest pack-
+age for R (Stekhoven and Biihlmann 2012). This package was used to fit a random
+statistical forest of regression trees for each node included in the network and used the
+results to predict missing values on that node. Successful imputations are those with
+normalized root mean squared error (NRMSE) values close to zero (Stekhoven and
+BiihImann 2012), which was the case for the current study (NRMSE=0.0002). All net-
+work analyses were run using the imputed dataset.
+
+D) Springer
+ 700 Journal of Quantitative Criminology (2021) 37:693-714
+
+Analytic Strategy
+
+The graphicalVAR package (Epskamp 2017) for R (R Core Team 2017) was used to facili-
+tate a more nuanced interpretation of the relationship between features of psychopathy and
+offending versatility. This nuance included describing the structural properties of nodes in
+the network to contextualize their statistical relationships and using both between-subjects
+and within-individual perspectives to examine these relationships. This technique looks at
+the extent to which each node is associated with all other nodes in the network. While this
+involves modeling a large number of different associations, graphicalVAR uses the least
+absolute shrinkage and selection operator (LASSO) as a regularization technique to help
+avoid Type I error. Unlike Bonferroni and other correction techniques, this analysis is not
+associated with a loss of statistical power (Epskamp and Fried 2018a). The LASSO uti-
+lizes a tuning parameter that limits the sum of all partial correlation coefficients; all esti-
+mated coefficients shrink, which reduces weak effect sizes to a magnitude of zero (..e.,
+the removal of an edge between two nodes). This makes psychopathology network mod-
+eling ideal for examining interrelationships between multiple features of psychopathy and
+how these features relate to offending. The LASSO creates a sparser network by favoring
+the removal of true edges over the inclusion of spurious ones (Epskamp and Fried 201 8a).
+The tuning parameter is determined by estimating multiple networks defined by different
+values of the tuning parameter and then selecting the optimal fit of the network according
+to Extended Bayesian Information Criterion. In the current study, 2500 different models
+were estimated (Epskamp et al. 2018c).
+
+The ggraph package (Epskamp et al. 2017) in R was used to visualize the between-
+subjects and within-individual network structures via the “spring” layout corresponding to
+the Fruchterman-Reingold algorithm. The structural properties of these networks, includ-
+ing which nodes are most central to the construct under examination, can be interpreted via
+betweenness, closeness, and strength centrality indices (Opsahl et al. 2010). Betweenness
+centrality describes the number of instances in which a node falls on the shortest path (..e.,
+edge) between two other nodes. Closeness centrality represents the inverse of the sum of
+the distances from all other nodes. Nodes higher in closeness centrality might help estab-
+lish how conceptually distinct features of psychopathy come together to form the underly-
+ing construct. Strength centrality refers to the sum of the absolute weight of all edges (e.g.,
+partial correlation coefficients) of a given node. Examining the structural properties of the
+network addressed questions about the relevance of interpersonal and affective features
+versus behavioral and lifestyle features to the development of offending (Walters 2004,
+2012) by identifying which features of psychopathy associated with offending versatility
+were also among the most central nodes in the network.
+
+The between-subjects network resembled traditional examinations of the predictive
+validity of psychopathy in that it addressed whether higher scores on features of psychopa-
+thy were informative of higher levels of offending versatility. Unlike traditional studies, the
+between-subjects network was also informative of the structural properties of the relation-
+ship between features of psychopathy and offending. As well, rather than rely on a sin-
+gle-item indicator of offending measured at one time-point (1.e., recidivism), the between-
+subjects network represented the average association between features of psychopathy and
+offending versatility across all waves of data. The between-subjects network is a type of
+Gaussian Graphical Model (GGM; see Epskamp et al. 2018c) in which undirected edges
+indicate that two nodes are not independent, even after conditioning on all other nodes
+in the network (.e., edges are parametrized using partial correlation coefficients). Thus,
+
+D) Springer
+ Journal of Quantitative Criminology (2021) 37:693-714 701
+
+the between-subjects network modeled the average relationship between a given YPI sub-
+scale and offending versatility while conditioning on all other YPI subscales. This helped
+account for interrelationships among different features of psychopathy that may be impor-
+tant for better understanding how they relate to offending (e.g., Lilienfeld 2018).
+
+Within-individual analyses provided more direct implications for DLC research. In
+graphicalVAR, variance in the within-individual relationships between nodes is separated
+into temporal and contemporaneous network structures. Both structures use person mean-
+centering to remove between-subject variance in test scores. The temporal network meas-
+ures directed relationships between lagged (lag-1 in the current study) and current nodes,
+including autoregressive effects. Edges between nodes are represented by regression coef-
+ficients indicating that a node at time t— 1 predicts a node at time f (the next wave of meas-
+urement) after controlling for all other nodes at time t— 1 (Epskamp et al. 2018c). Thus, the
+temporal network allowed for an examination of the influence of within-individual devia-
+tions from average levels of a given feature of psychopathy at time t— 1 on deviations from
+an individual’s average level of offending versatility at time ¢, while controlling for autore-
+gressive effects. The autoregressive effects in the temporal network are also useful for
+addressing personality researchers’ interest in ipsative stability (Robins et al. 2001). More
+precisely, because an individual’s scores were centered around their mean, the autoregres-
+sive effects are consistent with the scatter component of ipsative stability that deals with
+variability of scores (see Cronbach and Gleser 1953). Positive autoregressive effects indi-
+cate individual-level stability across measurement periods (Bringmann et al. 2018) and can
+be used as evidence for ipsative stability. The contemporaneous network is a GGM that
+measures undirected relationships between two nodes in the same measurement period
+after conditioning on their relationship with all other nodes in that measurement period and
+the previous measurement period (i.e., after controlling for lagged effects; Epskamp et al.
+2018c). Thus, the contemporaneous network modeled the association between changes in
+an individual’s typical level of a given feature of psychopathy at time ¢ and changes in an
+individual’s typical level of offending versatility at time t, while conditioning on within-
+individual change in all other nodes at time t— 1 and time tf.
+
+Results
+Between-Subjects Network
+
+Beginning with structural properties of the network, of the100 possible edges among the
+11 nodes, 46 were detected (see Fig. 1). Most edges were positive (73.9%). Offending ver-
+satility was located on the periphery of the network. The three strongest edgeweights were
+between the Manipulativeness and Dishonest Charm subscales (interpersonal features),
+Remorselessness and Unemotionality subscales (affective features), and Thrill Seeking
+and Impulsivity subscales (behavioral features). To first assess the reliability of the cen-
+trality indices, the bootnet package (Epskamp and Fried 2018b) for R was used to meas-
+ure the correlation stability (CS) coefficient, which represents the maximum proportion
+of the sample that can be dropped while maintaining a 95% probability that the correla-
+tion between the baseline centrality index and bootstrapped subsamples is 0.70 or higher.
+Values above 0.50 are preferable for indicating the reliability of the measure of centrality
+in question (Epskamp et al. 2018a). This was the case for closeness (0.67) and strength
+(0.75) CS-coefficients. For these indexes, more than half the sample can be dropped while
+
+D) Springer
+ 702 Journal of Quantitative Criminology (2021) 37:693-714
+
+Fig. 1 Between-subjects network
+structure. Notes The weight of an
+edge is determined by the magni-
+tude of the effect size. Blue edges
+represent positive associations;
+red edges represent negative
+associations. The Fruchterman-
+Reingold layout was used to
+display the network structure
+(Color figure online)
+
+retaining a correlation with the baseline centrality index of 0.70 or higher. The between-
+ness centrality CS-coefficient was 0.44, which is higher than the 0.25 lower-bound limit
+and thus can also be interpreted reliably.
+
+Centrality indices (Fig. 2) indicated that offending versatility was the least central node
+in the network, with betweenness, closeness, and strength centrality values that were one
+standard deviation below the mean. On the other hand, the Remorselessness subscale had
+betweenness, closeness, and strength centrality values that were one standard deviation
+above the mean. This subscale was one of only two nodes that did not have any nega-
+tive edges in the network. Dishonest Charm was the other, but only had four total connec-
+tions in the network. The between-subjects network structure showed that affective (top),
+interpersonal (right-hand side), and behavioral (left-hand side) features tended to cluster
+together. The Remorselessness subscale formed a bridge between these nodes that helped
+features of psychopathy become a constellation of traits as opposed to a set of independent
+indicators. If an individual did not score high on the Remorseless subscale, it was unlikely
+that they would be characterized by the full psychopathy construct.
+
+In terms of statistical associations between features of psychopathy and offending, indi-
+viduals that averaged higher scores on the Lying and Grandiosity subscales averaged lower
+levels of offending versatility. Higher average scores on the Callousness, Irresponsibility,
+Manipulation, Remorselessness, Thrill Seeking, and Unemotionality subscales of the YPI
+
+D) Springer
+ Journal of Quantitative Criminology (2021) 37:693-714 703
+
+Betweenness Closeness InStrength OutStrength Strength
+
+Versatility
+
+Unemo
+
+Thrill
+
+Remorse 7
+
+Manip 4
+
+group
+—’e Between—Subjects
+
+Lying — Contemporaneous
+
+~~ Temporal
+
+Irresp
+
+Imp
+
+Grand
+
+Charm
+
+Callous
+
+Li J
+
+re se | [oe | LJ '
+7x QO N® 2x Ons go ™ Y7~ QS FES ON
+
+Fig. 2 Centrality indices for the between-subjects, temporal, and contemporaneous networks. Notes Nodes
+are plotted on the y-axis and z-scores representing the centrality indices are plotted on the x-axis. Average
+values are represented by z-score values of zero, which are not always located in the centre of each graph.
+See online article for color version of figure (Color figure online)
+
+were associated with higher average levels of offending versatility. The Remorselessness
+and Manipulation subscales were also among the most central nodes in the network. In
+contrast, the Callousness, Irresponsibility, and Unemotionality subscales were among the
+least central in the network. In other words, not all statistical associations with offending
+versatility were equally important. For example, lower levels of irresponsibility, although
+directly associated with lower levels of offending, had minimal indirect associations with
+offending given this node’s lack of connectivity to other nodes in the network. In contrast,
+higher levels of remorselessness were directly associated with higher levels of offending.
+Remorselessness also had multiple indirect associations with offending as this node had
+
+G) Springer
+ 704 Journal of Quantitative Criminology (2021) 37:693-714
+
+the highest level of betweenness centrality. The structural properties of the network implied
+that nodal proximity was not necessarily important for statistical association. For example,
+despite their proximity, the Impulsivity subscale was not associated with offending versatil-
+ity. This may be because of the Impulsivity subscale’s structural similarity® to the Thrill
+Seeking subscale, which was associated with offending versatility.
+
+Lilienfeld’s (2018) review of recent research highlighted the importance of examining
+statistical associations between features of psychopathy when examining how such features
+related to offending. Psychopathology network analyses illustrated why doing so is impor-
+tant. A reanalysis of the network (not shown) was performed after removing the Thrill
+Seeking subscale given its similar structural position to the Impulsivity subscale. After
+removing this node there was a positive edge between the Impulsivity subscale and offend-
+ing versatility. In effect, spurious associations between a given feature of psychopathy and
+offending may emerge when failing to condition on other features of psychopathy. Using
+partial correlations helped condition on these features and also showed that nodal proxim-
+ity was not necessarily important for statistical association. Indeed, the structural properties
+of this network showed that although the Grandiosity, Unemotionality, and Manipulation
+subscales were among the nodes most distant from offending versatility, they nevertheless
+shared an edge with this node. Nodes that share an edge but are further away in the network
+indicate conceptual distinctiveness in that they lack shared relationships with other nodes.
+In the context of the current analyses, interpersonal and affective dimensions of psychopa-
+thy that shared an edge with offending versatility tended to be distant from one another in
+the network. This would suggest that offending versatility is more likely an outcome, rather
+than a specific feature, of psychopathy.
+
+The utility of psychopathology network modeling rests on its ability to provide results
+that are more nuanced and/or more reliable compared to traditional analyses. Using com-
+plete case data at the baseline assessment, correlations between offending versatility and
+each YPI subscale were examined after conditioning on all other YPI subscales. Only
+Manipulation (r,=.066, p=.020), Remorselessness (r,=.064, p=.024), Callousness
+(r,=.138, p<.001), Thrill Seeking (r,=.096, p=.001), and Irresponsibility (r,=.161,
+p<.001) were significantly and positively correlated with offending versatility. However,
+after applying a Bonferroni correction (.05/10), the Remorselessness and Manipulation
+subscales were no longer significantly associated with offending versatility (p >.005). In
+contrast, the between-subjects network, after applying the LASSO tuning parameter to
+remove spurious edges without losing statistical power (Epskamp and Fried 201 8a), identi-
+fied the Remorselessness and Manipulation subscales as positively associated with offend-
+ing versatility. Critically, the between-subjects network illustrated that these subscales
+were two of the most important nodes in the network whereas traditional analyses did not
+include an examination of the structural location and centrality of these variables.
+
+Within-Individual Networks
+
+Within-individual change described an individual’s deviation from their own average level
+on a particular node and was modeled in two ways (see Fig. 3). The temporal network rep-
+resented a within-individual analysis of the cross-lagged (lag-1) relationships between all
+
+3 Although structurally similar, the goldbricker function for the R package networktools (Jones, 2017)
+showed no suggestions for removing redundant nodes to reduce the network.
+
+D) Springer
+ Journal of Quantitative Criminology (2021) 37:693-714 705
+
+Temporal Contemporaneous
+
+_ Manip
+Irresp —
+(om
+
+Fig. 3 Within-individual analyses represented by temporal and contemporaneous network structures. Notes
+The weight of an edge is determined by the magnitude of the effect size. Directed arrows represent lagged
+effects (lag-1). Self-looping arrows indicate autoregressive effects. The color of the arrow indicates a posi-
+tive (blue) or negative (red) effect. Between-subject variance was removed via person mean-centering. The
+Fruchterman-—Reingold layout was used to display the network structure (Color figure online)
+
+nodes in the network. The contemporaneous network modeled whether within-individual
+change in node “A” at time ¢ was associated with within-individual change in node “B” a
+time ¢ while controlling for all other nodes in this network as well as the effects modeled in
+the temporal network (1.e., time t— 1).
+
+The temporal network was particularly sparse. Only 22 of a possible 111 edges were
+observed. Eleven of these edges were negative autoregressive effects indicating a “‘jig-
+saw pattern” (Bringmann et al. 2018: 3) in which an individual’s test score on a par-
+ticular node, if higher than their personal average at time t—1, predicted a test score
+on that same node at time ¢ that was lower than their personal average. In other words,
+YPI subscale scores and offending versatility lacked ipsative stability between waves.
+The positive cross-lagged effects in the network provided greater context as to why
+the Manipulation, Remorselessness, Thrill Seeking, and Lying subscales were central
+nodes in the between-subjects network (see Fig. 2). Within-individual change on the
+Manipulation subscale was particularly important for exerting later within-individual
+change on other features of psychopathy. An individual’s Manipulation subscale score at
+time t— 1, when lower than their personal average, predicted test scores on the Dishon-
+est Charm, Thrill Seeking, and Remorselessness nodes at time t that were also lower
+than their personal averages. Yet, the Manipulation subscale also had an in-strength
+
+D) Springer
+ 706 Journal of Quantitative Criminology (2021) 37:693-714
+
+centrality value that was one standard deviation above the mean. This was because the
+Lying subscale exerted a strong cross-lagged effect on the Manipulation subscale. In
+other words, the Lying subscale was important for influencing a node that was important
+for influencing other key nodes in the network. One of these key nodes was Remorse-
+lessness, which was a critical feature of psychopathy yet also amenable to change via
+cross-lagged effects from other features of psychopathy. Specifically, an individual’s
+Callousness, Manipulation, and Dishonest Charm test scores at time t—1, when lower
+than their personal average, predicted test scores on the Remorselessness subscale at
+time ¢ that were also lower than their personal average.
+
+There was no relationship between an individual’s scores on the YPI subscales at
+time t—1 and offending versatility at time t. The number of negative autoregressive
+effects in the temporal network may have contributed to difficulties identifying posi-
+tive lagged effects between YPI subscales and offending versatility. The temporal net-
+work examines directed lagged effects while controlling for autoregressive effects. The
+lagged effect of a YPI subscale on later criminal versatility may be accounted for by the
+lagged changes on that YPI subscale captured by autoregressive effects. As well, over
+the course of the study, there may have been instances where an individual had higher
+than average YPI subscale scores at t—1 but their level of criminal versatility failed to
+change between time t— 1 and time ¢. As such, the variability of YPI subscales and vari-
+ability of criminal versatility may not have always aligned so that YPI test scores that
+were higher at time ¢-1 than an individual’s personal average were predicting criminal
+versatility scores that at time ft were higher than that individual’s personal average (i.e.,
+higher YPI test scores being used to predict criminal versatility during its downcycle).
+A sparse temporal network implies that a contemporaneous network should be exam-
+ined, as the impact of within-individual change may occur in a window that is shorter
+than what was captured between time t— 1 and time ¢ (Epskamp et al. 2018c).
+
+The contemporaneous network (right-hand side of Fig. 3) showed that offending ver-
+satility was located on the network’s periphery. This peripheral location was at least
+partially influenced by behavioral features of psychopathy. Specifically, the Thrill Seek-
+ing, Unemotionality, and Grandiosity nodes were characterized by a chained relation-
+ship that formed a partition between offending versatility and the other nodes in the
+network. Like the between-subjects network, the Remorselessness subscale was one
+standard deviation above the mean for all three centrality indices. This subscale was key
+for bridging together interpersonal and behavioral features as part of the development
+of psychopathy. Indeed, within-individual change in levels of remorse at time ft were
+positively associated with within-individual change in all other YPI subscales at time tf.
+
+The contemporaneous network indicated that the association between within-individ-
+ual changes in features of psychopathy and within-individual changes in offending ver-
+satility occurred within the same window of measurement (i.e., within an interval that
+was shorter than the period captured by the lagged association). An individual’s level
+of Dishonest Charm, Irresponsibility, Manipulation, Remorselessness, and Thrill Seek-
+ing, when higher than their personal average, were positively associated with, within the
+same window of measurement, offending versatility. Grandiosity was inversely associ-
+ated with offending versatility. These findings resembled the between-subjects network
+in Fig. | but had more direct implications for treatment and for DLC research. Spe-
+cifically, when an individual’s interpersonal, affective, and behavioral test scores were
+higher than their personal average, this same individual tended to have, within that same
+window of measurement, a level of offending versatility that was also higher than their
+personal average.
+
+D) Springer
+ Journal of Quantitative Criminology (2021) 37:693-714 707
+
+Discussion
+
+Arguments for the incorporation of psychopathy into mainstream criminological theory
+and research (DeLisi 2016; Farrington 2005; Fox et al. 2015) have been challenged by
+empirical observations that interpersonal and affective features added little to explana-
+tions of offending beyond the contributions of features resembling low self control (e.g.,
+Edens et al. 2007; Walters 2012). However, at least two caveats associated with this
+research justified a closer examination of the importance of psychopathy to offending.
+First, research was needed that clarified the relative importance of different features of
+psychopathy, as well as interrelationships among these features, as opposed to examin-
+ing these different features in isolation (Lilienfeld 2018; Ridder and Kosson 2018). Sec-
+ond, research on psychopathy and offending has often focused on single-item indictors
+of offending measured at one time-period, which does not comport with important the-
+oretical questions in criminology regarding the longitudinal relationship between risk
+factors and offending outcomes (e.g., DLC criminology’s emphasis on within-individual
+change; Loeber and Le Blanc 1990).
+
+The current study used psychopathology network modeling as an analytic strategy
+capable of (a) addressing interrelationships among features of psychopathy and how
+they relate to offending and (b) examining such relationships from both between-sub-
+jects and within-individual perspectives that align with DLC criminology and the per-
+son-oriented paradigm (Bergman and Magnusson 1997). Seven waves of annual data
+from the Pathways to Desistance Study (n= 1354) were used to examine the network
+structure of YPI subscales and the SRO versatility scale. Results are summarized in
+Table 1. Controlling for behavioral features, several interpersonal and affective features
+of psychopathy were associated with offending, and this was true for both between-sub-
+jects and within-individual analyses. Importantly, the features that were associated with
+criminal versatility were also identified as core features of psychopathy (e.g., remorse-
+lessness, manipulation) as per different indicators of network centrality.
+
+The importance of examining interpersonal, affective, and behavioral dimensions as
+opposed to total scores on a measure of psychopathy has been recently noted (Salekin
+et al. 2018). The current study illustrated that it may be beneficial to examine the spe-
+cific features that underlie these dimensions. For example, analyses of the YPI’s three
+dimensions (GM, CU, and II; see Supplementary Material) showed that the GM dimen-
+sion was unrelated to offending versatility in the between-subject network. This was
+likely a consequence of aggregating subscales that were positively related to offending
+versatility .e., Manipulation and Dishonest Charm subscales) and subscales that were
+negatively related to offending versatility (.e., Grandiosity and Lying). In effect, disag-
+gregating the GM dimension across its four subscales helped clarify the specific mech-
+anisms by which dimensions of psychopathy are related to offending (Lee 2018). As
+well, although several specific features of psychopathy were associated with offending
+in the within-individual networks, such relationships were not found when aggregated
+into GM, CU, and IJ dimensions and examined in the Supplementary Materials. Thus,
+for criminological research and theory, aggregation of features of psychopathy into their
+respective dimensions or into total scores may mask their importance to offending. This
+is not to say that psychopathy as a general construct is not important to understanding
+offending; features unrelated to offending may nevertheless be related to other impor-
+tant outcomes that in turn are related to offending (e.g., treatment completion and thera-
+peutic change; Sewall and Olver 2019).
+
+D) Springer
+ 708 Journal of Quantitative Criminology (2021) 37:693-714
+
+Table 1 Summary of findings
+
+Node Between-subjects Temporal network Contem-
+
+network poraneous
+network
+
+Associations with offending versatility
+
+Callousness +
+
+Dishonest Charm , , +
+
+Grandiosity - , -
+
+Impulsivity
+
+Irresponsibility + , +
+
+Lying -
+
+Manipulation + +
+
+Remorselessness + +
+
+Thrill Seeking + +
+
+Unemotionality +
+
+Network centrality
+
+Offending versatility BI,Cl, S| BI, S|’ BI,C|, S|
+
+Callousness BI BJ, Cl, SJ
+
+Dishonest Charm , , ST
+
+Grandiosity BJ,C], SJ S|" BI
+
+Impulsivity ,
+
+Irresponsibility BI, SJ ,
+
+Lying Ct Bt, St" ,
+
+Manipulation Bt, St St", St’ St
+
+Remorselessness Bt, Ct, ST St, S|! Bt, Ct, St
+
+Thrill Seeking ; Bt, St Bt
+
+Unemotionality Ct S|" Bt, CT
+
++ positive relationship. — negative relationship. B betweenness centrality; C closeness centrality; S strength
+centrality
+
+| Centrality value greater than one standard deviation below the average
+tCentrality value greater than one standard deviation above the average
+“In-strength centrality
+
+‘Out-strength centrality
+
+The Importance of Psychopathology Network Modeling
+
+Psychopathology network modeling departed from traditional conceptualizations of psy-
+chopathy as a latent construct (see Cooke et al. 2007). Whereas the psychopathology
+network perspective assumes that symptoms are part of a causal system and thus share
+important interrelationships, in latent variable modeling, covariance between symptoms of
+a disorder are assumed to result from their shared dependence with a common cause; once
+the higher-order common cause (e.g., psychopathy) is accounted for, these different symp-
+toms are considered locally independent (Borsboom and Cramer 2013). Psychopathology
+network modeling was useful for measuring the interrelationships among a constellation of
+co-occurring features that comprise the psychopathy construct while also indicating which
+of these features related to offending. Edges were identified after the analyses used a tuning
+
+D) Springer
+ Journal of Quantitative Criminology (2021) 37:693-714 709
+
+parameter to avoid Type I error by removing spurious associations. Although the current
+study investigated the impact of individual features of psychopathy on offending, it was
+also informative of the nature of the overarching construct. The network models, especially
+the temporal network that identified directed relationships, suggested that these features
+may not be independent of one another. The Remorseless subscale was especially impor-
+tant for understanding the interconnectivity of these different features that were related
+to offending. In effect, 1f psychopathy is a multidimensional construct (Lilienfeld 2018),
+remorselessness helps to understand how symptoms come together as well as why psy-
+chopathy is related to offending. The importance of a lack of remorse is also evidence that
+when looking at affective features of psychopathy, CU traits is not enough (Salekin et al.
+2018).
+
+The temporal network structure directly examined the influence of features of psychopa-
+thy on one another (Borsboom and Cramer 2013). This helped understand, for example,
+that within-individual changes in callousness, manipulativeness, and dishonest charm
+directly influenced later changes in remorselessness. Changes in specific features of psy-
+chopathy had cascading effects on a feature of psychopathy that was critical to the for-
+mation of the general construct (i.e., remorselessness bridged together otherwise uncon-
+nected interpersonal and behavioral features). Interpersonal deficits at time t—1 reduced
+an individual’s lack of remorse at time ¢. Although challenges in directly treating affective
+features have been noted (e.g., Olver et al. 2013a), treating interpersonal deficits may help
+indirectly improve affective features.
+
+Nodes tended to cluster together according to whether they belonged to interpersonal,
+affective, or behavioral dimensions of psychopathy. However, a unique contribution of psy-
+chopathology network modeling was that its illustration of network structure helped reveal
+how conceptually distinct interpersonal, affective, and behavioral features came together to
+form the multidimensional psychopathy construct. Specifically, the Remorselessness sub-
+scale was a central component that bridged together various interpersonal, affective, and
+behavioral features to formulate a cohesive, super-ordinate construct (see Neumann et al.
+2007).
+
+The network analysis was also unique from traditional approaches in that it helped
+contextualize the relationships between different features of psychopathy and offending
+by, for example, examining whether the core structural features of psychopathy were also
+important for the development of offending. In the current study, the Remorselessness
+and Manipulation subscales stood out as being highly central in the between-subjects and
+within-individual network structures while also being associated with offending versatil-
+ity. These findings contrasted with recidivism studies that showed that only behavioral and
+antisocial features of psychopathy predicted recidivism (e.g., Edens et al. 2007; Walters
+2012).
+
+Impulsivity and offending versatility did not share an edge in the between-subjects net-
+work, which contrasted with conceptual assertions and empirical observations that the rela-
+tionship between features of psychopathy and offending was accounted for by features of
+low self control (e.g., Walters 2004, 2012). The non-association resulted from the network
+approach’s use of partial correlations to condition on other features of psychopathy. Thus,
+network modeling was useful for testing Lilienfeld’s (2018) recommendation that statis-
+tical associations among features of psychopathy should be accounted for when examin-
+ing the relationship between specific features and offending (also see Ridder and Kosson
+2018; Salekin et al. 2018). Conceptual similarity, denoted by network proximity, was not
+necessarily important for statistical association. The YPI subscales associated with offend-
+ing versatility tended to be distant from each other; impulsivity was closest to offending
+
+D) Springer
+ 710 Journal of Quantitative Criminology (2021) 37:693-714
+
+versatility yet was not associated with offending versatility. If nodes are close together (1.e.,
+conceptually similar), failure to condition on their relationship with other nodes may result
+in spurious connections.
+
+Implications for DLC Research
+
+The negative autoregressive effect observed for offending versatility suggested that indi-
+viduals moved in a “jigsaw” pattern (Bringmann et al. 2018: 3) that was analogous to Laub
+and Sampson’s (2003) zig-zag characterization of offending intermittency as a common
+pattern of offending over the criminal career. Similarly, the negative autoregressive effect
+observed for all 10 YPI subscales provided further evidence that features of psychopathy
+between adolescence and emerging adulthood lack stability (also see McCuish and Lussier
+2018). We were unable to rule out the possibility that the autoregressive effects were due
+to individuals experiencing temporary treatment effects that resulted in a decrease in test
+scores followed by a return to baseline. Nevertheless, the findings imply that there is a lack
+of ipsative stability of features of psychopathy, at least when it comes to the within-individ-
+ual variability of YPI subscale scores over yearly measurement periods.
+
+Psychopathology network modeling also contributed to DLC research by examining the
+within-individual relationship between features of psychopathy and offending. By sepa-
+rating within-individual variance in the relationship between features of psychopathy and
+offending into temporal and contemporaneous networks, the current study indicated that
+features of psychopathy and offending moved in lock-step, at least when measured over the
+same one-year period. This was shown in the contemporaneous network, where there were
+several positive associations between features of psychopathy and offending versatility. In
+the temporal network, negative autoregressive effects helped explain the lack of a lagged
+effect of YPI features on offending versatility. The contemporaneous network showed that
+there was a relationship between core features of psychopathy and offending versatility but
+could not establish the direction of this relationship because both were measured during the
+same wave of data collection. Capturing a directed relationship between features of psy-
+chopathy and offending likely required examining lagged effects within a shorter interval.
+
+Limitations and Future Research
+
+The current study relied on a single source (1.e., the participant) for all measures and thus
+suffers from mono-operation bias. Individuals that averaged higher scores on the Lying
+subscale also averaged lower levels of offending versatility. It may be the case that individ-
+uals that averaged higher scores on the Lying subscale were simply more likely to underre-
+port their involvement in criminal behavior. It was not possible to examine this hypothesis
+using the current data. There are also concerns about the reliability of self-report measures
+of psychopathy (Hart and Cook 2012) that may apply to the YPI. For example, the Callous-
+ness subscale was among the least central nodes in the network. A rival plausible expla-
+nation is that youth have a relatively limited ability to accurately self-assess callousness.
+Indeed, the Callousness subscale was associated with low Cronbach’s alpha values (rang-
+ing from 0.43 to 0.85 across waves). Despite its low reliability, callousness was retained in
+the network model because of its conceptual importance to psychopathy (McCuish et al.
+2019) and because its removal did not impact the structure of the network.
+
+Most research using longitudinal networks of symptoms of mental disorders relied on
+experience sampling methods in which a smaller number of participants provided data
+
+D) Springer
+ Journal of Quantitative Criminology (2021) 37:693-714 711
+
+over many observation periods (e.g., Epskamp et al. 2018c). The current study relied on
+just seven observation periods. However, across 1354 participants this still resulted in over
+9000 observation points. The limited number of waves of data were more likely to increase
+the likelihood of failing to observe true edges as opposed to increasing the likelihood of
+observing spurious edges (Epskamp et al. 2018c). Finally, graphical-VAR assumes an
+invariant mean and covariance structure of all nodes in the network (i.e., weak stationar-
+ity). For the YPI subscales and SRO, a slight downward trend in mean test scores was
+observed. Differencing was applied to the data by subtracting each test score’s value at the
+previous measurement period from the value at the current measurement period. Analyses
+of the differenced data were relatively similar (available from the first author), with the
+main difference being fewer cross-lagged associations in the temporal network, which was
+expected [see the supplementary materials provided by Epskamp et al. (2018b)]. The cur-
+rent study was unable to address whether participants received interventions that improved
+their features of psychopathy. Such interventions may explain the downward trend in YPI
+test scores between baseline and final assessment. A rival explanation for this decline is
+that changes in general personality features occur through improvements in maturation
+(Blonigen 2010) and all participants in the current study passed through a developmental
+period characterized by major maturational change (Arnett 2000).
+
+Recent advances in psychopathology network modeling allow for comparisons of
+whether network structure and statistical associations within the network are invariant
+across different groups of individuals (e.g., McElroy et al. 2018). Future research should
+utilize the logic of this analysis to examine whether the features of psychopathy most
+strongly related to criminal behavior vary over age. Future research should also examine
+whether the relationship between specific features of psychopathy and offending varies
+according to the type of offending outcome examined, over higher versus lower test scores,
+and across males versus females.
+
+Conclusion
+
+The current study used psychopathology network modeling to examine the longitudinal
+relationship between different features of psychopathy and offending using both between-
+subjects and within-individual analyses. This approach utilized information about the struc-
+tural properties and network location of different features of psychopathy and offending to
+help contextualize the statistical relationship between the two. Offending versatility was
+on the periphery of the network and may be better considered as an outcome rather than
+a symptom of psychopathy. Interpersonal and affective features were especially central to
+the network. Remorselessness helped bridge conceptually distinct features of psychopathy
+together and may be critical for understanding the origins of psychopathy. Several of these
+core interpersonal and affective features were associated with offending versatility, and
+this was true from both between-subjects and within-individual perspectives. Thus, these
+findings supported calls for the integration of psychopathy into criminological theory and
+research (e.g., Fox et al. 2015). However, these findings also suggested that not all features
+of psychopathy are equally important to offending. Aggregating features into interpersonal,
+affective, and behavioral dimensions may mask important relationships between these fea-
+tures and offending. Overall, findings supported prior arguments that research should not
+restrict itself to examining only certain features of psychopathy (e.g., CU traits; see Salekin
+et al. 2018).
+
+D) Springer
+ 712 Journal of Quantitative Criminology (2021) 37:693-714
+
+References
+
+Andershed H, Kerr M, Stattin H, Levander S (2002) Psychopathic traits in non-referred youths: a new
+assessment tool. In: Blau E, Sheridan L (eds) Psychopaths: current international perspectives. Else-
+vier, Amsterdam, pp 131-158
+
+Arnett JJ (2000) Emerging adulthood: a theory of development from the late teens through the twenties.
+Am Psychol 55:469-480
+
+Bergman LR, Magnusson D (1997) A person-oriented approach in research on developmental psychopa-
+thology. Dev Psychopathol 9:291-—319
+
+Blonigen DM (2010) Explaining the relationship between age and crime: contributions from the devel-
+opmental literature on personality. Clin Psychol Rev 30:89—100
+
+Borsboom D, Cramer AOJ (2013) Network analysis: an integrative approach to the structure of psycho-
+pathology. Annu Rev Clin Psychol 9:91-121
+
+Bouchard M, Malm A (2016) Social network analysis and its contribution to research on crime and
+criminal justice. Oxford Handbooks Online, pp 1-26
+
+Bringmann LF, Ferrer E, Hamaker EL, Borsboom D, Tuerlinckx F (2018) Modeling nonstationary emo-
+tion dynamics in dyads using a time-varying vector-autoregressive model. Multivar Behav Res
+53:293-314
+
+Colins OF, Vermeiren R, De Bolle M, Broekaert E (2012) Self-reported psychopathic-like traits as predic-
+tors of recidivism in detained male adolescents. Crim Just Behav 39:1421—1435
+
+Colins OF, Andershed H, Pardini DA (2015) Psychopathic traits as predictors of future criminality, intimate
+partner aggression, and substance use in young adult men. Law Hum Behav 39:547-558
+
+Cooke DJ, Michie C (1997) An item response theory analysis of the hare psychopathy checklist-revised.
+Psychol Assess 9:3—14
+
+Cooke DJ, Michie C (2001) Refining the construct of psychopathy: towards a hierarchical model. Psychol
+Assess 13:171-188
+
+Cooke DJ, Michie C, Skeem J (2007) Understanding the structure of the psychopathy checklist-revised: an
+exploration of methodological confusion. Br J Psychiatry 190:s39-s50
+
+Corrado RR, DeLisi M, Hart SD, McCuish EC (2015) Can the causal mechanisms underlying chronic,
+serious, and violent offending trajectories be elucidated using the psychopathy construct? J Crim Just
+43:251-261
+
+Cronbach LJ, Gleser GC (1953) Assessing similarity between profiles. Psychol Bull 50:456—473
+
+DeLisi M (2016) Psychopathy as unified theory of crime. Palgrave Macmillan, New York
+
+DeLisi M, Tostlebe J, Burgason K, Heirigs M, & Vaughn M (2018) Self-control versus psychopathy: A
+head-to-head test of general theories of antisociality. Youth Violence and Juvenile Justice 16:53-76
+
+Edens JF, Campbell JS, Weir JM (2007) Youth psychopathy and criminal recidivism: a meta-analysis of the
+psychopathy checklist measures. Law Hum Behav 31:53-—75
+
+Epskamp S (2017) graphicalVAR: graphical VAR for experience sampling data (R package version 0.2.1)
+[Computer software manual]. Retrieved from http://CRAN.R-project.org/package=graphical VAR
+
+Epskamp S, Fried EI (2018a) A tutorial on regularized partial correlation networks. Psychol Methods
+23(4):1-18
+
+Epskamp S, Fried EI (2018b) Package “bootnet’. Retrieved from https://cran.r-project.org/web/packages/
+bootnet/bootnet.pdf. Accessed 15 Mar 2020
+
+Epskamp S, Costantini G, Haslbeck J, Cramer AOJ, WaldropLJ, Schmittmann VD, Borsboom D (2017)
+qgraph: graph plotting methods, psychometric data visualization and graphical model estimation (R
+Package version 1.5) [Computer software manual]. Retrieved from https://cran.r-project.org/web/packa
+ges/qgraph/qgraph.pdf
+
+Epskamp S, Borsboom D, Fried EI (2018a) Estimating psychological networks and their accuracy: a tutorial
+paper. Behav Res Methods 50:195-—212
+
+Epskamp S, van Borkulo CD, van der Veen DC, Servaas MN, Isvoranu AM, Riese H, Cramer AO (2018b)
+Personalized network modeling in psychopathology: the importance of contemporaneous and temporal
+connections. Clin Psychol Sci 6:416—-427
+
+Epskamp S, Waldorp LJ, Mottus R, Borsboom D (2018c) Discovering psychological dynamics: the Gauss-
+ian graphical model in cross-sectional and time-series data. Multivar Behav Res 1-29
+
+Fanti KA, Kyranides MN, Lordos A, Colins OF, Andershed H (2018) Unique and interactive associations
+of callous-unemotional traits, impulsivity and grandiosity with child and adolescent conduct disorder
+symptoms. J Psychopathol Behav Assess 40:40-49
+
+Farrington DP (2005) The importance of child and adolescent psychopathy. J Abnorm Child Psychol
+33:489-497
+
+Freeman L (1977) A set of measures of centrality based on betweenness. Sociometry 40:35—-41
+
+D) Springer
+ Journal of Quantitative Criminology (2021) 37:693-714 713
+
+Fox BH, Jennings WG, & Farrington DP (2015) Bringing psychopathy into developmental and life-
+course criminology theories and research. J Crim Justice 43:274—289
+
+Gottfredson M, Hirschi T (1990) A general theory of crime. Stanford University Press, Stanford, CA
+
+Gottfried ED, Harrop TM, Anestis JC, Venables NC, Sellbom M (2019) An examination of triarchic
+psychopathy constructs in female offenders. J Pers Assess 101:455—467
+
+Hare RD, Neumann GS (2010) The role of antisociality in the psychopathy construct: comment on
+Skeem and Cooke 2010. Psychol Assess 22:446—454
+
+Hart SD (1998) The role of psychopathy in assessing risk for violence: conceptual and methodological
+issues. Legal Criminol Psychol 3:121—137
+
+Hart SD, Cook AN (2012) Current issues in the assessment and diagnosis of psychopathy (psychopathic
+personality disorder). Neuropsychiatry 2:497-508
+
+Huizinga D, Esbensen FA, Weiher AW (1991) Are there multiple paths to delinquency? J Crim Law
+Criminol 82:83-118
+
+Kennealy PJ, Skeem JL, Walters GD, Camp J (2010) Do core interpersonal and affective traits of PCL-R
+psychopathy interact with antisocial behavior and disinhibition to predict violence? Psychol Assess
+22:569-580
+
+Knoke D, Yang S (2008) Social network analysis, 2nd edn. Sage, Thousand Oaks
+
+Kreis MF, Cooke DJ, Michie C, Hoff HA, Logan C (2012) The comprehensive assessment of psycho-
+pathic personality (CAPP): content validation using prototypical analysis. J Pers Disord 26:402—413
+
+Laub JH, Sampson RJ (2003) Shared beginnings, divergent lives: delinquent boys to age 70. Harvard
+University Press, Massachusetts
+
+Lee SS (2018) Multidimensionality of youth psychopathic traits: validation and future directions. J Psy-
+chopathol Behav Assess 40:86—92
+
+Leistico AMR, Salekin RT, DeCoster J, Rogers R (2008) A large-scale meta-analysis relating the Hare
+measures of psychopathy to antisocial conduct. Law Hum Behav 32:28—45
+
+Lilienfeld SO (2018) The multidimensional nature of psychopathy: five recommendations for research. J
+Psychopathol Behav Assess 40:79-85
+
+Lilienfeld SO, Watts AL, Murphy B, Costello TH, Bowes SM, Smith SF et al (2019) Personality dis-
+orders as emergent interpersonal syndromes: psychopathic personality as a case example. J Pers
+Disord 33:577-622
+
+Loeber R, Le Blanc M (1990) Toward a developmental criminology. Crime Just 12:375—473
+
+McCuish EC, Lussier P (2018) A developmental perspective on the stability and change of psychopathic
+personality traits across the adolescence—adulthood transition. Crim Justice Behav 45:666—692
+
+McElroy E, Shevlin M, Murphy J, McBride O (2018) Co-occurring internalizing and externalizing psy-
+chopathology in childhood and adolescence: a network approach. Eur Child Adolesc Psychiatry
+27:1-9
+
+McGloin JM, Kirk DS (2010) Social network analysis. In: Piquero AR, Weisburd D (eds) Handbook of
+quantitative criminology. Springer, New York, pp 209-224
+
+McCuish E, Bouchard M, Beauregard E, & Corrado R (2019) A network approach to understanding
+the structure of core symptoms of psychopathic personality disturbance in adolescent offenders. J
+Abnorm Child Psychol 47:1467—1482
+
+Mulvey E (2013) Research on Pathways to Desistance [Maricopa County, AZ and Philadelphia County,
+PA]: Subject Measures, 2000-2010. ICPSR29961-v2. Ann Arbor, MI: Inter-university Consortium
+for Political and Social Research [distributor], 01 July 2013
+
+Nagin D, & Paternoster R (2000) Population heterogeneity and state dependence: State of the evidence
+and directions for future research. J Quant Criminol 16:117-—144
+
+Neumann CS, Hare RD, Newman JP (2007) The super-ordinate nature of the Psychopathy Checklist-
+Revised. J Pers Disord 21:102—117
+
+Olver ME, Lewis K, Wong SC (2013a) Risk reduction treatment of high-risk psychopathic offenders: the
+relationship of psychopathy and treatment change to violent recidivism. Pers Disorders Theory Res
+Treat 4:160-167
+
+Olver ME, Neumann CS, Wong SC, Hare RD (2013b) The structural and predictive properties of the
+Psychopathy Checklist-Revised in Canadian Aboriginal and non-Aboriginal offenders. Psychol
+Assess 25:167-179
+
+Opsahl T, Agneessens F, Skvoretz J (2010) Node centrality in weighted networks: generalizing degree
+and shortest paths. Soc Netw 32:245-251
+
+Preszler J, Marcus DK, Edens JF, McDermott BE (2018) Network analysis of psychopathy in forensic
+patients. J Abnorm Psychol 127:171—182
+
+R Core Team (2017) R: A language and environment for statistical computing. R Foundation for Statisti-
+cal Computing, Vienna
+
+D) Springer
+ 714 Journal of Quantitative Criminology (2021) 37:693-714
+
+Ridder KA, Kosson DS (2018) Investigating the components of psychopathic traits in youth offenders. J
+Psychopathol Behav Assess 40:60—68
+
+Robins RW, Fraley RC, Roberts BW, Trzesniewski KH (2001) A longitudinal study of personality change in
+young adulthood. J Pers 69:617—640
+
+Salekin RT (2016) Psychopathy in childhood: toward better informing the DSM-—5 and ICD-11 conduct dis-
+order specifiers. Pers Disorders Theory Res Treat 7:180-191
+
+Salekin RT, Andershed H, Batky BD, Bontemps AP (2018) Are callous unemotional (CU) traits enough?
+Journal of Psychopathology and Behavioral Assessment 40:1-—5
+
+Sewall LA, Olver ME (2019) Psychopathy and treatment outcome: results from a sexual violence reduction
+program. Pers Disorders Theory Res Treat 10:59-69
+
+Skeem JL, Cooke DJ (2010) Is criminal behavior a central component of psychopathy? Conceptual direc-
+tions for resolving the debate. Psychol Assess 22:433-445
+
+Stekhoven DJ, Biihlmann P (2012) MissForest—non-parametric missing value imputation for mixed-type
+data. Bioinformatics 28:112-118
+
+Sweeten G, Pyrooz DC, Piquero AR (2013) Disengaging from gangs and desistance from crime. Just Q
+30:469-500
+
+Vahl P, Colins OF, Lodewijks HP, Markus MT, Doreleyers TA, Vermeiren RR (2014) Psychopathic-
+like traits in detained adolescents: clinical usefulness of self-report. Eur Child Adolesc Psychiatry
+23:69 1-699
+
+Verschuere B, van Ghesel Grothe S, Waldorp L, Watts AL, Lilienfeld SO, Edens JF et al (2018) What fea-
+tures of psychopathy might be central? A network analysis of the psychopathy checklist-revised (PCL-
+R) in three large samples. J Abnorm Psychol 127:51-65
+
+Walters GD (2004) The trouble with psychopathy as a general theory of crime. Int J Offender Ther Comp
+Criminol 48:133-148
+
+Walters GD (2012) Psychopathy and crime: testing the incremental validity of PCL-R-measured psychopa-
+thy as a predictor of general and violent recidivism. Law Hum Behav 36:404—412
+
+Walters GD (2015) A multi-wave cross-lagged regression analysis of the youth psychopathic traits inventory
+and self-reported offending. J Crim Just 43:327—336
+
+Wasserman S, Faust K (1994) Social network analysis: methods and applications. Cambridge University
+Press, Cambridge
+
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+institutional affiliations.
+
+Affiliations
+
+Evan McCuish'® - Martin Bouchard! - Eric Beauregard
+
+Martin Bouchard
+mbouchard @ sfu.ca
+
+Eric Beauregard
+ebeaureg @sfu.ca
+
+School of Criminology, Simon Fraser University, 8888 University Drive, Burnaby, BC V5A 1S6,
+Canada
+
+D) Springer

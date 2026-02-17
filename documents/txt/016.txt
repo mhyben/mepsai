@@ -1,0 +1,1169 @@
+Schizophrenia Research xxx (XXxXX) XXX
+
+ves
+. Z
+5 Nee,
+Fd Bon
+
+ET;
+
+SEVIE
+
+journal homepage: www.elsevier.com/locate/schres
+
+Contents lists available at ScienceDirect
+
+at eet :
+SCHIZOPHRENIA
+
+RESEARCH
+
+Schizophrenia Research
+
+A time-series network approach to auditory verbal hallucinations:
+Examining dynamic interactions using experience sampling
+
+methodology
+
+Alyssa Jongeneel *” *, George Aalbers ‘, Imogen Bell “, Eiko I. Fried °,
+Philippe Delespaul *®, Heleen Riper 7", Mark van der Gaag *”, David van den Berg *”
+
+* Department of Clinical Psychology, Amsterdam UMC, Amsterdam Public Health Research Institute, Van der Boechorstraat 7, 1081 BT, Amsterdam, the
+
+Netherlands
+
+> Parnassia Psychiatric Institute, Zoutkeetsingel 40, 2512 HN, Den Haag, the Netherlands
+
+© Department of Cognitive Science and Artificial Intelligence, Tilburg University, the Netherlands
+
+¢ Centre for Mental Health, Swinburne University of Technology, Melbourne, Australia
+
+© Department of Clinical Psychology, Leiden University, the Netherlands
+
+f Maastricht University, PO Box 616, 6226 NB, Maastricht, the Netherlands
+
+® Mondriaan, PO Box 4436 6401, CX, Heerlen, the Netherlands
+
+h Department of Research and Innovation, GGZ InGeest Specialized Mental Health Care, Amsterdam, the Netherlands
+
+ARTICLE INFO
+
+Article history:
+
+Received 16 July 2019
+Received in revised form
+23 October 2019
+Accepted 29 October 2019
+Available online xxx
+
+Keywords:
+
+Psychosis
+
+Auditory verbal hallucinations
+Voice hearing
+
+Network analysis
+
+Experience sampling method
+
+ABS TRACT
+
+Background: Identifying variables that influence daily-life fluctuations in auditory verbal hallucinations
+(AVHs) provides insight into potential mechanisms and targets for intervention. Network analysis, that
+uses time-series data collected by Experience Sampling Method (ESM), could be used to examine re-
+lations between multiple variables over time.
+Methods: 95 daily voice-hearing individuals filled in a short questionnaire ten times a day for six
+consecutive days at pseudo-random moments. Using multilevel vector auto-regression, relations be-
+tween voice-hearing and negative affect, positive affect, uncontrollable thoughts, dissociation, and
+paranoia were analysed in three types of networks: between-subjects (between persons, undirected),
+contemporaneous (within persons, undirected), and temporal (within persons, directed) networks.
+Strength centrality was measured to identify the most interconnected variables in the models.
+Results: Voice-hearing co-occurred with all variables, while on a 6-day period voice-hearing was only
+related to uncontrollable thoughts. Voice-hearing was not predicted by any of the factors, but it did
+predict uncontrollable thoughts and paranoia. All variables showed large autoregressions, i.e. mainly
+predicted themselves in this severe voice-hearing sample. Uncontrollable thoughts was the most
+interconnected factor, though relatively uninfluential.
+Discussion: Severe voice-hearing might be mainly related to mental state factors on the short-term. Once
+activated, voice-hearing appears to maintain itself. It is important to assess possible reactivity of AVH to
+triggers at the start of therapy; if reactive, therapy should focus on the triggering factor. If not reactive,
+Cognitive Behavioural interventions could be used first to reduce the negative effects of the voices.
+Limitations are discussed.
+
+© 2019 Published by Elsevier B.V.
+
+1. Introduction
+
+borderline personality disorder, and can be highly distressing and
+disabling (de Leede-Smith and Barkus, 2013; Johns et al., 2014). The
+
+Auditory verbal hallucinations (AVHs) are characterised by the
+perception of voices in the absence of external stimuli (Slade and
+Bentall, 1988). These experiences are common across a number of
+psychiatric conditions such as schizophrenia, bipolar disorder and
+
+* Corresponding author. Zoutkeetsingel 40, 2512 HN, Den Haag, the Netherlands.
+E-mail address: a.jongeneel@parnassiagroep.nl (A. Jongeneel).
+
+https://doi.org/10.1016/j.schres.2019.10.055
+0920-9964/© 2019 Published by Elsevier B.V.
+
+frequency and intensity of AVHs differ greatly between individuals,
+and typically fluctuate within people’s daily life depending on
+contextual variables and mental states (Delespaul et al., 2002).
+Uncovering the variables that influence daily-life fluctuations in
+AVHs may offer insight into the mechanisms which drive them, as
+well as targets for intervention.
+
+Please cite this article as: Jongeneel, A et al., A time-series network approach to auditory verbal hallucinations: Examining dynamic interactions
+using experience sampling methodology, Schizophrenia Research, https://doi.org/10.1016/j.schres.2019.10.055
+
+ 2 A. Jongeneel et al. / Schizophrenia Research xxx (Xxxx) Xxx
+
+Most studies have explored the relations between AVHs and
+mental states by correlations or prediction analyses whereby the
+direction of the effect is specified a priori. Most studies used cross-
+sectional data (e.g. Morrison and Baker, 2000; Smith et al., 2006),
+but increasingly Experience Sampling Methodology (ESM) is used
+(e.g. Hartley et al., 2014; Oorschot et al., 2012a,b). ESM involves the
+assessment of momentary experiences in daily life via question-
+naires that are completed multiple times a day over several days,
+thereby producing time-series data (de Vries, 1992; Delespaul,
+1995; Myin-Germeys et al., 2009). ESM data is considered more
+reliable and ecologically valid as experiences are captured in real-
+time, real-world contexts, and can be analysed to reveal temporal
+relationships between variables over time (Shiffman et al., 2008).
+Until recently, this type of data was mainly analysed by (multilevel)
+regression analysis; hence, analyses were performed with only one
+outcome, thereby ignoring other possible (inter)connections be-
+tween variables. Nowadays, it is possible to include multiple factors
+as both predictor and outcome in a network model, enabling
+analysis of multiple relations and mutual associations (Borsboom,
+2016; Borsboom and Cramer, 2013).
+
+The traditional factorial medical approach to psychopathology
+assumes that symptoms are manifestations of an underlying latent
+factor (i.e. a mental disorder). Recently, there has been a shift to-
+wards network approaches which conceptualise symptoms as dy-
+namic, interconnected networks that interact with each other over
+time, without the necessity of an underlying latent construct like a
+disorder (Borsboom and Cramer, 2013; Fried et al., 2017; Nelson
+et al., 2017). Within this framework, a network is a visual model
+consisting of elements (“nodes”), such as symptoms, mental states
+and contextual factors, and connections between the elements
+(“edges”), indicating strength and direction of relations. By
+analyzing timelagged ESM data using the network framework
+(Sacha Epskamp et al., 2018), it is possible to graph complex dy-
+namic connections to elucidate the pattern of temporal relations
+between nodes. An other important advantage of network analysis
+is that it may identify factors that are central, i.e. influential, in the
+time-series models.
+
+Network models are increasingly used to study psychiatric dis-
+orders, including psychosis (Isvoranu et al., 2017; Levine and
+Leucht, 2016; Van Rooijen et al., 2017, 2018). These studies, that
+relied on cross-sectional data, identified (shortest) pathways be-
+tween variables, strong links between factors, and clusters of
+symptoms. In addition, temporal networks can be used to identify
+interactions between nodes over time, thereby producing in-
+dications for the direction of relations (Epskamp et al., 2018).
+Klippel et al. (2017) analysed timelagged data by network analysis
+in a population with psychosis, and found that minor daily life
+stress preceded positive and negative affect, paranoia, loss of con-
+trol, and tiredness. In an n=1 study (Bak et al., 2016), temporal
+models of resting and relapsing states, consisting of voice-hearing,
+feeling down, feeling relaxed, loss of control, and paranoia, were
+calculated and compared. In both stable state and full relapse,
+voice-hearing was preceded by all variables. It might be valuable to
+study the dynamics of AVHs by both correlational and temporal
+models. Our aim was to discover novel insights about the dynamic
+relations between AVHs and key variables, such as generating new
+hypotheses about causal relations and potential treatment targets.
+
+The aim of the current study was to conduct time-series
+network analysis on an ESM dataset that included a number of
+key variables that have previously been found to influence fluctu-
+ations in AVHs, i.e.: positive and negative affect (Delespaul et al.,
+2002; Hartley et al., 2013; Oorschot et al., 2012a,b), intrusions
+(Jones and Fernyhough, 2006; Morrison and Baker, 2000), rumi-
+nation (Hartley, Haddock, Vasconcelos e Sa, Emsley and
+Barrowclough, 2014), dissociation (Dorahy et al., 2009; Escudero-
+Pérez et al., 2016; Varese et al., 2011), paranoia (Oorschot et al.,
+
+2012a,b; Palmier-Claus et al., 2014), and self-esteem (Smith et al.,
+2006).
+
+To study how these mental state factors were associated with
+AVHs and whether there were indications for temporal relations in
+this sample, we:
+
+a) examined the between-persons relations between AVHs and
+the mental state variables by a between-subjects network,
+and;
+
+b) examined the concurrent relations between AVHs and
+mental state variables by a contemporaneous network; and
+
+c) examined the consecutive (lagged) relations between AVHs
+and mental state variables by a temporal network; and
+
+d) identified the most central nodes in the models, i.e. what
+nodes are the most strongly connected to other nodes.
+
+2. Method
+2.1. Participants
+
+Data were collected as part of a larger randomized controlled
+trial (RCT) testing the effects of a smartphone application (Tem-
+stem) in participants with persistent, frequent and distressing AVHs
+(see Jongeneel et al., 2018). Participants were recruited from 12
+specialized mental healthcare institutions in the Netherlands. In-
+clusion criteria required the presence of AVHs for longer than one
+month, for at least four days a week in three of the last four weeks,
+irrespective of diagnosis. Exclusion criteria were inadequate
+competence of the Dutch language, current involuntary hospitali-
+zation in a closed ward, limited cognitive abilities (estimated
+IQ < 70), change of antipsychotics and/or antidepressants in the last
+month, currently receiving CBT for AVHs, not willing or capable to
+learn to use a smartphone, and intensive previous or current use of
+the Temstem application.
+
+The present study included participants who had completed at
+least 25 out of 60 ESM questionnaires in the baseline ESM week
+before randomization; this is considered to be a sufficient number
+of measurement moments to capture a range of experiences over
+the sampling period (Palmier-Claus et al., 2011). 123 Participants
+started the baseline ESM week. 28 Participants were not able to fill
+in enough questionnaires. Data of in total 95 participants were
+included in analyses.
+
+All procedures in this study complied with the ethical standards
+of the relevant national and institutional committees on human
+experimentation, and with the Helsinki Declaration as revised in
+2008. The study was approved by the medical Ethics Committee of
+the VU University Medical Centre (METC number: 2015.435/
+NL53684.029.15).
+
+2.2. Measures
+
+ESM questionnaires were collected using PsyMate, an experi-
+ence sampling application for smartphones (www.psymate.eu;
+Myin-Germeys et al., 2011). For six consecutive days, PsyMate
+prompted participants ten times a day to complete a brief elec-
+tronic questionnaire. All prompts appeared at a pseudo-random
+moment in every 90-min time window between 7.30 a.m. and
+10.30 p.m. Participants were required to complete assessments
+within 15 min following the prompt. Time intervals between two
+consecutive beeps (t-1 and t) ranged from 15 min to 3 h. This study
+only focused on lag-1 (t-1) intervals, not lag-2 or larger intervals
+(e.g. t-2, t-3 etc.).
+
+Each ESM questionnaire comprised 45 items (for an overview of
+these items, see Jongeneel et al., 2018). For the present study, only
+the items assessing AVHs, negative affect, positive affect, intrusions,
+
+Please cite this article as: Jongeneel, A et al., A time-series network approach to auditory verbal hallucinations: Examining dynamic interactions
+using experience sampling methodology, Schizophrenia Research, https://doi.org/10.1016/j.schres.2019.10.055
+
+ A. Jongeneel et al. / Schizophrenia Research xxx (Xxxx) Xxx 3
+
+rumination, dissociation, paranoia, and self-esteem were used. In-
+trusions and rumination showed strong partial correlations in both
+the contemporaneous and between-persons networks (respec-
+tively r=.572 and r=972), indicating multicollinearity (Daoud,
+2017). Therefore, these items were combined into one uncontrol-
+lable thoughts factor. Self-esteem and positive affect also showed
+strong partial correlations in mainly the between-persons network
+(r = 628). We choose to delete self-esteem because positive affect
+was measured with three items, making it possibly a more reliable
+variable (Shrout and Lane, 2012). Hence, our final model consisted
+of six variables: AVHs, negative affect, positive affect, uncontrolla-
+ble thoughts, dissociation, and paranoia. These variables were
+derived from 16 items in total — see Table 1. All items were rated on
+a 7-point Likert scale ranging from not at all (1) to very (7). With the
+exception of paranoia and AVHs, which were measured using single
+items, other constructs included multiple items which formed part
+of a broader factor. In these cases the average of these items formed
+the final variable. Items were developed based on previous ESM
+studies in psychosis (e.g. Delespaul, 1995; Delespaul et al., 2002;
+Thewissen et al., 2011; Thewissen et al., 2008), with further details
+available in Jongeneel et al. (2018).
+
+2.3. Statistical analysis
+
+For analyses, we used R version 3.5.1 and R packages mIVAR
+(Epskamp et al., 2016), RColorBrewer (Neuwirth, 2011), and qgraph
+(Epskamp et al., 2012).
+
+2.3.1. Assumption checks
+
+Kolmogorov-Smirnov tests and visual inspection of histograms
+were performed to assess the multivariate normality assumption of
+the statistical model we estimated in our main analyses (.e.,
+multilevel vector auto-regression [VAR]). According to the
+Kolmogorov-Smirnov tests, residuals of the multilevel VAR model
+were normally distributed for all variables (p > .05). Furthermore,
+we used the Kwiatkowksi-Phillips-Schmidt-Shin unit root test
+(KPSS; Kwiatkowski et al., 1992) to test whether all variables in all
+participants met the assumption of stationarity (i.e. whether means
+and variances of all items remained stable over time) (following
+Bringmann, 2016). For the majority of participants, this assumption
+was met. For the few participants for which the assumption was
+violated, detrending of their data was applied. For details and more
+information about the detrending procedure, see Online Supple-
+mentary Materials.
+
+2.3.2. Descriptive statistics
+
+For each participant, we calculated the mean (ie., intra-
+individual mean) and standard deviation (i.e. intra-individual
+standard deviation) of each variable. We repeated this for all vari-
+ables in all participants to generate a set of intra-individual means
+of all variables. From these values, we calculated the mean, stan-
+dard deviation, and range for each variable (Table 2). Using the
+Same procedure, we calculated the mean, standard deviation, and
+range of intra-individual standard deviations (Table 3).
+
+2.3.3. Network estimation
+
+We estimated three types of networks: a between-subjects
+network to investigate between subjects associations; a contem-
+poraneous network to research concurrent relations, and a tem-
+poral network to investigate timelag associations.
+
+The undirected between-subjects model uses the participants’
+mean of each variable over time (Epskamp et al., 2018), and can
+therefore best be compared to cross-sectional studies (Greene et al.,
+2018); for instance, the mean scores of AVHs and paranoia in a one
+week ESM period. A positive connection between AVHs and para-
+noia in this analysis would indicate that people with higher scores
+on AVHs during a week tend to have higher scores on paranoid
+ideation during this same week and vice versa.
+
+The contemporaneous network, including all separate data-
+points per variable, investigates concurrent relations between
+nodes. These relations are controlled for temporal effects and all
+other variables at the same timepoint to compute a partial (i.e.
+unique) correlations network (Epskamp et al., 2018; Wild et al.,
+2010). A contemporaneous network differs from a correlational
+network, for the contemporaneous network does not violate the
+independence of measurements assumption and takes the tem-
+poral relationship into account whereby the relationships within
+a timepoint can be separately analysed from relationships be-
+tween timepoints (as in temporal models) (Epskamp et al.,
+2018).
+
+In the directed temporal network, time series data are analysed
+including timelags (Epskamp et al., 2018; Epskamp et al., 2018; Van
+der Krieke et al., 2015). A variable at a certain timepoint (t) is
+predicted by the same variable (autoregressive effects) and all other
+variables (cross-lagged effects) at the previous timepoint (t-1). This
+results in partial correlations. When a variable at t-1 predicts a
+variable at t, this indicates that one item precedes the other. An
+advantage of the temporal network over conceptually simpler
+prediction models is that predictions are bidirectional: all variables
+are simultaneously predictors and outcome (Van der Krieke et al.,
+2015). This provides information about the temporal multivariate
+relations in the data.
+
+2.3.4. Network centrality
+
+Centrality measures can identify which node in a network is the
+most central, i.e. how well connected a node is to other variables
+(e.g. Costantini et al., 2015). We calculated the strength of the nodes
+for all networks, using the R package qgraph (Epskamp et al., 2012).
+The temporal network indicates both in-strength and out-strength
+of nodes. A high in-strength means the node is well influenced by
+other nodes. In the contrary, a node with high out-strength is a
+good predictor of other nodes.
+
+2.4. Network visualization
+
+Using the R package qgraph (S. Epskamp et al., 2012), we visu-
+alized all aforementioned associations as networks. Networks
+consist of circles, which represent variables, and lines between the
+circles representing associations between the variables. Positive
+
+Table 1
+
+ESM items.
+Construct Item
+AVHs “| hear voices”
+Paranoia “Iam suspicious”
+
+Negative affect
+
+Positive affect
+Uncontrollable thoughts
+Dissociation
+
+“I feel insecure/sad/lonely/anxious/irritated/relaxed (reversed )”
+
+“I feel cheerful/satisfied/enthusiastic”
+
+“I have intrusive thoughts”; “My thoughts won’t let go”
+
+“I feel unreal”; “The environment feels unreal, as if I’m not part of it”; “I feel absent, without a sense of time”
+
+Note: Items have been translated into English from Dutch.
+
+Please cite this article as: Jongeneel, A et al., A time-series network approach to auditory verbal hallucinations: Examining dynamic interactions
+using experience sampling methodology, Schizophrenia Research, https://doi.org/10.1016/j.schres.2019.10.055
+
+ 4 A. Jongeneel et al. / Schizophrenia Research xxx (Xxxx) Xxx
+
+relations are green and negative relations are red. The relations are
+weighted, with thicker edges indicating stronger connections.
+
+2.5. Sensitivity analyses
+
+In 17 participants, we observed one or several variables to be
+constant across time (SD = 0). To examine if these non-fluctuating
+time series (4.56% in total) influenced results, we excluded all
+participants with at least one constant variable, and re-ran analyses
+on this sample (n = 78).
+
+2.6. Stability analyses
+
+To examine the stability of the networks, 100 networks were
+estimated that included randomly selected data of 76 participants
+(i.e. 80%). We calculated the Spearman rank correlation between
+the centrality measures of our main model and the 100N=76
+models. These 100 correlations were plotted in a histogram. To
+ensure full transparency, we discuss differences between the
+sensitivity analyses, stability analyses, and the main analyses in the
+results and discussion section and report all R-code and model
+output in the Online Supplementary Materials.
+
+3. Results
+3.1. Descriptive statistics
+
+The initial dataset consisted of 4130 datapoints. Data with time
+intervals larger than 3h, due to a missed beep or transition be-
+tween days (night), were excluded from analysis (1830 beeps). Our
+final dataset consisted of 2300 measurement occasions with a
+mean time lag of 92.97 min and a standard deviation of 39.45 min.
+
+Table 2 shows the characteristics of the sample. Table 3 presents
+the means, standard deviations, and range of intra-individual
+means and intra-individual standard deviations for each variable.
+Participants reported to hear voices (i.e. scoring at least a 2 on a 7-
+point Likert scale) in 83% of the ESM questionnaires, and indicated
+severe voice-hearing (i.e. scoring a 6 or 7) on 48% of the reports.
+
+3.2. Network analyses
+
+3.2.1. Between-subjects network
+
+The between-subjects partial correlations network in Fig. 1 (left
+top panel) presents the pair-wise associations among the mean
+levels of variables over all beeps, when controlling for the mean
+levels of all other variables in the network. In the network, AVHs
+only connected to the rest of the network by a direct and positive
+
+Table 2
+
+Sample characteristics (n = 95).
+Variable Mean (SD)
+Female, no. (%) 51 (53.7)
+Age in years: mean (SD) 43 (11.5)
+
+Primary DSM-IV-TR chart diagnosis, no. (%)*
+Schizophrenia AO (44.4)
+Psychotic disorder NOS 18 (20.0)
+
+Schizoaffective disorder 10 (11.1)
+Post-traumatic stress disorder 8 (8.9)
+Borderline personality disorder 5 (5.6)
+Mood disorder? 5 (5.6)
+Other‘ 4 (4.4)
+Voice-hearing duration, in years: mean (SD) 15.9 (11.6)
+
+Amount of completed ESM assessments: mean (SD) 43.47 (12.30)
+
+Note: @ Only diagnoses of those who completed the Temstem Trial were reported. °
+Mood disorders consists of: mood disorder with psychotic characteristics, depres-
+sive disorder, and bipolar disorder. © Other consists of: anxiety disorders, dissocia-
+tive identity disorder, and other personality disorders. NOS=not otherwise
+specified.
+
+Table 3
+
+Mean, standard deviation, and range of intra-individual means and intra-individual
+standard deviations per variable. All variables have a potential score range from 1 to
+7.
+
+Intra-individual means Intra-individual SDs
+
+M* SD Min Max M** SD Min Max
+AVHs 460 189 1.11 £47 1.06 059 0O 2.60
+NA 3.10 O96 1.38 556 056 023 O15 £1.22
+PA 3.91 1.25 135 668 083 O39 O22 £42.02
+Paranoia 2.81 1.60 1 664 090 0.57 O 2.58
+Dissociation 2.75 1.61 1 6.98 0.75 048 O 2.22
+UT 3.70 1.70 1.10 7 1.03 046 0. 2.28
+
+Note: AVHs = Auditory Verbal Hallucinations; NA = Negative Affect; PA = Positive
+Affect; UT = Uncontrollable thoughts. * Each participant has a mean value for the
+variable, and over all participants the mean of that variable is the score in this
+column. ** Each participant has a standard deviation of their mean of each variable,
+and over all participants the mean of the standard deviations for that variable is the
+score in this column.
+
+association with uncontrollable thoughts (r=0.32, p<.01). The
+network further showed positive associations between negative
+affect and uncontrollable thoughts (r = 0.33, p < .001), dissociation
+(r=0.27, p<.05), and paranoia (r=0.29, p<.01), and a negative
+association between negative affect and positive affect (r= —0.21,
+p <.05). Uncontrollable thoughts and dissociation were positively
+connected (r= 0.33, p <.01). According to Cohen, who considers a
+standardized partial correlation (r) of .1 to be small, .3 moderate,
+and .5 large, all significant effects had a moderate effect size.
+
+3.2.2 Contemporaneous network. The network in Fig. 1 (left
+center panel) shows how variables tended to co-occur at the same
+moment, controlling for all other variables at the same moment and
+for all temporal relations among variables. As this visualization
+shows, AVHs were positively associated to uncontrollable thoughts
+(r= 0.22, p <.001), paranoia (r = 0.11, p < .01), dissociation (r = 0.10,
+p <.01), negative affect (r= 0.05, p < .05), and negatively to positive
+affect (r= —0.09, p <.001). Some other notable associations were
+observed between negative affect and uncontrollable thoughts
+(r=0.15, p<.001), dissociation (r=0.12, p<.001), paranoia
+(r=0.12, p<.001), and negatively to positive affect (r= —0O.12,
+p <.01) and between dissociation and paranoia (r= 0.12, p <.001)
+and uncontrollable thoughts (r=0.11, p< .001). All significant ef-
+fects were small or small to moderate. Of all the possible associa-
+tions, only paranoia and positive affect showed no significant
+partial correlation.
+
+3.2.2. Temporal network
+
+The left bottom panel in Fig. 1 shows how variables predicted
+themselves (i.e. autoregressions) and each other across time (i.e.
+partial predictions). All variables had significant and moderate
+autoregression coefficients, for instance AVHs at time t-1 predicted
+AVHs at time t (r=0.21, 95% Cl = 0.14, 0.28, p <.001). None of the
+pairs of variables were bidirectionally associated. AVHs predicted
+uncontrollable thoughts and paranoia (respectively r=0.07, 95%
+Cl=0.01, 0.14, p<.05 and r=0.06, 95% CIlI=0.01, 0.11 p<.05).
+Conversely, however, none of the variables in the network pre-
+dicted AVHs, neither direct nor indirect. Furthermore, negative
+affect predicted paranoia (r= 0.06, 95% CI = 0.01, 0.11, p < .05), and
+negatively predicted positive affect (r= —0.05, 95% Cl=-.11, 0,
+p < .05). Finally, dissociation predicted negative affect (r= 0.11, 95%
+CI = 0.05, 0.17, p <.001) and uncontrollable thoughts (r = 0.08, 95%
+CI =0.01, 0.14, p<.05). It should be noted that all effects were
+(very) small.
+
+3.2.3. Strength centrality
+The centrality plots in Fig. 1 present ‘raw’ strength sum scores. A
+node with high strength centrality is well connected to other nodes
+
+Please cite this article as: Jongeneel, A et al., A time-series network approach to auditory verbal hallucinations: Examining dynamic interactions
+using experience sampling methodology, Schizophrenia Research, https://doi.org/10.1016/j.schres.2019.10.055
+
+ A. Jongeneel et al. / Schizophrenia Research xxx (XXxxX) XXX 5
+
+Between-subjects associations Strength
+
+Uncontrollable thoughts (UT) -
+
+Positive affect (PA) +
+
+Paranoia (PN) 7+
+
+Negative affect (NA) 5
+
+Dissociation (Dl) 5
+
+Auditory verbal hallucinations (AVH) 54
+
+Strength
+
+Uncontrollable thoughts (UT) 5
+
+Contemporaneous associations
+
+Positive affect (PA) 7
+
+Paranoia (PN) 7
+
+Negative affect (NA) 4
+
+Dissociation (Dl) >
+
+Auditory verbal hallucinations (AVH) 5
+
+InStrength OutStrength
+
+Uncontrollable thoughts (UT) -
+Temporal associations
+
+Positive affect (PA) 4
+
+0.31
+
+Paranoia (PN) >
+Negative affect (NA) >
+
+0.06 05 Dissociation (Dl) 5
+
+0.1 NA })- y Auditory verbal hallucinations (AVH) 5
+).3 0
+
+0.00 0.05 0.10 0.19.00 0.05 0.10 0.15
+
+AVH = Auditory verbal hallucinations UT = Uncontrollable thoughts
+PA = Positive affect DI = Dissociation
+NA = Negative affect PN = Paranoia
+
+Fig. 1. Between-subjects (top left panel), contemporaneous (center left panel), and temporal associations (bottom left panel) visualized as networks using qgraph. Circles represent
+the variables. Lines between circles represent partial correlations. Thickness of the lines corresponds to the strength of the partial correlation (i.e., the numeric value in the middle of
+the lines). Green lines between circles represent positive partial correlations, while red disrupted lines represent negative partial correlations. The between-subjects associations in
+the center left panel represent how intra-individual means are connected by partial correlations. In the bottom left panel, arrows visualize temporal partial correlations. For
+instance, the arrow from AVHs to uncontrollable thoughts represents that AVHs at a previous time-point predicted uncontrollable thoughts at the subsequent time-point. To
+enhance visibility of the temporal effects we were interested in, we adjusted the autoregression coefficients by multiplying them by .2; those are interpretable in relation to each
+other, but not in relation to the cross lagged effects. (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article.)
+
+Please cite this article as: Jongeneel, A et al., A time-series network approach to auditory verbal hallucinations: Examining dynamic interactions
+using experience sampling methodology, Schizophrenia Research, https://doi.org/10.1016/j.schres.2019.10.055
+
+ 6 A. Jongeneel et al. / Schizophrenia Research xxx (Xxxx) Xxx
+
+(Costantini et al., 2015). In the between-persons network (right top
+panel), AVHs, which was one of the least strong nodes, was less well
+connected to other nodes in the model than negative affect and
+uncontrollable thoughts, which were the strongest nodes in this
+model. In the contemporaneous network (right center panel),
+strength was highest in uncontrollable thoughts, negative affect
+and AVHs, but as all variables had multiple connections, the dif-
+ference between the strongest and least strongest nodes was not
+large and therefore unlikely to be influential. Additionally, in the
+temporal network (right bottom panel), uncontrollable thoughts
+scored highest on in-strength, which shows that this variable was
+most strongly predicted by other variables across time (i.e., the sum
+of incoming temporal associations). Dissociation and AVHs had
+relatively high out-strength, meaning that their sum of outgoing
+temporal associations were relatively high (compared to other
+variables in the network). However, considering the small edge
+weights, it appears that none of the nodes are strong predictors of
+other nodes on an absolute scale.
+
+3.3. Sensitivity analysis
+
+The visualization of the network models whereby the partici-
+pants with non-fluctuating time series (n = 17) were excluded from
+analysis, are added in the Supplementary files. Only a few visible
+differences occurred when these participants were removed, with
+no changes in AVH in any model.
+
+3.4. Stability analysis
+
+The histograms containing the Spearman rank correlations be-
+tween centrality measures of the N=95 and the 100 n=76 net-
+works, are added in the Supplementary files. A few low correlations
+were found for all models, indicating that data of a subgroup of 76
+participants differed relatively from the N = 95 data; however, the
+majority (>70%) of the correlations were above .7.
+
+4. Discussion
+
+In a clinical sample of 95 participants with frequent, distressing
+AVHs, we used time-series network models to investigate whether
+negative affect, positive affect, uncontrollable thoughts, dissocia-
+tion, and paranoia were associated with daily life fluctuations of
+AVHs, and to examine the direction of relations between these
+variables and AVHs. The between-persons network, that analysed
+how variables were mutually connected over a period of 6 days,
+showed that AVHs was only related to uncontrollable thoughts. The
+contemporaneous model, that indicated undirected concurrent
+associations between the variables, showed that AVHs co-occurred
+with all other variables. In contrast, the temporal network that
+analysed the direction of relations over time, showed that AVHs
+was not predicted by any of the other factors. However, AVHs did
+predict uncontrollable thoughts and paranoia at subsequent time-
+points. All variables showed large autoregression rates, which
+might indicate that all factors mainly predicted themselves.
+
+The findings from our contemporaneous network are in line
+with findings of previous studies that reported associations be-
+tween AVHs and positive and negative affect (Delespaul et al., 2002;
+Hartley et al., 2013; Oorschot et al., 2012a,b), uncontrollable
+thoughts (Hartley et al. 2014; Jones and Fernyhough, 2006;
+Morrison and Baker, 2000), dissociation (Dorahy et al., 2009;
+Escudero-Pérez et al., 2016; Varese et al., 2011), and paranoia
+(Oorschot et al., 2012; Palmier-Claus et al., 2014). Similarly, a part of
+the results of the between-persons network, which can best be
+compared to cross-sectional studies since it provides insight in how
+variables are associated when averaged over a period of time (in
+this study 6 days) (Greene et al., 2018), are in line with previous
+
+Studies that reported a relation between voice-hearing and in-
+trusions (Jones and Fernyhough, 2006; Morrison and Baker, 2000)
+and rumination (Hartley, Haddock, Vasconcelos e Sa et al., 2014).
+However, the between-persons network did not replicate previous
+findings that voice-hearing was associated with negative affect
+(Hartley et al., 2013), dissociation (Escudero-Pérez et al., 2016), or
+paranoia (Oorschot et al., 2012). This might be explained by our use
+of partial correlations, which depict whether variables are uniquely
+related to another factor. Investigating correlations without cor-
+recting for the other relations, as in previous studies (e.g. Oorschot
+et al., 2012; Escudero-Pérez et al., 2016), can lead to an over esti-
+mation of results and should therefore be interpreted with caution.
+
+The temporal network, which estimates consecutive relations,
+revealed that none of the variables included in the model predicted
+changes in AVHs at later time points. Rather, AVHs intensity was
+found to precede the subsequent intensity of paranoia and un-
+controllable thoughts. The fact that this did not occur in the
+opposite direction is in contrast to prior ESM research, which found
+that the intensity of rumination (Hartley et al., 2014) and paranoia
+(Palmier-Claus et al., 2014) can influence subsequent changes in
+AVHs. This inconsistency could also be accounted for by differences
+in analytic approach; the current study used time-series network
+modelling whereby multiple multilevel regressions were analysed,
+in contrast to Hartley et al., (2014a,b) and Palmier-Claus et al. (2014)
+who used single multilevel regression analysis. However, a second
+explanation might be that our results specifically concern this
+sample of persons with severe AVHs; participants in this study had
+complex and severe mental health problems, and on average had
+been hearing voices for 16 years. AVHs were experienced on the
+majority of the time of measurement occasions (83%), with severe
+intensity on half of the reports. This sample might be beyond the
+‘tipping point’ of sudden critical transition to more severe illness
+(Scheffer et al., 2009); they are in a more chronic state wherein
+symptoms appear to maintain themselves at high frequency, rather
+than a trigger-dependent oscillating state (Greene et al., 2018). In
+these aspects, our sample might have been more severely ill than
+those from prior work identifying different temporal dynamics.
+Future work should focus on replicating this study in samples of
+people with AVHs at different levels of severity. It would also be
+valuable to compare models between samples with different AVHs
+characteristics, duration of illness, mental disorder diagnoses
+(Waters and Fernyhough, 2016), and potentially AVHs subtypes
+(McCarthy-Jones et al., 2014).
+
+Uncontrollable thoughts appeared to be a central node in the
+association models, suggesting that this variable was connected to
+most others in the network. In addition, in the temporal model
+uncontrollable thoughts had highest in-strength, i.e. was most
+strongly predicted by other factors, and dissociation and AVHs had
+highest out-strength, i.e. were the strongest predictors. However,
+centrality measures should not be overestimated, since centrality
+measures are only point estimates that might not always be esti-
+mated reliably (e.g. Epskamp et al., 2018), and it remains unclear
+whether the central node has predictive power (for an overview of
+research, see Bringmann et al., 2019).
+
+Sensitivity analyses showed some differences with our results
+(see Online Supplementary Materials). Removing participants with
+little temporal variability resulted in small differences in the
+between-persons network and a lack of one association in the
+contemporaneous network. Strength centrality differed only be-
+tween the between-persons networks: uncontrollable thoughts
+was less strong, while negative affect and dissociation were
+stronger in our models compared to the sensitivity networks. This
+might be due to a decrease of power, or the between-persons
+network structure is somewhat different in this selection of in-
+dividuals than in the reported model. Notably, the temporal model
+was not affected. Furthermore, stability analysis showed that
+
+Please cite this article as: Jongeneel, A et al., A time-series network approach to auditory verbal hallucinations: Examining dynamic interactions
+using experience sampling methodology, Schizophrenia Research, https://doi.org/10.1016/j.schres.2019.10.055
+
+ A. Jongeneel et al. / Schizophrenia Research xxx (Xxxx) Xxx 7
+
+centrality measures of the main models were highly correlated
+with the centrality measures in the majority of the subsamples,
+indicating the models to be stable.
+
+Our overarching interpretation of all networks combined is that
+severe voice-hearing and other factors might be mainly related on
+the very short-term. Some stimulus activates a factor that, in turn,
+activates all other factors very rapidly. Once activated, voice-
+hearing appears to maintain itself without input from the envi-
+ronment. For clinical practise, this means that it is important to
+assess at the start of therapy whether voice hearing is still reactive
+to triggers (e.g. negative affect). If this is the case, interventions may
+start by targeting these triggers and by that way attempt to prevent
+voices from occurring. When voices predominantly appear to
+maintain themselves autoregressively, the focus could be placed on
+reducing the negative down-stream effects of the voices, for
+instance by Cognitive Behavioural interventions, e.g. challenging
+the content of the voices.
+
+There are several important limitations to consider. A variety of
+factors, such as several contextual variables (Delespaul et al., 2002;
+Oorschot et al., 2012), meta-cognitive beliefs (Morrison et al., 2000)
+and symptom appraisals (Peters et al., 2012) that were previously
+found to interact with or to be associated with AVHs, were not
+taken into account in this study. Partly because this was a conve-
+nience sample and these variables were not included into the ESM
+questionnaire, and partly because there is no technique available
+yet for analysing variables with different measurement levels (e.g.
+continuous and dichotomous) in multilevel network models,
+limiting us to continuous variables only.
+
+Both voice-hearing and paranoia were measured with one ESM
+item while the other variables were multi-item constructs. While
+some researchers have argued that at least three items per construct
+is required to ensure reliability (Shrout and Lane, 2012), others
+suggested that the single-item approach does not raise reliability
+issues, since repeated questions may serve as multiple questions
+(Bolger and Laurenceau, 2013; Hektner et al., 2007); thus, answering
+the question “I hear voices” multiple times complies with filling in
+three different questions about voice-hearing. In addition, using
+multiple items decreases the variability of a construct which is
+disadvantageous when you try to investigate moment-to-moment
+fluctuations. However, this reflects a broader discussion within
+ESM research that is beyond the scope of this research.
+
+Our initial model needed to be modified. Self-esteem and pos-
+itive affect were highly interdependent. Therefore, we had to
+combine the two factors or remove one (Daoud, 2017). Combining
+self-esteem with positive affect would result in an uninterpretable
+factor. Thus, in accordance with another comparable study
+(Wigman et al., 2016), we choose to remove one of the factors from
+analyses. Also, a high partial correlation was found between in-
+trusions and rumination, both measured by one item. Therefore, we
+combined the two variables into one ‘uncontrollable thoughts’
+factor. Literature showed that intrusions and ruminations are
+closely related (e.g. Guastella and Moulds, 2007) and Jones and
+Fernyhough (2009) proposed a model whereby ruminations pre-
+ceded (cognitive) intrusions. However, it could also indicate a lack
+of validity of the items and it should be investigated further.
+
+The fixed time interval assumption was violated, as the differ-
+ence in time between measurements was not equal but varied
+between 15-180 min. It might be expected that some relations that
+exist within e.g. the 15 min timeframe might not be found because
+it disappears in all data. But since the network approach is still in its
+infancy, we cannot specify how problematic this is and there is no
+appropriate solution for this violation yet.
+
+An inherent limitation of group-level analyses is that it is un-
+clear whether results also account for individuals. Due to the het-
+erogeneity of this sample, it is probable that the network dynamics
+and symptom processes are individual-specific and in fact differ to
+
+some extent from our group-level networks. An n=1 voice-
+hearing network analysis study (Bak et al., 2016) reported more
+temporal connections than we did and voice-hearing was predicted
+best by paranoia. In the full relapse state, existing connections even
+became stronger. This might imply that this person was not beyond
+the ‘tipping point’ of transition to a chronic state, or that the current
+study missed several important relations. This stresses the impor-
+tance of investigating several individual networks, to compare
+them mutually and with the current study results. .
+
+This study has notable strengths. First, the use of network
+analysis on timelagged data in a sample of individuals with severe
+voices provides an understanding of the direction and strength of
+relations between multiple variables simultaneously and over time,
+as well as how they may mutually interact. Second, we chose to
+examine a simple model using only five mental state variables,
+selected on the basis of prior research. This accords with the
+recommendation by Borsboom (2016), to start by analysing
+manageable networks that can be modified when more knowledge
+and data is available, instead of analysing uninterpretable compli-
+cated and explorative models.
+
+To conclude, this study was the first to use time-series network
+analysis to examine concurrent and temporal relations between
+AVHs and associated variables in a sample of individuals with
+persistent, frequent and distressing AVHs. Results revealed that
+AVHs tended to co-occur with all variables, specifically with un-
+controllable thoughts, but was not predicted by any other variable.
+It might be that in this severely ill sample AVHs might have been
+developed in a trait, rather than a state. An other explanation might
+be that AVHs and mental state factors are mainly related on the
+(very) short-term. While there are several limitations to consider,
+the network approach might increase our knowledge about voice-
+hearing and other psychopathological phenomena. Research
+should continue to utilise time-series network analysis to further
+investigate dynamic processes underlying psychotic symptoms, in
+samples with a more diverse range of experiences, at different
+stages of AVHs onset, and across different diagnostic groups.
+
+Declaration of competing interest
+
+None.
+Acknowledgements
+
+The authors thank all participants, local researchers, research
+assistants, and all others who were involved without whom this
+study would not have been possible. The Temstem trial was funded
+by a grant awarded to DvdB and MvdG by the ‘Innovatie Platform
+Parnassia’ (Monsterseweg 93, 2553 RJ Den Haag).
+Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at
+https://doi.org/10.1016/j.schres.2019.10.055.
+
+Financial support
+
+The Temstem trial is funded by a grant awarded to DvdB and
+MvdG by the ‘Innovatie Platform Parnassia’ (Monsterseweg 93,
+2553 RJ Den Haag).
+
+Author contributions
+
+All authors contributed to the manuscript. AJ collected the data
+under supervision of DvdB and MvdG and GA analysed the data
+under supervision of EF. AJ, GA, EF, PD, MdvG and DvdB interpreted
+the outcomes.
+
+Please cite this article as: Jongeneel, A et al., A time-series network approach to auditory verbal hallucinations: Examining dynamic interactions
+using experience sampling methodology, Schizophrenia Research, https://doi.org/10.1016/j.schres.2019.10.055
+
+ 8 A. Jongeneel et al. / Schizophrenia Research xxx (XXXxxX) XXX
+
+References
+
+Bak, M., Drukker, M., Hasmi, L., Van Os, J., 2016. An n=1 clinical network analysis of
+symptoms and treatment in psychosis. PLoS One 11 (9), e0162811. https://
+doi.org/10.1371/journal.pone.0162811.
+
+Bolger, N., Laurenceau, P.J., 2013. Intensive Longitudinal Methods: an Introduction
+to Diary and Experience Sampling Research. The Guildford Press, New York.
+
+Borsboom, D., 2016. A network theory of mental disorders. World Psychiatry 16 (1),
+5—13. https://doi.org/10.1002/wps.20375.
+
+Borsboom, D., Cramer, A.O.J., 2013. Network analysis: an integrative approach to the
+structure of psychopathology. Annu. Rev. Clin. Psychol. 9 (1), 91-121. https://
+doi.org/10.1146/annurev-clinpsy-050212-185608.
+
+Bringmann, L.F., 2016. Dynamical Networks in Psychology: More than a Pretty
+Picture? KU Leuven.
+
+Bringmann, L.F., Elmer, T., Epskamp, S., Krause, R.W., Schoch, D., Wichers, M.,
+Snippe, E., 2019. What do centrality measures measure in psychological net-
+works? J. Abnorm. Psychol. 128 (8), 892—903.
+
+Costantini, G., Epskamp, S., Borsboom, D., Perugini, M., Mottus, R., Waldorp, LJ.,
+Cramer, A.O.J., 2015. State of the aRt personality research: a tutorial on network
+analysis of personality data in R. J. Res. Personal. 54, 13—29. https://doi.org/
+10.1016/j.jrp.2014.07.003.
+
+Daoud, J.I., 2017. Multicollinearity and regression analysis. J. Phys. Conf. Ser. 949,
+012009 https://doi.org/10.1088/1742-6596/949/1/012009.
+
+de Leede-Smith, S., Barkus, E., 2013. A comprehensive review of auditory verbal
+hallucinations: lifetime prevalence, correlates and mechanisms in healthy and
+clinical individuals. Front. Hum. Neurosci. 7, 367. https://doi.org/10.3389/
+fnhum.2013.00367.
+
+de Vries, M., 1992. The Experience of Psychopathology: Investi- Gating Mental
+Disorders in Their Natural Settings. Cambridge University Press, Cambridge.
+
+Delespaul, P., 1995. Assessing Schizophrenia in Daily Life. The Experience Sampling
+Method. Rijksuniversiteit van Limburg, Maastricht, The Netherlands),
+Maastricht.
+
+Delespaul, P., de Vries, M., van Os, J., 2002. Determinants of occurrence and recovery
+from hallucinations in daily life. Soc. Psychiatry Psychiatr. Epidemiol. 37,
+97—104.
+
+Dorahy, M_J., Shannon, C., Seagar, L., Corr, M., Stewart, K., Hanna, D., et al., 2009. Auditory
+hallucinations in dissociative identity disorder and schizophrenia with and
+without a childhood trauma history similarities and differences. J. Nerv. Ment. Dis.
+197 (12), 892—898. https://doi.org/10.1097/NMD.0b013e3181c299eaXXx.
+
+Epskamp, S., Cramer, A.O.J., Waldorp, L.J.. Schmittmann, V.D., Borsboom, D., 2012.
+Qgraph: network visualizations of relationships in psychometric data. J. Stat.
+Softw. 48 (4) https://doi.org/10.18637/jss.v048.i04.
+
+Epskamp, S., van Borkulo, C.D., van der Veen, D.C., Servaas, M.N., Isvoranu, A.M.,
+Riese, H., Cramer, A.O.J., 2018. Personalized network modeling in psychopa-
+thology: the importance of contemporaneous and temporal connections. Clin.
+Psychol. Sci. 6 (3), 416—427. https://doi.org/10.1177/2167702617744325.
+
+Epskamp, S., Waldorp, LJ., Mottus, R., Borsboom, D., 2016. Discovering Psychological
+Dynamics: The Gaussian Graphical Model in Cross-Sectional and Time-Series
+Data. arXiv preprint. https://doi.org/10.1080/00273171.2018.1454823. arXiv:
+1609.04156.
+
+Escudero-Pérez, S., Leon-Palacios, M.G., Ubeda-Gémez, J., Barros-Albarran, M.D.,
+Lopez-Jiménez, A.M., Perona-Garcelan, S., 2016. Dissociation and mindfulness in
+patients with auditory verbal hallucinations. J. Trauma & Dissociation 17 (3),
+294—306. https://doi.org/10.1080/15299732.2015.1085480.
+
+Fried, EJ., van Borkulo, C.D., Cramer, A.O.J., Boschloo, L., Schoevers, R.A,,
+Borsboom, D., 2017. Mental disorders as networks of problems: a review of
+recent insights. Soc. Psychiatry Psychiatr. Epidemiol. 52, 1—10. https://doi.org/
+10.1007 /s00127-016-1319-z.
+
+Greene, T., Gelkopf, M., Epskamp, S., Fried, E., 2018. Dynamic networks of PTSD
+symptoms during conflict. Psychol. Med. 48 (14), 2409-2417. https://doi.org/
+10.1017/S0033291718000351.
+
+Guastella, AJ., Moulds, M.L., 2007. The impact of rumination on sleep quality
+following a stressful life event. Personal. Individ. Differ. 42 (6), 1151-1162.
+https://doi.org/10.1016/j.paid.2006.04.028.
+
+Hartley, S., Barrowclough, C., Haddock, G., 2013. Anxiety and depression in psy-
+chosis: a systematic review of associations with positive psychotic symptoms.
+Acta Psychiatr. Scand. 128, 327-346. https://doi.org/10.1111/acps.12080.
+
+Hartley, S., Haddock, G., Sa, D.V., Emsley, R., Barrowclough, C., 2014a. An experience
+sampling study of worry and rumination in psychosis. Psychol. Med. 44,
+1605-1614. https://doi.org/10.1017/S0033291713002080.
+
+Hartley, S., Haddock, G., Vasconcelos e Sa, D., Emsley, R., Barrowclough, C., 2014b. An
+experience sampling study of worry and rumination in psychosis. Psychol. Med.
+AA (8), 1605-1614. https://doi.org/10.1017/S0033291713002080.
+
+Hektner, J.M., Schmidt, J.A., Csikszentmihalyi, M., 2007. Experience Sampling
+Method: Measuring the Quality of Everyday Life. Sage, California.
+
+Isvoranu, A.M., Van Borkulo, C.D., Boyette, L. Lou, Wigman, J.T.W., Vinkers, C.H.,
+Borsboom, D., et al., 2017. A network approach to psychosis: pathways between
+childhood trauma and psychotic symptoms. Schizophr. Bull. 43 (1), 187—196.
+https://doi.org/10.1093/schbul/sbw055.
+
+Johns, L.C., Kompus, K., Connell, M., Humpston, C., Lincoln, T.M., Longden, E., et al.,
+2014. Auditory verbal hallucinations in persons with and without a need for
+care. Schizophr. Bull. 40 (4), 255—264. https://doi.org/10.1093/schbul/sbu005.
+
+Jones, S.R., Fernyhough, C., 2006. The roles of thought suppression and meta-
+cognitive beliefs in proneness to auditory verbal hallucinations in a non-clinical
+sample. Personal. Individ. Differ. 41, 1421-1432. https://doi.org/10.1016/
+j.paid.2006.06.003.
+
+Jones, S.R., Fernyhough, C., 2009. Rumination , reflection , intrusive thoughts , and
+hallucination-proneness : towards a new model. Behav. Res. Ther. 47, 54—59.
+https://doi.org/10.1016/j.brat.2008.09.008.
+
+Jongeneel, A., Scheffers, D., Tromp, N., Nuij, C., Delespaul, P., Riper, H., et al., 2018.
+Reducing distress and improving social functioning in daily life in people with
+auditory verbal hallucinations: study protocol for the ‘Temstem’ randomised
+controlled trial. BMJ Open 8, e020537. https://doi.org/10.1136/bmjopen-2017-
+020537.
+
+Klippel, A., Viechtbauer, W., Reininghaus, U., Wigman, J., van Borkulo, C., Myin-
+Germeys, I., Wichers, M., 2017. The cascade of stress: a network approach to
+explore differential dynamics in populations varying in risk for psychosis.
+Schizophr. Bull. 44 (2), 328—337. https://doi.org/10.1093/schbul/sbx037.
+
+Kwiatkowski, D., Phillips, P.C.B., Schmidt, P., Shin, Y., 1992. Testing the null hy-
+pothesis of stationarity against the alternative of a unit root. J. Econom. 54,
+159-178. https://doi.org/10.1016/0304-4076(92)90104-Y.
+
+Levine, S.Z., Leucht, S., 2016. Identifying a system of predominant negative symp-
+toms: network analysis of three randomized clinical trials. Schizophr. Res. 178,
+17—22. https://doi.org/10.1016/j.schres.2016.09.002.
+
+McCarthy-Jones, S., Trauer, T., MacKinnon, A., Sims, E., Thomas, N., Copolov, D.L.,
+2014. A new phenomenological survey of auditory hallucinations: evidence for
+subtypes and implications for theory and practice. Schizophr. Bull. 40 (1),
+225—235. https://doi.org/10.1093/schbul/sbs156.
+
+Morrison, A.P., Baker, C.A., 2000. Intrusive thoughts and auditory hallucinations: a
+comparative study of intrusions in psychosis. Behav. Res. Ther. 38, 1097—1106.
+https://doi.org/10.1016/S0005-7967(99)00143-6.
+
+Morrison, A.P., Wells, A., Norhard, S., 2000. Cognitive factors in predisposition to
+auditory and visual hallucinations. Br. J. Clin. Psychol. 39, 67—78.
+
+Myin-Germeys, I., Birchwood, M., Kwapil, T., 2011. From environment to therapy in
+psychosis: a real-world momentary assessment approach. Schizophr. Bull. 37
+(2), 244—247. https://doi.org/10.1093/schbul/sbq164.
+
+Myin-Germeys, I., Oorschot, M., Collip, D., Lataster, J., Delespaul, P., van Os, J., 2009.
+Experience sampling research in psychopathology: opening the black box of
+daily life. Psychol. Med. 39 (9), 1533-1547. https://doi.org/10.1017/
+S0033291708004947,
+
+Nelson, B., McGorry, P.D., Wichers, M., Wigman, J.T.W., Hartmann, J.A., 2017. Moving
+from static to dynamic models of the onset of mental disorder a review. JAMA
+Psychiatr. 74 (5), 528—534. https://doi.org/10.1001/jamapsychiatry.2017.0001.
+
+Neuwirth, E.. https://CRAN.R-project.org/package=RColorBrewer.
+
+Oorschot, M., Lataster, T., Thewissen, V., Bentall, R., Delespaul, P., Myin-Germeys, I.,
+2012a. Temporal dynamics of visual and auditory hallucinations in psychosis.
+Schizophr. Res. 140, 77—82. https://doi.org/10.1016/j.schres.2012.06.010.
+
+Oorschot, M., Lataster, T., Thewissen, V., Wichers, M., Myin-Germeys, I., 2012b.
+Mobile assessment in schizophrenia: a data-driven momentary approach.
+Schizophr. Bull. 38 (3), 405—413. https://doi.org/10.1093/schbul/sbr166.
+
+Palmier-Claus, J.E., Myin-Germeys, I., Barkus, E., Bentley, L., Udachina, A.,
+Delespaul, P.A.E.G., et al., 2011. Experience sampling research in individuals
+with mental illness: reflections and guidance. Acta Psychiatr. Scand. 123 (1),
+12-20. https://doi.org/10.1111/j.1600-0447.2010.01596.x.
+
+Palmier-Claus, J.E., Taylor, P.J., Ainsworth, J., Machin, M., Dunn, G., Lewis, S.W., 2014.
+The temporal association between self-injurious thoughts and psychotic
+symptoms: a mobile phone assessment study. Suicide Life-Threatening Behav.
+44 (1), 101-110. https://doi.org/10.1111/sltb.12064.
+
+Peters, E., Lataster, T., Greenwood, K., Kuipers, E., Scott, J., Williams, S., Garety, P.,
+2012. Appraisals, psychotic symptoms and affect in daily life. Psychol. Med. 42,
+1013—1023. https://doi.org/10.1017/S0033291711001802.
+
+Scheffer, M., Bascompte, J., Brock, W.A., Brovkin, V., Carpenter, S.R., Dakos, V., et al.,
+2009. Early-warning signals for critical transitions. Nature 461 (7260), 53—59.
+https://doi.org/10.1038/nature08227.
+
+Shiffman, S., Stone, A.A., Hufford, M.R., 2008. Ecological momentary assessment.
+Annu. Rev. Clin. Psychol. 4, 1—32. https://doi.org/10.1002/9781118384404.ch20.
+
+Shrout, P.E., Lane, S.P., 2012. Psychometrics. In: Handbook of Research Methods for
+Studying Daily Life. Guilford Press, New York, NY, US, pp. 302—320.
+
+Slade, P., Bentall, R., 1988. Sensory Deception: A Scientific Analysis of Hallucination.
+Johns Hopkins University Press.
+
+Smith, B., Fowler, D.G., Freeman, D., Bebbington, P., Bashforth, H., Garety, P., et al.,
+2006. Emotion and psychosis: links between depression, self-esteem, negative
+schematic beliefs and delusions and hallucinations. Schizophr. Res. 86 (1-3),
+181-188. https: //doi.org/10.1016/j.schres.2006.06.018.
+
+Thewissen, V., Bentall, R.P., Lecomte, T., van Os, J.. Myin-Germeys, I., 2008. Fluctu-
+ations in self-esteem and paranoia in the context of daily life. J. Abnorm. Psy-
+chol. 117 (1), 143-153. https://doi.org/10.1037/0021-843X.117.1.143.
+
+Thewissen, V., Bentall, R.P., Oorschot, M., Campo, J.A., van Lierop, T., van Os, J., Myin-
+Germeys, I., 2011. Emotions, self-esteem and paranoid episodes: an experience
+sampling study. Br. J. Clin. Psychol. 50 (2), 178—195. https://doi.org/10.1348/
+014466510X508677.
+
+Van der Krieke, L., Emerencia, A.C., Bos, E.H., Rosmalen, J.G.M., Riese, H., Aiello, M.,
+De Jonge, P., 2015. Ecological momentary assessments and automated time
+series analysis to promote tailored health care: a proof-of-principle study. JMIR
+Res. Protoc. 4 (3), e100.
+
+Van Rooijen, G., Isvoranu, A.M., Kruijt, O.H., Van Borkulo, C.D., Meijer, CJ.,
+Wigman, J.T.W., et al., 2018. A state-independent network of depressive,
+negative and positive symptoms in male patients with schizophrenia spectrum
+disorders. Schizophr. Res. 193, 232-239.  https://doi.org/10.1016/
+j.schres.2017.07.035.
+
+Van Rooijen, G., Isvoranu, A.M., Meijer, CJ., Van Borkulo, C.D., Ruhé, H.G., De
+Haan, L., 2017. A symptom network structure of the psychosis spectrum.
+
+Please cite this article as: Jongeneel, A et al., A time-series network approach to auditory verbal hallucinations: Examining dynamic interactions
+using experience sampling methodology, Schizophrenia Research, https://doi.org/10.1016/j.schres.2019.10.055
+
+ A. Jongeneel et al. / Schizophrenia Research xxx (Xxxx) Xxx 9
+
+Schizophr. Res. 189, 75—83. https://doi.org/10.1016/j.schres.2017.02.018. Wigman, J.T.W., de Vos, S., Wichers, M., van Os, J., Bartels-Velthuis, A.A., 2016.
+Varese, F., Udachina, A., Myin-Germeys, I., Oorschot, M., Bentall, R.P., 2011. The A transdiagnostic network approach to psychosis. Schizophr. Bull. https://
+
+relationship between dissociation and auditory verbal hallucinations in the doi.org/10.1093/schbul/sbw095.
+
+flow of daily life of patients with psychosis. Psychosis 3 (1), 14—28. https:// Wild, B., Eichler, M., Friederich, H.C., Hartmann, M., Zipfel, S., Herzog, W., 2010.
+
+doi.org/10.1080/17522439.2010.548564. A graphical vector autoregressive modelling approach to the analysis of elec-
+Waters, F., Fernyhough, C., 2016. Hallucinations : a systematic review of points of tronic diary data. BMC Med. Res. Methodol. 10 (28) https://doi.org/10.1186/
+
+similarity and difference across diagnostic classes. Schizophr. Bull. 43 (1), 1471-2288-10-28.
+
+32—43. https://doi.org/10.1093/schbul/sbw132.
+
+Please cite this article as: Jongeneel, A et al., A time-series network approach to auditory verbal hallucinations: Examining dynamic interactions
+using experience sampling methodology, Schizophrenia Research, https://doi.org/10.1016/j.schres.2019.10.055
+

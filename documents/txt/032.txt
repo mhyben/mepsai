@@ -1,0 +1,993 @@
+Schizophrenia Research 222 (2020) 227-234
+
+Contents lists available at ScienceDirect
+
+"SCHIZOPHRENIA
+RESEARCH
+
+Schizophrenia Research
+
+1 Py a
+
+journal homepage: www.elsevier.com/locate/schres
+
+Virtual reality based cognitive behavioral therapy for paranoia: Effects on
+mental states and the dynamics among them
+
+Check for
+updates
+
+Chris N.W. Geraets**, Evelien Snippe ”, Marije van Beilen*, Roos M.C.A. Pot-Kolder““, Marieke Wichers ”,
+Mark van der Gaag““, Wim Veling *“*
+
+* University of Groningen, University Medical Center Groningen, Department of Psychiatry, the Netherlands
+
+> University of Groningen, University Medical Center Groningen, Department of Psychiatry, Interdisciplinary Center Psychopathology and Emotion regulation (ICPE), the Netherlands
+© Parnassia Psychiatric Institute, The Hague, the Netherlands
+
+VU University and Amsterdam Public Mental Health research institute, Department of Clinical Psychology, Amsterdam, the Netherlands
+
+© Maastricht University, Department of Psychiatry and Neuropsychology, Maastricht, the Netherlands
+
+ARTICLE INFO ABSTRACT
+
+Article history:
+
+Received 6 November 2019
+
+Received in revised form 31 March 2020
+Accepted 18 May 2020
+
+Available online 8 June 2020
+
+Background: Negative affective processes may contribute to maintenance of paranoia in patients with psychosis,
+and vice versa. Successful treatment may break these pathological symptom networks. This study examined
+whether treatment with virtual reality based cognitive behavioral therapy (VR-CBT) for paranoia influences mo-
+mentary affective states, and whether VR-CBT changes the adverse interplay between affective states and para-
+noia.
+
+Methods: Patients with a psychotic disorder (n = 91) were randomized to 16-session VR-CBT or treatment as
+
+Keywords: . . . . .
+S hizophrenia usual (TAU). With the experience sampling method (structured diary technique) mental states were assessed
+Psychosis for 6-10 days at baseline, posttreatment and 6-month follow-up. Multilevel analysis were performed to establish
+
+treatment effects and time-lagged associations between mental states, that were visualized with networks of
+mental states.
+Results: Average levels of paranoia (feeling suspicious [b = —032., p = .04], disliked [|b = —49., p <.01] and hurt
+[b = —0.52, p<.01]) and negative affect (anxious |b = —0.37, p = .01], down [b = —0.33, p = .04] and insecure
+[b = —0.17, p = .03) improved more after VR-CBT than TAU, but positive affect did not. Baseline mental state
+networks had few significant connections, with most stable connections being autocorrelations of mental states.
+The interplay between affective states and paranoia did not change in response to treatment. A trend reduction in
+average intranode connections (autocorrelations) was found after VR-CBT (b = —0.07, p = .08), indicating that
+mental states reinforce themselves less after treatment.
+Conclusions: VR-CBT reduced paranoid symptoms and lowered levels of negative affect in daily life, but did not
+affect the extent to which mental states influenced each other. Findings do suggest that as a result of treatment
+mental states regain flexibility.
+
+© 2020 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license (http://
+
+creativecommons.org/licenses/by/4.0/).
+
+Experience sampling method
+Momentary assessment
+Network analysis
+
+Emotion processing
+
+1. Introduction
+
+Patients with a psychotic disorder often suffer from anxiety and de-
+pressed mood in addition to psychotic symptoms such as paranoid ide-
+ations. Negative affective states such as feeling lonely, anxiety and
+depressed mood may foster the maintenance of paranoia (Freeman,
+2007; Freeman et al., 2002; Garety and Freeman, 2013; Van Os et al.,
+2014), suggesting that disrupting the pathological interplay between
+negative emotional states and paranoia, may be key components of
+
+* Corresponding author at: University of Groningen, University Medical Center
+Groningen, Department of Psychiatry, PO Box 30.001, 9700 RB Groningen, the
+Netherlands.
+
+E-mail address: c.n.w.geraets@umcg.nl (C.N.W. Geraets).
+
+https://doi.org/10.1016/j.schres.2020.05.047
+
+paranoia treatment. In this study, we investigated the effects of virtual
+reality based cognitive behavioral therapy (VR-CBT) for paranoia on af-
+fect in daily life. Further, the effects of VR-CBT on the dynamic temporal
+associations between feelings of anxiety, depression, loneliness, safety
+and paranoia were explored using a network approach.
+
+A recent perspective on the onset and maintenance of psychiatric
+disorders is the network approach. In brief, it states that mental states
+may activate each other, like nodes in a network (Cramer et al., 2010).
+It has been theorized that, in psychiatric disorders, a dysfunctional cas-
+cade may exist of mental states triggering other mental states in the
+next moment, which in turn reinforce each other (Cramer et al., 2010;
+Nelson et al., 2017; Wigman et al., 2013). For example, in psychosis,
+feeling lonely may cause someone to feel more anxious, which in turn
+can make someone more susceptible for paranoid thoughts, which can
+
+0920-9964/© 2020 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+ 228 C.N.W. Geraets et al. / Schizophrenia Research 222 (2020) 227-234
+
+increase anxiety again. If mental states strongly trigger each other con-
+tinuously, an inflexible vicious circle of mental states may occur.
+
+Cognitive models also support the idea that negative affective states
+contribute to the maintenance of psychotic symptoms (Bentall et al.,
+2001; Freeman, 2007; Freeman et al., 2002; Garety et al., 2001; Garety
+and Freeman, 1999; Howes and Murray, 2014; Smith et al., 2006).
+Freeman et al. (2002) propose that anxiety facilitates the creation of
+paranoid thoughts, and that anxiety-related processes contribute to
+the maintenance and distress of paranoia. Moreover, they argue that
+paranoid delusions are a direct reflection of emotional concerns.
+
+Indeed, cross-sectional as well as experimental research with virtual
+reality (VR) has repeatedly found that paranoia is associated with anx-
+iety, negative affect, depressed mood and stress in people with psycho-
+sis (Fowler et al., 2012; Freeman et al., 2015; Veling et al., 2016). Studies
+using the experience sampling method (ESM), an extensive diary
+method which measures mental states and experiences multiple times
+a day in the flow of daily life, also support this. ESM research shows
+that negative affect levels are higher in individuals with psychosis com-
+pared to healthy people, while positive affect levels tend to be lower
+(Cho et al., 2017; Myin-Germeys et al., 2018; Oorschot et al., 2012).
+
+In addition, ESM research has taught us that not only symptom
+levels are elevated in psychosis, but that also dynamic moment-to-
+moment interactions between mental states differ from healthy individ-
+uals (Klippel et al., 2017; Wigman et al., 2015). For example, Thewissen
+et al. (2011) found that higher anxiety levels preceded paranoid experi-
+ences. Moreover, higher levels of paranoia were preceded by elevated
+negative affective states in terms of feeling down, angry and anxious.
+Recently, Klippel et al. (2017) found that feeling down predicted feeling
+suspicious in the next moment, which in turn predicted anxiety in pa-
+tients with psychosis. In family members and healthy controls such re-
+lations were not present.
+
+While relationships between negative affective states and paranoia
+are well documented, little is known about the interplay between affec-
+tive states and paranoia in relation to the effects of treatment. To our
+knowledge, no trials have yet compared pre and posttreatment dynamic
+interactions between mental states in psychosis patients. One case
+study did show that the dynamic temporal associations within a net-
+work of mental states of an individual with psychosis differed during
+different levels of symptom severity (stable, impending relapse and
+full relapse) of the illness (Bak et al., 2016). During (impending) relapse,
+connections grew stronger and clustering of symptoms changed be-
+tween mental states, indicating qualitative changes in the network, as
+would be expected based on the network approach to psychopathology.
+
+Recently, we developed VR-CBT for paranoia and social activity.
+We previously reported that VR-CBT indeed did reduce paranoid ide-
+ations (Pot-Kolder et al., 2018). To extend our previous findings, in
+the present study we studied the effects of VR-CBT on negative and
+positive affect in everyday life, and explored whether the bidirec-
+tional temporal associations among paranoia and several negative
+affective states change in response to treatment. To this end, we
+used ESM diaries that were completed before and after the interven-
+tion, and at 6-month follow-up.
+
+It was hypothesized that in individuals with a psychotic disorder 1 |
+VR-CBT results in lower levels of negative affect and higher levels of pos-
+itive affect than treatment as usual (TAU), 2] at baseline temporal asso-
+Ciations are present between negative emotional states (feeling safe,
+anxious, down, and lonely) and paranoia (feeling suspicious) that acti-
+vate each other, and that 3] VR-CBT results in changes in the temporal
+associations between mental states.
+
+2. Method
+2.1. Design
+
+This was a multi-center randomized controlled trial (ISRCTN
+registration: 12929657). Assessments were completed at baseline,
+
+posttreatment (three months after baseline) and follow-up (six months
+after baseline). After baseline, participants were randomized to VR-CBT
+or TAU. Researchers were blind to treatment allocation. Participants in
+the TAU group had access to the usual treatment, consisting of antipsy-
+chotic medication, and consultation and/or supportive counselling by
+psychiatrists, psychiatric nurses or social workers. The TAU group was
+not allowed to receive any psychological therapy aimed at improving
+social participation during the trial.
+
+The study was approved by the ethical committee of the Amsterdam
+University Medical Center. Participants signed informed consent. A €30
+compensation was provided per assessment.
+
+2.2. Participants
+
+Participants were recruited from seven mental health centers. Inclu-
+sion criteria were: diagnosis of a psychotic disorder, paranoid ideations
+(Green Paranoid Thought Scalescore>40) (Green et al., 2008), avoidance
+of public transportation, bars, shops or streets, and age 18-65. Exclusion
+criteria were a history of epilepsy, IQ < 70, and insufficient command of
+the Dutch language.
+
+The original sample consisted of 116 patients (Pot-Kolder et al.,
+2018). In the present study, participants were included only if baseline
+and posttreatment ESM data were available, and VR-CBT participants
+had completed minimally three sessions leaving 91 participants for
+analyses. Excluded patients were significantly younger (M = 32.2, SD
+= 7.6) and had a shorter illness duration (M = 8.5, SD = 6.8) than in-
+cluded patients (Mage = 39.5, SDage = 10.1, Mittness = 15.7, SDitiness =
+10.3). No other differences were present in sociodemographics or base-
+line ESM suspiciousness between excluded and included patients.
+
+2.3. Intervention
+
+VR-CBT consisted of maximally 16 one-hour individual therapy ses-
+sions given by trained psychologists. Psychologists had completed a
+basic CBT training. Further, they received two days of training in VR-
+CBT. The manual described a structured treatment plan for all sessions.
+Therapists attended 4 h of group supervision each month by MvdG, reg-
+istered teacher and supervisor of the Dutch Association of Cognitive be-
+havioral therapy. The treatment protocol was aimed at reducing
+paranoia and improving social participation. The therapy consisted of
+evidence-based CBT elements such as making treatment goals, expo-
+sures, behavioral experiments, reducing safety behavior, and attention
+strategies. However, instead of in vivo, exercises and behavioral exper-
+iments were done in VR. In the first two sessions personal goals were
+set, and the VR system was introduced. In the following sessions, partic-
+ipants practiced 40 min within VR each session. No homework was
+given. More details have been published previously (Pot-Kolder et al.,
+2018).
+
+2.4. Measures
+
+Mental states were assessed using ESM (also ecological momentary
+assessment), a structured diary technique. During 6-10 days, partici-
+pants completed short questionnaires on an electronic momentary as-
+sessment technology device called PsyMate (Delespaul and Devries,
+1987; Myin-Germeys et al., 2011). After general assessments were com-
+pleted (at baseline, posttreatment and follow-up), the ESM assessment
+period started (baseline ESM was completed prior to randomization).
+Ten times daily at semi-random +90 min intervals between 7.30 AM
+and 10.30 PM, the device signalled and participants completed the
+questionnaire. Minimally 20 questionnaires within six consecutive
+days had to be completed. Prior to the baseline measurement partici-
+pants received verbal and written information on PsyMate use and com-
+pleted one ‘practice’ questionaire. After two days, participants were
+called to inform on the diary assesments experiences and aswer any
+ C.N.W. Geraets et al. / Schizophrenia Research 222 (2020) 227-234 229
+
+questions. All participants had to complete the ESM baseline measure-
+ment sufficiently before randomization.
+
+Items were rated on 7-point Likert scales ranging from 0 “not at all”
+to 7 “very”. The following paranoia related items (as confirmed by prin-
+ciple component analysis on all mental state items (Pot-Kolder et al.,
+2018)) were measured: “I feel suspicious”, “I feel that others might
+hurt me,” and “I feel that others dislike me”. Negative mental state indi-
+cators included: “I feel down”, “I feel anxious”, “I feel insecure”, “I feel
+disappointed”, “I feel lonely”, “I feel guilty”, “I feel safe” (reverse score,
+further referred to as “unsafe”), “I feel annoyed”. Positive mental state
+items were: “I feel cheerful”, “I feel enthusiastic”, “I feel content”, “I
+feel relaxed”, and “I like myself”.
+
+2.5. Statistical analyses
+
+Data were analysed with SPSS Statistics 24 and R version 3.4.3. Sig-
+nificance was accepted at 0.05. Baseline characteristics were compared
+with t-tests, non-parametric Mann-Whitney U tests, or 7 tests. As VR-
+CBT had never been tested previously, and ESM had not been used be-
+fore as a primary outcome in treatment studies, sample size was esti-
+mated conservatively. A moderate effect size of 0-5, power of 0-8, a
+of 0-05 and a two-sided independent t-test resulted in a sample size
+of 128.
+
+2.5.1. Mental state levels
+
+Mental state levels were analysed with multilevel analyses on the
+factors time (baseline vs posttreatment, baseline vs. follow-up), group
+and the interaction time X group. Multilevel analyses allowed using all
+available data, under the assumption that data is missing at random.
+Models included a random intercept for participant and a random
+Slope for time. The estimation method was set to restricted maximum
+likelihood and the covariance structure to unstructured. Treatment ef-
+fects were established by the time X group interaction for posttreatment
+and follow-up separately by comparing each to baseline.
+
+2.5.2. Network analyses
+
+Temporal associations were estimated using multilevel vector
+autoregressive (VAR) modelling (Bringmann et al., 2013) and were
+depicted as networks. Networks were constructed for baseline and
+posttreatment. Networks depict if mental states predict one another at
+the next time point. Nodes represent mental states, edges represent re-
+gression coefficients.
+
+2.5.2.1. Item selection. To reduce the chance of overfitting, five ESM items
+were included in network analyses. Mental states representing different
+underlying constructs related to paranoia and negative affect were se-
+lected, as these have been found to be strongly related. Candidate
+items were: “dislike”, “hurt”, “suspicious”, “anxious”, “insecure”,
+“down”, “lonely”, and “unsafe”. Items were excluded if the person-
+period-centered item was correlated too strongly with other items (r
+> 0.5), had a skewed distribution (skewness >0.8), showed to little
+within-person variation over time (mean squared successive difference
+(MSSD) <0.90), and when the MSSD and percentages mode scored dif-
+fered between groups at baseline (tested with t-tests). “Hurt” and “dis-
+like” showed too little variation (MSSD <0.82) and were eliminated. The
+final selected items were: “suspicious”, “unsafe”, “anxious”, “down”, and
+“lonely”.
+
+Regression coefficients were estimated with multilevel vector
+autoregressive (VAR) models (Bringmann et al., 2013). For each net-
+work, five multilevel VAR models were fitted to obtain the regression
+coefficients of the network connections strengths (edges) between the
+nodes (mental states). The five models included either “suspicious”,
+“unsafe”, “anxious”, “down”, or “lonely” as the dependent variable. In-
+dependent variables, for all models, were the lag;_; of the same five var-
+iables, which were included as fixed effects. Variables were person-
+
+period-mean centered prior to the analyses, to separate within- and
+
+between-person effects (Curran and Bauer, 2011). To model possible
+trends in variables, the observation number was included as a predictor
+in all models. Models included random intercepts for the participant
+level and random slopes for the observation number (which were
+allowed to be correlated ). Only within-day associations were modelled,
+overnight lags were excluded. Significance of regression coefficients
+was tested with permutation tests (100,000 permutations, fixed effects
+tested two-sided) (Klippel et al., 2017; Snippe et al., 2017). Networks
+were visualized using the R-package ggraph (Epskamp et al., 2012).
+
+Differences in network edges (regression coefficients) were tested
+with permutation testing. We tested whether edge weights differed be-
+tween groups at baseline. Next, we tested whether edge weights
+changed over time within groups. Finally, we tested whether change
+over time differed between groups.
+
+Average intranode (autocorrelations) and internode connectivity
+was calculated per network by averaging the absolute edge weights of
+a network. Change in network connectivity was tested from baseline
+to posttreatment, and whether change differed between the groups.
+Significance was tested with permutation tests.
+
+2.5.3. Contemporaneous associations
+
+As mental states might influence one another faster than the
+timeframe between signals in this study, post hoc multilevel analysis
+were performed to assess contemporaneous relations for suspicious
+(Epskamp et al., 2018). Suspicious was chosen as this was the main
+focus of VR-CBT. We examined whether “suspicious” was predicted by
+“unsafe”, “anxious”, “down”, and “lonely” at the same measurement oc-
+casion. Further, the model included the observation number as a predic-
+tor, a random intercept for participant and a random slope for
+observation number. Regression coefficients, within group differences,
+and differences in change over time were tested with permutation
+tests (100,000 permutations, fixed effects tested two-sided).
+
+3. Results
+
+In total, 91 patients were included. Groups did not differ in baseline
+characteristics (Table 1) nor in the main outcome feeling suspicious.
+Four participants did not fully finish VR-CBT, they completed respec-
+tively 3, 4, 5 and 9 sessions. ESM response rates were high; at baseline
+on average 47.5 (SD = 13.2) out of 70 ESM assessments were com-
+pleted. On average 43.0 posttreatment (SD = 10.2) and 43.1 follow-
+up assessments (SD = 10.7) were completed.
+
+3.1. Mental state levels
+
+In general - over both groups - there was a significant decrease from
+pre to posttreatment (main effect of time) in feeling hurt, insecure,
+
+Table 1
+Demographic and clinical characteristics.
+VR-CBT TAU
+N= 43 N = 48
+Age, years 38.1 (10.0) 40.9 (10.0)
+Male 29 (67.4%) 34 (70.8%)
+Dutch origin 32 (74.4%) 29 (60.4%)
+
+DSM-IV psychoses spectrum diagnosis
+
+Schizophrenia 37 (86.0%) 42 (87.5%)
+
+Schizoaffective disorder 1 (2.3%) 4 (9.5%)
+Not-otherwise specified psychotic disorder 5 (11.6%) 2 (4.1%)
+Duration of illness, years 15.4 (11.3) 15.9 (9.4)
+
+Medication use
+Antipsychotics
+Antidepressants
+
+Al (95.3%)
+14 (32.6%)
+
+47 (97.9%)
+14 (29.2%)
+
+Note: Data are n (%) or mean (standard deviation). VR-CBT, virtual reality cognitive behav-
+ioral therapy; TAU, treatment as usual.
+ Table 2
+Weighted means, standard deviations and test results of mental states over time.
+
+VR-CBT TAU Time? Time x treatment?
+
+Pre Post Follow-up Pre Post Follow-up
+
+N= 43 N = 43 N = 39 N = 48 N = 48 N= 44 Pre-Post Pre-Follow-up Pre-Post Pre-Follow-up
+M (SD) M (SD) M (SD) M (SD) M (SD) M (SD) b (95% Cl) p b (95% CI) p b (95% CI) p b (95% CI) p
+
+Paranoia
+
+Suspicious 2.97 (1.41) 2.69 (1.38) 2.72 (1.44) 3.22 (1.58) 3.25 (1.66) 3.22 (1.60) 0.03 (—0.28:0.25) 0.11 —0.04 (—0.27:0.19) 0.09 —0.32 (—0.64:—0.01) 0.004  —0.21 (—0.54:0.12) 0.22
+Dislike 3.22 (1.53) 2.83 (147) 2.78 (142) 3.31 (149) 3.41 (1.63) 3.45 (1.63) 0.10 (—0.12:0.32) 0.08 0.11 (—0.12:0.34) 0.09 —0.49 (—0.81:-0.16) <0.01 —0.51 (—0.85:—0.18) <0.01
+Hurt 3.09 (1.67) 2.75 (1.52) 2.67 (1.47) 3.10 (1.63) 3.27 (1.73) 3.36 (1.80) 0.17 (—0.08:0.43) 0.02 0.18 (—0.07:0.44) 0.01 —0.51 (—0.88:—0.14) <0.01 —0.56 (—0.93:—0.19) <0.01
+
+Negative affect
+
+Down 2.92 2.55 3.27 3.30 —0.05 0.59  —0.05
+
+Anxious 2.98 2.65 3.23 3.21 —0.04 0.15 —0O.11 (—0.34:0.13) 0.65 —0.37
+
+(—0.25:0.15)
+( )
+Insecure 3.11 2.65 3.32 3.32 —0.08 (—0.25:0.10) <0.01 —0.12 (—0.32:0.09) <0.001 —0.25
+( )
+)
+
+—0.24:0.16
+
+—0.27:0.17) 0.27 —0.17 (—0.47:0.11) 0.24 —0.33
+—0.66:-0.08) 0.01 —0.23
+—0.51:0.01) 0.006 —0O.17
+—0.35:0.25 0.74 —0.21
+—0.42:0.13 0.30 —0O.11
+
+)
+)
+—0.48:0.08) 0.15 —0.20
+)
+)
+
+—0.65:-0.01) 0.04
+—0.57:0.11) 0.19
+—0.64:-0.03) 0.03
+—0.57:0.14) 0.23
+—0.39:0.16) 0.41
+—0.56:0.16) 0.27
+—0.42:0.17) 0.41
+—0.46:0.23) 0.50
+
+(1.14) (1.10) (1.10) (1.49) (1.46) (1.43) ( )
+(1.13) (1.14) (1.19) (1.55) (1.57) (1.52) ( )
+(1.06) (1.10) (1.17) (1.35) (1.38) (1.36) ( )
+Disappointed 2.99 (1.36) (1.44) 2.67 (1.38) (1.52) 3.02 (1.65) 3.07 (1.71) —0.10(—0.31:0.11) 0.10 —0.11(—0.35:0.13) 0.02 —0.05
+Lonely 2.86 (1.06) 2.64 (1.08) 2.60 (1.12) 3.21 (147) 3.13 (1.39) 3.09 (1.43) —0.09(—0.27:0.10) 0.02 —0.13(—0.32:0.05) <0.01 —0.14
+Guilty 2.85 (1.50) (1.44) 2.63 (1.43) (1.45) 2.83 (1.58) 2.82 (1.54) 0.02(—0.18:0.21) 0.22 —0.01(—0.26:0.23) 0.21 —0.20
+Unsafe 3.44 (1.17) (1.16) 3.15 (1.23) (1.34) 3.43 (1.36) 3.34 (1.46) —0.02(—0.20:0.16) 0.04 —0.11(—0.32:0.09) 0.02 —0.23
+Annoyed 2.88 (1.26) (1.25) 2.71. (1.23) (1.21) 3.04 (1.30) 2.96 (1.22) 0.08(—0.13:0.28) 0.78 —0.03(—0.27:0.20) 0.29 —0.19
+
+—0.49:0.03 0.08 —0.12
+—0.49:0.11 0.20 —0.12
+
+eae Nee Nae” Ne” ee” Ce” ae” Oe
+eae Nee Nae” Ne” ee” Ce” ae” Oe
+
+Positive affect
+
+Cheerful 4.24 ( ) 433 ( ) 441 ( ) 401 ( ) 410 ( ) 411 ( ) 0.05 (—0.15:0.26) 0.30 0.06 (—0.24:0.41) 0.19 0.04 (—0.25:0.33) 0.77. 0.09 (—0.24:0.40) 0.60
+Enthusiastic 3.89 ( ) 402 ( ) 418 ( ) 3.65 ( ) 3.63 ( ) 3.73 ( ) 0.03 (—0.18:0.24) 0.30 0.12 (—0.08:0.32) 0.01 0.10 (—0.21:0.41) 0.52 0.14 (—0.16:0.43) 0.36
+Content 4.37 (1.06) 448 (1.20) 4.62 (1.17) 406 (1.19) 4.11 (1.17) 408 (1.34) 0.03 (—0.16:0.21) 0.30 —0.02 (—0.22:0.18) 0.19 0.09 (—0.18:0.35) 0.51 0.23 (—0.06:0.53) 0.12
+Relaxed 4.34 ( ) 447 ( ) 459 ( ) 420 ( ) 425 ( ) 424 ( ) 0.08 (—0.09:0.26) 0.09 0.08 (—0.13:0.29) 0.09 0.05 (—0.20:0.31) 0.67 0.11 (—0.20:0.41) 0.49
+Ilike myself 4.64 ( ) 4.75 ( ) 4.90 ( ) 444 (1.27) 4.53 (1.32) 464 (1.41) 0.06 (—0.12:0.23) 0.17 0.16 (—0.05:0.37) 0.01 0.06 (—0.20:0.31) 0.66 0.09 (—0.22:0.40) 0.57
+
+Note: M, mean; SD, standard deviation; b, parameter estimate (regression coefficient); CI, confidence interval; VR-CBT, virtual reality cognitive behavioral therapy; TAU, treatment as usual; pre, baseline; post, posttreatment; follow-up, 6-month
+follow-up assessment.
+
+* Values indicate the p-values of the type III fixed main effect F-tests of time of the multilevel models. sp-values < .05 are presented in bold.
+
+> values indicate the p-values of the type III fixed interaction effect F-tests of time and treatment of the multilevel models, thus the treatment effect. p-values < .05 are presented in bold.
+
+230
+
+C.N.W. Geraets et al. / Schizophrenia Research 222 (2020) 227-234
+ C.N.W. Geraets et al. / Schizophrenia Research 222 (2020) 227-234 231
+
+lonely and unsafe (see Table 2). These time effects remained significant
+at follow-up. By 6-month follow-up, feeling disappointed, enthusiastic,
+as well as “I like myself’ had changed in general compared to baseline.
+
+Significant treatment effects (interaction of time X treatment) were
+found at posttreatment for feeling suspicious, disliked, hurt, and anx-
+ious; these mental states decreased significantly more after VR-CBT
+than TAU. At posttreatment trend effects of treatment were found for
+feeling insecure (p = .06) and unsafe (p = .08). At follow-up, significant
+treatment effects of VR-CBT were observed for feeling disliked, hurt,
+down, and insecure in comparison with TAU.
+
+3.2. Temporal networks
+
+The temporal associations between mental states are shown in
+Table 3 and Fig. 1. At baseline the TAU and VR-CBT group differed signif-
+icantly in the relation between feeling anxious,_; and lonely; (b = 0.11,
+p = .04); anegative relation was found in the VR-CBT group, and no sig-
+nificant relation for TAU. Both baseline networks had in common that
+strong significant associations were present for the autocorrelations
+(i.e., the time-lagged effect of a mental state on itself), and the time-
+lagged association between feeling down,.; and lonely,. Post hoc checks
+for coefficients stability were performed by ommiting one of five predic-
+tors. Results showed similar and thus table coefficients.
+
+Within the VR-CBT group, only the anxious,_;-lonely, association in
+the network decreased significantly from pre to posttreatment (Dpre =
+
+down,-1-Suspicous,; relation decreased significantly from pre to post-
+treatment (Dpre = 0.07; Dpost = —0.02, p = .02). However, when testing
+the difference in change from pre to posttreatment between the groups,
+no significant differences were found.
+
+Internode connectivity (i.e., average of the absolute regression coef-
+ficients of lagged associations between mental states) did not change
+over time for both the VR-CBT (Dintey = 0.00, p = .77) and TAU group
+(Dinter = 0.00, p = .87), and change did not differ between groups.
+
+Intranode connectivity (autocorrelations) showed a trend reduction
+in the VR-CBT group; the connectivity decreased from pre to posttreat-
+ment (Dintra = —0.07, p = .08). Intranode connectivity did not change
+over time for TAU (Dintraq = —0.01 p = .82). Change in connectivity
+did not differ significantly between groups (b = 0.06, p = .25).
+
+3.3. Contemporaneous associations
+
+Post hoc multilevel analysis showed that suspicious was significantly
+associated at the same time point with lonely, anxious, and unsafe at
+baseline in both groups (Table 3). At baseline, the down-suspicious re-
+lation differed significantly between the VR-CBT and TAU network; a
+positive association was found in the TAU group, and no significant re-
+lation in the VR-CBT group (by;_<p¢ = 0.04; Dia, = 0.16, p < .01).
+
+The association between feeling suspicious and feeling lonely, anx-
+ious, and unsafe did not change over time for VR-CBT or TAU. There
+was a significant difference in change over time between groups in
+
+—0.08; Dpost = 0.05, p < .01). Within the TAU group networks, the the down-suspicious relation. Whereas for the VR-CBT group there
+
+Table 3
+Associations between mental states and change in associations over time.
+
+VR-CBT TAU VR-CBT TAU A VR-CBT - TAU
+
+Pre Post Pre Post A Pre-post A Pre-post A Change
+
+b b b b
+Temporal associations
+Suspicious;.; > Suspicious; 0.19** 0.03 0.17°* 0.21°* —0.16 0.05 —0.20
+Anxious; > Anxious; 0.08* 0.08 0.11°* 0.11°* 0.00 0.00 0.00
+Down. = Down; 0.15°° 0.10" 0.24** 0.19"* —0.05 —0.05 —0.01
+Unsafe, > Unsafe, 0.17°" 0.13"" 0.13"" 0.14°* —0.04 0.01 —0.05
+Lonely ¢-1 > Lonely; 0.27°* 0.19** 0.17°* 0.13°* —0.08 —0.05 —0.03
+Mean intranode connectivity* 0.17 0.11 0.16 0.16 —0.07 —0.01 0.06
+Down;.1 > Suspicious; 0.03 0.07° 0.07 —0.02 0.05 —0.09* 0.14
+Lonely ¢.1 > Suspicious; 0.04 0.02 0.01 0.03 —0.02 0.02 —0.04
+Anxious;-4 = Suspicious; 0.02 0.08* 0.02 0.03 0.07 0.01 0.05
+Unsafe,.; = Suspicious; 0.00 0.03 0.05 0.04 0.03 —0.01 0.04
+Down.1 = Anxious; 0.09° 0.07 0.06 0.01 —0.02 —0.05 0.04
+Suspicious¢-1 > Anxious; 0.05 0.07 0.06 0.05 0.03 —0.01 0.03
+Lonely ¢-1 > Anxious; 0.04 —0.01 0.01 0.06" —0.05 0.05 —0.10
+Unsafe,.; => Anxious; 0.00 —0.01 0.07 0.08" —0.01 0.01 —0.02
+Suspicious; = Down; 0.07 0.02 0.02 —0.01 —0.04 —0.03 —0.02
+Lonely 4-4 — Down; 0.05" 0.03 0.06 0.05 —0.03 —0.01 —0.02
+Anxious;-4 => Down, 0.04 0.09* —0.01 0.02 0.04 0.04 0.01
+Unsafe,_1 = Down; 0.00 0.02 0.06 0.10°* 0.03 0.04 —0.02
+Down. => Unsafe, 0.05 0.05 —0.01 —0.02 0.00 —0.01 0.01
+Suspicious¢-1 > Unsafe, 0.01 0.03 0.05 0.06 0.01 0.01 0.00
+Lonely 4-4 — Unsafe; 0.00 0.01 0.03 0.02 0.01 —0.01 0.02
+Anxious;-4 => Unsafe, —0.03 0.03 0.01 0.03 0.06 0.02 0.04
+Down.1 > Lonely; 0.12** 0.07 0.13°* 0.03 —0.05 —0.11 0.05
+Suspicious; = Lonely; 0.03 —0.05 —0.01 0.08 —0.08 0.08 —0.16
+Anxious; > Lonely; —0.08* 0.05 0.03 0.03 0.13** 0.00 0.13
+Unsafe,.; > Lonely; 0.01 0.01 0.05 0.08 0.00 0.02 —0.02
+Mean internode connectivity * 0.04 0.04 0.04 0.04 0.00 0.00 0.00
+Contemporaneous associations
+Down Suspicious 0.04 0.11°* 0.16°" 0.04 0.08" —0.12** 0.20°*
+Lonely Suspicious 0.07** 0.03 0.10°* 0.11°** —0.04 0.02 —0.05
+Anxious Suspicious 0.25°* 0.25°° 0.25°* 0.18°" 0.01 —0.08 0.08
+Unsafe suspicious 0.15°* 0.11°* 0.17°* 0.16°" —0.04 —0.01 —0.03
+
+Note: VR-CBT, virtual reality cognitive behavioral therapy; TAU, treatment as usual; pre, baseline; post, posttreatment; A, difference in b coefficients. b, are b coefficients of multilevel
+models, the multilevel models included the lag (t-1) of the five mental state variables and observation number as fixed effects, a random intercept for the participant level and random
+slopes for the time variable (observation number).
+* p-value <.05.
+** p-value <.01.
+ 232 C.N.W. Geraets et al. / Schizophrenia Research 222 (2020) 227-234
+
+VR-CBT
+
+0.19. x
+
+~
+=
+@
+=
+~
+©
+@
+Me
+~
+@
+MS
+a.
+VR-CBT
+Ww
+=
+o
+=
+ae
+©
+2 |
+5 0.05 0.07
+a. / 0.02 -0.01
+
+Fig. 1. Networks of mental states. Note: Anx = anxious, lone = lonely, susp = suspicious, unsaf = unsafe. Arrows represent lagged regression coefficients.
+
+was no significant relation between down and suspicious at baseline,
+there was a significant positive association at posttreatment. For TAU
+only at baseline there was a significant association.
+
+4. Discussion
+
+This study examined the effects of VR-CBT on paranoia, positive and
+negative affect states in daily life and the dynamics among them. To our
+knowledge, this is the first study comparing pre and posttreatment net-
+works in people with a psychotic disorder. We discuss three main find-
+ings: first, we found positive effects of VR-CBT on paranoia and negative
+affective states (i.e., feeling anxious, down, and insecure). Second, dy-
+namic associations between paranoia and negative affective states
+from one moment to the next were not strong at baseline; states were
+best predicted by the same mental state at the previous moment.
+Third, dynamics between mental states were not affected by VR-CBT.
+There are indications that VR-CBT lowered autocorrelations, and that
+mental states, once activated, may recover quicker after therapy. Thus
+
+periods of heightened paranoia and negative affect seemed to last
+shorter.
+
+4.1. Paranoia, positive and negative affect
+
+After VR-CBT, patients reported feeling less suspicious, disliked and
+having lower levels of persecutory ideations (i.e., others want to hurt
+me) in comparison with TAU. Treatment effects on feeling disliked
+and persecutory ideations maintained at 6-month follow-up. By post-
+treatment, feeling anxious had decreased more after VR-CBT than
+TAU, and at follow-up, feelings of insecurity and down were also
+lower in the VR-CBT group. Further, improvements in negative affect
+seemed consistently larger in the VR-CBT group, though not signifi-
+cantly. VR-CBT did not influence positive affect.
+
+This study extends our previous findings by showing that VR-CBT
+specifically effects three components of paranoia (dislike, hurt, and sus-
+picious ) (Pot-Kolder et al., 2018). In the long-term, VR-CBT seems to im-
+prove depressed mood (i.e., feeling down) and feeling insecure. As the
+proportion of clinical recovery for patients with psychotic disorders
+ C.N.W. Geraets et al. / Schizophrenia Research 222 (2020) 227-234 233
+
+tends to be relatively low, the finding that the therapy strongly influ-
+enced one of the core symptoms of psychosis — paranoia —- as well as
+negative mental states in everyday life is of importance (Jadskelainen
+et al., 2013).
+
+An explanation for the lack of improvement in positive affect and
+several negative affect states could be the targeted approach of the in-
+tervention. Therapeutic effects of CBT have been reported to be specific.
+VR-CBT mainly focused on threat evoking situations, and not specifically
+on enhancing positive feelings. Patients e.g., learned throughout the
+therapy that (virtual) others did not hurt them, and that they can en-
+dure social embarrassment, without running away, screaming, or acting
+strangely. Negative beliefs were tested and falsified, thereby focusing on
+reducing paranoid and negative thoughts and feelings instead of in-
+creasing positive emotions. Possibly, secondary effects of reduced para-
+noia and negative affect will result in higher positive affect in the long-
+term, as a trend of increasing levels of positive affect was seen over time
+in all items, especially in the VR-CBT group. Another explanation could
+be that in patients with a long illness duration other factors have stron-
+ger impact on mood than paranoia, such as having limited social rela-
+tions, unemployment, and past negative experiences.
+
+4.2. Baseline interplay between emotions
+
+In general, at baseline negative mental states were so persistently
+present that mental states mainly predicted themselves (high
+autoregression) in both groups. In a condition of persistent symptoms,
+the network may not be dynamic anymore. Based on network ap-
+proaches of psychopathology, we hypothesized that patients with para-
+noia would show an inflexible vicious circle of mental states activating
+each other. In the study sample, we did not find strong evidence to sup-
+port this at a group level, as at baseline no vicious circle of mental states
+were observed. Rather, affective states seemed to be mainly self-
+maintaining. This is called emotional inertia; this tendency of emotions
+to persist across time has been linked previously to psychopathology
+(Houben et al., 2015; Kuppens and Verduyn, 2017). Our findings there-
+fore suggest that in psychosis, mental states seem to be self-
+maintaining, which advocates for symptom-oriented interventions.
+
+Our findings are not completely in line with previous research.
+While strengths of associations in previous studies were of a similar
+order, previous research did show significant predictive values of nega-
+tive affect for paranoia. An important difference with previous studies
+was the sample size; Wigman et al. (2015) (n = 263) and Klippel
+et al. (2017) (n = 245) used larger groups, and thus had more statistical
+power. Alternatively, there could still be vicious circles of mental states
+activating each other but these may vary between patients, due to indi-
+vidual differences.
+
+4,3. VR-CBT and the interplay between emotions
+
+We did not find evidence that VR-CBT influences the extent to which
+paranoia-related mental states reinforce one another. Overall connec-
+tivity between mental states (inter node connectivity), showed 0%
+change in both groups. For emotional inertia — autocorrelations of men-
+tal states —- we found indications of a possible treatment effect (trend ef-
+fect p = .08). Mental states in daily life, once activated, may resolve or
+recover faster after VR-CBT than after TAU. This break of perpetuating
+affective and paranoid states may be an alternative pathway by which
+mental states regain healthy flexibility. The largest decrease in inertia
+was found for suspiciousness, changing from 0.19 to 0.03 after VR-CBT
+(p = .17). For TAU the relation remained similar (Dpre = 0.17; Dpost =
+0.21). Thus, after therapy moments of suspiciousness seemed to recov-
+ered quicker. This indicates that VR-CBT may have influenced the per-
+sistence of feeling paranoid.
+
+There are several explanations for the lack of findings regarding the
+interplay between mental states. First, VR-CBT may simply not have in-
+fluenced emotion dynamics. This shows that even though average levels
+
+of paranoia improved and autocorrelations reduced, the relation with
+other mental states remained unaffected. Possibly the lack of change is
+caused by remaining underlying vulnerability or residual symptoms.
+People experienced lower paranoia levels after VR-CBT, but levels
+were still elevated compared to a healthy population (Collip et al.,
+2011). Similar results were found for both a mindfulness-based cogni-
+tive therapy and imipramine treatment in patients with depression; av-
+erage levels improved but there was a lack of therapy effect on emotion
+dynamics (Snippe et al., 2017). Alternatively, changes may have oc-
+curred in the relation between paranoia and other mental states, though
+not with the four specific mental states that were researched in this
+study.
+
+Further, although there were limited changes on a group level, indi-
+vidual dynamics may have changed. Patients with psychosis are quite
+heterogeneous. Therefore treatment goals and the specific content of
+VR-CBT sessions had a personalized character. This may have resulted
+in different dynamics being affected in different individuals. Further,
+cascades of mental states triggering other states may be caused mainly
+by secondary appraisals. Emotions are primarily generated by the ap-
+praisal of a situation, e.g., the thought “they want to hurt me” evokes
+Suspiciousness. The behavior that follows, e.g., avoidance, may evoke
+new thoughts (secondary appraisal) like “I am a weak”, and cause
+someone to feel down. These secondary appraisals are likely to show
+more interpersonal variation, and may cause one person to become anx-
+ious and others to feel down. The heterogeneity in patients was also
+reflected in the random slope effects which improved all statistical
+models. This raises important questions regarding the usefulness of
+emotion dynamic networks on a group level.
+
+4.4, Limitations
+
+There were several limitations. First, items were rated on 7-point
+Likert scales, which limits the amount of variation compared to contin-
+uous ESM scales or questionnaires that generally have more items. Sec-
+ond, when examining associations at the same moment in time
+(contemporaneous), negative mental states were more interconnected
+with paranoia. Possibly mental states interact more than we found in
+our analyses, but these associations may be more volatile than the +-
+90 minute interval between diary measurements in this study. Third,
+conservative permutation tests were used for network analyses and
+group sizes were limited, which limits statistical power. Fourth, there
+was a baseline difference between groups on the Anxious;.; - Lonely; as-
+sociation for which we do not have an adequate explanation as no other
+baseline difference (e.g., in characteristics) were observed. Fifth, data
+were analysed under the assumption that data was missing at random,
+which could be violated. Data were not imputed as this would impact
+auto-correlations artificially, and auto-correlations were specifically of
+interest in this study. Finally, due to the explorative nature of this
+study we did not correct the p-value for multiple testing, which could
+have resulted in accepting a hypothesis unjustifiably.
+
+4.5. Conclusion
+
+VR-CBT strongly reduced paranoia in daily life. At 6-month follow-
+up people who participated in VR-CBT also reported to be less down
+and insecure. Treatment effects did not transfer to positive mood states.
+We did not find robust evidence that negative mental states trigger
+paranoia in the next moment above and beyond the self-maintaining ef-
+fects of paranoia. Treatment did not change the extent to which mental
+states reinforce each other. Our findings do suggest that mental states in
+daily life, once activated, may recover more quickly after VR-CBT and
+regained flexibility. Thus, this research further supports the usefulness
+of VR as a tool for therapy as VR-CBT improved paranoid and negative
+mental states. Further, if future research confirms our new hypothesis
+that VR-CBT may cause faster recovery of mental states, this could pro-
+vide insights in the working-mechanisms of CBT.
+ 234 CN.W. Geraets et al. / Schizophrenia Research 222 (2020) 227-234
+
+Future research could investigate differences in mental states net-
+works between between high and low paranoid patients or treatment
+responders and non-responders in a larger sample. Investigating
+changes when VR-CBT is successful in responders would help under-
+standing how the therapy works. Further, this will provide insights in
+the utility of a network approach on a group level. Moreover, when
+measuring mental states continuously during an intervention, one
+could investigate if autocorrelations drop before mean levels do. Finally,
+investigating dynamics within individuals increases understanding in
+person-specific effects and therapy working mechanisms.
+
+Role of the funding source
+
+Funders had no involvement in the study design; in the collection,
+analysis and interpretation of data; in the writing of the report; nor in
+the decision to submit the article for publication.
+
+Declaration of competing interest
+
+All authors declare that they have no conflicts of interest.
+
+Acknowledgement
+
+We are grateful to Anya Kuranova for assisting with network analysis. This work was
+supported by Fonds NutsOhra; Stichting tot Steun VCVGZ; the European Research Council
+(ERC) under the European Union's Horizon 2020 research and innovative programme
+ERC-CoG-2015 - 681466).
+
+References
+
+Bak, M., Drukker, M., Hasmi, L., van Os, J., 2016. An n=1 clinical network analysis of symp-
+toms and treatment in psychosis. PLoS One 11, e0162811. https: //doi.org/10.1371/
+journal.pone.0162811.
+
+Bentall, R.P., Corcoran, R., Howard, R., Blackwood, N., Kinderman, P., 2001. Persecutory de-
+lusions: a review and theoretical integration. Clin. Psychol. Rev. 21, 1143-1192.
+https://doi.org/10.1016/S0272-7358(01 )00106-4.
+
+Bringmann, L.F., Vissers, N., Wichers, M., Geschwind, N., Kuppens, P., Peeters, F.,
+Borsboom, D., Tuerlinckx, F., 2013. A network approach to psychopathology: new in-
+sights into clinical longitudinal data. PLoS One 8. https://doi.org/10.1371/journal.
+pone.0060188.
+
+Cho, H., Gonzalez, R., Lavaysse, L.M., Pence, S., Fulford, D., Gard, D.E., 2017. Do people with
+schizophrenia experience more negative emotion and less positive emotion in their
+daily lives? A meta-analysis of experience sampling studies. Schizophr. Res. 183,
+49-55. https://doi.org/10.1016/j.schres.2016.11.016.
+
+Collip, D., Oorschot, M., Thewissen, V., Van Os, J., Bentall, R.P., Myin-Germeys, I., 2011. So-
+cial world interactions: how company connects to paranoia. Psychol. Med. 41,
+911-921. https://doi.org/10.1017/S0033291 710001558.
+
+Cramer, A.O,J., Waldorp, LJ., van der Maas, H.LJ., Borsboom, D., 2010. Comorbidity: a net-
+work perspective. Behav. Brain Sci. 33, 137-150. https://doi.org/10.1017/
+S0140525X09991567.
+
+Curran, P.J., Bauer, D.J., 2011. The disaggregation of within-person and between-person
+effects in longitudinal models of change. Annu. Rev. Psychol. 62, 583-619. https://
+doi.org/10.1146/annurev.psych.093008.100356.
+
+Delespaul, P.A., Devries, M.W., 1987. The daily life of ambulatory chronic mental patients.
+J. Nerv. Ment. Dis. https://doi.org/10.1097/00005053-198709000-00005.
+
+Epskamp, S., Cramer, A.O.J.J., L., W., Schmittman, V.D., Borsboom, D., Waldorp, LJ.,
+Schmittmann, V.D., Borsboom, D., 2012. Qgraph: network visualizations of relation-
+ships in psychometric data. J. Stat. Softw. 48, 1-18. doi:10.18637/jss.v048.i04.
+
+Epskamp, S., van Borkulo, C.D., van der Veen, D.C., Servaas, M.N., Isvoranu, A.M., Riese, H.,
+Cramer, A.O,J., 2018. Personalized network modeling in psychopathology: the impor-
+tance of contemporaneous and temporal connections. Clin. Psychol. Sci. 6, 416-427.
+https: //doi.org/10.1177/2167702617744325.
+
+Fowler, D., Hodgekins, J., Garety, P., Freeman, D., Kuipers, E., Dunn, G., Smith, B.,
+Bebbington, P.E., 2012. Negative cognition, depressed mood, and paranoia: a longitu-
+dinal pathway analysis using structural equation modeling. Schizophr. Bull. 38,
+1063-1073 doi:10.1093/schbul/sbr019.
+
+Freeman, D., 2007. Suspicious minds: the psychology of persecutory delusions. Clin.
+Psychol. Rev. 27, 425-457. https://doi.org/10.1016/j.cpr.2006.10.004.
+
+Freeman, D., Garety, P.A., Kuipers, E., Fowler, D., Bebbington, P.E., 2002. A cognitive model
+of persecutory delusions. Br. J. Clin. Psychol. 41, 331-347. https://doi.org/10.1348/
+014466502760387461.
+
+Freeman, D., Emsley, R., Dunn, G., Fowler, D., Bebbington, P., Kuipers, E., Jolley, S., Waller,
+H., Hardy, A., Garety, P., 2015. The stress of the street for patients with persecutory
+
+delusions: a test of the symptomatic and psychological effects of going outside into
+a busy urban area. Schizophr. Bull. 41, 971-979. https: //doi.org/10.1093/schbul/
+sbul 73.
+
+Garety, P.A., Freeman, D., 1999. Cognitive approaches to delusions: a critical review of the-
+ories and evidence. Br. J. Clin. Psychol. 38, 113-154. https://doi.org/10.1348/
+014466599 162700.
+
+Garety, P.A., Freeman, D., 2013. The past and future of delusions research: from the inex-
+plicable to the treatable. Br. J. Psychiatry 203, 327-333. https://doi.org/10.1192/bjp.
+bp.113.126953.
+
+Garety, P.A., Kuipers, E., Fowler, D., Freeman, D., Bebbington, P.E., 2001. A cognitive model
+of the positive symptoms of psychosis. Psychol. Med. 31, 189-195. https://doi.org/
+10.1017/S0033291 701003312.
+
+Green, C.E.L., Freeman, D., Kuipers, E., Bebbington, P.E., Fowler, D., Dunn, G., Garety, P.A.,
+2008. Measuring ideas of persecution and social reference: the Green et al. Paranoid
+Thought Scales (GPTS). Psychol. Med. 38, 101-111.
+
+Houben, M., Van Den Noortgate, W., Kuppens, P., 2015. The relation between short-term
+emotion dynamics and psychological well-being: a meta-analysis. Psychol. Bull. 141,
+901-930. https://doi.org/10.1037/a0038822.
+
+Howes, O.D., Murray, R.M., 2014. Schizophrenia: an integrated sociodevelopmental-
+cognitive model. Lancet 383, 1677-1687. https://doi.org/10.1016/S0140-6736( 13)
+62036-X.Schizophrenia.
+
+Jadskeldinen, E., Juola, P., Hirvonen, N., McGrath, J.J., Saha, S., Isohanni, M., Veijola, J.,
+Miettunen, J., 2013. A systematic review and meta-analysis of recovery in schizophre-
+nia. Schizophr. Bull. 39, 1296-1306. https: //doi.org/10.1093/schbul/sbs130.
+
+Klippel, A., Viechtbauer, W., Reininghaus, U., Wigman, J., van Borkulo, C., Myin-Germeys,
+I., Wichers, M., 2017. The Cascade of stress: a network approach to explore differen-
+tial dynamics in populations varying in risk for psychosis. Schizophr. Bull. 44,
+328-337. https://doi.org/10.1093/schbul/sbx037.
+
+Kuppens, P., Verduyn, P., 2017. Emotion dynamics. Curr. Opin. Psychol. 17, 22-26. https://
+doi.org/10.1016/j.copsyc.2017.06.004.
+
+Myin-Germeys, I., Birchwood, M., Kwapil, T., 2011. From environment to therapy in psy-
+chosis: a real-world momentary assessment approach. Schizophr. Bull. 37, 244-247.
+https: //doi.org/10.1093/schbul/sbq164.
+
+Myin-Germeys, I., Kasanova, Z., Vaessen, T., Vachon, H., Kirtley, O., Viechtbauer, W.,
+Reininghaus, U., 2018. Experience sampling methodology in mental health research:
+new insights and technical developments. World Psychiatry 17, 123-132. https://doi.
+org/10.1002/wps.20513.
+
+Nelson, B., McGorry, P., Wichers, M., Wigman, J.T.W., Hartmann, J.A., 2017. Moving from
+static to dynamic models of the onset of mental disorder a review. JAMA Psychiatry
+74, 528-534. https://doi.org/10.1001/jamapsychiatry.201 7.0001.
+
+Oorschot, M., Lataster, T., Thewissen, V., Lardinois, M., van Os, J., Delespaul, P.A., Myin-
+Germeys, I., 2012. Symptomatic remission in psychosis and real-life functioning. Br.
+J. Psychiatry 201, 215-220. https: //doi.org/10.1192/bjp.bp.111.104414.
+
+Pot-Kolder, R., Geraets, C.N.W., Veling, W., Staring, A.B.P., Gijsman, H.J., Delespaul, P.A., van
+der Gaag, M., 2018. Virtual-reality-based cognitive behavioural therapy versus
+waiting list control for paranoid ideation and social avoidance in patients with psy-
+chotic disorders: a single-blind randomised controlled trial. Lancet Psychiatry 5,
+217-226. https://doi.org/10.1016/S2215-0366(18 )30053-1.
+
+Smith, B., Fowler, D.G., Freeman, D., Bebbington, P., Bashforth, H., Garety, P., Dunn, G.,
+Kuipers, E., 2006. Emotion and psychosis: links between depression, self-esteem,
+negative schematic beliefs and delusions and hallucinations. Schizophr. Res. 86,
+181-188. https://doi.org/10.1016/j.schres.2006.06.018.
+
+Snippe, E., Viechtbauer, W., Geschwind, N., Klippel, A., de Jonge, P., Wichers, M., 2017. The
+impact of treatments for depression on the dynamic network structure of mental
+states: two randomized controlled trials. Sci. Rep. 7, 46523. https://doi.org/10.1038/
+srep46523.
+
+Thewissen, V., Bentall, R.P., Oorschot, M., A Campo, J., Van Lierop, T., Van Os, J., Myin-
+Germeys, I., 2011. Emotions, self-esteem, and paranoid episodes: an experience sam-
+pling study. Br. J. Clin. Psychol. 50, 178-195. doi:https://doi.org/10.1348/
+014466510X508677.
+
+Van Os, J., Lataster, T., Delespaul, P.A., Wichers, M., Myin-Germeys, I., 2014. Evidence that a
+psychopathology interactome has diagnostic value, predicting clinical needs: an ex-
+perience sampling study. PLoS One 9. https://doi.org/10.1371/journal.pone.0086652.
+
+Veling, W., Pot-Kolder, R., Counotte, J., van Os, J., van der Gaag, M., 2016. Environmental
+social stress, paranoia and psychosis liability: a virtual reality study. Schizophr. Bull.
+1-9.
+
+Wigman, J.T.W., Collip, D., Wichers, M., Delespaul, P., Derom, C., Thiery, E., Vollebergh,
+W.A.M., Lataster, T., Jacobs, N., Myin-Germeys, I., van Os, J., 2013. Altered transfer of
+momentary mental states (ATOMS) as the basic unit of psychosis liability in interac-
+tion with environment and emotions. PLoS One 8, e54653. https://doi.org/10.1371/
+journal.pone.0054653.
+
+Wigman, J.T.W., van Os, J., Borsboom, D., Wardenaar, K.J., Epskamp, S., Klippel, A.,
+Viechtbauer, W., Myin-Germeys, I., Wichers, M., 2015. Exploring the underlying
+structure of mental disorders: cross-diagnostic differences and similarities from a
+network perspective using both a top-down and a bottom-up approach. Psychol.
+Med. 45, 2375-2387. https://doi.org/10.1017/S00332917 15000331.

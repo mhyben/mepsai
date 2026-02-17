@@ -1,0 +1,2493 @@
+® Check for updates
+
+European Journal of Personality, Eur. J. Pers. 34: 1017-1036 (2020)
+Published online 27 June 2020 in Wiley Online Library (wileyonlinelibrary.com) DOI: 10.1002/per.2278
+
+Subjectifying the Personality State: Theoretical Underpinnings and an Empirical
+ExampleQG@
+
+GAL LAZARUS'*, HARAN SENED! and ESHKOL RAFAEL!"
+
+’Psychology Department, Bar-llan University, Ramat Gan, Israel
+“Barnard College, Columbia University, New York, NY USA
+
+Abstract: Recent developments in personality research highlight the value of modelling dynamic state-like manifes-
+tations of personality. The present work integrates these developments with prominent clinical models addressing
+within-person multiplicity and promotes the exploration of models centred on state-like manifestations of personality
+that function as cohesive organizational units. Such units possess distinct subjective qualities and are characterized
+by specific affects, behaviours, cognitions, and desires that tend to be co-activated. As background, we review both
+theory and research from the fields of social cognition, psychotherapy, and psychopathology that serve as the foun-
+dation for such models. We then illustrate our ideas in greater detail with one well-supported clinical model—the
+schema therapy mode model, chosen because it provides a finite and definite set of modes (i.e. cohesive personality
+states). We assessed these modes using a newly developed experience-sampling measure administered to 52 individ-
+uals (four times daily for 15 days). We estimated intraindividual and group-level temporal and contemporaneous net-
+works based on the within-person variance as well as between-person network. We discuss findings from exemplar
+participants and from group-level networks and address cross-model particularities and consistencies. In conclusion,
+we consider potential idiographic and nomothetic applications of subjective states dynamic personality research
+
+based on intensive longitudinal methods. © 2020 European Association of Personality Psychology
+
+Key words: personality states; network analysis; idiographic methods; personality dynamics
+
+Recent advances in personality research highlight the impor-
+tance of attending to dynamic state-like context-sensitive
+manifestations of personality and of developing models to
+account for these phenomena (e.g. Rauthmann, Beckmann,
+Noftle, & Sherman, 2019; Wilson, Harris, & Vazire, 2015;
+Wright & Simms, 2016). The development of such models
+involves the building of meaningful bridges between re-
+search focused on descriptive (between-individual) differ-
+ences in traits and research focused on explanatory (within-
+individual) context-dependent processes of personality func-
+tioning (e.g. Baumert et al., 2017; Hopwood, 2018;
+Jayawickreme, Zachry, & Fleeson, 2019). Some of these
+models (e.g. Hopwood, Pincus, & Wright’s, 2019, Contem-
+porary Integrative Interpersonal Theory) go even further
+and integrate social, personality, and clinical phenomena into
+coherent frameworks for research on personality dynamics—
+both typical and pathological.
+
+In attempting to lay the foundation for such bridges,
+many studies of personality dynamics have employed the
+concept of personality state. Personality states are typically
+invoked with reference to the affective, behavioural,
+
+*Correspondence to: Gal Lazarus, Psychology Department, Bar-Ilan Univer-
+sity, Ramat Gan 5290002, Israel.
+
+E-mail: gal.lazarus@gmail.com
+
+(3)(.u)This article earned Open Data and Open Materials badges through
+Open Practices Disclosure from the Center for Open Science: https://osf.i0/
+tvyxz/wiki. The data and materials are permanently and openly accessible
+at https://osf.10/jkxzn/. Author’s disclosure form may also be found at the
+Supporting Information in the online version.
+
+© 2020 European Association of Personality Psychology
+
+cognitive, or motivational contents, which characterize
+established (e.g. Big Five) personality traits, but appear for
+brief periods of time rather than chronically (e.g.
+Fleeson, 2001; Jayawickreme et al., 2019; Rauthmann,
+Jones, & Sherman, 2016). These personality states provide
+a lexicon for capturing momentary fluctuations in the extent
+to which traits manifest in individuals’ daily lives.
+
+Other investigations (e.g. Dunlop, 2015; Geukes &
+Back, 2017; Geukes, van Zalk, & Back, 2018; Revelle &
+Condon, 2015; Sosnowska, Kuppens, De Fruyt, &
+Hofmans, 2019) go beyond state manifestations of broad
+traits and instead address a range of state-like variables (in-
+cluding momentary goals, affects, experiences, behaviours,
+and evaluations) as well as the dynamic interactions that un-
+fold between these variables. These variables also provide a
+way of speaking about momentary fluctuations. For example,
+Zimmermann et al. (2019) developed a Personality Dynamics
+Diary, which assesses behaviours and situational experiences
+covering major domains featured in current dimensional
+models of psychological situations (Rauthmann et al., 2019)
+and personality pathology (Krueger & Markon, 2014); these
+are assessed in daily or within-day diaries, which allow re-
+searchers to capture within-person variation over time.
+
+For the most part, these accounts of dynamic personality
+posit momentary or state-like processes but do not propose a
+structure of (momentary) organizational units. Specifically,
+they do not point to particular agglomerations of state-like
+variables that may compose identifiable state units. Thus,
+
+Handling editor: EJP Guest Editor
+Received 28 May 2019
+Revised 12 February 2020, Accepted 25 May 2020
+ 1018 G. Lazarus et al.
+
+although these accounts have been very generative of re-
+search (e.g. Rauthmann et al., 2019), we believe that they
+leave out an essential quality: the recognition of cohesive
+subjective states of mind (Siegel, 2012), which involve a
+clustering of functionally synergistic processes (e.g. motiva-
+tion, cognition, affect, and behaviour).
+
+Subjective Personality States as Organizational Units
+
+Consider a man who has been through a harsh romantic re-
+jection and is currently reacting to it by enacting avoidant be-
+haviours. We may accurately note that he is currently low in
+state extraversion, agreeableness, and openness, but this
+would miss the gist of the situation: namely, that he is now
+in an avoidant state of being. In other words, his behaviours,
+affect, cognitions, | motivations/desires (Wilt &
+Revelle, 2015), and sense of control/authorship (1.e. agency),
+reflexive functioning (i.e. meta-cognitions), and embodied
+sense are all activated jointly as part of a cohesive (although
+contextual and time limited) subjective organizational unit.
+Seeing his former lover on the street may bring about an en-
+tirely different subjective state of being (marked by despair,
+uncontrollable sobbing, and the wish for reunion), so would
+the receipt of skilled social support (which may engender a
+calmer, more regulated state). Thus, within the same person,
+multiple subjective organizational units become active at dif-
+ferent times.
+
+In the present paper, we wish to offer a conceptualization
+of state-like manifestations of personality that tie together
+several components into meaningful and lawful (momentary)
+organizational units. This conceptualization is inspired di-
+rectly by McAdams (1996) and indirectly by James (1890/
+1950). Specifically, McAdams contended that personality is
+best thought of as comprising three levels of psychological
+individuality—dispositional traits, characteristic adaptations
+(e.g. goals, coping strategies, values, and skills), and integra-
+tive life stories. These elements construct the Jamesian
+‘me’—that 1s, the objective, known part of personality. Like
+James before him, McAdams (1996, 2013) argued that per-
+sonality and the self also involve a
+phenomenological/experiential quality. James (1890/1950)
+referred to this quality as the ‘I’ and thought of it as the sub-
+jective, knowing part of personality. Following James,
+McAdams argued that the ‘I reflexively construes the ‘me’.
+The ‘I’ can be thought to hold one’s sense of agency, that
+is, one’s experiential and embodied sense of authorship and
+ownership over one’s body, action, and mental states
+(Gallagher, 2012).
+
+For decades, both the ‘me’ and the ‘I’ were seen as un1-
+tary; for example, the vast literature on self-esteem was pred-
+icated on the idea that people have a unitary self and that a
+single dimension of esteem can apply to it (e.g. Allport, 1955;
+Wylie, 1974). However, pioneering psychologists (James,
+1890/1950, Kelly, 1955) and sociologists (Mead, 1934) of-
+fered a multifaceted view of self and personality, a view
+highlighting the variety of aspects, roles, and perspectives
+comprising the seemingly holistic self.
+
+Inspired by these theories, developmental and social cog-
+nitive models (e.g. Block, 1961; Campbell et al., 1996;
+
+© 2020 European Association of Personality Psychology
+
+Higgins, 1987; Linville, 1987; Roberts & Donahue, 1994) be-
+gan investigating self-multiplicity empirically. The majority of
+this work has focused its sights on the known self, the ‘me’. In
+doing so, these models demonstrate how multiple ‘me’s—that
+is, multiple conceptual selves—co-exist within each of us and
+create individual differences (in self-complexity, self-concept
+differentiation, self-discrepancies, etc.). At the centre of our
+Jamesian conceptualization is the idea that a dynamic theory
+of personhood would benefit from a similarly multifaceted
+view of the subjective (knowing) self, the ‘I’.
+
+This idea is certainly not new. Indeed, the clinical litera-
+ture is rife with models (mostly theoretical) addressing the
+multiplicity of ‘I’s—that is, highlighting the variety of expe-
+riential selves. For example, in his seminal work within cog-
+nitive therapy, Teasdale (1997) argued that ‘we do not have
+one mind, but many—at any one time, one of these many
+minds may be dominant, and can be thought of as the current
+mind-in-place’. Similarly, from within emotion-focused ther-
+apy (EFT), Elliott and Greenberg (2007) noted that ‘humans
+[are] constituted of multiple parts or voices’. Congruent ideas
+have been put forward by many other clinical theorists and
+researchers [e.g. interpersonal meta-cognition: Dimaggio,
+Semerari, Carcione, Nicolo, & Procacci, 2007; the
+dialogical-self model: Hermans, 2001; the assimilation
+model: Stiles, 2006; relational psychoanalysis: Brom-
+berg, 1998; or schema therapy (ST): Rafaeli, Maurer, Laza-
+rus, & Thoma, 2016]. Clinicians working from these
+perspectives often use the concept of multiplicity of states
+to account for sweeping short-term fluctuations, to arrive at
+fruitful tailored formulations of their clients’ experiences,
+and to help chart possible change courses for these clients
+(cf. Dimaggio & Stiles, 2007).
+
+This clinical insight guiding theorists from multiple (and
+often competing) orientations to the same conclusion—that
+is, that the subjective self is multifaceted—is also the main
+driving force behind our conceptualization. Like these theo-
+rists, we wish to put forward the idea that capturing momen-
+tary states of personality requires delineating multiple
+transitory cohesive organizational units—transitory self-
+states—which can be thought of as both ‘me’s (i.e. collec-
+tions of traits, goals, and narratives) and ‘I’s (i.e. subjective
+experiential states).
+
+Investigating Organizational Units of Personality
+
+To date, research exploring transitory self-states as organiza-
+tional units of personality has been quite scarce. However,
+work within both social—personality psychology and psycho-
+pathology has direct bearing on the topic. In this section, we
+review such work and highlight some unique contributions
+of both literatures.
+
+We begin by summarizing work in the social—personality
+domain. As we will illustrate in the succeeding text, such work
+provides potent examples of what we mean by subjective ex-
+periential states, begins to show the utility of a multi-method
+approach to investigating them, and offers some clues regard-
+ing the identity of frequently occurring states.
+
+In their extensive work on perspectives, Kross and Ayduk
+(e.g. Kross & Grossmann, 2012; for review, see Kross &
+
+Eur. J. Pers. 34: 1017-1036 (2020)
+DOI: 10.1002/per
+ Ayduk, 2017) demonstrated the distinctiveness of experi-
+ences marking self-immersed (distressed) versus self-dis-
+tanced (reflective) states. In particular, the experiences of
+these states were shown to be marked by different emotions,
+emotion regulatory capacities, cognition, pronoun use, narra-
+tives, and neural correlates. Dorfel et al. (2014) also exam-
+ined a self-distanced state but compared it with a distracted
+one, finding that the two recruit different neural networks.
+Similar ideas undergird the work of Gilbert, Baldwin, Irons,
+Baccus, and Palmer (2006), who used imagery methods to
+induce one of two ‘social mentalities’ (a self-critical and
+harsh state versus a self-compassionate and reflective one).
+As these authors argue (p. 187), °... the self-critical aspect
+of the self [ ... 1s] personalized like a hostile dominant other
+with the typical qualities of a hostile dominant [ ... and] the
+self-reassuring aspect of the self [... is] personalized like a
+kind, reassuring other with the typical qualities of a
+reassuring other’.
+
+The studies noted earlier touch on distinct subjective ex-
+periences but stop short of addressing them as stand-alone or-
+ganizational units. In contrast, the clinical literature on
+transitory self-states—and in particular, on the phenomena
+of dissociation—does at times posit such units and illustrates
+the importance of attending both to the units themselves and
+to their interrelationships.
+
+The discussion of dissociative states began with Pierre
+Janet’s (1907) treatment of this phenomenon as a lack of in-
+tegration among (at least) two different ‘systems of ideas and
+functions that constitute personality’ (p. 332). A recent revi-
+sion of Janet’s definition, proposed by Niyenhuis and van der
+Hart (2011), noted that ‘the division involves two or more in-
+sufficiently integrated dynamic but excessively stable sub-
+systems [...]. Each dissociative subsystem [...] minimally
+includes its own at least rudimentary first-person perspec-
+tive’. This view of dissociation helped explain the phenome-
+non of cognitive compartmentalization—that is, a separation
+of (certain) memory materials from one’s ongoing sense of
+self (Spiegel et al., 2011).
+
+The recognition of compartmentalization as a common
+phenomenon has served the clinical literature well in two
+ways. First, several models of psychopathology highlight
+the identity of specific distinct states characteristic of individ-
+uals suffering from the same disorder. For example, work on
+social anxiety reveals the ubiquitous presence of a
+self-critical voice (Shahar, 2014) among socially anxious in-
+dividuals. Similarly, work on depression reveals the frequent
+presence of unassimilated mental states of dominance and
+submissiveness (Osatuke, Stiles, Barkham, Hardy, & Sha-
+piro, 2011). Second, other models of psychopathology ad-
+dress individual differences in the structure and
+interrelationships among states. In the extreme (albeit contro-
+versial) case, dissociative or compartmentalized structure
+may lead to the phenomenology of dissociative identity
+(Spiegel et al., 2011). Much more commonly, such structure
+can play a part in the experience of personality disorders
+(PDs). For example, individuals with borderline PD were
+found to have greater compartmentalization in self-concept
+structure (Vater, Schroder-Abé, Weifgerber, Roepke, &
+
+© 2020 European Association of Personality Psychology
+
+Subjectifying the personality state 1019
+
+Schutz, 2015) as well as less coherent narrative identity (Ad-
+ler, Chin, Kolisetty, & Oltmanns, 2012).
+
+Importantly, other than the social—personality and psy-
+chopathology studies reviewed earlier, only limited empiri-
+cal work has explored the phenomenon of multiple
+subjective experiential states, or the distinct phenomenolo-
+gies of being 1n such states. The empirical endeavour of cap-
+turing multiple ‘I’s has been hindered by several factors.
+First, individuals’ first-person experiences inherently lose
+some of their essence when translated into self-reports, a
+translation that inevitably reduces their experience into sym-
+bolic structures (e.g. words), generated by researchers (e.g.
+Weger, Meyer, & Wagemann, 2016). Second, models of sub-
+jective multiplicity often argue for a great multitude of states
+and avoid providing these states with clear characteristics
+(e.g. Bromberg, 1998); this can quickly make multiplicity
+unwieldy to measure in any standard way. Third, when
+models do pare down this richness to a more manageable
+set of states, they often rely on one-time cross-sectional
+self-report instruments (e.g. Lobbestael, van Vreeswijk,
+Spinhoven, Schouten, & Arntz, 2010), inherently limited in
+their ability to tap into dynamic experiences. Fourth, and
+most importantly, the analysis of more appropriate repeated
+intensive contextual self-state information requires a set of
+analytic tools—for example, longitudinal or dynamic net-
+work models (Epskamp, van Borkulo, et al., 2018)—that
+only started emerging in recent years.
+
+The Present Study
+
+The present study aims to address the factors that have hin-
+dered research on the phenomenology of multiple subjective
+organizational units. To do so, we start off with one promis-
+ing clinical model—namely, ST (Rafaeli, Bernstein, &
+Young, 2011; Young, Klosko, & Weishaar, 2003), which
+posits a finite set of organizational units as part of its theoret-
+ical model. Importantly, the model suggested by ST consti-
+tutes only one way of describing the phenomenon of
+subjective multiplicity. We chose it as our starting point be-
+cause it offers a relatively straightforward operationalization
+(see in the succeeding text) and has some proven clinical util-
+ity (Bamelis, Evers, Spinhoven, & Arntz, 2014) for patients
+with a variety of diagnoses. More importantly, it strikes a rea-
+sonable compromise between narrower taxonomies of states
+and ones that are too unwieldy.
+
+To provide preliminary empirical support to the notion of
+multiple subjective organizational units, we collected inten-
+sive longitudinal data (four times daily for 15 days) appropri-
+ate for tapping dynamic experiences. We then subjected these
+data to cutting-edge analytic methods—most notably, net-
+work analyses.
+
+Schema therapy’s mode model of multiplicity
+
+Schema therapy’s mode model is an integrative model of per-
+sonality and psychotherapy centred on a multifaceted view of
+the self, which is seen as both a clinical challenge in the un-
+derstanding of psychopathology and distress and as a clinical
+opportunity for their treatment. When first introduced, ST fo-
+cused primarily on clients’ schemas (enduring foundational
+
+Eur. J. Pers. 34: 1017-1036 (2020)
+DOI: 10.1002/per
+ 1020 G. Lazarus et al.
+
+mental structures that help us represent and interpret the
+world; Beck, 1976) and particularly on early maladaptive
+schemas, which were seen as a root cause of clients’ distress
+and disorder. However, it did not take long to recognize that
+directing clinical attention to trait-like schemas leaves unex-
+plained much of the phenomenology and symptomatology of
+the clients for whom ST was developed in the first place—in-
+dividuals with borderline, narcissistic, or other PDs, who
+manifest quick and often intense fluctuations among various
+states (e.g. Sadikaj, Moskowitz, Russell, Zuroff, &
+Paris, 2013). This recognition led to the development of the
+mode concept in ST. Importantly, although the mode model
+was first developed in an effort to address the experience of
+individuals suffering from personality pathology, it can be
+(and has been) used to address the existence of multiple sub-
+jective states among all individuals, whether suffering from
+psychopathology or not.
+
+A mode reflects the prevailing schemas, coping or
+healthy reactions, or emotional states active for an individual
+at a particular time. By definition, modes are transient states,
+and at any given moment, a person is thought to be predom-
+inantly in one mode. All individuals inhabit various modes
+over time, but the identity of these modes might differ, and
+the manner in which they shift from one mode to another
+—that is, the degree of mode predominance or of separation
+or dissociation between the modes—appears to lie on a con-
+tinuum. On the milder end, modes can wax and wane gradu-
+ally, at times blending together. At the most extreme end,
+total separation and dissociation between modes can take
+the form of dissociative identity disorder, in which each
+mode may present as an entirely different personality. Impor-
+tantly, all of a mode’s components (affective, behavioural,
+cognitive, and conative) are thought to be co-activated as part
+of a cohesive (although time-specific and context-specific)
+organizational unit—a unique ‘I’.
+
+A fundamental question pertinent to ST’s mode model (as
+well as to any other model positing multiple transient self-
+states; e.g. Stiles, 2006) addresses the most appropriate or
+beneficial partitioning of these states. In a particularly elo-
+quent presentation of this question, Bandura (1999) noted:
+‘Once one starts fractionating the self, where does one stop?
+For example, an athletic self can be split into an envisioned
+tennis self and a golfing self. These separable selves would,
+in turn, have their subselves [...] How does one decide where
+to stop fractionating selves?’ An honest answer to this ques-
+tion is “we don’t know yet’. But if we see the clinical argu-
+ment (that multiple experiential selves do exist) as
+compelling, we have to start with stopping somewhere—
+and then move further out or further in. Ultimately, the an-
+swer will be based on the balance between optimal distinc-
+tiveness (of the various indices assessed within the modes)
+and parsimony (in limiting the number of modes as much
+as possible).
+
+Schema therapy (e.g. Rafaeli et al., 2011) answers this
+question in two steps. As a first step, it classifies modes into
+four categories: child, coping, introjected, and healthy
+modes. As a second step, it further divides each of these cat-
+egories into several generic modes. Child modes include
+self-states marked by prmary emotions, including
+
+© 2020 European Association of Personality Psychology
+
+sadness/anxiety (vulnerable child), anger/protest (angry
+child), impulsivity and whim (impulsive child), and
+playfulness/calmness/contentment (content child). These are
+thought to emerge organically in childhood but to accom-
+pany us for the remainder of life. A second and more perni-
+cious category of introjected modes echoes one or several
+negative voices (e.g. punitive or critical parents) that were
+implicitly or explicitly learned. In these modes, children be-
+gin to treat themselves the way early influential others had
+treated them, often quite dysfunctionally. The third category
+includes maladaptive coping modes, which coalesce into be-
+ing due to repeated activation of a growing child’s rudimen-
+tary psychological survival and adaptation strategies—
+typically, flight, fight, and/or freeze strategies enacted to
+withstand whatever deprivation of needs occurred in the
+child’s environment (typically, the same deprivation of needs
+which continues to echo in the form of one or more
+introjected mode). Finally, most people also have self-states
+that are healthy and positive: specifically, alongside the con-
+tent child noted earlier, we often find a healthy adult mode:
+the self that is reflective, compassionate, and self-coherent.
+
+This pragmatic taxonomy is central to both the theory and
+practice of ST. In particular, schema therapists work with cli-
+ents to identify these modes and spell out very distinct strat-
+egies vis-a-vis each one, strategies that call for entirely
+distinct therapeutic stances when any particular mode is pre-
+dominant. In addition, different patient groups (e.g. those
+with borderline PD, Arntz, Klokman, & Sieswerda, 2005,
+versus eating disorders, Pugh, 2015, versus chronic depres-
+sion, Renner et al., 2018) are thought to differ not only in
+the manner in which modes shift but also in their content—
+that is, the specific identity of the modes they tend to inhabit.
+For example, persons suffering from borderline PD tend to
+experience abrupt transitions and a strong dissociation
+among a specific set of characteristic modes (typically, a de-
+tached flight coping mode, an angry mode, a distressed
+(abandoned/abused) vulnerable mode, and a_ punitive
+introjected mode).
+
+Most studies examining modes have utilized the Schema
+Mode Inventory (SMI), a retrospective self-report instrument
+(for reviews, see Lobbestael et al., 2010; Sempértegui,
+Karreman, Arntz, & Bekker, 2014). Using this measure,
+modes have largely been found to relate to PDs in theoreti-
+cally coherent ways (e.g. van Wiyk-Herbrink et al., 2018).
+Additionally, experimental work has begun to validate the
+theory that modes are state-like experiences that occur in re-
+sponse to triggers in the environment (e.g. Arntz et al., 2005)
+and do so more strongly for those suffering from certain PDs.
+
+This extant work notwithstanding, better empirical grasp
+of the mode concept (and through it, of the phenomenon
+and phenomenology of multiple experiential states) requires
+additional research. A prominent tool for conducting such re-
+search involves intensive longitudinal methods (ILMs;
+Sened, Lazarus, Gleason, Rafaeli, & Fleeson, 2018), which
+can tap dynamic changes in schema modes as individuals
+go about their daily lives. Interestingly, a recent development
+in the analysis of ILM data—the advent of dynamic network
+modelling—has made the simultaneous examination of
+
+Eur. J. Pers. 34: 1017-1036 (2020)
+DOI: 10.1002/per
+ interrelationships among multiple nodes (or in this case,
+modes) even more informative.
+
+The analysis of dynamic network models
+(Borsboom, 2017a; Epskamp, Waldorp, Mottus, &
+Borsboom, 2018) is premised on the idea that psychological
+constructs (e.g. psychopathology or personality) emerge
+from a dynamical interplay between relevant variables. The
+analyses themselves culminate in models that clarify this in-
+terplay, at either the nomothetic (across individuals) or idio-
+graphic (within individual) level (Molenaar, 2004). The
+latter can help establish personalized models of the interrela-
+tionships among modes and thus help clarify the
+person-specific dynamics within an individual’s personality
+(e.g. see the Results section).
+
+An empirical demonstration—schema modes in daily life
+To show the validity and utility of a personality conceptuali-
+zation based on multiple subjective organizational units, we
+developed a Momentary Schema Modes Questionnaire
+(MSMQ) aimed at capturing schema modes during daily life,
+whose repeated administration allows capturing fluctuations
+in these modes. We then explored the characteristics and pre-
+dictive validity of this questionnaire in two
+experience-sampling studies. The first study allowed us to
+establish the construct validity of our mode scales and to cull
+out poorer items.’ The second study (whose results are re-
+ported in the succeeding text) allowed us to conduct a range
+of analyses needed to demonstrate our ideas.
+
+We first sought to examine the psychometric qualities of
+the MSMOQ and the associations between mode values de-
+rived from it and scores on a widely used mode assessment
+tool (i.e. the SMI, Lobbestael et al., 2010). Then, we turned
+to exploring the additive predictive power of the mode indi-
+ces derived from the MSMQ vis-a-vis a measure of symp-
+tomatic distress and a measure of attachment orientation.
+We opted to examine the modes’ means across the assess-
+ment period, but not other dynamic characteristics (i.e. insta-
+bility and inertia), as such indices have been recently shown
+to possess limited predictive validity (Dejonckheere
+et al., 2019).
+
+Finally, we subjected the MSMQ data to network analy-
+ses. These allowed us to examine patterns of associations be-
+tween the measured modes (which function as network
+nodes). Edges in these networks represent the partial
+pairwise correlations between modes and are characterized
+by their weight (i.e. the strength of the associations), their
+sign (i.e. the positivity or negativity of the association), and
+their direction across time (only in temporal networks). Im-
+portantly, correlations between nodes are obtained while con-
+trolling for the effects of other variables included in the
+network.
+
+In the present study, several kinds of networks were
+assessed:
+
+Participants in the first study completed up to 30 measurements each; there-
+fore, their data were not appropriate for intraindividual network analyses.
+For brevity’s sake, we have placed this sample’s MSMQ’s psychometrics
+in Table S1 in the OSM (https://osf.10/jkxzn/).
+
+© 2020 European Association of Personality Psychology
+
+Subjectifying the personality state 1021
+
+Intraindividual temporal networks are based on an indi-
+vidual participant’s time series data and address covariation
+between the modes at both time ¢ and time t — 1. Graphically,
+nodes of the same variables at time ¢ and at time ¢ — | are
+combined into a single node. The existence of an edge indi-
+cates that a node predicts another node (or itself) at the next
+time point, while controlling for the effects of all other nodes
+at time ¢ — 1. Thus, edges in temporal networks are directed.
+Temporal networks provide some support for a causal inter-
+pretation of pathways as they satisfy the requirement for tem-
+poral precedence (Epskamp, van Borkulo, et al., 2018),
+although such pathways might also result from the effect of
+unmeasured (third) variables that may present alternative
+explanations.
+
+Intraindividual contemporaneous networks are also
+based on an individual participant’s time series data but ad-
+dress covariation between the variables at a single time point
+(time t), while controlling for the effect of the variables mea-
+sured at the previous time point (¢ — 1) as well as the rest of
+the (time f) variables in the models. Although contemporane-
+ous networks do not rely on temporal precedence, they are
+nevertheless informative with regard to potential causal rela-
+tions between nodes, as in many cases the intervals between
+consecutive measurements (t — 1 and f) do not allow captur-
+ing processes that take place over shorter periods of time
+(Epskamp, van Borkulo, et al., 2018).
+
+Group-level within-person networks are based on time se-
+ries data from multiple individuals and address the average
+(i.e. fixed) covariation between participants’ deviations from
+their means (with the covariations among the means them-
+selves modelled in the between-person network, described
+in the succeeding text). As with the intraindividual networks,
+group-level within-person networks can be temporal or con-
+temporaneous. Edges in these networks reflect the magnitude
+of the average intraindividual (temporal or contemporane-
+ous) effect.
+
+Finally, between-person networks address covariation be-
+tween the modes’ means across different participants. This
+type of network has gained popularity in psychopathology
+research (e.g. Borsboom, 2017a) and has also been applied
+to personality characteristics (e.g. Beck & Jackson, 2017;
+Costantini et al., 2019). Importantly, unlike more common
+cross-sectional networks that may _ reflect both
+between-individual variance and within-individual variance
+(due to momentary shifts from individuals’ means),
+between-person networks based on aggregated data can be
+seen as reflecting purely between-individual variance
+(Epskamp, Waldorp, et al., 2018). Interpreting edges in
+between-person networks as reflecting causal relations is
+controversial (e.g. Bos et al., 2017). The available data will
+allow us to compare the between-person mode network with
+the group-level within-person temporal and contemporane-
+ous networks and thus to assess their similarity.
+
+We expect some edges to hold across levels (hypotheses
+were not preregistered because of the exploratory nature of
+the study). For example, at the between-person level, we ex-
+pect individuals with a stronger (average) critical parent
+mode to also inhabit (some) maladaptive coping modes more
+frequently. In parallel, at the group within-person level, we
+
+Eur. J. Pers. 34: 1017-1036 (2020)
+DOI: 10.1002/per
+ 1022 G. Lazarus et al.
+
+expect that the activation of the critical parent mode will lead
+to activation of (some) maladaptive coping mode. In other
+cases, we expect edges to differ across levels. For example,
+at the between-person level, we expect edges linking various
+coping modes to be positive; in contrast, at the group
+within-person level, we do not expect these edges to emerge
+as positive.
+
+Besides indicating the presence of links among nodes, the
+network approach allows estimating the nodes’ centrality
+(Borsboom & Cramer, 2013). Centrality can be calculated
+in a variety of ways, yet all are aimed at quantifying the im-
+portance of specific nodes in the network. One index of cen-
+trality—node strength—has been found to be particularly
+stable and is used widely in_ psychological research
+(Epskamp, Borsboom, & Fried, 2018). It represents the ag-
+gregated magnitude of the node’s direct connections with
+other nodes and will be used in the current study.
+
+In networks of symptoms, centrality indices can help
+identify targets for intervention (e.g. Fisher, Reeves, Lawyer,
+Medaglia, & Rubel, 2017). In networks of schema modes or
+other personality states, centrality indices may not have the
+same immediate relevance but could convey information re-
+garding the prominence of particular modes in an individ-
+ual’s internal dynamics. This information can be clinically
+meaningful, aiding the process of case conceptualization
+(Fassbinder, Brand-de, & Arntz, 2019) and guiding therapists
+in their choice—and prioritization—of interventions (see our
+Results section for examples).
+
+In the current demonstration, we begin by presenting the
+intraindividual (temporal and contemporaneous) networks of
+two individuals, discuss these analyses’ utility in generating
+hypotheses regarding these individuals’ personality dynam-
+ics, and note some possible clinical implications for these dy-
+namics. We then present group-level temporal and
+contemporaneous networks based on within-person variance
+of the entire sample and compare them with a
+between-person network to assess the extent to which
+cross-level consistency (i.e. ergodicity) holds. Finally, we
+discuss insights that can be derived from each of these
+networks.
+
+METHOD
+
+Participants
+
+Fifty-two undergraduate students at an Urban Israeli univer-
+sity participated in this study for course credit: 88.5% were
+female, and mean age was 22.2 years (SD = 2.3,
+range = 18-34).
+
+Measures
+
+Momentary Schema Modes Questionnaire
+
+The MSMQ [see the online supplementary material (OSM)
+—https://osf.10/jkxzn/—for the full version] is a 35-1tem
+self-report questionnaire developed for the current project.
+It assesses the present-moment level of 11 schema modes,
+each with 3—4 items. Participants were asked to rate the
+
+© 2020 European Association of Personality Psychology
+
+extent to which various statements were true for them during
+the last hour, on a 5-point Likert scale ranging from ‘not at
+all’ to ‘completely’. Four of the modes included were adapta-
+tions of child modes: Distressed mode (e.g. ‘I felt lonely, like
+there was no one I could turn to’), Angry mode (e.g. ‘I felt
+like lashing out or hurting someone for what he/she did to
+me’), Impulsive/Undisciplined mode (e.g. ‘I did things just
+because I felt like doing them’), and Content mode (e.g. ‘I
+felt spontaneous, curious, and creative’). One of the modes
+was an adaptation of an introjected mode, namely, a
+Self-Critical mode (e.g. ‘I put myself down’). Five additional
+modes were adaptations of maladaptive coping modes:
+Avoidant (e.g. ‘I felt empty, numb, as if I don’t care about
+anything’), Self-Soothing (e.g. ‘I got lost in doing something
+soothing/exciting’), Compliant (e.g. ‘I subjugated myself to
+please others’), Perfectionistic (e.g. ‘I was very careful to
+avoid any possible mistake’), and Self-Aggrandizing (e.g. ‘I
+felt special and better than most other people’). Lastly, we in-
+cluded an adaptation of the Healthy Adult mode which we
+termed Reflective (e.g. ‘I was open and accepting of what-
+ever happened to me’). Items were selected from the SMI
+(Version 1.1, Lobbestael et al., 2010) to include affective, be-
+havioural, cognitive, and motivational facets of modes when-
+ever possible. Additionally, items tapping less extreme
+experiences/behaviours, which are likely to occur within
+short time windows, were preferred. Items were revised to re-
+fer to recent experience rather than longer-lasting tendencies.
+
+To reduce participant burden, two of the modes identified
+on the SMI (Enraged Child as well as Bully and Attack) were
+omitted from the MSMQ. Two SMI child modes (the Impul-
+sive Child and the Undisciplined Child) were combined into
+one, as were two SMI introjected modes (the Punitive Parent
+and the Demanding Parent). An additional mode (the Perfec-
+tionistic mode) was added, as we expected it to be very per-
+tinent to a high-functioning student sample.
+
+Short Schema Mode Inventory (Version 1.1; Lobbestael
+
+et al., 2010)
+
+The Short Schema Mode Inventory (Version 1.1) is a
+118-item self-report questionnaire designed to assess 14
+schema modes. The SMI has been shown to possess adequate
+psychometric properties (Lobbestael et al., 2010) and has
+been translated into multiple languages. In the current study,
+the average internal consistency (Cronbach’s alpha) of all
+relevant modes was .81 (range .93—.68).
+
+Brief Symptom Inventory (Derogatis & Melisaratos, 1983)
+The Brief Symptom Inventory (BSI) 1s a 53-1tem measure of
+psychological distress that contains three global scales and
+nine subscales. Each item is rated on a 5-point Likert scale
+from 0 (not at all) to 4 (always). Participants are asked to re-
+spond to each item in terms of ‘how they have been feeling
+during the past 7 days’. The present study employed only
+the Global Severity Index, which averages all 53 items.
+
+Experiences in Close Relationships—Relationship Structures
+Questionnaire (Fraley, Heffernan, Vicary, &
+Brumbaugh, 2011)
+
+Eur. J. Pers. 34: 1017-1036 (2020)
+DOI: 10.1002/per
+ The Experiences in Close Relationships—Relationship
+Structures Questionnaire (ECR-RS) questionnaire is a
+self-report instrument designed to assess attachment patterns
+in a variety of close relationships. The same nine items
+(six for attachment avoidance and three for attachment
+anxiety) are used to assess attachment styles with respect
+to four targets (1.e. mother, father, romantic partner, and
+best friend). We averaged the scores for the four targets
+across each domain to obtain one avoidance and one anxiety
+index. Reliability of both the anxiety and the avoidance sub-
+scales was excellent (Cronbach’s alpha of .90 for both
+subscales).
+
+Procedure
+
+Participants were invited to take part in a study of daily
+habits in exchange for course credit. All procedures were
+completed online through a secure data collection site
+(www.qualtrics.com). Participants provided informed con-
+sent and then completed online baseline questionnaires,
+which included the SMI, ECR-RS, and the BSI. After com-
+pletion of the baseline questionnaires, participants were
+given instructions on how to complete the ecological mo-
+mentary assessment questionnaires. They were asked to com-
+plete the MSMQ four times daily for a period of at least
+15 days. A subsample of our participants were orthodox Jews
+and therefore refrain from using technology on the Sabbath;
+to accommodate these, we allowed participants up to five ad-
+ditional days to reach 60 complete questionnaires. Four times
+daily (randomized within four 3-hour windows, between
+8:00 and 20:00 hours, with at least 2-hour gaps between con-
+secutive messages), participants received e-mail messages
+with links to online questionnaires. The links were open for
+1 hour; 15 minutes before this hour elapsed, participants re-
+ceived an automatic reminder to use the link if they had not
+performed so yet. With this 1-hour limit, we assured a mini-
+mum of |-hour difference between two consecutive measure-
+ments (mean interval between same-day consecutive
+measurements was 3:40 hours). On average, measurements
+took 2 minutes and 45 seconds to complete. A total of
+3007 measurements were collected, with a mean of 57.8
+measurements (SD = 5.1) per participant.
+
+Analytic Approach
+
+Psychometrics and convergent validity of the Momentary
+Schema Modes Questionnaire
+
+To assess the psychometric quality of the MSMQ, we
+followed several steps. First, we calculated the reliability of
+the included modes using methods suggested by Cranford
+et al. (2006). Specifically, we calculated an index
+representing the expected between-person reliability in one
+fixed measurement, which can be thought of as an average
+of measurement-specific alpha coefficients across all mea-
+surements. In addition, we assessed the precision of the esti-
+mates of systematic change within participants across
+measurements (see also Shrout & Lane, 2012); this index
+represents the within-person reliability of measurement-to-
+measurement change on each scale (mode). Second, as we
+
+© 2020 European Association of Personality Psychology
+
+Subjectifying the personality state 1023
+
+expected the mode scores to vary both within individuals
+and between individuals, we partitioned the variance of each
+mode and report the per cent of variance accounted for by
+each component. Third, we conducted a multilevel confirma-
+tory factor analysis (Hox, 2010) using Mplus and compared a
+one-factor within-person structure with a within-person
+structure with one factor for each mode.” To deal with the or-
+dinal and often non-normal distributions of the MSMQ’s
+items, we used robust weighted least squares mean-adjusted
+and variance-adjusted estimation? based on the polychoric
+correlation matrix (Holgado-Tello, Chacdén-Moscoso,
+Barbero-Garcia, & Vila-Abad, 2010). Fourth, we examined
+the convergent and discriminant validity of the MSMQ by
+correlating the person-level means of modes across measure-
+ments with their respective modes from the SMI.* Finally, we
+conducted a multilevel exploratory factor analysis of the
+MSMQ items.°
+
+Incremental validity of Momentary Schema Modes Ques-
+tionnaire modes
+
+To examine the incremental predictive validity of the MSMQ
+indices, we regressed the BSI as well as the ECR-RS scores
+separately on each of the corresponding mode indices de-
+rived from the SMI and the MSMQ. We expected that the
+MSMQ indices will be associated both with symptomatic
+distress (as measured by the BSI) and with important indices
+of personality (viz. attachment anxiety and avoidance as
+measured by the ECR-RS) above and beyond the corre-
+sponding SMI indices.
+
+Network analyses®
+
+To examine the dynamic interrelations among modes, we
+adopted the network approach and followed guidelines delin-
+eated in Epskamp, van Borkulo, et al. (2018) and in
+Epskamp, Waldorp, et al. (2018). Specifically, prior to net-
+work estimation, any significant person-level time trend
+was removed. Additionally, given our data structure (which
+included multiple assessments each day), we did not expect
+the temporal effects of modes to last through the night. Con-
+sequently, we did not regress the first response of any day on
+the last response of the previous day (Epskamp, van Borkulo,
+et al., 2018).
+
+In all of the network models, each schema mode was rep-
+resented as a node, with edges (i.e. links between nodes)
+representing partial correlations between the modes (al-
+though each model adjusted for a different set of variables).
+Additionally, all networks, which were based on time series
+
+“Because of the Level-2 sample size (N = 52), we had insufficient data to es-
+timate the between-person factor structure.
+
+This was performed because regular weighted least squares estimation led
+to a non-positive definite matrix.
+“The SMI Impulsive Child and Undisciplined Child modes were combined,
+as were the Punitive Parent and Demanding Parent modes. The discriminant
+validity results are available in the OSM (https://osf.10/jkxzn/).
+>The results of the MEFA and a brief discussion of them are available in the
+OSM (https://osf.10/jkxzn/).
+°The full R code for all network analyses and the data can be found in the
+OSM (https://osf.10/jkxzn/).
+
+Eur. J. Pers. 34: 1017-1036 (2020)
+DOI: 10.1002/per
+ 1024 G. Lazarus et al.
+
+data, were estimated using vector autoregression (VAR;
+Borsboom & Cramer, 2013; Bringmann et al., 2013), which
+is a Statistical method in which each variable in the model
+is used to predict itself (autoregressive effects) and all
+other variables at the next time point (cross-lagged effects).
+The results of each participant’s VAR model were used to
+construct and visualize intraindividual temporal networks.
+The residuals from these models were used to construct
+and visualize intraindividual contemporaneous networks
+(Epskamp, van Borkulo, et al., 2018). Next, to explore the
+general (group-level) network structure of modes across the
+entire sample, we used multilevel variations of VAR. In these
+(temporal and contemporaneous) network models, VAR is
+estimated using within-person mean-centred data, which re-
+sults in providing the fixed within-person associations among
+nodes.
+
+All networks were estimated using the graphicalVAR
+(Version 0.2.2) package (Epskamp, 2017) and were visual-
+ized using the qgraph (Version 1.62) package (Epskamp,
+Cramer, Waldorp, Schmittmann, & Borsboom, 2012) for R
+(Version 3.5). Importantly, based on recent developments in
+network modelling (e.g. Epskamp & Fried, 2018; Foygel &
+Drton, 2010), we employed a regularization technique (i.e.
+GLASSO) within the graphicalVAR package when estimat-
+ing the networks. Such regularization limits the risk of de-
+tecting spurious (1.e. false-positive) edges between nodes
+and enhances the chance of retrieving the true network struc-
+ture. Specifically, GLASSO allows researchers to set a
+hyper-parameter (i.e. the extended Bayesian information cri-
+terion), which controls the extent to which the estimation
+may tilt to the side of discovery (i.e. sensitivity) or caution
+(i.e. specificity; Epskamp & Fried, 2018). In the current
+
+Table 1. Descriptive statistics, reliability, and convergent validity
+of the Momentary Schema Modes Questionnaire
+
+Mode Mean* SD* BP WP BPV** ~ SMI
+
+Rel Rel! Corr’
+Distressed 148 0.47 0.75 0.73 044 &40.68
+Angry 132 036 063 069 035 0.40—
+Impulsive 1.58 041 048 033 0.38 0.44”
+Avoidant 145 046 0.66 0.59 044 £420.63
+Self-Soothing 1.95 0.49 0.54 068 0.27 0.36
+Compliant 1.57 046 0.60 0.57 0.39 0.25%
+Self- 165 0.61 069 020 £0.64 °&0.38
+Aggrandizing
+
+Perfectionistic 2.52 0.63 0.61 0.65 0.35 —
+
+Self-Critical 154 043 0.63 0.53 0.35 0.60
+Content 2.91 0.64 0.65 0.60 0.43 0.74
+Reflective 2.91 0.65 0.71 0.67 0.50 0.69
+
+‘The mean and the standard deviation are based on participants’ means
+across measurements.
+
+‘Between-person reliability.
+
+"Within-person reliability.
+
+“Between-person variance.
+
+Correlation between the mean of the Momentary Schema Modes Question-
+naire modes and their respective Schema Mode Inventory modes.
+
+p<.l.
+
+p< .05.
+
+“p < 01.
+
+“p< .001.
+
+© 2020 European Association of Personality Psychology
+
+analysis, this hyper-parameter was set to zero to maximize
+sensitivity. ’
+
+RESULTS
+
+Psychometrics and Convergent Validity of the
+Momentary Schema Modes Questionnaire
+
+Within-person and between-person reliability estimates are
+presented in Table 1. Two of the modes (the Impulsive and
+Self-Aggrandizing modes) had _ particularly low
+within-person reliabilities and were therefore excluded from
+all following analyses. The rest of the between-person reli-
+ability estimates were moderate and varied between 0.54
+and 0.75. The within-person reliability scores were also mod-
+erate and varied between 0.53 and 0.73. Of note, the average
+(i.e. not single measurement) between-person reliability esti-
+mates were between 0.98 and 0.99 for all modes.
+
+The proportion of between-person variance obtained
+through variance partitioning is also reported in Table 1. It
+varied between 0.27 and 0.50, suggesting that all modes
+had considerable amount of variance at both the
+between-person and the within-person levels.
+
+A multilevel confirmatory factor analysis revealed that a
+one-factor model did not provide a good fit for the data
+(y(350) = 9028.234, p < .0001; CFI = 0.508;
+RMSEA = 0.092; SRMR = 0.091). In contrast, a model with
+one factor per mode_ provided’ acceptable fit
+(y(314) = 1868.14, p < .0001; CFI = 0.912; RMSEA = 0.041;
+SRMR = 0.044).
+
+Correlations between the mean of the MSMQ modes and
+their respective SMI modes are presented in Table | and re-
+flect the MSMQ’s convergent validity. The mean correlation
+across modes was 0().52, indicating moderate convergent va-
+lidity, with some modes (i.e. Self-Soothing and Compliant)
+having relatively low correlations and other modes (i.e. the
+Distressed and Content modes) having relatively high
+correlations.
+
+Incremental Validity of Momentary Schema Modes
+Questionnaire Modes
+
+The regression models with SMI and MSMQ mode scores si-
+multaneously predicting symptomatic distress or attachment
+orientations are presented in Table 2. The Perfectionistic
+mode was not included in the analysis because there is no
+corresponding SMI scale with which to compare it. For six
+out of the remaining eight modes, the MSMQ scores proved
+to have incremental predictive validity above and beyond the
+SMI scores in predicting symptomatic distress. Additionally,
+in four of the eight modes, the MSMQ scores had incremen-
+tal predictive validity in predicting attachment anxiety and/or
+avoidance.
+
+’Please see https://osf.i0/jkxzn/ for discussion about the hyper-parameter and
+its influence on the obtained results.
+
+Eur. J. Pers. 34: 1017-1036 (2020)
+DOI: 10.1002/per
+ Subjectifying the personality state 1025
+
+Table 2. Linear regressions of SMI and MSMQ modes predicting symptomatic distress and attachment orientation
+
+Predictor’ BSI-GSI Att. Anx. Att. Avd.
+B (SE) Pp B (SE) Pp B (SE) Pp
+
+Vulnerable child SMI 0.26 (0.08) 002 0.26 (0.20) 205 0.39 (0.19) .046
+Distressed MSMQ 0.52 (0.14) 001 0.73 (0.35) 043 0.60 (0.33) 074
+Angry child SMI 0.33 (0.09) 001 0.38 (0.21) 074 0.34 (0.20) 105
+Angry MSMQ 0.74 (0.15) <.001 0.98 (0.37) O11 0.90 (0.36) 016
+Detached protector SMI 0.38 (0.09) 001 0.40 (0.22) .076 0.52 (0.19) .009
+Avoidant MSMQ 0.37 (0.15) 015 0.67 (0.34) 052 0.70 (0.29) .020
+Detached self-soother SMI 0.17 (0.07) 027 0.14 (0.17) 424 0.25 (0.16) 116
+Self-soothing MSMQ 0.56 (0.13) <.001 0.58 (0.29) 056 0.66 (0.27) O17
+Compliant surrendered SMI 0.25 (0.1) 012 0.29 (0.19) 133 0.35 (0.18) .063
+Compliant MSMQ 0.33 (0.15) 032 0.51 (0.30) .093 0.52 (0.29) 074
+Critical parent SMI 0.25 (0.13) 07 0.30 (0.28) 291 0.42 (0.27) 126
+Self-critical MSMQ 0.46 (0.18) 014 0.54 (0.38) 164 0.40 (0.36) 273
+Content child SMI —0.56 (0.1) <.001 —0.74 (0.22) 001 —().62 (0.18) 001
+Content MSMQ 0.27 (0.13) O51 0.20 (0.28) A88 —().27 (0.23) 250
+Healthy adult SMI —0.5 (0.14) 001 —().92 (0.25) 001 —0.59 (0.23) 014
+Reflective MSMQ 0.1 (0.14) 483 0.10 (0.25) 691 —(0.41 (0.23) O81
+
+Note: BSI-GSI, Brief Symptom Inventory—Global Severity Index; MSMQ, Momentary Schema Modes Questionnaire; SMI, Schema Mode Inventory.
+
+‘Intercepts are omitted for the sake of brevity.
+
+(a) Temporal netwo
+
+:
+(V A
+- ,
+
+(b) Contemporaneous network
+
+FIGURE |. Temporal and contemporaneous networks for Participant A. Blue edges indicate positive associations, and red edges indicate negative associations.
+Thicker edges between nodes represent stronger associations. The location of nodes was predetermined manually to allow for easier comparisons across models.
+Node label descriptions: Angry = Angry; Distress = Distressed; Critic = Self-Critical; Avoid = Avoidant; Perfect = Perfectionistic; Sooth = Self-Soothing;
+Compliant = Compliant; Content = Content; Reflect = Reflective. [Colour figure can be viewed at wileyonlinelibrary.com]
+
+Network analyses
+
+Intraindividual networks
+
+Participant A’s temporal and contemporaneous networks are
+presented in Figure 1.° The respective centrality indices and
+modes’ means across the assessment period are presented
+in Figure 2.” As can be seen in Figures 1(a) and 2, the Dis-
+tressed mode possessed the greatest out-strength centrality
+in the temporal network. Beyond having an autoregressive
+
+‘Intraindividual networks for all participants are presented in the OSM
+https://osf.10/jkxzn/).
+
+Centrality indices of all the intraindividual networks are presented in Table
+S2 in the OSM.
+
+© 2020 European Association of Personality Psychology
+
+effect, it predicted the activation of the Avoidant mode (quite
+strongly) and of the Self-Critical mode (less strongly). Both
+of these had high in-strength centrality, as the Self-Critical
+mode also tended to be preceded by low activation of the
+Perfectionistic mode and by high activation of the Compliant
+mode. The latter mode also predicted the activation of the
+Angry mode. Lastly, the Content and the Reflective modes
+were tied in a positive feedback loop.
+
+Additional information can be drawn from the contempo-
+raneous network, which provides evidence for co-activation
+of the Perfectionistic, Reflective, and Content modes. Addi-
+tionally, the Self-Soothing mode was found to be negatively
+associated with both the Angry and the Perfectionistic
+modes. Importantly, the activation of the Distressed and
+
+Eur. J. Pers. 34: 1017-1036 (2020)
+DOI: 10.1002/per
+ 1026 G. Lazarus et al.
+
+Angry
+
+Distressed
+
+Self-critical
+
+Avoidant
+
+Perfectionistic
+
+Self-Soothing
+
+Compliant
+
+Contented
+
+Reflective
+
+UDI
+
+@ Node strength (contemporaneous)
+@ Node outstrength (temporal)
+Node instrength (temporal)
+
+M@ Node mean
+
+FIGURE 2. Strength centrality for temporal and contemporaneous net-
+works and mode means for Participant A. All values were normalized by di-
+viding them by the maximum value of their category for this participant.
+
+Angry modes as well as the Self-Critical mode was relatively
+rare (as evidenced by their mean levels).
+
+Participant B’s temporal and contemporaneous networks
+are presented in Figure 3. The respective centrality indices
+and modes’ means across the assessment period are pre-
+sented in Figure 4. As can be seen in Figure 3(a), the Dis-
+tressed mode had an autoregressive effect and predicted
+lower levels of the Content mode at the consecutive time
+point. As can be seen in Figure 3(b), the contemporaneous
+network had much greater density. The Angry mode pos-
+sessed the greatest centrality—it was positively correlated
+with three unhealthy modes—the Self-Critical, Compliant,
+and Avoidant modes—and negatively correlated with the
+Content mode. The Reflective mode had the second strongest
+centrality. It was positively associated with the Content and
+the Perfectionistic modes, and negatively associated with
+the Avoidant, the Self-Soothing, and the Distressed modes.
+
+© 2020 European Association of Personality Psychology
+
+Group-level networks
+
+Temporal group-level, contemporaneous group-level, and
+between-subject networks for the entire sample are shown
+in Figure 5.'° The respective centrality indices and modes’
+means across the assessment period are presented in Figure
+6. As can be seen in Figure 5(a), each of the modes showed
+autoregressive effects. Additionally, several positive feed-
+back loops were observed: between the Distressed and
+Avoidant modes, between the Reflective and Perfectionistic
+modes, and between the Reflective and Content modes.
+Lastly, activation of the Distressed mode also led to activa-
+tion of the Self-Critical mode.
+
+As can be seen in Figure 5(b), the contemporaneous net-
+work comprised stronger associations than the temporal net-
+work, with the feedback loops mentioned earlier appearing as
+relatively strong edges. In addition, negative edges emerged
+between the Distressed and both the Reflective and Content
+modes. The latter was also negatively associated with the
+Avoidant mode and the Angry mode, which was itself posi-
+tively associated with the Distressed, the Self-Critical, and
+the Compliant modes. Lastly, the Self-Soothing mode was
+positively associated with the Avoidant and negatively asso-
+ciated with the Perfectionistic mode. The most central node
+overall was the Distressed mode, while the most central mal-
+adaptive coping mode was the Avoidant mode.
+
+Finally, as can be seen in Figure 5(c), the between-person
+network shared many of the edges with the contemporaneous
+network, but did differ in several respects. Specifically, a
+strong edge that tied the Distressed and Self-Critical modes
+within individuals was absent from the between-person net-
+work. Additionally, the negative edges reported earlier be-
+tween the healthy and unhealthy (distressed or coping)
+modes were diminished. Similarly, the negative association
+between the Self-Soothing and Perfectionistic modes was
+not present. Finally, an association emerged suggesting that
+individuals with a stronger Self-Critical mode also tend to
+have a stronger Perfectionistic mode.
+
+Network accuracy and stability
+
+We used the suggested procedures of Epskamp, Borsboom,
+et al. (2018) to assess the accuracy and stability of all net-
+works. The group-level networks, particularly the
+between-person and contemporaneous ones, performed quite
+well; the same could not be said for the intraindividual net-
+works. This issue is described at length in the OSM
+(https://osf.10/jkxzn/).
+
+DISCUSSION
+
+Personality researchers have recently started to explore the
+promising field of transient state-like manifestations of per-
+sonality (e.g. Jayawickreme et al., 2019; Wright &
+Simms, 2016). We posit that such states can be thought of
+as subjective organizational units, replete with their own af-
+fects, behaviours, cognitions, and desires, which change as
+
+The regularization process resulted in a solution with a risk for low speci-
+ficity. Therefore, weak edges should be interpreted cautiously.
+
+Eur. J. Pers. 34: 1017-1036 (2020)
+DOI: 10.1002/per
+ Subjectifying the personality state 1027
+
+(a) Temporal netwo
+
+(b) Contemporaneous network
+
+FIGURE 3. Temporal and contemporaneous networks for Participant B. Blue edges indicate positive associations, and red edges indicate negative associations.
+Thicker edges between nodes represent stronger associations. The location of nodes was predetermined manually to allow for easier comparisons across models.
+Node label descriptions: Angry = Angry; Distress = Distressed; Critic = Self-Critical; Avoid = Avoidant; Perfect = Perfectionistic; Sooth = Self-Soothing;
+
+Compliant = Compliant; Content = Content; Reflect = Reflective.
+
+individuals go about their daily life. We arrived at this posi-
+tion with inspiration from various social cognitive models
+(e.g. Gilbert et al., 2006; Kross & Ayduk, 2017) as well as
+from multiple clinical models (e.g. Stiles, 2006), which high-
+light the idea of within-person multiplicity. In the present
+work, we sought to provide an empirical demonstration of
+this position, based on one such model—namely, the ST
+mode model (Rafaeli et al., 2016)—using appropriate (inten-
+sive and longitudinal) data as well as cutting-edge (network)
+analytic methods.
+
+The following sections are devoted to a (ST-inspired) the-
+oretical discussion of the empirical results obtained. We be-
+gin with some brief notes about the MSMQ measure itself.
+After discussing our illustration of intraindividual network
+models, which were based on two participants’ intensive lon-
+gitudinal data, we consider the aggregation of all partici-
+pants’ intraindividual networks into group-level (temporal
+and contemporaneous) within-person models and compare
+these with the between-person model, noting both similari-
+ties and differences between the three. We then move to a
+discussion of the limitations that characterize this work, as
+well as to its broader implications for the study of personality
+dynamics (Figure 6).
+
+The Momentary Schema Modes Questionnaire
+
+The MSMQ was designed to assess schema modes as they
+fluctuate during individuals’ daily life. It was based on a lon-
+ger cross-sectional measure (i.e. the SMI) of schema modes
+and was designed to be as short as possible to reduce partic-
+ipants’ burden. The reliability of changes across assessments
+(i.e. within-person reliability) was only moderate (see the
+Limitations and future directions section), which indicates a
+need for some further development. Still, and as expected,
+modes were found to vary both within and between individ-
+uals and to have incremental predictive validity over the
+
+© 2020 European Association of Personality Psychology
+
+corresponding SMlI-based indices vis-a-vis general symp-
+tomatic distress and common personality measures. Encour-
+agingly, the multilevel confirmatory factor analysis
+supported the hypothesized factor structure; similarly, a mul-
+tilevel exploratory factor analysis suggested that most items
+load on their intended factors (see https://osf.10/jkxzn/).
+
+Intraindividual Networks
+
+Participant A’s mode data suggest a relatively healthy per-
+sonality state profile, marked by elevated levels of the Re-
+flective and the Content modes, which were tied together in
+a positive feedback loop. Her most visible coping mode,
+the Self-Soothing, appeared not to be contingent on (or pre-
+dictive of) any of the distressed or introjected modes (e.g.
+Distressed, Angry, or Self-Critical Parent). The next most
+visible coping mode, the Perfectionistic, was actually
+co-activated with her two healthiest modes and negatively
+tied to the Self-Critical mode and to other coping modes; this
+raises the possibility that Perfectionistic coping may actually
+be an adaptive mode for this particular person. The relatively
+infrequent activation of the Distressed mode tended to lead
+(as it also does nomothetically; see the Group-level Networks
+section) to the activation of the Self-Critical and the Avoidant
+modes.
+
+We contrast this relatively healthy profile seen in Partici-
+pant A’s data with that emerging from Participant B’s data.
+One striking difference in the latter is the strong negative
+edges linking pleasant modes (i.e. the Reflective and Content
+modes) and unpleasant ones (e.g. the Distressed mode). This
+pattern may be indicative of a rather high level of compart-
+mentalization in this participant’s personality dynamics. Spe-
+cifically, for her, activation of states characterized by anger or
+detachment was associated with simultaneous deactivation of
+states marked by contentment or compassionate self-regard.
+These rapid shifts hold clinical importance and may signify
+
+Eur. J. Pers. 34: 1017-1036 (2020)
+DOI: 10.1002/per
+ 1028 G. Lazarus et al.
+
+0.0 0.5 1.0
+_
+Angry
+EEE
+Distressed
+od
+La
+Self-critical
+Loo
+LEE
+Avoidant
+[_ EEE
+os
+Perfectionistic
+[I
+La
+Self-Soothing
+Eo
+Lea
+Compliant [od
+[EEE
+Contented
+[_ i iE
+Reflective
+[Ea
+
+mw Node strength (contemporaneous)
+mw Node outstrength (temporal)
+w Node instrength (temporal)
+
+mw Node mean
+
+FIGURE 4. Strength centrality for temporal and contemporaneous net-
+works and mode means for Participant B. All values were normalized by di-
+viding them by the maximum value of their category for this participant.
+
+disturbance in how the world is experienced, particularly
+some difficulty in holding to a stable self. Furthermore, the
+Angry mode was associated with both the Self-Critical and
+the Compliant modes, associations that provide vital infor-
+mation with regard to how anger is experienced. Specifically,
+it appears that for this person, anger is directed both inwardly
+and outwardly and is often accompanied by a sense of sub-
+missiveness. If this person were in therapy, this pattern might
+suggest an important target for intervention (e.g. helping her
+recognize ways in which her anger blends with other experi-
+ences and making the experience of anger more distinct and
+its expression more effective).
+
+It is important to acknowledge that the obtained
+intraindividual networks may not be very robust or stable
+(see https://osf.10/jkxzn/; Epskamp & Fried, 2018). Still, the
+two examples of such networks provided earlier offer a
+glimpse into the world of intraindividual (i.e. idiographic)
+
+© 2020 European Association of Personality Psychology
+
+(a) Temporal group-level network
+
+ @ @
+@
+
+¥ 7 a — =
+Reflect
+
+(b) Contemporaneous group-level network
+
+(c) Between individuals network
+
+FIGURE 5. Temporal and contemporaneous group-level within-person
+networks and between-person network for the entire sample. Blue edges
+indicate positive associations, and red edges indicate negative associations.
+Thicker edges between nodes represent stronger associations. The location
+of nodes was predetermined manually to allow for easier comparisons across
+models. Node label descriptions: Angry = Angry; Distress = Distressed;
+Critic = Self-Critical; Avoid = Avoidant; Perfect = Perfectionistic;
+Sooth = Self-Soothing; Compliant = Compliant; Content = Content;
+Reflect = Reflective.
+
+Eur. J. Pers. 34: 1017-1036 (2020)
+DOI: 10.1002/per
+ ©
+©
+©
+Wn
+a"
+©
+
+Angry
+
+Distressed
+
+Self-critical
+
+Avoidant
+
+Perfectionistic
+
+Self-Soothing
+
+Compliant
+
+Contented
+
+Reflective
+
+uu a
+
+m@ W.P. Node Strength
+
+@ W.P. Node OutStrength
+W.P. Node InStrength
+
+@ B.P Node Strength
+
+m@ Node mean
+
+FIGURE 6. Strength centrality for temporal and contemporaneous
+group-level networks and between-person network, as well as mode means
+for the entire sample. All values were normalized by dividing them by the
+maximum value of their category for the entire sample.
+
+personality dynamics and, at the very least, provide a launch
+pad for generating idiographic hypotheses. As the patterns of
+these two individuals begin to illustrate, we found consider-
+able variability across individuals. This idiosyncrasy in psy-
+chological processes points to the importance of tailoring
+possible psychological interventions to the characteristics of
+the specific person (e.g. Fisher et al., 2017; Hofmann &
+Hayes, 2019; Piccirillo & Rodebaugh, 2019). Indeed, recent
+years have witnessed growing attempts to employ
+ILM-based idiographic assessment of maladaptive
+
+© 2020 European Association of Personality Psychology
+
+Subjectifying the personality state 1029
+
+intraindividual symptom dynamics for the purpose of
+disrupting these (e.g. Fisher et al., 2019; Levinson, Vanzhula,
+& Brosof, 2018; van der Krieke et al., 2015).
+
+More importantly, our results (and the case examples de-
+scribed) demonstrate how dynamic assessment can go be-
+yond symptoms and be applied to subjective units of
+personality—that is, to distinct experiential states, each re-
+plete with its own moods or emotions, behavioural tenden-
+cies, cognitive contents/processes, and goals/motives. A
+taxonomy of such states adds an important feature to dy-
+namic assessment—namely, the ability to think about how
+these states of being unfold over time, preceding or
+succeeding each other in meaningful ways.
+
+The clinical appeal of idiographic research in the form of
+dynamic assessment is quite evident. In contrast, the
+basic-research implications of such an endeavour for the field
+of personality may not be as straightforward. Specifically, to
+the extent that idiographic research stays solely ‘within per-
+son’ (i.e. without allowing comparisons across individuals
+or groups and/or comparisons with some established stan-
+dard), it remains limited in its utility (Wright & Zimmer-
+mann, 2019). Thankfully, this limitation can be overcome,
+as our aggregate and group-level analyses, to which we turn
+now, illustrate.
+
+Group-level Networks
+
+The simultaneous analysis of group and individual data
+raises the question of consistency across levels: to what ex-
+tent do the aggregated findings from the individual level
+(e.g. the average within-person associations) agree with those
+from the between-person models (e.g. Fisher, Medaglia, &
+Jeronimus, 2018)? This question of ergodicity becomes even
+more pressing when causal relations are inferred from ob-
+served associations (e.g. Bos et al., 2017). The ergodicity
+of networks linking schema modes (or any _ other
+operationalization of cohesive states) has yet to be examined
+empirically and thus was a central goal of the present work.
+Indeed, several associations were observed in both the
+group-level = within-individual networks and __ the
+between-person network.
+
+First, on the more pleasant side of the mode networks, a
+consistent association emerged between the Reflective mode
+on the one hand and the Content as well as Perfectionistic
+modes on the other. The associations (both within-person
+and between-person) between the Reflective and the Content
+modes are easy to understand: moments in which one posi-
+tive mode is active are likely to be tied, both contemporane-
+ously and over time, with moments in which the other is
+active; similarly, individuals blessed with an abundance of
+one are likely to have an abundance of the other, as well.
+In contrast, the associations between the Reflective and Per-
+fectionistic modes were more surprising, as the latter is con-
+sidered (theoretically, at least) to be a maladaptive coping
+mode. It may be that within a sample of generally
+well-adjusted and high-achieving college students, instances
+of ‘push[ing] myself to do the best possible job on some-
+thing’ (as one of this mode’s MSMQ items states) are expe-
+rienced as part and parcel of adaptive functioning.
+
+Eur. J. Pers. 34: 1017-1036 (2020)
+DOI: 10.1002/per
+ 1030 G. Lazarus et al.
+
+Second, on the more unpleasant side of the mode net-
+works, a consistent association emerged between the Dis-
+tressed and the Avoidant modes. This association is a
+central tenet of the ST model and of the therapy based on
+it. Specifically, the activation of the Distressed mode (in
+whatever idiosyncratic manifestation it takes across different
+individuals) involves the strongest instances of primary neg-
+ative emotions; not surprisingly, 1t (in counter-point to the
+Reflective mode) was among the most central modes in all
+of the networks. In many occasions, the activation of this
+mode generates psychological pain, which motivates the
+need for relief. Detachment, which is the cardinal feature of
+the Avoidance mode, can provide such relief (at least tempo-
+rarily) although, at times, may fail to do so (leading to more
+psychological pain).
+
+Another edge found consistently across networks links
+the Angry and Compliant modes. In this case, the temporal
+network results suggest that it is the Compliant mode that
+comes first, such that compliance serves as an antecedent of
+anger. In other words, the coping response of submission,
+compliance, or surrender often backfires and culminates in
+expression (or at least feelings) of anger or even rage.
+
+Focusing the attention on the temporal network, it is no-
+table that the average cross-lagged associations between
+modes were relatively weak—possibly because of relatively
+long lags between consecutive measurements (indeed, many
+of the temporal intraindividual networks had no edges). This
+suggests a need for caution in interpreting the presence of
+these temporal edges. Nonetheless, the edge leading from
+the Distressed mode to the Self-Critical mode was one also
+seen (as an undirected edge, of course) in the contemporane-
+ous network. A link between vulnerability and self-criticism
+is recognized and discussed extensively in the ST literature
+and also in other evidence-based approaches (including
+EFT; Elliott, Watson, Goldman, & Greenberg, 2003). These
+models posit that the two modes are often hard to distinguish:
+both involve powerful negatively valanced content such as
+feelings of defectiveness, unlovability, or failure, and they
+are often experienced in rapid succession or oscillation.
+Alongside these similarities, both ST and EFT accentuate
+the dissimilarities between the modes—in particular, the dis-
+tinct perspectives or stances that these modes inhabit vis-a-
+vis psychological pain. Whereas the Distressed mode em-
+bodies it and experiences it in the first person (e.g. ‘I’m no
+good’), the Self-Critical typically causes the pain, by judg-
+ing, punishing, or criticizing the person harshly, often refer-
+ring to herself or himself in the second person (e.g. “You
+are no good’). Clinicians often invite patients to enact each
+of these modes in a dialogue (e.g. EFT’s two-chair tech-
+nique; Pos & Greenberg, 2012) to help underscore this dis-
+tinction. Of course, the sampling rate in our data 1s likely to
+mask such instantaneous dynamics, but the contemporaneous
+association found may (at least in part) reflect these.
+
+The contemporaneous network was marked by several
+negative edges linking distressed modes with healthier ones
+(see our account of this issue within the discussion of Partic-
+ipant B’s network earlier). The emergence of these edges in
+the group-level network, alongside their absence from the
+between-person network (where only one very weak
+
+© 2020 European Association of Personality Psychology
+
+negative edge was present), suggests that these associations
+reflect within-individual processes and not
+between-individual differences. In other words, although dis-
+tress or vulnerability on the one hand, and a healthy or play-
+ful stance on the other hand, may partly exclude each other at
+the momentary level, they can co-exist at the person level.
+
+Lastly, the between-individual network included a posi-
+tive edge linking the Self-Critical and the Perfectionistic
+modes. Interestingly, the latter was tied only to the Reflective
+mode in the within-person networks, a link that we
+interpreted as suggestive of an adaptive role for this mode,
+at least in the present sample. The finding from the
+between-individual network seems to shed less positive light
+on this mode and suggests that individuals with a perfection-
+istic stance are more likely to also inhabit a harsh self-critical
+(introjected) mode.
+
+The aggregation of within-person personality dynamics
+can be a very productive area of research. Specifically, re-
+searchers can compare groups according to predetermined
+characteristics such as demographics (e.g. Costantini
+et al., 2019) or the diagnosis of specific psychopathology
+(e.g. PD). The top-down identification of condition-specific
+within-person network structures can aid in elaborating our
+understanding of certain conditions and in improving treat-
+ment protocols for these conditions.
+
+Alternatively, groups of individuals can emerge from the
+data itself using sophisticated clustering methods (e.g. Gates,
+Lane, Varangis, Giovanello, & Guiskewicz, 2017) based on
+common within-individual personality dynamics. A bottom-
+up approach of this sort can aid in the discovery of
+transdiagnostic processes that cut across current diagnostic
+systems (e.g. Wigman et al., 2015). Here again, the extent
+to which a clustering based on dynamic processes will re-
+semble a clustering based on traditional single measurements
+is, for the time being, unknown.
+
+All in all, as our discussion has shown, some of the asso-
+ciations hold across the levels of analysis, and others appear
+to be level specific. In other words, ergodicity cannot be as-
+sumed for the entire set of modes examined here, but further
+research with bigger samples (in terms of both participants
+and time points) may help clarify which components or asso-
+ciation are characterized by this quality.
+
+Limitations and Future Directions
+
+The present work comes with several notable limitations.
+First, the modes assessed in the current investigation were
+ones drawn from the ST model. This model is only one of
+the several conceptualizations that posit distinguishable orga-
+nizational units in individuals’ experience. We chose to em-
+ploy this particular model in the current work because of its
+relatively finite and definite account of such units. This
+model (and others like it) emerged from clinicians’ experi-
+ence and is thus mostly theory driven. It is likely that addi-
+tional modes exist, and possibly, that the modes can be
+organized in a different manner, a possibility that should be
+examined in future work. Moreover, recent advances in the
+analysis of multilevel data (e.g. in clustering methods, some
+based on machine learning; e.g. Dwyer, Falkai, &
+
+Eur. J. Pers. 34: 1017-1036 (2020)
+DOI: 10.1002/per
+ Koutsouleris, 2018) hold great promise for obtaining data-
+driven accounts for more valid segmentation of these units.
+
+Second, the sample we examined was a community sam-
+ple with relatively well-adjusted participants. If we were to
+examine clinical samples, we would expect maladaptive
+modes to be decidedly more prominent. Even more impor-
+tantly, we would expect the transitions between modes in
+such samples to be more abrupt, which would be manifested
+by stronger edges between nodes in both the intraindividual
+and the group-level networks.
+
+Third, some of the obtained reliability estimates for the
+MSMQ modes were moderate at best. In part, this had to
+do with scale length. To reduce participant burden to a min-
+imum, we chose to measure each mode with only three to
+four items. Yet, if a mode is expected to encompass a per-
+son’s full and nuanced subjective experience (replete with
+its own affects, behaviours, cognitions, and desires), the con-
+ceit of capturing it reliably with only three items appears to
+be a formidable challenge. Four-item scales fared a bit better;
+indeed, the Distressed and Reflective modes (both assessed
+using four 1tems) were found to be the most reliable. Future
+research attempting to tap the complexity of momentary ex-
+periences could attempt to assess a greater number of items,
+while staying mindful of participant burden.
+
+Fourth, the sample was limited in size and in number of
+assessments per participant. The required sample size for es-
+timating network models depends on the true network char-
+acteristics, and no simple rules of thumb exist for
+determining this (Epskamp & Fried, 2018). Additional com-
+plexity 1s added when data are multilevel. As the MSMQ was
+first used in the current study, a simulation-based sample size
+calculation was not possible. Notably, although larger sample
+sizes are always helpful, more frequent, intensive, or
+prolonged assessments come at a price of participant burden,
+which may exceed acceptable levels, or of more prolonged
+data collection periods, which would raise the risk of station-
+arity violations (i.e. changes in nodes’ means and variances
+across time; Bringmann et al., 2017). Another upshot of the
+frequency of our assessments—and even more so, of the in-
+struction to complete these with reference to the past hour—
+is that even if modes are truly discrete, the (somewhat retro-
+spective) responses may reveal co-activation merely because
+different modes were activated within that hour. Future stud-
+ies would benefit from instructing participants to focus ex-
+clusively on momentary experience.
+
+Fifth, in many of the temporal networks, absolutely no
+edges were obtained. While this pattern might have several
+explanations (including insufficient within-person measure-
+ments), one possibility might be our choice of inappropriate
+intervals between measurements (Dorman & Griffin, 2015).
+In particular, assessments might have been too sparse to al-
+low for accurate estimation of causal links between modes.
+Researchers who want to further investigate similar con-
+structs may consider shorter intervals, even at the cost of lim-
+ited coverage of significant parts of the day; importantly,
+with an instrument as long as the MSMQ, we would expect
+more than 4—5 assessments per day to be excessive.
+
+Sixth, the analytic approach we adopted 1s still a work in
+progress (Epskamp, van Borkulo, et al., 2018; Epskamp,
+
+© 2020 European Association of Personality Psychology
+
+Subjectifying the personality state 1031
+
+Waldorp, et al., 2018). Some issues, such as the estimation
+of random effects in multilevel data networks or the cluster-
+ing of nodes and individuals, have yet to be worked out. Re-
+cent work by Bastiaansen et al. (2019) demonstrates how far
+we still are from consensus in choosing methods for identify-
+ing core processes in idiographic longitudinal data. One
+sticky issue involves the usage of nodes’ means as an addi-
+tional source of information. Our work did take the means
+into account, but did so only in the intraindividual models,
+where these means seemed most relevant. We expect ongo-
+ing work in the field to help identify the most efficient and
+reliable methods to fully utilize the richness. of
+within-individual data, but are aware of the ongoing debate
+in the field regarding the current robustness of these methods
+(e.g. Epskamp, Fried, et al., 2018; Forbes, Wright, Markon,
+& Krueger, 2017). One future direction that may help estab-
+lish the case for robustness would be increased use of
+multi-burst designs (e.g. Ram & Diehl, 2015)."!
+
+Broader Considerations
+
+One of the driving forces for the development of clinical or
+personality models centred on the idea of within-person mul-
+tiplicity has been individuals’ experience that they possess
+diverse and often inconsistent thoughts, emotions, and de-
+sires, which often translate into inconsistent behaviour. Sub-
+jectively, such inconsistencies in one’s phenomenology often
+involve distinct and intermittent holistic experiences. For ex-
+ample, in a subjective state of distress/vulnerability, one is
+likely to have certain emotions (e.g. fear), cognitions (e.g.
+perceived danger), desires (e.g. a need for safety), and behav-
+iours (e.g. reassurance seeking); in another subjective state
+(e.g. that of detachment), these elements would be quite dif-
+ferent (e.g. numbness, distracted thoughts, a need for stimu-
+lation, and sensation seeking, respectively). In other words,
+these states are unique organizational units.
+
+Various clinical theorists (e.g. Bromberg, 1998;
+Stiles, 2006) have proposed models that encompass such dy-
+namic state-like context-sensitive organizational units. For
+the most part, these models—including ones that serve as
+the basis for effective therapeutic approaches, such as ST
+(Bamelis et al., 2014)—have received little empirical attention
+in their own right. Our goal in this project was to extract one
+such model—namely, ST’s mode model—from the clinical
+literature in which it germinated and bring it into contact with
+contemporary trends—both theoretical and analytic—in per-
+sonality research. By doing so, we hoped to demonstrate pos-
+sible means to investigate such a model that makes use of
+intensive longitudinal data and of network analytic methods.
+
+Recent work by Jacobs, Lenz, Wollny, and Horsch (2018)
+explored the latent factor structure underlying the retrospec-
+tive report of ST modes in a large sample of inpatients. Their
+findings help situate these aggregated modes into the emerg-
+ing hierarchical dimensional organization of personality pa-
+thology (Hierarchical Taxonomy of Psychopathology; Kotov
+et al., 2017) and ultimately to broader trait dimensions such
+
+''For further discussion of this issue, please see the OSM at https://osf.10/
+jkxzn/
+
+Eur. J. Pers. 34: 1017-1036 (2020)
+DOI: 10.1002/per
+ 1032 G. Lazarus et al.
+
+as the Big Five traits (e.g. Krueger & Markon, 2014) and join
+other work helping identify dimensions that may underlie var-
+ious schemas as modes (e.g. Bach & Bernstein, 2019). Impor-
+tantly, these efforts differ from our work in several respects.
+First, they are explicitly concerned with personality pathology,
+rather than the full scope of personality organization. Second,
+they rely on cross-sectional data (e.g. the SMI) rather than on
+dynamic assessment. Third, and most importantly, they break
+away from the very idea of discrete states (or modes) by
+highlighting the shared variance accounted for by traits such
+as internalization, externalization, or compulsivity.
+
+Notably, our work was not aimed at establishing empirical
+support for the ST mode model or for any particular model of
+subjective personality states. However, we clearly see the need
+for future work on the validation of personality states as cohe-
+sive organizational units. Such work could help solidify the
+empirical foundation of the ST model (or models like it), for
+example, by employing experimental designs in controlled en-
+vironments to explore the characteristics of such states and ex-
+amine the extent to which they are indeed composed of typical
+cohesive components and indeed experienced as distinct from
+other states. Such research could utilize a variety of measures
+that go beyond self-reports and include psychophysiological
+(Schaflein, Sattel, Schmidt, & Sack, 2018), neuroimaging
+(e.g. Longe et al., 2010), and implicit measures (Han, Olson,
+& Fazio, 2006). What is crucial, in our view, is that future
+study of dynamic personality models should take into account
+individuals’ phenomenology and, particularly, attend to the
+way individuals experience themselves as composed of multi-
+ple individualized parts. A useful benchmark for any such
+model would be its ability to provide an intelligible language
+or lexicon with which individual could describe their own
+multiplicity and understand their own complex (and often in-
+consistent) behaviour.
+
+Clinical models of multiple self-states start with the as-
+sumption that such states are, at least to some extent, distinct
+(e.g. Bromberg, 1998; Stiles, 2006; Young et al., 2003). In
+the present work, we wanted to relax this assumption for both
+methodological and theoretical reasons, as we are currently
+agnostic about whether the ‘real’ picture of involves discrete
+categories (or profiles), prototypes, or continuous dimensions.
+Theoretically, most clinical models assume individual differ-
+ences in the ‘discreteness’ of states—that is, they recognize
+that some individuals move more easily and less abruptly be-
+tween different self-states, whereas others may be predomi-
+nantly in one state at a time, making any move between
+them quite dramatic. Methodologically, even if self-states are
+entirely discrete entities, measuring their presence over pe-
+riods that are longer than an instant (e.g. ‘over the last hour’,
+as was the case in our sample) would mean that various
+self-states might co-exist. This too calls for dimensional scores
+for each of the states. A benefit of such scores is that they al-
+low for both discreteness and possible continuity.
+
+Positing the existence of multiple subjective personality
+units requires a consideration of how they relate to each
+other. In the present work, we did so by examining simple
+linear associations between units, which were used to con-
+struct networks of associations. Such an approach provides
+information regarding the strength and direction of these
+
+© 2020 European Association of Personality Psychology
+
+associations and, by proxy, regarding the extent to which they
+are experienced as distinct. However, it ignores other possible
+aspects of these associations. For example, the relations
+among these within-individual units (and possibly, even their
+identity) may be better understood using non-linear complex
+systems methods (as has been — suggested by
+Borsboom, 2017b) or by adopting top-down conceptual
+frameworks such as the interpersonal circumplex model
+(which help situate specific behaviours and possibly states
+along the cardinal axes of agency and communion; e.g. Hop-
+wood et al., 2019).
+
+Conclusion
+
+The present work joins several other recent attempts to con-
+ceptualize within-person personality dynamics (e.g. Geukes
+& Back, 2017; Hopwood et al., 2019; Wright et al., 2019).
+Its distinction comes in part from the inspiration it draws
+from widely used clinical models, which converge on the
+idea of multiple subjective personality ‘states’ as separable
+organizational units. This idea has considerable intuitive ap-
+peal and richness, and has led to clinical utility, but has rarely
+been examined empirically. By using ILMs and network
+analyses, we were able to explore these states and to further
+refine a model tying them together. We believe that this
+model (and others like it) can serve as meaningful bridges be-
+tween the fields of personality and clinical psychology, in-
+creasing the relevance of personality research for clinicians
+on the one hand and strengthening the empirical foundations
+of clinical conceptualizations on the other.
+
+ACKNOWLEDGEMENT
+
+G. L. and H. S. are grateful to the Azrieli Foundation for the
+award of an Azrieli Fellowship supporting their work.
+
+SUPPORTING INFORMATION
+
+Additional supporting information may be found online in
+the Supporting Information section at the end of the article.
+
+REFERENCES
+
+Adler, J. M., Chin, E. D., Kolisetty, A. P., & Oltmanns, T. F. (2012).
+The distinguishing characteristics of narrative identity in adults
+with features of borderline personality disorder: An empirical 1n-
+vestigation. Journal of Personality Disorders, 26, 498—512.
+https://doi.org/10.1521/pedi.2012.26.4.498
+
+Allport, G. W. (1955). Becoming. New Haven, CT: Yale University
+Press.
+
+Arntz, A., Klokman, J., & Sieswerda, S. (2005). An experimental
+test of the schema mode model of borderline personality disorder.
+Journal of Behavior Therapy and Experimental Psychiatry, 36,
+226-239. https://doi.org/10.1016/j.jbtep.2005.05.005
+
+Bach, B., & Bernstein, D. P. (2019). Schema therapy conceptualiza-
+tion of personality functioning and traits in ICD-11 and DSM-S.
+Current Opinion in Psychiatry, 32, 38-49. https://doi.org/
+10.1097/Y CO.0000000000000464
+
+Eur. J. Pers. 34: 1017-1036 (2020)
+DOI: 10.1002/per
+ Bamelis, L. L., Evers, S. M., Spinhoven, P., & Arntz, A. (2014). Re-
+sults of a multicenter randomized controlled trial of the clinical
+effectiveness of schema therapy for personality disorders. Ameri-
+can Journal of Psychiatry, 171, 305-322. https://doi.org/
+10.1176/appi.ajp.2013.12040518
+
+Bandura, A. (1999). Social cognitive theory of personality. In D.
+Cervone, & Y. Shoda (Eds.), The coherence of personality:
+Social-cognitive bases of consistency, variability, and organiza-
+tion (pp. 185-241). New York: Guilford Press.
+
+Bastiaansen, J. A., Kunkels, Y. K., Blaauw, F., Boker, S. M.,
+Ceulemans, E., Chen, M., ... Bringmann, L. F. (2019, May 12).
+Time to get personal? The impact of researchers’ choices on
+the selection of treatment targets using the experience sampling
+methodology. https://doi.org/10.3 1234/osf.10/c8vp7
+
+Baumert, A., Schmitt, M., Perugini, M., Johnson, W., Blum, G.,
+Borkenau, P., & Jayawickreme, E. (2017). Integrating personality
+structure, personality process, and personality development. Eu-
+ropean Journal of Personality, 31, 503—528. https://doi.org/
+10.1002/per.2115
+
+Beck, A. T. (1976). Cognitive therapy and the emotional disorders.
+New York: International Universities Press.
+
+Beck, E. D., & Jackson, J. J. (2017). The search for a bridge: Idio-
+graphic personality networks. European Journal of Personality.,
+31, 529-595.
+
+Block, J. (1961). Ego identity, role variability, and adjustment. Jour-
+nal of Consulting Psychology, 25, 392-397.
+
+Borsboom, D. (2017a). A network theory of mental disorders.
+World Psychiatry, 16, 5—13. https://doi.org/10.1002/wps.20375
+Borsboom, D. (2017b). Mental disorders, network models, and dy-
+namical systems. In: Kendler, K.S., Parnas, J. (Eds.), Philosoph-
+ical issues in psychiatry IV: Psychiatric nosology DSM-5
+(International Perspectives in Philosophy and Psychiatry). New
+
+York: Oxford University Press.
+
+Borsboom, D., & Cramer, A. O. J. (2013). Network analysis: An in-
+tegrative approach to the structure of psychopathology. Annual
+Review of Clinical Psychology, 9, 91-121. https://doi.org/
+10.1146/annurev-clinpsy-050212-185608
+
+Bos, F. M., Snippe, E., de Vos, S., Hartmann, J. A., Simons, C. J.,
+van der Krieke, L., & Wichers, M. (2017). Can we jump from
+cross-sectional to dynamic interpretations of networks implica-
+tions for the network perspective in psychiatry. Psychotherapy
+and Psychosomatics, 86, 175—177.  https://doi.org/10.1159/
+000453583
+
+Bringmann, L. F., Hamaker, E. L., Vigo, D. E., Aubert, A.,
+Borsboom, D., & Tuerlinckx, F. (2017). Changing dynamics:
+Time-varying autoregressive models using generalized additive
+modeling. Psychological Methods, 22, 409—425. https://doi.org/
+10.1037/met0000085
+
+Bringmann, L. F., Vissers, N., Wichers, M., Geschwind, N.,
+Kuppens, P., Peeters, F., ... Tuerlinckx, F. (2013). A network ap-
+proach to psychopathology: New insights into clinical longitudi-
+nal data. PLoS ONE, &, e60188. https://doi.org/10.137 1/journal.
+pone.0060188
+
+Bromberg, P. M. (1998). Standing in the spaces: Essays on clinical
+process, trauma, and dissociation. Hillsdale, NJ: Analytic Press.
+
+Campbell, J. D., Trapnell, P. D., Heine, S. J., Katz, I. M., Lavallee,
+L. F., & Lehman, D. R. (1996). Self-concept clarity: Measure-
+ment, personality correlates, and cultural boundaries. Journal of
+Personality and Social Psychology, 70, 141-156. https://do1.
+org/10.1037/0022-3514.70.1.141
+
+Costantini, G., Richetin, J., Preti, E., Casini, E., Epskamp, S., &
+Perugini, M. (2019). Stability and variability of personality net-
+works. A tutorial on recent developments in network psychomet-
+rics. Personality and Individual Differences, 136, 68—78. https://
+doi.org/10.1016/j.paid.2017.06.011
+
+Cranford, J. A., Shrout, P. E., lida, M., Rafaeli, E., Yip, T., & Bol-
+ger, N. (2006). A procedure for evaluating sensitivity to
+within-person change: Can mood measures in diary studies detect
+change reliably? Personality and Social Psychology Bulletin, 32,
+917-929. https://do1.org/10.1177/0146167206287721
+
+© 2020 European Association of Personality Psychology
+
+Subjectifying the personality state 1033
+
+Dejonckheere, E., Mestdagh, M., Houben, M., Rutten, I., Sels, L.,
+Kuppens, P., & Tuerlinckx, F. (2019). Complex affect dynamics
+add limited information to the prediction of psychological well-
+being. Nature Human Behaviour, 3, 478—491. https://doi.org/
+10.1038/s41562-019-0555-0
+
+Derogatis, L. R., & Melisaratos, N. (1983). The Brief Symptom In-
+ventory: An introductory report. Psychological Medicine, 13,
+595—605. https://doi.org/10.1017/S003329 1700048017
+
+Dimaggio, G., Semerari, A., Carcione, A., Nicolo, G., & Procacci,
+M. (2007). Psychotherapy of personality disorders: Metacogni-
+tion, states of mind and interpersonal cycles. London: Routledge
+10.4324/9780203939536.
+
+Dimaggio, G., & Stiles, W. B. (2007). Psychotherapy in light of in-
+ternal multiplicity. Journal of Clinical Psychology, 63, 119-127.
+https://doi.org/10.1002/jclp.20335
+
+Dorfel, D., Lamke, J. P., Hummel, F., Wagner, U., Erk, S., & Walter,
+H. (2014). Common and differential neural networks of emotion
+regulation by detachment, reinterpretation, distraction, and expres-
+sive suppression: A comparative [MRI investigation. Neuroimage,
+101, 298-309. https://doi.org/10.1016/j.neuroimage.2014.06.051
+
+Dorman, C., & Griffin, M. A. (2015). Optimal time lags in panel
+studies. Psychological Methods, 20, 487-505. https://doi.org/
+10.1037/met0000041
+
+Dunlop, W. L. (2015). Contextualized personality, beyond traits.
+European Journal of Personality, 29, 310—325. https://doi.org/
+10.1002/per.1995
+
+Dwyer, D. B., Falkai, P., & Koutsouleris, N. (2018). Machine learn-
+ing approaches for clinical psychology and psychiatry. Annual
+Review of Clinical Psychology, 14, 91-118. https://doi.org/
+10.1146/annurev-clinpsy-0328 16-045037
+
+Elliott, R., & Greenberg, L. S. (2007). The essence of process-
+experiential/emotion-focused therapy. American Journal of Psy-
+chotherapy, 61, 241-254. _ https://doi.org/10.1176/appi.
+psychotherapy.2007.61.3.241
+
+Elliott, R., Watson, J., Goldman, R., & Greenberg, L. S. (2003).
+Learning emotion-focused therapy: The process-experiential ap-
+proach to change. Washington, DC: APA.
+
+Epskamp, S. (2017). graphicalVAR: Graphical VAR for experience
+sampling data. Retrieved from _http://cran.r-project.org/pack-
+age=graphical VAR
+
+Epskamp, S., Borsboom, D., & Fried, E. I. (2018). Estimating psy-
+chological networks and their accuracy: A tutorial paper. Behav-
+ior Research Methods, 50, 195-212. https://doi.org/10.3758/
+§13428-017-0862-1
+
+Epskamp, S., Cramer, A., Waldorp, L., Schmittmann, V. D., &
+Borsboom, D. (2012). qgraph: Network visualizations of relation-
+ships in psychometric data. Journal of Statistical Software, 48,
+1-18. https://doi.org/10.18637/jss.v048.104
+
+Epskamp, S., & Fried, E. I. (2018). A tutorial on regularized partial
+correlation networks. Psychological Methods, 23, 617-634.
+https://doi.org/10.1037/met0000167
+
+Epskamp, S., Fried, E. I., van Borkulo, C. D., Robinaugh, D. J.,
+Marsman, M., Dalege, J., & Cramer, A. O. (2018). Investigating
+the utility of fixed-margin sampling in network psychometrics.
+Multivariate Behavioral Research, 1-15.  https://doi.org/
+10.1080/00273171.2018.1489771
+
+Epskamp, S., van Borkulo, C. D., van der Veen, D. C., Servaas, M.
+N., Isvoranu, A. M., Riese, H., & Cramer, A. O. (2018). Person-
+alized network modeling in psychopathology: The importance of
+contemporaneous and temporal connections. Clinical Psycholog-
+ical Science, 6, 416-427. https://doi.org/10.1177/
+2F2167702617744325
+
+Epskamp, S., Waldorp, L. J., Mottus, R., & Borsboom, D. (2018).
+The Gaussian graphical model in cross-sectional and time-series
+data. Multivariate Behavioral Research, 53, 453—480. https://
+doi.org/10.1080/00273171.2018.1454823
+
+Fassbinder, E., Brand-de, W. O., & Arntz, A. (2019). Case formula-
+tion in schema therapy: Working with the mode model. In U.
+Kramer (Ed.), Case formulation in personality disorders. New
+York: Elsevier Books 10.1016/B978-0-12-813521-1.00005-9.
+
+Eur. J. Pers. 34: 1017-1036 (2020)
+DOI: 10.1002/per
+ 1034 G. Lazarus et al.
+
+Fisher, A. J., Bosley, H. G., Fernandez, K. C., Reeves, J. W.,
+Soyster, P. D., Diamond, A. E., & Barkin, J. (2019). Open trial
+of a personalized modular treatment for mood and anxiety. Be-
+haviour Research and Therapy, 116, 69-79. https://do1.org/
+10.1016/j.brat.2019.01.010
+
+Fisher, A. J., Medaglia, J. D., & Jeronimus, B. F. (2018). Lack of
+group-to-individual generalizability is a threat to human subjects
+research. Proceedings of the National Academy of Sciences, 115,
+E6106—E6115. https://doi.org/10.1073/pnas.1711978115
+
+Fisher, A. J., Reeves, J. W., Lawyer, G., Medaglia, J. D., & Rubel, J.
+A. (2017). Exploring the idiographic dynamics of mood and anx-
+iety via network analysis. Journal of Abnormal Psychology, 126,
+1044—1056. https://doi.org/10.1037/abn00003 11
+
+Fleeson, W. (2001). Toward a structure- and process-integrated
+view of personality: Traits as density distributions of states. Jour-
+nal of Personality and Social Psychology, 80, 1011—1027. https://
+doi.org/10.1037/0022-3514.80.6.1011
+
+Forbes, M. K., Wright, A. G., Markon, K. E., & Krueger, R. F.
+(2017). Evidence that psychopathology symptom networks have
+limited replicability. Journal of Abnormal Psychology, 126,
+969-988. https://do1.org/10.1037/abn0000276
+
+Foygel, R., & Drton, M. (2010). Extended Bayesian information
+criteria for Gaussian graphical models. Advances in Neural Infor-
+mation Processing Systems, 23, 2020-2028 Retrieved from
+https://arxiv.org/abs/1011.6640
+
+Fraley, R. C., Heffernan, M. E., Vicary, A. M., & Brumbaugh, C. C.
+(2011). The Experiences in Close Relationships—Relationship
+Structures Questionnaire: A method for assessing attachment ori-
+entations across relationships. Psychological Assessment, 23,
+615-625. https://doi.org/10.1037/a0022898
+
+Gallagher, S. (2012). Multiple aspects in the sense of agency. New
+Ideas in Psychology, 30, 15-31. https://doi.org/10.1016/j.
+newideapsych.2010.03.003
+
+Gates, K. M., Lane, S. T., Varangis, E., Giovanello, K., &
+Guiskewicz, K. (2017). Unsupervised classification during
+time-series model building. Multivariate Behavioral Research, 52,
+129-148. https://doi.org/10.1080/00273171.2016.1256187
+
+Geukes, K., & Back, M. D. (2017). Towards a process-based under-
+standing of personality structure, development, consequences,
+and assessment: Systemizing personality processes into state do-
+mains and sequences. European Journal of Personality, 31,
+543—545. https://doi.org/10.1002/per
+
+Geukes, K., van Zalk, M., & Back, M. D. (2018). Understanding
+personality development: An integrative state process model. Jn-
+ternational Journal of Behavioral Development, 42, 43-51.
+https://do1.org/10.1177/0165025416677847
+
+Gilbert, P., Baldwin, M. W., Irons, C., Baccus, J. R., & Palmer, M.
+(2006). Self-criticism and self-warmth: An imagery study explor-
+ing their relation to depression. Journal of Cognitive Psychother-
+apy, 20, 183-200. https://doi.org/10.1891/jcop.20.2.183
+
+Han, H. A., Olson, M. A., & Fazio, R. H. (2006). The influence of
+experimentally created extrapersonal associations on the Implicit
+Association Test. Journal of Experimental Social Psychology, 42,
+259-272. https://doi.org/10.1016/j.jesp.2005.04.006
+
+Hermans, H. J. (2001). The dialogical self: Toward a theory of per-
+sonal and cultural positioning. Culture & Psychology, 7,
+243-281. https://doi.org/10.1177/1354067X0173001
+
+Higgins, E. T. (1987). Self-discrepancy: A theory relating self and
+affect. Psychological Review, 94, 319-340. https://doi.org/
+10.1037/0033-295 X.94.3.319
+
+Hofmann, S. G., & Hayes, S. C. (2019). The future of intervention
+science: Process-based therapy. Clinical Psychological Science,
+7, 37-50. https://doi.org/10.1177/2167702618772296
+
+Holgado-Tello, F. P., Chacon-Moscoso, S., Barbero-Garcia, I., &
+Vila-Abad, E. (2010). Polychoric versus Pearson correlations in
+exploratory and confirmatory factor analysis of ordinal variables.
+Quality & Quantity, 44, 153-166. https://doi.org/10.1007/
+s11135-008-9190-y
+
+© 2020 European Association of Personality Psychology
+
+Hopwood, C. J. (2018). Interpersonal dynamics in personality and
+personality disorders. European Journal of Personality, 32,
+499-524. https://doi.org/10.1002/per.2155
+
+Hopwood, C. J., Pincus, A. L., & Wright, A. G. C. (2019). The in-
+terpersonal situation: Integrating clinical assessment, formula-
+tion, and intervention. In D. B. Samuel, & D. Lynam (Eds.),
+Using basic personality research to inform personality pathology
+(pp. 95-121). Oxford, UK: Oxford University Press.
+
+Hox, J. (2010). Multilevel analysis: Techniques and applications.
+New York: Routledge 10.4324/9780203852279.
+
+Jacobs, I, Lenz, L., Wollny, A., & Horsch, A. (2018). The
+higher-order structure of schema modes. Journal of Personality
+Disorders, 1—29. https://doi.org/10.1521/pedi_2018_32_401
+
+James, W. (1950). The principles of psychology. Cambridge, MA:
+Harvard University Press (Original work published 1890).
+
+Janet, P. (1907). The major symptoms of hysteria. New York, NY:
+Macmillan 10.1037/10008-000.
+
+Jayawickreme, E., Zachry, C. E., & Fleeson, W. (2019). Whole trait
+theory: An integrative approach to examining personality struc-
+ture and process. Personality and Individual Differences, 136,
+2—11. https://doi.org/10.1016/j.paid.2018.06.045
+
+Kelly, G. A. (1955). The psychology of personal constructs 1-2.
+New York: Norton.
+
+Kotov, R., Krueger, R. F., Watson, D., Achenbach, T. M., Althoff,
+R. R., Bagby, M., ... Zimmerman, M. (2017). The Hierarchical
+Taxonomy of Psychopathology (HiTOP): A dimensional alterna-
+tive to traditional nosologies. Journal of Abnormal Psychology,
+126, 454-477. https://doi.org/10.1037/abn0000258
+
+van der Krieke, L., Emerencia, A. C., Bos, E. H., Rosmalen, J. G.,
+Riese, H., Aiello, M., ... de Jonge, P. (2015). Ecological momen-
+tary assessments and automated time series analysis to promote
+tailored health care: A proof-of-principle study. JMIR Research
+Protocols, 4, e100. https://doi.org/10.2196/resprot.4000
+
+Kross, E., & Ayduk, O. (2017). Self-distancing: Theory, research,
+and current directions. In J. M. Olson (Ed.), Advances in experi-
+mental social psychology (pp. 81—136), 55. Cambridge, MA: Ac-
+ademic Press https://doi.org/10.1016/bs.aesp.2016.10.002
+
+Kross, E., & Grossmann, I. (2012). Boosting wisdom: Distance
+from the self enhances wise reasoning, attitudes, and behavior.
+Journal of Experimental Psychology: General, 141, 43-48.
+https://doi.org/10.1037/a0024158
+
+Krueger, R. F., & Markon, K. E. (2014). The role of the DSM-S5 per-
+sonality trait model in moving toward a quantitative and empiri-
+cally based approach to classifying personality and
+psychopathology. Annual Review of Clinical Psychology, 10,
+477-501. https://doi.org/10.1146/annurev-clinpsy-0328 13-
+153732
+
+Levinson, C. A., Vanzhula, I. A., & Brosof, L. C. (2018). Longitu-
+dinal and personalized networks of eating disorder cognitions and
+behaviors: Targets for precision intervention a proof of concept
+study.. International Journal of Eating Disorders, 51,
+1233-1243. https://doi.org/10.1002/eat.22952
+
+Linville, P. W. (1987). Self-complexity as a cognitive buffer against
+stress-related illness and depression. Journal of Personality and
+Social Psychology, 52, 663—676. https://doi.org/10.1037/0022-
+3514.52.4.663
+
+Lobbestael, J., van Vreeswijk, M., Spinhoven, P., Schouten, E., &
+Arntz, A. (2010). Reliability and validity of the short Schema
+Mode Inventory (SMI). Behavioural and Cognitive Psychother-
+apy, 38, 437-458. https://doi.org/10.1017/S13524658 10000226
+
+Longe, O., Maratos, F. A., Gilbert, P., Evans, G., Volker, F.,
+Rockliff, H., & Rippon, G. (2010). Having a word with yourself:
+Neural correlates of self-criticism and _ self-reassurance.
+Neurolmage, 49, 1849-1856.  https://doi.org/10.1016/j.
+neuroimage.2009.09.019
+
+McAdams, D. P. (1996). Personality, modernity, and the storied self:
+A contemporary framework for studying persons. Psychological
+Inquiry, 7, 295-321. https://doi.org/10.1177/174569 1612464657
+
+Eur. J. Pers. 34: 1017-1036 (2020)
+DOI: 10.1002/per
+ McAdams, D. P. (2013). The psychological self as actor, agent, and
+author. Perspectives on Psychological Science, 8, 272—295.
+https://doi.org/10.1177/174569 1612464657
+
+Mead, G. H. (1934). Mind, self, and society. Chicago: University of
+Chicago.
+
+Molenaar, P. C. (2004). A manifesto on psychology as idiographic
+science: Bringing the person back into scientific psychology, this
+time forever. Measurement, 2, 201—218. https://doi.org/10.1207/
+§15366359mea0204_1
+
+Nienhuis, E. R., & Van der Hart, O. (2011). Dissociation in trauma:
+A new definition and comparison with previous formulations.
+Journal of Trauma & Dissociation, 12, 416—445. https://do1.
+org/10.1080/15299732.2011.570592
+
+Osatuke, K., Stiles, W. B., Barkham, M., Hardy, G. E., & Shapiro,
+D. A. (2011). Relationship between mental states in depression:
+The assimilation model perspective. Psychiatry Research, 190,
+52-59. https://do1.org/10.1016/j.psychres.2010.11.001
+
+Piccirillo, M. L., & Rodebaugh, T. L. (2019). Foundations of idio-
+graphic methods in psychology and applications for psychother-
+apy. Clinical Psychology Review., 71, 90—100. https://doi.org/
+10.1016/j.cpr.2019.01.002
+
+Pos, A. E., & Greenberg, L. S. (2012). Organizing awareness and
+increasing emotion regulation: Revising chair work in
+emotion-focused therapy for borderline personality disorder.
+Journal of Personality Disorders, 26, 84—107. https://doi.org/
+10.152 1/pedi.2012.26.1.84
+
+Pugh, M. (2015). A narrative review of schemas and schema ther-
+apy outcomes in the eating disorders. Clinical Psychology Re-
+view, 39, 30—41. https://doi.org/10.1016/j.cpr.2015.04.003
+
+Rafaeli, E., Bernstein, D. P., & Young, J. (2011). Schema therapy:
+Distinctive features. New York: Routledge.
+
+Rafaeli, E., Maurer, O., Lazarus, G., & Thoma, N. C. (2016). The
+self in schema therapy. In M. Kyrios, R. Moulding, G. Doron,
+N. Nedeljkovic, S. S. Bhar, & M. Mikulincer (Eds.), The self in
+understanding and_ treating psychological _ disorders
+(pp. 59-48). Cambridge, United Kingdom: Cambridge Univer-
+sity Press 10.1017/CBO9781139941297.008.
+
+Ram, N., & Diehl, M. (2015). Multiple time-scale design and anal-
+ysis: Pushing towards real-time modeling of complex develop-
+mental processes. In M. Diehl, K. Hooker, & M. Sliwinski
+(Eds.), Handbook of intraindividual variability across the
+lifespan (pp. 308-323). New York, NY: Routledge.
+
+Rauthmann, J. F., Beckmann, N., Noftle, E. E., & Sherman, R. A.
+(2019). Personality dynamics: A new frontier in personality psy-
+chology. Personality and Individual Differences, 136, 1. https://
+doi.org/10.1016/j.paid.2018.07.012
+
+Rauthmann, J. F., Jones, A. B., & Sherman, R. A. (2016). Direction-
+ality of person-situation transactions: Are there spillovers among
+and between situation experiences and personality states? Per-
+sonality and Social Psychology Bulletin, 42, 893—909. https://
+doi.org/10.1177/0146167216647360
+
+Renner, F., DeRubeis, R., Arntz, A., Peeters, F., Lobbestael, J., &
+Huibers, M. J. (2018). Exploring mechanisms of change in
+schema therapy for chronic depression. Journal of Behavior
+Therapy and Experimental Psychiatry, 58, 97—105. https://doi.
+org/10.1016/j.jbtep.2017.10.002
+
+Revelle, W., & Condon, D. M. (2015). A model for personality at
+three levels. Journal of Research in Personality, 56, 70-81.
+https://doi.org/10.1016/j.jrp.2014.12.006
+
+Roberts, B. W., & Donahue, E. M. (1994). One personality, multiple
+selves: Integrating personality and social roles. Journal of Per-
+sonality, 62, 199-218. https://doi.org/10.1111/j.1467-
+6494.1994.tb0029 1.x
+
+Sadikaj, G., Moskowitz, D. S., Russell, J. J., Zuroff, D. C., & Paris,
+J. (2013). Quarrelsome behavior in borderline personality disor-
+der: Influence of behavioral and affective reactivity to percep-
+tions of others. Journal of Abnormal Psychology, 122,
+195—207. https://doi.org/10.1037/a0030871
+
+Schaflein, E., Sattel, H., Schmidt, U., & Sack, M. (2018). The en-
+emy in the mirror: Self-perception-induced stress results in
+
+© 2020 European Association of Personality Psychology
+
+Subjectifying the personality state 1035
+
+dissociation of psychological and physiological responses in pa-
+tients with dissociative disorder. European Journal of
+Psychotraumatology, 9, 1472991. — https://doi.org/10.1080/
+20008198.2018.1472991
+
+Sempértegui, G. A., Karreman, A., Arntz, A., & Bekker, M. H. J.
+(2014). Schema therapy for borderline personality disorder: A
+comprehensive review of its empirical foundations, effectiveness
+and implementation possibilities. Clinical Psychology Review,
+33, 426—447. https://doi.org/10.1016/j.cpr.2012.11.006
+
+Sened, H., Lazarus, G., Gleason, M. J., Rafaeli, E., & Fleeson, W.
+(2018). The use of intensive longitudinal methods in explanatory
+personality research. European Journal of Personality, 32,
+269—285. https://doi.org/10.1002/per.2143
+
+Shahar, B. (2014). Emotion-focused therapy for the treatment of so-
+cial anxiety: An overview of the model and a case description.
+Clinical Psychology & Psychotherapy, 21, 536—547. https://do1.
+org/10.1002/cpp.1853
+
+Shrout, P. E., & Lane, S. P. (2012). Psychometrics. In M. R. Mehl,
+& T. S. Conner (Eds.), Handbook of research methods for study-
+ing daily life (pp. 302—320). New York, NY: Guilford.
+
+Siegel, D. (2012). The developing mind, second edition: How rela-
+tionships and the brain interact to shape who we are. New York,
+NY: Guilford Press.
+
+Sosnowska, J., Kuppens, P., De Fruyt, F., & Hofmans, J. (2019). A
+dynamic systems approach to personality: The Personality Dy-
+namics (PersDyn) model. Personality and Individual Differences,
+144, 11-18. https://doi.org/10.1016/j.paid.2019.02.013
+
+Spiegel, D., Loewenstein, R. J., Lewis-Fernandez, R., Sar, V., Sim-
+eon, D., Vermetten, E., ... Dell, P. F. (2011). Dissociative disor-
+ders in DSM-5. Depression and Anxiety, 28, 824—852. https://
+doi.org/10.1002/da.20874
+
+Stiles, W. B. (2006). Assimilation and the process of outcome: In-
+troduction to a special section. Psychotherapy Research, 16,
+389-392. https://doi.org/10.1080/10503300600735497
+
+Teasdale, J. D. (1997). The relationship between cognition and emo-
+tion: The mind-in-place in mood disorders. In D. M. Clark, & C.
+G. Fairburn (Eds.), Science and practice of cognitive behaviour
+therapy (pp. 67—94). Oxford, England: Oxford University Press.
+
+Vater, A., Schroder-Abé, M., WeiBgerber, S., Roepke, S., & Schiitz,
+A. (2015). Self-concept structure and borderline personality dis-
+order: Evidence for negative compartmentalization. Journal of
+Behavior Therapy and Experimental Psychiatry, 46, 50-58.
+https://doi.org/10.1016/j.jbtep.2014.08.003
+
+Weger, U., Meyer, A., & Wagemann, J. (2016). Exploring the be-
+havioral, experiential, and conceptual dimensions of the self. Eu-
+ropean Psychologist, 21, 180—194. https://doi.org/10.1027/1016-
+9040/a000263
+
+Wigman, J. T. W., Van Os, J., Borsboom, D., Wardenaar, K. J.,
+Epskamp, S., Klippel, A., ... Wichers, M. (2015). Exploring the
+underlying structure of mental disorders: Cross-diagnostic differ-
+ences and similarities from a network perspective using both a
+top-down and a bottom-up approach. Psychological Medicine,
+45, 2375—2387. https://doi.org/10.1017/S0033291715000331
+
+van Wijk-Herbrink, M. F., Roelofs, J., Broers, N. J., Rijkeboer, M.
+M., Arntz, A., & Bernstein, D. P. (2018). Validation of Schema
+Coping Inventory and Schema Mode Inventory in adolescents.
+Journal of Personality Disorders, 32, 220—241. https://doi.org/
+10.1521/pedi_2017_31_295
+
+Wilson, R. E., Harris, K., & Vazire, S. (2015). Personality and
+friendship satisfaction in daily life: Do everyday social interac-
+tions account for individual differences in friendship satisfaction?
+European Journal of Personality, 29, 173-186. https://doi.org/
+10.1002/per.1996
+
+Wilt, J., & Revelle, W. (2015). Affect, behaviour, cognition and de-
+sire in the Big Five: An analysis of item content and structure.
+European Journal of Personality, 29, 478—497. https://doi.org/
+10.1002/per.2002
+
+Wright, A. G. C., Gates, K. M., Arizmendi, C., Lane, S. T., Woods,
+W. C., & Edershile, E. A. (2019). Focusing personality assess-
+ment on the person: Modeling general, shared, and person
+
+Eur. J. Pers. 34: 1017-1036 (2020)
+DOI: 10.1002/per
+ 1036 G. Lazarus et al.
+
+specific processes in personality and psychopathology. Psycho-
+logical Assessment, 31, 502-515. https://doi.org/10.1037/
+pas0000617
+
+Wright, A. G. C., & Simms, L. J. (2016). Stability and fluctuation
+of personality disorder features in daily life. Journal of
+Abnormal Psychology, 125, 641—656. https://doi.org/10.1037/
+abn0000169
+
+Wright, A. G., & Zimmermann, J. (2019). Applied ambulatory as-
+sessment: Integrating idiographic and nomothetic principles of
+measurement. Psychological Assessment, 31, 1467-1480.
+https://doi.org/10.1037/pas0000685
+
+© 2020 European Association of Personality Psychology
+
+Wylie, R. (1974). The self concept (Rev. ed.), 7. Lincoln: University
+of Nebraska Press.
+
+Young, J. E., Klosko, J. S., & Weishaar, M. E. (2003). Schema ther-
+apy. A practitioner’s guide. New York: Guilford.
+
+Zimmermann, J., Woods, W. C., Ritter, S., Happel, M., Masuhr, O.,
+Jaeger, U.,... Wright, A. G. (2019). Integrating structure and dy-
+namics in personality assessment: First steps toward the develop-
+ment and validation of a Personality Dynamics  Daiary.
+Psychological Assessment., 31, 516-531.  https://doi.org/
+10.31234/osf.10/5zcth
+
+Eur. J. Pers. 34: 1017-1036 (2020)
+DOI: 10.1002/per

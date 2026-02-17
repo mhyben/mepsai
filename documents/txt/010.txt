@@ -1,0 +1,1265 @@
+® Check for updates
+
+International Society
+Journal of Traumatic Stress
+
+February 2020, 33, 72-83
+
+for Traumatic Stress Studies
+
+ISTS5)
+
+Dynamic Network Analysis of Negative Emotions and DSM-5
+Posttraumatic Stress Disorder Symptom Clusters During Conflict
+
+Talya Greene @: Marc Gelkopf @) Eiko I. Fried @ 34 Donald J. Robinaugh @+° and Liron Lapid
+
+Pickman 2!)
+'Department of Community Mental Health, University of Haifa, Haifa, Israel
+*NATAL, Israel Trauma and Resiliency Center, Tel Aviv, Israel
+>Department of Psychology, Leiden University, Leiden, the Netherlands
+*Department of Psychology, University of Amsterdam, Amsterdam, the Netherlands
+5 Department of Psychiatry, Massachusetts General Hospital, Boston, Massachusetts, USA
+
+Investigating dynamic associations between specific negative emotions and PTSD symptom clusters may provide novel insights into
+the ways in which PTSD symptoms interact with, emerge from, or are reinforced by negative emotions. The present study estimated
+the associations among negative emotions and the four DSM-5 PTSD symptom clusters (intrusions, avoidance, negative alterations in
+cognitions and mood [NACM], and arousal) in a sample of Israeli civilians (n = 96) during the Israel—Gaza War of July-August 2014. Data
+were collected using experience sampling methodology, with participants queried via smartphone about PTSD symptoms and negative
+emotions twice a day for 30 days. We used a multilevel vector auto-regression model to estimate temporal and contemporaneous temporal
+networks. Contrary to our hypothesis, in the temporal network, PTSD symptom clusters were more predictive of negative emotions than
+vice versa, with arousal emerging as the strongest predictor that negative emotions would be reported at the next measurement point; fear
+and sadness were also strong predictors of PTSD symptom clusters. In the contemporaneous network, negative emotions exhibited the
+strongest associations with the NACM and arousal PTSD symptom clusters. The negative emotions of sadness, stress, fear, and loneliness
+had the strongest associations to the PTSD symptom clusters. Our findings suggest that arousal has strong associations to both PTSD
+symptoms and negative emotions during ongoing trauma and highlights the potentially relevant role of arousal for future investigations in
+
+primary or early interventions.
+
+The association between general negative affect and post-
+traumatic stress disorder (PTSD) has been well established
+(Brown et al., 2016; Marshall-Berenz, Morrison, Schumacher,
+& Coffey, 2011; Souza et al., 2008). Moreover, although PTSD
+was originally conceptualized principally as a disorder of fear
+(American Psychiatric Association [APA], 1980; Foa & Kozak,
+1986), there has been increasing recognition that negative emo-
+tions beyond fear are also strongly associated with PTSD
+
+This work was supported by the Brain and Behavior Research Foundation
+(Narsad Young Investigator Award to TG; 23524), The Moshe Hess Founda-
+tion (TG and MG), NATAL: Israel Trauma and Resiliency Center (MG and
+LLP), the Israel Science Foundation (TG and MG; 1244/16), and the European
+Research Council Consolidator Grant (EF and DR; 647209).
+
+The authors assert that all procedures contributing to this work comply with
+the ethical standards of the relevant national and institutional committees on
+human experimentation and with the Helsinki Declaration of 1975, as revised
+in 2008. The authors declare no conflicts of interest.
+
+Correspondence concerning this article should be addressed to Talya Greene,
+Department of Community Mental Health, University of Haifa, 199 Aba
+Houshy Ave, Haifa, 3498838, Israel. E-mail: tgreene @univ.haifa.ac.il
+
+© 2019 International Society for Traumatic Stress Studies. View this article
+online at wileyonlinelibrary.com
+DOT: 10.1002/jts.22433
+
+72
+
+(Dalgleish & Power, 2004; Hathaway, Boals, & Banks, 2010;
+Lancaster, Melka, & Rodriguez, 2011; Ozer, Best, Lipsey, &
+Weiss, 2003; Resick & Miller, 2009). Of particular relevance to
+the current study, it is not only peritraumatic fear, helplessness,
+and horror that are associated with later elevations in PTSD
+symptoms (Ozer et al., 2003) but also anger, shame, and guilt
+(Kunst, Winkel, & Bogaerts, 2011; Lancaster & Larsen, 2016;
+Lee, Scragg, & Turner, 2001; Olatunji, Ciesielski, & Tolin,
+2010; Riggs, Dancu, Gershuny, Greenberg, & Foa, 1992). Ac-
+knowledging the importance of this broad range of negative
+emotions, the diagnostic criteria for PTSD in the fifth edition
+of the Diagnostic and Statistical Manual of Mental Disorers
+(DSM-5; APA, 2013) incorporated a “negative alterations in
+cognitions and mood” (NACM) symptom cluster in which fear,
+guilt, shame, horror, and anger are each specifically identified as
+persistent negative emotions that may be present in individuals
+with PTSD.
+
+Although prior literature has established that negative emo-
+tions and PTSD are related, there are several important ques-
+tions about the nature of this association that remain largely
+unanswered. The first question regards specificity: Are nega-
+tive emotions uniformly associated with all PTSD symptoms, or
+ Dynamic Networks of Negative Emotions and PTSD 73
+
+do different emotions exhibit differential patterns of association
+with individual PTSD symptoms or PTSD symptom clusters? In
+one study, retrospectively recalled peritraumatic emotions dif-
+ferentially predicted PTSD symptom clusters (per criteria in the
+fourth edition of the DSM [DSM-IV]), with peritraumatic guilt,
+anger, and fear predicting reexperiencing symptoms but only
+fear predicting avoidance symptoms and only anger predict-
+ing hyperarousal symptoms (Dewey, Schuldberg, & Madathil,
+2014). However, like much of the research on peritraumatic
+emotions, the study by Dewey et al. relied on retrospective
+recollection. Because emotions are often transient phenomena
+(Ekman & Davidson, 1994) and are vulnerable to potentially se-
+vere recall bias (Ebner-Priemer & Trull, 2009; Levine & Safer,
+2002; Wilhelm & Grossman, 2010), the reliance on retrospec-
+tive reports represents a significant limitation.
+
+The second question regards the temporal association be-
+tween negative emotions and PTSD symptoms: Are negative
+emotions causes for or consequences of PTSD symptoms, or
+both? Studies investigating the relation between emotions and
+PTSD symptoms generally conceptualize emotions as drivers or
+predictors of PTSD symptomatology rather than consequences
+of symptomatology (Badour, Bown, Adams, Bunaciu, & Feld-
+ner, 2012; Dewey et al., 2014; Kunst et al., 2011; Lancaster
+et al., 2011; Olatunji et al., 2010). However, the cross-sectional
+nature of many of these studies precludes any determination of
+the temporal direction of these relations. Among longitudinal
+studies that have explored the associations between negative
+emotions and PTSD, most have focused on associations over
+periods of weeks or months. Yet, we would argue that much
+of the interesting dynamics of this relationship are likely to
+occur over much briefer time intervals given the lability of
+emotions in daily life (Wichers, Wigman, & Myin-Germeys,
+2015). For example, intrusive memories may elicit emotions
+such as shame or guilt not on a timescale of months but of min-
+utes or hours. Thus, although the literature has established that
+negative emotions and PTSD are related, a richer understand-
+ing of their temporal associations may be found by examining
+these associations at smaller intervals of time.
+
+As reviewed earlier, the prior literature on this topic has
+established the importance of a range of negative emotions in
+the PTSD syndrome, but there has been little exploration of
+the relations between specific negative emotions and individual
+PTSD symptoms or symptom clusters (Dewey et al., 2014).
+Moreover, to our knowledge, no studies have explored dynamic
+associations between PTSD and negative emotions over the
+relatively brief timescales likely to be of particular importance
+to understanding this relation. As a result, we know little about
+the ways in which PTSD symptoms interact with, emerge from,
+or are reinforced by negative emotions over the course of day-
+to-day life. The present empirical investigation addressed these
+limitations by collecting data via the experiencing sampling
+methodology (ESM) and estimating dynamic network models
+of negative emotions and PTSD symptom clusters in a sample
+of Israeli civilians during a period of armed conflict.
+
+Advances in mobile technology have improved intensive lon-
+gitudinal assessment methods. One of these methods, ESM,
+has increasingly been used by researchers to collect data on
+symptoms, emotions, and experiences as they occur in or near
+real time in individuals’ daily lives (Cohn, Hagman, Moore,
+Mitchell, & Ehlke, 2014). Typically, ESM requires participants
+to complete self-report questionnaires several times a day over a
+number of days. This collection of real-time (or near real-time)
+data in real-world environments increases ecological validity
+relative to traditional methods that use retroactive assessment
+(Bolger & Laurenceau, 2013). Moreover, ESM is better able to
+capture context and its complexity, and it enables the examina-
+tion of within-person processes (i.e., processes as they unfold
+within an individual over time; Hamaker, 2012; Molenaar &
+Campbell, 2009) while at the same time capturing between-
+person processes. Thus, ESM methodology allows researchers
+to address questions regarding the specificity of the relations
+between negative emotions and the PTSD clusters while in-
+vestigating the dynamic interactions between these different
+components.
+
+A number of studies have previously utilized ESM for explor-
+ing PTSD symptoms in daily life (Chun, 2016), whereas other
+studies have investigated general emotional reactivity to daily
+stressors (Bylsma, Taylor-Clift, & Rottenberg, 2011; Wichers
+et al., 2007), negative affect as a mediator between PTSD and
+drinking behavior (Cohn et al., 2014), and emotional reactiv-
+ity to stress as a predictor of future psychopathology (Vaessen
+et al., 2017). To our knowledge, however, no studies have yet
+used ESM to examine the association between PTSD symptom
+clusters and specific negative emotions.
+
+In recent years, the network theory of psychopathology has
+offered a new conceptualization of mental health, in which
+syndromes, such as PTSD, are posited to arise, at least in part,
+due to causal interactions among the symptoms comprising
+the syndrome (Borsboom, 2017; McNally, 2016). To explore
+this theory of mental disorders, psychometric network models,
+which can estimate the complex dependencies among items and
+for which metrics of network inference can be used to iden-
+tify items especially important to the network (e.g., those with
+strong or numerous associations to other items in the network;
+Epskamp & Fried, 2018), have been developed. Network anal-
+ysis has been used to investigate PTSD symptom-—level associ-
+ations with cross-sectional data (e.g., Armour, Fried, Deserno,
+Tsai, & Pietrzak, 2017; Bryant et al., 2016; McNally et al.,
+2015; Mitchell et al., 2017; Spiller et al., 2017). In a recent
+paper, researchers showed that these PTSD network structures
+replicated well across four different samples of traumatized
+patients receiving treatment (Fried et al., 2017). Studies have
+also investigated the comorbidity of PTSD with other diagnos-
+tic constructs, such as depression and substance abuse (Afzali
+et al., 2016; Choi, Batchelder, Ehlinger, Safren, & O’Cleirigh,
+2017). However, to our knowledge, no network study has mod-
+eled PTSD symptoms together with specific individual negative
+emotions.
+
+Journal of Traumatic Stress DOI 10.1002/jts. Published on behalf of the International Society for Traumatic Stress Studies.
+
+QSUDOI'] SUOWIWUOD saTVaI_ s[qvordde ayy Aq pousoaos are soporjsie WO ‘asn Jo sarns 10 Aresqry] oulpuO Aa[I AA UO (SUOTIIPUOD-pue-suTIA} WO Kota Arerqipoutpuo//:sdyy) SuUONIPUO| puv SULA], 9) 99S *[PZOZ/80/Z1] Uo Arerqry] ourpuO AZIIAA Z9' TuNnd MJoquioul-<yajoqqrys> Aq E¢r7z'sul/ZOOT OL /lop/wos AayIM Areiqipourpuo//:sdyy Wo, popeojumog ‘T ‘OZOT ‘86S9ELSI
+ 74 Greene et al.
+
+In the last few years, network analysis has been extended
+to a multilevel framework, using intensive longitudinal data
+gathered through ESM to estimate dynamic networks (Bodner,
+Kuppens, Allen, Sheeber, & Ceulemans, 2017; Bos et al.,
+2017; Bringmann et al., 2013; Epskamp, Waldorp, Mottus, &
+Borsboom, 2018; Greene, Gelkopf, Epskamp, & Fried, 2018;
+Lydon-Staley, Xia, Mak, & Fosco, 2018; Pe et al., 2015). Dy-
+namic networks could provide useful insights into potentially
+predictive associations between components by the estima-
+tion of directed temporal networks, in which the direction of
+the association between network components from moment to
+moment can be depicted (Bringmann et al., 2013). Tempo-
+ral networks enable a calculation of the extent to which an
+item is predicted by items at the previous measurement (“‘in-
+strength’) and the extent to which an item predicts other items
+at the following measurement (“out-strength’’). Contempora-
+neous network, which depict the within-measurement associ-
+ations between symptoms, can also be estimated. Elucidating
+these two processes—contemporaneous and temporal—could
+indicate potential mechanisms through which psychopathol-
+ogy builds up and bring us closer to identifying symptoms or
+emotions that might be novel prevention or intervention targets
+(Fisher, Reeves, Lawyer, Medaglia, & Rubel, 2017).
+
+In the current study, we investigated the dynamic network as-
+sociations of 10 negative emotions with the four DSM-5 PTSD
+symptom clusters using ESM data obtained during a period of
+ongoing stress exposure in Israeli civilians exposed to rocket
+fire during a period of conflict. We aimed to identify negative
+emotions that may play important roles in the development of
+traumatic stress reactions, to assess which of the PTSD clusters
+had the strongest associations with negative emotions, and to in-
+vestigate the direction of temporal connections between PTSD
+clusters and negative emotions. This analysis was exploratory,
+meaning that we could not directly test hypotheses. Nonethe-
+less, we did have some predictions. First, given the emphasis of
+negative emotions in the DSM-5 NACM cluster, we anticipated
+that negative emotions would be most strongly connected to
+the NACM cluster. Further, based on prior findings that nega-
+tive emotions predict later PTSD symptoms, we anticipated that
+negative emotions would predict the PTSD symptom clusters to
+a greater extent than the PTSD symptom clusters would predict
+negative emotions.
+
+Method
+Participants and Procedure
+
+The present paper utilized data collected within a large
+prospective ESM _ study conducted during and after the
+Israel-Gaza conflict that took place in July and August 2014
+(Gelkopf et al., 2017; Greene, 2018b; Greene et al., 2017;
+Lapid Pickman, Greene, & Gelkopf, 2017). During the 50-day
+conflict, rockets and mortar shells were fired at Israeli com-
+munities from Gaza, and the Israel Defence Forces conducted
+ground and air attacks on Gaza. A general population sample
+
+of Israeli adult civilians (n = 114) exposed to rocket fire were
+recruited through social networks, snowballing methods, and
+via advertisements placed at local organizations, communities,
+and universities and colleges. Participants contacted the
+research team directly. Participants entered the study gradually
+and began providing ESM reports on Days 8 to 24 of the
+conflict. The participants used Qualtrics (Provo, UT) online
+survey software to complete ESM assessments via smartphones
+twice a day at predetermined times for 30 days and could
+respond within 2 hr. Participants gave informed consent, were
+remunerated ($150 USD), and the design and procedure were
+approved by University of Haifa Ethics Committee.
+
+In line with Myin-Germeys, van Os, and Schwartz (2001),
+we excluded data from participants who provided fewer than
+20 assessments, all of whom dropped out of the study (mostly
+in the first week). Participants retained in the final sample (n =
+96, 84.2%) answered a mean of 49.2 (SD = 7.282) of 60 poten-
+tial assessments. Missing data within completed assessments
+was very low (13 of 4,273 assessments). For the analyses, we
+removed all pairs of lagged and current variables that contained
+missing responses (Epskamp et al., 2018). Of the final sam-
+ple, 70.8% participants (n = 68) were female, and the average
+participant age was 30.1 years (SD = 9.0). Most participants
+were Jewish (97.9%), secular (60.4%), and were born in Israel
+(83.3%). Detailed sample characteristics are presented in Sup-
+plementary Table S1. There were no statistically significant as-
+sociations (a = .05) between the degree of missing assessments
+and demographic characteristics (1.e., age, gender, education,
+income, relationship status, employment) nor in mean levels
+of negative affect or traumatic stress symptoms. Additionally,
+in terms of the aforementioned variables, there were no dif-
+ferences between included participants and those who dropped
+out.
+
+Measures
+
+Traumatic stress symptoms. Symptoms of traumatic
+stress were measured using a self-report questionnaire (Gelkopf
+et al., 2017) adapted from a Hebrew version of the PTSD Check-
+list for DSM-5 (PCL-5; Weathers et al., 2013). This 20-item
+self-report tool was adapted in two ways. First, the time frame
+for experiencing each symptom was adjusted from “‘in the past
+month” to “since the last questionnaire” (a minimum gap of 8
+hr). Second, the Likert scale was changed from 5 to 4 points for
+consistency with the number of response options included in
+the other (85-item) ESM assessment, with the aim of reducing
+participant burden. The 4-point response options ranged from
+0 (not at all) to 3 (to a very high degree). A multilevel com-
+posite reliability analysis, as described by Geldhof, Preacher,
+and Zyphur (2014), found high composite reliability coeffi-
+cient estimates; within-person reliability was 0.87, p < .0O1;
+and between-person reliability was 0.93, p < .001. Mean scores
+were calculated for the four subscales, which correspond to the
+four DSM-5 PTSD symptom clusters: Intrusions, Avoidance,
+NACM, and Arousal. Due to concerns that the item regarding
+
+Journal of Traumatic Stress DOI 10.1002/jts. Published on behalf of the International Society for Traumatic Stress Studies.
+
+QSUDOI'] SUOWIWUOD saTVaI_ s[qvordde ayy Aq pousoaos are soporjsie WO ‘asn Jo sarns 10 Aresqry] oulpuO Aa[I AA UO (SUOTIIPUOD-pue-suTIA} WO Kota Arerqipoutpuo//:sdyy) SuUONIPUO| puv SULA], 9) 99S *[PZOZ/80/Z1] Uo Arerqry] ourpuO AZIIAA Z9' TuNnd MJoquioul-<yajoqqrys> Aq E¢r7z'sul/ZOOT OL /lop/wos AayIM Areiqipourpuo//:sdyy Wo, popeojumog ‘T ‘OZOT ‘86S9ELSI
+ Dynamic Networks of Negative Emotions and PTSD 75
+
+negative emotions in the PCL-5 overlapped with the assessment
+of individual negative emotions, we removed this item from the
+NACM subscale in the current study.
+
+Negative emotions. Ten negative emotions were assessed
+using five items, related to sadness, guilt, fear, anger, and loneli-
+ness, from a Hebrew version of the Manual for the Positive and
+Negative Affect Schedule-—Expanded Form (PANAS-X; Wat-
+son & Clark, 1999), which is used extensively in ESM studies
+(South & Miller, 2014); four items, related to shame, stress,
+helplessness, and feeling overwhelmed, used in an ESM study
+of motor vehicle accident survivors (Carlson et al., 2016); and
+one item related to despair that was added by the research
+team. Participants were asked to rate the extent to which they
+had experienced each emotion since they answered the last
+questionnaire on a 4-point Likert scale ranging from 0 (not at
+all) to 3 (very much). This measure showed composite reliabil-
+ity scores of .87, p < .0O1, within-person and .96, p < .OO1,
+between-person (Gelkopf et al., 2017).
+
+Data Analysis
+
+Network diagrams depict variables (“nodes”’) and the associ-
+ations among them, represented by links (“edges’’) connecting
+the nodes. In the current study, the 14 nodes represented the
+four DSM-5 PTSD clusters and 10 negative emotions. We
+focused on the intercommunity edges between PTSD clusters
+and negative emotions (i.e., the “bridge connections”; Heeren,
+Jones, & McNally, 2018) rather than the intracommunity edges
+among PTSD symptom nodes or among negative emotion
+nodes. Note that we use “community” here conceptually and
+not as statistically derived groups of variables.
+
+Dynamic network analysis uses a multilevel vector autore-
+gression (multilevel VAR) model, in which each variable is
+regressed on all the variables in the network from the previous
+assessment while using a multilevel structure to account
+for clustering within individuals (Bringmann et al., 2013;
+Epskamp et al., 2018). This model produces three networks:
+temporal, contemporaneous, and between-persons. In the
+current study, the temporal network is a directed network
+of regression coefficients depicting the lagged associations
+between PTSD clusters and negative emotions from one time
+point to the next time point (Epskamp et al., 2017, 2018).
+This shows whether a deviation from a person’s mean in one
+variable predicts a deviation from a person’s mean in another
+variable at the next measurement occasion, for which Granger-
+causal connections (Granger, 1969) between symptoms can
+be inferred (Bringmann et al., 2013; Schuurman, Ferrer, de
+Boer-Sonnenschein, & Hamaker, 2016). In other words, the
+temporal network shows how well each variable predicts other
+variables at the next measurement (Borsboom & Cramer,
+2013). This approach allowed us to identify which negative
+emotions and which PTSD clusters were most predictive of
+other variables at the next assessment (1.e., high “out-strength’’)
+and which negative emotions and PTSD clusters were most
+
+predicted by other nodes at the previous assessment (i.e., high
+“im-strength’’).
+
+The contemporaneous network is a Gaussian graphical model
+(GGM) based on the covariance of the residuals from the VAR
+model, which estimates the within-time window associations
+of variables, somewhat akin to a multilevel partial correlation
+network, after controlling for temporal effects (Epskamp et al.,
+2017). In the current study, this showed the within-measurement
+associations between negative emotions and PTSD clusters.
+Lastly, the between-persons network depicts the covariance be-
+tween stationary means of different individuals (Epskamp et al.,
+2018). In this paper, we focus on the temporal and contempo-
+raneous networks; the between-persons network is shown in
+Supplementary Figure S1.
+
+Temporal, contemporaneous, and between-persons networks
+were estimated by a two-step multilevel VAR using the mlVAR
+package in R (see Supplementary Materials for codes) and the
+networktools R package to calculate bridge strength for these
+networks. We estimated forced random effects of incoming
+edges to a single node (temporal) or edges connected to the
+same node (contemporaneous) to be orthogonal, as has been
+recommended to do in networks with more than eight nodes
+(Epskamp et al., 2018). In the contemporaneous and between-
+persons networks, we used the “AND rule’; in other words,
+an edge was included in the final model only if both regres-
+sions on which the edge was based were significant at an alpha
+value of .05 (Epskamp et al., 2018). For these networks, we
+first estimated the full networks with all possible associations,
+then removed all intracommunity connections from the graphs
+to display only the intercommunity bridge connections. The
+layout of the networks is the average layout of the full contem-
+poraneous and temporal graphs, each of which were based on
+the Fruchterman-Reingold algorithm.
+
+Because our two communities of interest (1.e., negative emo-
+tions and PTSD symptom clusters) differ in their number of
+constituent nodes (10 and 4, respectively), the range of poten-
+tial bridge strength values for nodes differs between communi-
+ties (O-4 vs. 0-10). For negative emotions, there are only four
+potential bridge connections and, thus, a maximum possible
+bridge strength of 4. In contrast, each PTSD symptom cluster
+can have up to 10 bridge connections and a maximum possible
+bridge strength of 10. To facilitate the comparison between the
+findings for PTSD symptoms and emotions, we adjusted the
+bridge strength values for the PTSD cluster nodes by multi-
+plying them by 0.4, leading to the same 0-4 range as negative
+emotions. These adjustments were made for contemporaneous
+bridge strength as well as for temporal bridge in-strength and
+out-strength.
+
+Results
+
+The average per-person mean, standard deviation, and range
+of PTSD cluster and negative emotion scores are shown in
+Supplementary Table S2. The full temporal network and the
+bridge connections temporal network are shown in Figure 1.
+
+Journal of Traumatic Stress DOI 10.1002/jts. Published on behalf of the International Society for Traumatic Stress Studies.
+
+QSUDOI'] SUOWIWUOD saTVaI_ s[qvordde ayy Aq pousoaos are soporjsie WO ‘asn Jo sarns 10 Aresqry] oulpuO Aa[I AA UO (SUOTIIPUOD-pue-suTIA} WO Kota Arerqipoutpuo//:sdyy) SuUONIPUO| puv SULA], 9) 99S *[PZOZ/80/Z1] Uo Arerqry] ourpuO AZIIAA Z9' TuNnd MJoquioul-<yajoqqrys> Aq E¢r7z'sul/ZOOT OL /lop/wos AayIM Areiqipourpuo//:sdyy Wo, popeojumog ‘T ‘OZOT ‘86S9ELSI
+ 716 Greene et al.
+
+Full temporal network
+
+Bridge connections temporal network
+
+© Negative emotions
+
+© PTSD clusters
+
+Figure I. Temporal networks of negative emotions and posttraumatic stress disorder (PTSD) symptom clusters. Arrows indicate the direction of the temporal
+(lagged) association. Blue edges denote positive associations, red edges negative associations between nodes. Edge thickness represents edge weight (i.e., thicker
+edges indicate stronger associations). Curved arrows that exit and enter the same node indicate autoregressive associations (a node predicts itself). NACM =
+
+negative alterations in cognitions and mood.
+
+Bridge temporal in-strength (the extent to which nodes from one
+community are predicted by nodes from the other community at
+the previous assessment) and bridge temporal out-strength (the
+extent to which nodes from one community predicted nodes in
+the other community at the following assessment) are depicted
+in Figure 2.
+
+Negative emotions were predicted by the PTSD symptom
+clusters more than vice versa, with bridge in-strength for sad-
+ness (0.22), stress (0.19), fear (0.17), and loneliness (0.17)
+all higher than bridge in-strength for PTSD symptom clusters
+(0.02, 0.04, 0.04, and 0.07 for intrusions, avoidance, NACM,
+and arousal, respectively). The bridge out-strength values clar-
+ify this general trend: Arousal had the highest out-strength of all
+nodes (0.37), with the other PTSD symptom clusters far lower
+(0.07, 0.05, and 0 for NACM, avoidance, and intrusions, respec-
+tively). Specifically, arousal predicted all the negative emotions
+except for guilt and shame. Among negative emotions, fear
+(0.26) and sadness (0.13) both predicted PTSD symptom clus-
+ters at the next measurement occasion, as did stress, albeit
+to a lower extent (0.04). Fear predicted all four PTSD symp-
+tom clusters whereas sadness predicted arousal and NACM. It
+should be noted that the only negative association identified
+in the temporal bridge network was from stress to avoidance
+(—0.04), and the association was weak.
+
+Figure 3 shows the full contemporaneous network and the
+contemporaneous network depicting only the bridge connec-
+tions, and Figure 4 shows the adjusted bridge strength con-
+temporaneous associations between the PTSD symptom clus-
+ters and the negative emotions. As shown in Figure 4, NACM
+had the most connections to negative emotions, with a bridge
+
+strength of 0.20; this was followed by arousal (0.17) and intru-
+sions (0.04). Avoidance was not significantly associated with
+negative emotions. The negative emotions with the strongest
+contemporaneous bridge connections to the PTSD symptom
+clusters were sadness (0.21), stress (0.17), loneliness (0.14),
+anger (0.13), and fear (0.10).
+
+The specific negative emotions with contemporaneous con-
+nections to the NACM cluster were sadness (0.16), loneliness
+(0.14), despair (0.08), anger (0.07), and helplessness (0.05).
+The negative emotions related to arousal were stress (0.12), fear
+(0.10), overwhelmed (0.08), anger (0.07), and sadness (0.05).
+The intrusions cluster was specifically associated with shame
+(0.05) and stress (0.04). Notably, all negative emotions except
+for guilt were directly associated with at least one PTSD symp-
+tom cluster.
+
+Discussion
+
+In the current study, we investigated the dynamic network
+associations between negative emotions and PTSD symptom
+clusters during a period of conflict exposure. We found that
+PTSD symptom clusters exhibited direct temporal and contem-
+poraneous associations with a wide range of negative emotions,
+including anger, despair, fear, helplessness, loneliness, a feel-
+ing of being overwhelmed, sadness, shame, and stress. These
+findings are broadly consistent with recent theory and research
+emphasizing the importance of negative emotions beyond fear
+alone in the PTSD syndrome. Across networks, negative emo-
+tions were primarily related to the NACM and arousal clusters,
+whereas negative emotions showed only weak or no direct con-
+nections to the intrusions and avoidance clusters.
+
+Journal of Traumatic Stress DOI 10.1002/jts. Published on behalf of the International Society for Traumatic Stress Studies.
+
+QSUDOI'] SUOWIWUOD saTVaI_ s[qvordde ayy Aq pousoaos are soporjsie WO ‘asn Jo sarns 10 Aresqry] oulpuO Aa[I AA UO (SUOTIIPUOD-pue-suTIA} WO Kota Arerqipoutpuo//:sdyy) SuUONIPUO| puv SULA], 9) 99S *[PZOZ/80/Z1] Uo Arerqry] ourpuO AZIIAA Z9' TuNnd MJoquioul-<yajoqqrys> Aq E¢r7z'sul/ZOOT OL /lop/wos AayIM Areiqipourpuo//:sdyy Wo, popeojumog ‘T ‘OZOT ‘86S9ELSI
+ Dynamic Networks of Negative Emotions and PTSD 77
+
+Bridge In-strength
+
+sadness
+
+shame -
+
+despair
+
+guilt -
+
+fear -
+
+anger -
+
+lonely
+
+stress
+
+helpless -
+
+overwhelmed
+
+intrusions
+
+avoidance -
+
+NACM -
+
+arousal
+
+0.00 0.05 0.10 0.15
+
+0.20
+
+Bridge Out-strength
+
+-
+a
+
+-
+
+-
+
+,
+
+=~
+
+00 0.1 02 03
+
+Figure 2. Temporal bridge in-strength and out-strength. NACM = negative alterations in cognitions and mood.
+
+Although this study was largely exploratory, we had two
+broad hypotheses. First, we anticipated that negative emotions
+would be more strongly connected to the NACM cluster than to
+the other PTSD symptom clusters, both within and across time.
+Our results were not fully consistent with this hypothesis. In the
+contemporaneous network, the NACM cluster had connections
+to sadness, helplessness, anger, despair, and loneliness; how-
+
+ever, arousal exhibited comparable connections. Furthermore,
+in the temporal network, negative emotions were more strongly
+connected to the arousal cluster than to the NACM cluster.
+Although the NACM cluster predicted only sadness and lone-
+liness and was predicted only by fear and sadness, the arousal
+cluster predicted all the negative emotions except guilt and
+shame, and it was predicted by fear and sadness.
+
+Journal of Traumatic Stress DOI 10.1002/jts. Published on behalf of the International Society for Traumatic Stress Studies.
+
+QSUDOI'] SUOWIWUOD saTVaI_ s[qvordde ayy Aq pousoaos are soporjsie WO ‘asn Jo sarns 10 Aresqry] oulpuO Aa[I AA UO (SUOTIIPUOD-pue-suTIA} WO Kota Arerqipoutpuo//:sdyy) SuUONIPUO| puv SULA], 9) 99S *[PZOZ/80/Z1] Uo Arerqry] ourpuO AZIIAA Z9' TuNnd MJoquioul-<yajoqqrys> Aq E¢r7z'sul/ZOOT OL /lop/wos AayIM Areiqipourpuo//:sdyy Wo, popeojumog ‘T ‘OZOT ‘86S9ELSI
+ 78 Greene et al.
+
+Full contemporaneous network
+
+® Negative emotions
+© PTSD clusters
+
+Bridge connections contemporaneous network
+
+Figure 3. Contemporaneous networks of negative emotions and posttraumatic stress disorder (PTSD) symptom clusters. Blue edges denote positive associations
+between nodes; there are no negative edges. Edge thickness represents the degree of association (1.e., thicker edges represent a stronger association). NACM =
+
+negative cognitions in cognitions and mood.
+
+Our second hypothesis was that negative emotions would
+be more predictive of PTSD clusters than vice versa. Inter-
+estingly, the opposite pattern of results emerged, largely due
+to the observation that arousal strongly predicted all negative
+emotions except shame and guilt. Perhaps the conceptualiza-
+tion of arousal should be expanded to represent a general state
+of hypersensitivity to stress exposure; this could manifest as ex-
+ternalizing behaviors, such as irritability or risk taking, but also
+in feeling overwhelmed, helpless, or in despair in the face of
+traumatic stimuli. Previous longitudinal studies have found that
+arousal is a strong predictor of other PTSD symptoms (Schell,
+Marshall, & Jaycox, 2004; Pietrzak et al., 2014; Solomon,
+Horesh, & Ein-Dor, 2009). Additionally, previous studies have
+identified peritraumatic physiological arousal, such as increased
+heart and respiration rates, as predictors of later PTSD (Bryant,
+Creamer, O’ Donnell, Silove, & McFarlane, 2008; Morris, Hell-
+man, Abelson, & Rao, 2016; Shalev et al., 1998). The current
+findings suggest that one mechanism by which arousal may
+confer later risk 1s by heightening the experience of negative
+peritraumatic emotions, which themselves have been linked to
+a higher risk for PTSD. Alternatively, it may be that a higher
+level of peritraumatic emotion is epiphenomenal, associated
+with later PTSD only by virtue of its association with elevated
+peritraumatic arousal, which may confer risk through other
+mechanisms, such as heightened consolidation of fear memo-
+ries (Bryant et al., 2008).
+
+In that context, it is important to emphasize that this study
+took place during an extended period of trauma exposure; thus,
+the current findings, particularly regarding arousal, may be
+more representative of peritraumatic rather than posttraumatic
+phenomena. It should also be noted that the PTSD arousal clus-
+ter includes a range of symptoms and is not a direct assessment
+
+of elevated physiological arousal nor the type of arousal empha-
+sized in the “core affect” of constructionist theories of emotion
+(Russell, 2003). In future research, it may be informative to
+incorporate ambulatory assessment of psychophysiology to fur-
+ther investigate the associations between peritraumatic arousal
+and negative emotions.
+
+Several other noteworthy findings help generate hypotheses
+for future work. First, among the negative emotions in the tem-
+poral network, fear was most predictive of PTSD clusters in
+general and it predicted all four DSM-5 symptom clusters. This
+finding is consistent with prior studies that have identified peri-
+traumatic fear as a predictor of subsequent PTSD (Badour et al.,
+2012; Lancaster et al., 2011). Future studies could investigate
+whether individuals who exhibit strong associations between
+fear and concurrent acute stress symptoms are more likely to
+go on to develop PTSD.
+
+Second, sadness was the emotion with the highest bridge
+strength in the contemporaneous network, and it had high bridge
+in-strength in the temporal network. This indicates that sadness
+had strong within—-time period associations with the PTSD
+symptom clusters and was well predicted by PTSD symptom
+clusters at the previous assessment. Studies have previously
+suggested that peritraumatic sadness is a predictor of subse-
+quent PTSD (Hathaway et al., 2010) and depression (Creamer,
+McFarlane, & Burgess, 2005; Dalgleish & Power, 2004; Rizvi,
+Kaysen, Gutner, Griffin, & Resick, 2008). Peritraumatic sad-
+ness may be a bridge symptom between PTSD and depression
+(Afzali et al., 2017) whereby traumatic stress reactions could
+trigger sadness, which in turn develops into depression. In
+addition, some other negative emotions, such as fear, despair,
+stress, helplessness, and loneliness, could indicate the presence
+of mental disorders often comorbid with PTSD, such as
+
+Journal of Traumatic Stress DOI 10.1002/jts. Published on behalf of the International Society for Traumatic Stress Studies.
+
+QSUDOI'] SUOWIWUOD saTVaI_ s[qvordde ayy Aq pousoaos are soporjsie WO ‘asn Jo sarns 10 Aresqry] oulpuO Aa[I AA UO (SUOTIIPUOD-pue-suTIA} WO Kota Arerqipoutpuo//:sdyy) SuUONIPUO| puv SULA], 9) 99S *[PZOZ/80/Z1] Uo Arerqry] ourpuO AZIIAA Z9' TuNnd MJoquioul-<yajoqqrys> Aq E¢r7z'sul/ZOOT OL /lop/wos AayIM Areiqipourpuo//:sdyy Wo, popeojumog ‘T ‘OZOT ‘86S9ELSI
+ Dynamic Networks of Negative Emotions and PTSD 79
+
+Bridge Strength
+
+sadness -
+
+shame -
+
+despair -
+
+guilt-
+
+fear-
+
+anger -
+
+lonely -
+
+stress -
+
+helpless -
+
+overwhelmed -
+
+intrusions -
+
+avoidance -
+
+NACM -
+
+arouSal -
+
+0.00 0.05 0.10 0.15 0.20
+
+Figure 4. Contemporaneous bridge strength between negative emotions and
+posttraumatic stress disorder (PTSD) symptom clusters. NACM = negative
+alterations in cognitions and mood.
+
+depression. Accordingly, edges between these negative emo-
+tions and PTSD symptom clusters could indicate paths by
+which PTSD is associated with these commonly comorbid
+conditions.
+
+Third, comparisons of negative emotion bridge in-strength
+versus out-strength in the temporal networks revealed some
+interesting differences. For example, both feeling stressed and
+feeling lonely had high bridge in-strength but low bridge out-
+
+strength. In other words, they were predicted by PTSD symptom
+clusters rather than being predictive of the clusters. Specifically,
+stress was predicted by arousal and avoidance, and loneliness
+was predicted by arousal and NACM. This suggests that over
+short time frames, such as the 12-hr lag implemented in the
+current study, feelings of stress and a fleeting sense of loneliness
+could be outcomes of trauma reactions more so than risk factors.
+Whether this is the case in other samples and over shorter or
+longer time frames requires future follow-up work.
+
+Finally, guilt had no bridge connections to the PTSD clus-
+ters in either the contemporaneous or temporal network. Al-
+though some previous studies have found peritraumatic guilt
+to be associated with subsequent PTSD (Dewey et al., 2014;
+Lancaster & Larsen, 2016), this finding is consistent with prior
+studies that have found that guilt is often not associated with
+PTSD symptoms or psychopathology more broadly, after con-
+trolling for the effects of shame (Robinaugh & McNally, 2010;
+Tangney, Wagner, & Gramzow, 1992). Indeed, we found that
+shame was contemporaneously associated with intrusions and
+was prospectively predicted by avoidance. The lack of associa-
+tion between guilt and PTSD symptoms might also be explained
+by the specific context of the current study, which took place
+among civilians during a period of conflict exposure. In this sit-
+uation, individuals may be less likely to make a guilt appraisal
+and more likely to blame others for the event (Greene, 2018a),
+whereas guilt may play a more important role following other
+types of trauma exposure, such as sexual assault (Amstadter
+& Vernon, 2008) or combat exposure (Litz et al., 2009). Fi-
+nally, it should be noted that guilt, along with shame, had the
+lowest per-person variances of the network variables, which
+could have contributed to relatively lower connection strength
+(Terluin, de Boer, & de Vet, 2016).
+
+There were some study limitations. Ideally, we would have
+modeled each of the 20 PTSD symptoms separately along with
+the 10 negative emotions. Unfortunately, this model cannot, at
+present, handle a large number of nodes, unless data for many
+hundreds of participants are available (Fried & Cramer, 2016).
+Further, it is not clear what sample size is needed to sufficiently
+power these kinds of studies, as power calculation is not yet
+available for mlVAR and related time-series models. More-
+over, although we consider modeling the DSM-5 PTSD clus-
+ters a conceptually appropriate way for reducing PTSD items
+into clusters, recent research suggests many different statistical
+groupings, and findings may differ across different symptom
+groupings (Armour et al., 2015).
+
+It should also be noted that we assessed symptoms and emo-
+tions peritraumatically during the first and second month of a
+conflict, and findings may not generalize to the associations
+between emotions and PTSD symptom clusters following the
+exposure period or to other types of trauma exposure, espe-
+cially given that both peri- and posttraumatic emotions differ
+by trauma type (Creamer et al., 2005; Kaysen, Morris, Rizvi,
+& Resick, 2005). We recommend that future studies conduct
+ESM during or following various kinds of trauma exposure to
+investigate whether the current network structure replicates.
+
+Journal of Traumatic Stress DOI 10.1002/jts. Published on behalf of the International Society for Traumatic Stress Studies.
+
+QSUDOI'] SUOWIWUOD saTVaI_ s[qvordde ayy Aq pousoaos are soporjsie WO ‘asn Jo sarns 10 Aresqry] oulpuO Aa[I AA UO (SUOTIIPUOD-pue-suTIA} WO Kota Arerqipoutpuo//:sdyy) SuUONIPUO| puv SULA], 9) 99S *[PZOZ/80/Z1] Uo Arerqry] ourpuO AZIIAA Z9' TuNnd MJoquioul-<yajoqqrys> Aq E¢r7z'sul/ZOOT OL /lop/wos AayIM Areiqipourpuo//:sdyy Wo, popeojumog ‘T ‘OZOT ‘86S9ELSI
+ 80 Greene et al.
+
+Additionally, although ESM reduces recall bias for peritrau-
+matic reactions, the 12-hr gap between measurements in the
+current study meant that participants still had to make a retro-
+spective assessment. Future studies could reduce the gap be-
+tween measurements or alter the question to ask “how do you
+feel right now?” to capture potentially fleeting emotions and
+states in an even more time-sensitive and accurate manner. Fi-
+nally, the multilevel VAR network analysis only models linear
+processes and assumes stationarity, treating the properties of
+the network as constant over time (Epskamp et al., 2018). Mod-
+els that allow for dynamic processes to change over time are
+in development, but they require more assessment points than
+were available in the present study (Haslbeck, Bringmann, &
+Waldorp, 2017).
+
+This study provides novel insights into the dynamic relations
+between specific negative emotions and PTSD symptom clus-
+ters during a period of ongoing trauma exposure. Our hypothe-
+ses, which were based on prior cross-sectional and longitudi-
+nal research, were not well supported, which emphasizes the
+need for intensive longitudinal assessment studies. Our findings
+highlight the potentially important role of arousal for negative
+emotions and suggest that during ongoing trauma, the emotions
+of fear, sadness, stress, and loneliness may be especially asso-
+ciated with PTSD clusters. More broadly, our findings suggest
+that a wide range of negative emotions may play a role in the
+early stages of the PTSD syndrome. Further research is needed
+to investigate whether these findings replicate in other sam-
+ples and contexts. The current findings are not, by themselves,
+sufficient to guide treatment decisions, and researchers have
+increasingly recognized that the treatment implications of find-
+ings from network analysis are unlikely to be simple or straight-
+forward (Fried et al., 2017). Nonetheless, it may be valuable to
+investigate targeting arousal along with fear in phase-orientated
+interventions in situations of ongoing trauma. Initially focus-
+ing on helping individuals build regulation capacity and thus
+reduce their levels of arousal may have implications for amelio-
+rating subsequent PTSD symptoms and a wide range of negative
+emotions.
+
+References
+
+Afzali, M. H., Sunderland, M., Teesson, M., Carragher, N., Mills, K., &
+Slade, T. (2017). A network approach to the comorbidity between post-
+traumatic stress disorder and major depressive disorder: The role of
+overlapping symptoms. Journal of Affective Disorders, 208, 490-496.
+https://doi.org/10.1016/j.jad.2016.10.037
+
+American Psychiatric Association. (1980). Diagnostic and statistical manual
+of mental disorders (3rd ed.). Washington, DC: Author.
+
+American Psychiatric Association. (2013). Diagnostic and statistical manual
+of mental disorders (Sth ed.). Washington, DC: Author.
+
+Amstadter, A. B., & Vernon, L. L. (2008). Emotional reactions during and after
+
+trauma: A comparison of trauma types. Journal of Aggression, Maltreatment,
+& Trauma, 16, 391-408. https://doi.org/10.1080/10926770801926492
+
+Armour, C., Fried, E., Deserno, M., Tsai, J., & Pietrzak, R. (2017). A
+network analysis of DSM-S5 posttraumatic stress disorder symptoms and
+
+correlates in US military veterans. Journal of Anxiety Disorders, 45, 49-59.
+https://doi.org/10.1016/j.janxdis.2016.11.008
+
+Armour, C., Tsai, J., Durham, T., Charak, R., Biehn, T., Elhai, J.,
+& Pietrzak, R. H. (2015). Dimensional structure of DSM-5 posttrau-
+matic stress symptoms: Support for a hybrid Anhedonia and External-
+izing Behaviors model. Journal of Psychiatric Research, 61, 106-113.
+https://doi.org/10.1016/j.jpsychires.2014.10.012
+
+Badour, C. L., Bown, S., Adams, T. G., Bunaciu, L., & Feldner, M. T. (2012).
+Specificity of fear and disgust experienced during traumatic interpersonal
+victimization in predicting posttraumatic stress and contamination-based
+obsessive—compulsive symptoms. Journal of Anxiety Disorders, 26, 590—
+598. https://doi.org/10.1016/j.janxdis.2012.03.001
+
+Blevins, C. A., Weathers, F. W., Davis, M. T., Witte, T. K., & Domino, J.
+L. (2015). The Posttraumatic Stress Disorder Checklist for DSM-5 (PCL-
+5): Development and initial psychometric evaluation. Journal of Traumatic
+Stress, 28, 489-498. https://doi.org/10.1002/jts.22059
+
+Bodner, N., Kuppens, P., Allen, N. B., Sheeber, L. B., & Ceulemans, E. (2017).
+Affective family interactions and their associations with adolescent depres-
+sion: A dynamic network approach. Development and Psychopathology,
+1-15. https://doi.org/10.1017/s0954579417001699
+
+Bolger, N., & Laurenceau, J. (2013). Intensive longitudinal methods: An intro-
+duction to diary and experience sampling research. New York, NY: Guilford
+Press.
+
+Borsboom, D. (2017). A network theory of mental disorders. World Psychiatry,
+16, 5-13. https://doi.org/10.1002/wps.20375
+
+Borsboom, D., & Cramer, A. O. (2013). Network analysis: An integra-
+tive approach to the structure of psychopathology. Annual Review of
+Clinical Psychology, 9, 91-121. https://doi.org/10.1146/annurev-clinpsy-
+050212-185608
+
+Bos, F. M., Snippe, E., de Vos, S., Hartmann, J. A., Simons, C. J., van der
+Krieke, L., ... Wichers, M. (2017). Can we jump from cross-sectional
+to dynamic interpretations of networks? Implications for the network per-
+spective in psychiatry. Psychotherapy and Psychosomatics, 86, 175-177.
+https://doi.org/10.1159/000453583
+
+Bringmann, L. F.,, Vissers, N., Wichers, M., Geschwind, N., Kuppens, P.,
+Peeters, F, ... Tuerlinckx, F. (2013). A network approach to psychopathol-
+ogy: New insights into clinical longitudinal data. PloS' one, 8(4), e60188.
+https://doi.org/10.1371/journal.pone.0060188
+
+Brown, W. J., Bruce, S. E., Buchholz, K. R., Artime, T. M., Hu, E., & Sheline,
+Y. I. (2016). Affective dispositions and PTSD symptom clusters in female
+interpersonal trauma survivors. Journal of Interpersonal Violence, 31, 407—
+424. https://doi.org/10.1177/08862605 14555866
+
+Bryant, R. A., Creamer, M., O’Donnell, M., Forbes, D., McFar-
+lane, A. C., Silove, D., & Hadzi-Pavlovic, D. (2016). Acute and
+chronic posttraumatic stress symptoms in the emergence of posttrau-
+matic stress disorder: A network analysis. JAMA Psychiatry, 74, 135.
+https://doi.org/10.1001/jamapsychiatry.20 16.3470
+
+Bryant, R. A., Creamer, M., O’Donnell, M., Silove, D., & McFarlane, A. C.
+(2008). A multisite study of initial respiration rate and heart rate as predictors
+of posttraumatic stress disorder. The Journal of Clinical Psychiatry, 69,
+1694-1701. https://doi.org/10.4088/jcp.v69n1 104
+
+Bylsma, L. M., Taylor-Clift, A., & Rottenberg, J. (2011). Emotional reactiv-
+ity to daily events in major and minor depression. Journal of Abnormal
+Psychology, 120, 155. https://doi.org/10.1037/a0021662
+
+Carlson, E. B., Field, N. P., Ruzek, J. I., Bryant, R. A., Dalenberg, C. L,
+Keane, T. M., & Spain, D. A. (2016). Advantages and psychometric val-
+idation of proximal intensive assessments of patient reported outcomes
+collected in daily life. Quality of Life Research, 25, 507-516. https://doi.
+org/10.1007/s11136-015-1170-9
+
+Journal of Traumatic Stress DOI 10.1002/jts. Published on behalf of the International Society for Traumatic Stress Studies.
+
+QSUDOI'] SUOWIWUOD saTVaI_ s[qvordde ayy Aq pousoaos are soporjsie WO ‘asn Jo sarns 10 Aresqry] oulpuO Aa[I AA UO (SUOTIIPUOD-pue-suTIA} WO Kota Arerqipoutpuo//:sdyy) SuUONIPUO| puv SULA], 9) 99S *[PZOZ/80/Z1] Uo Arerqry] ourpuO AZIIAA Z9' TuNnd MJoquioul-<yajoqqrys> Aq E¢r7z'sul/ZOOT OL /lop/wos AayIM Areiqipourpuo//:sdyy Wo, popeojumog ‘T ‘OZOT ‘86S9ELSI
+ Dynamic Networks of Negative Emotions and PTSD 81
+
+Choi, K. W., Batchelder, A. W., Ehlinger, P. P., Safren, S. A., & O’Cleirigh, C.
+(2017). Applying network analysis to psychological comorbidity and health
+behavior: Depression, PTSD, and sexual risk in sexual minority men with
+
+trauma histories. Journal of Consulting and Clinical Psychology, 85, 1158.
+https://doi.org/10.1037/ccp000024 1
+
+Chun, C. A. (2016). The expression of posttraumatic stress symptoms in daily
+life: A review of experience sampling methodology and daily diary stud-
+ies. Journal of Psychopathology and Behavioral Assessment, 38, 406—420.
+https://doi.org/10.1007/s 10862-016-9540-3
+
+Cohn, A., Hagman, B. T., Moore, K., Mitchell, J., & Ehlke, S. (2014). Does
+negative affect mediate the relationship between daily PTSD symptoms and
+daily alcohol involvement in female rape victims? Evidence from 14 days of
+interactive voice response assessment. Psychology of Addictive Behaviors,
+28, 114-126. https://doi.org/10.1037/a0035725
+
+Creamer, M., McFarlane, A. C., & Burgess, P. (2005). Psychopathology follow-
+ing trauma: The role of subjective experience. Journal of Affective Disorders,
+86(2-3), 175-182. https://doi.org/10.1016/j.jad.2005.01.015
+
+Dalgleish, T., & Power, M. J. (2004). Emotion-specific and emotion-non-
+specific components of posttraumatic stress disorder (PTSD): Implications
+for a taxonomy of related psychopathology. Behaviour Research and Ther-
+apy, 42, 1069-1088. https://doi.org/10.1016/j.brat.2004.05.001
+
+Dewey, D., Schuldberg, D., & Madathil, R. (2014). Do peritraumatic
+emotions differentially predict PTSD symptom clusters? Initial ev-
+idence for emotion specificity. Psychological Reports, 115, 1-12.
+https://doi.org/10.2466/16.02.pr0.115c11z7
+
+Ebner-Priemer, U. W., & Trull, T. J. (2009). Ecological momentary assessment
+of mood disorders and mood dysregulation. Psychological Assessment, 21,
+463-475. https://doi.org/10.1037/a0017075
+
+Ekman, P. E., & Davidson, R. J. (1994). The nature of emotion: Fundamental
+questions. New York, NY: Oxford University Press.
+
+Epskamp, S., & Fried, E. (2018). A tutorial on regularized partial cor-
+relation networks. Psychological Methods, 23, 617-634. https://doi.org/
+10.1037/met0000167
+
+Epskamp, S., van Borkulo, C. D., van der Veen, D. C., Servaas, M. N.,
+Isvoranu, A. -M., Riesse, H., & Cramer, A. O. J. (2017). Personalized
+network modeling in psychopathology: The importance of contemporane-
+ous and temporal connections. Clinical Psychological Science, 6, 416—427.
+https://doi.org/10.1177/2167702617744325
+
+Epskamp, S., Waldorp, L., Mottus, R., & Borsboom, D. (2018).
+The Gaussian graphical model in cross-sectional and_ time-series
+data. Multivariate Behavioral Research, 53, 452-480. https://doi.org/
+10.1080/00273171.2018.1454823
+
+Fisher, A. J., Reeves, J. W., Lawyer, G., Medaglia, J. D., & Rubel, J.
+A. (2017). Exploring the idiographic dynamics of mood and anxiety
+via network analysis. Journal of Abnormal Psychology, 126, 1044-1056.
+https://doi.org/10.1037/abn00003 1 1
+
+Foa, E. B., & Kozak, M. J. (1986). Emotional processing of fear: Ex-
+posure to corrective information. Psychological Bulletin, 99, 20-35.
+https://doi.org/10.1037//0033-2909.99.1.20
+
+Fried, E. I., & Cramer, A. O. (2017). Moving forward: Challenges and
+directions for psychopathological network theory and methodology. Per-
+spectives on Psychological Science, 12, 999-1020. https://doi.org/10.1177/
+1745691617705892
+
+Fried, E. I., Eidhof, M. B., Palic, S., Costantini, G., Huisman-van
+Dik, H. M., Bockting, C. L. H., Karstoft, K.-I. (2017). Repli-
+cability and generalizability of PTSD networks: A cross-cultural mul-
+tisite study of PTSD symptoms in four trauma patient samples.
+Clinical Psychological Science, 6, 335-351. https://doi.org/10.1177/
+2167702617745092
+
+Geldhof, G. J., Preacher, K. J., & Zyphur, M. J. (2014). Reliability estima-
+tion in a multilevel confirmatory factor analysis framework. Psychological
+Methods, 19, 72-91. https://doi.org/10.1037/a0032138
+
+Gelkopf, M., Lapid Pickman, L., Grinapol, S., Werbeloff, N., Carlson, E. B.,
+& Greene, T. (2017). Peritraumatic reaction courses during war: Gender,
+mental health status, and exposure. Psychiatry: Interpersonal & Biological
+Processes, 80, 382-398. https://doi.org/10.1080/00332747.2017.1286893
+
+Granger, C. W. (1969). Investigating causal relations by econometric mod-
+els and cross-spectral methods. Econometrica: Journal of the Econometric
+Society, 37, 424-438. https://doi.org/10.2307/1912791
+
+Greene, T. (2018a). Blame, PTSD, and DSM-5: An urgent need for
+clarification. European Journal of Psychotraumatology, 9, 1468709.
+https://doi.org/10.1080/20008198.2018.1468709
+
+Greene, T. (2018b). Do acute dissociation reactions predict subsequent
+posttraumatic stress and growth? A prospective experience sampling
+method study. Journal of Anxiety Disorders, 57, 1-6. https://doi.org/
+10.1016/j.janxdis.2018.05.008
+
+Greene, T., Gelkopf, M., Epskamp, S., & Fried, E. (2018). Dynamic networks of
+PTSD symptoms during conflict. Psychological Medicine, 48, 2409-2417.
+https://doi.org/10.1017/s0033291718000351
+
+Greene, T., Gelkopf, M., Grinapol, S., Werbeloff, N., Carlson, E.B., & Lapid,
+L. (2017). Trajectories of traumatic stress symptoms during conflict: A
+latent class growth analysis. Journal of Affective Disorders, 220, 24-30.
+https://doi.org/10.1016/j.jad.2017.05.036
+
+Hamaker, E. (2012). Why researchers should think “within-person:” A paradig-
+matic rationale. In M. R. Mehl & T. S. Conner (Eds.), Handbook of re-
+search methods for studying daily life (pp. 43-61). New York, NY: Guilford
+Press.
+
+Haslbeck, J., Bringmann, L. F., & Waldorp, L. J. (2017). How to estimate
+time-varying vector autoregressive models? A comparison of two meth-
+ods. arXiv: 1711.05204v3. Retrieved from https://arxiv.org/pdf/1711.05204.
+pdf
+
+Hathaway, L. M., Boals, A., & Banks, J. B. (2010). PTSD symptoms
+and dominant emotional response to a traumatic event: An examina-
+tion of DSM-IV Criterion A2. Anxiety, Stress & Coping, 23, 119-126.
+https://doi.org/10.1080/10615800902818771
+
+Heeren, A., Jones, P. J., & McNally, R. J. (2018). Mapping network connectiv-
+ity among symptoms of social anxiety and comorbid depression in people
+with social anxiety disorder. Journal of Affective Disorders, 228, 75-82.
+https://doi.org/10.1016/j.jad.2017.12.003
+
+Kaysen, D., Morris, M. K., Rizvi, S. L., & Resick, P. A. (2005). Peritrau-
+matic responses and their relationship to perceptions of threat in female
+crime victims. Violence Against Women, 11, 1515-1535. https://doi.org/
+10.1177/1077801205280931
+
+Kunst, M., Winkel, F, & Bogaerts, S. (2011). Posttraumatic anger,
+recalled peritraumatic emotions, and PTSD in victims of violent
+crime. Journal of Interpersonal Violence, 26, 3561-3579. https://doi.org/
+10.1177/08862605 11403753
+
+Lancaster, S. L., & Larsen, S. E. (2016). Profiles of peritraumatic emo-
+tions. Journal of Aggression, Maltreatment & Trauma, 25, 1006-1018.
+https://doi.org/10.1080/10926771.2016.1219802
+
+Lancaster, S. L., Melka, S. E., & Rodriguez, B. F. (2011). Emotional predictors
+of PTSD symptoms. Psychological Trauma: Theory, Research, Practice, and
+Policy, 3, 313. https://doi.org/10.1037/a0022751
+
+Lapid Pickman, L., Greene, T., & Gelkopf, M. (2017). Sense of threat as
+a mediator of peritraumatic stress symptom development during wartime:
+An experience sampling study. Journal of Traumatic Stress, 30, 372-380.
+https://doi.org/10.1002/jts.22207
+
+Journal of Traumatic Stress DOI 10.1002/jts. Published on behalf of the International Society for Traumatic Stress Studies.
+
+QSUDOI'] SUOWIWUOD saTVaI_ s[qvordde ayy Aq pousoaos are soporjsie WO ‘asn Jo sarns 10 Aresqry] oulpuO Aa[I AA UO (SUOTIIPUOD-pue-suTIA} WO Kota Arerqipoutpuo//:sdyy) SuUONIPUO| puv SULA], 9) 99S *[PZOZ/80/Z1] Uo Arerqry] ourpuO AZIIAA Z9' TuNnd MJoquioul-<yajoqqrys> Aq E¢r7z'sul/ZOOT OL /lop/wos AayIM Areiqipourpuo//:sdyy Wo, popeojumog ‘T ‘OZOT ‘86S9ELSI
+ 82 Greene et al.
+
+Lee, D. A., Scragg, P., & Turner, S. (2001). The role of shame and guilt in
+traumatic events: A clinical model of shame-based and guilt-based PTSD.
+
+Psychology and Psychotherapy: Theory, Research and Practice, 74, 451-
+466. https://doi.org/10.1348/000711201161109
+
+Levine, L. J., & Safer, M. A. (2002). Sources of bias in memory for
+emotions. Current Directions in Psychological Science, 11, 169-173.
+https://doi.org/10.1111/1467-8721.00193
+
+Litz, B. T., Stein, N., Delaney, E., Lebowitz, L., Nash, W. P., Silva, C., &
+Maguen, S. (2009). Moral injury and moral repair in war veterans: A pre-
+liminary model and intervention strategy. Clinical Psychology Review, 29(8),
+695-706. https://doi.org/10.1016/j.cpr.2009.07.003
+
+Lydon-Staley, D. M., Xia, M., Mak, H. W., & Fosco, G. (2018). Adoles-
+cent emotion network dynamics in daily life and implications for de-
+pression. Journal of Abnormal Child Psychology, 1-13. https://doi.org/
+10.1007/s10802-018-0474-y
+
+Marshall-Berenz, E. C., Morrison, J. A., Schumacher, J. A., & Coffey, S. F.
+(2011). Affect intensity and lability: The role of posttraumatic stress disorder
+symptoms in borderline personality disorder. Depression and Anxiety, 28,
+393-399. https://doi.org/10.1002/da.20798
+
+McNally, R. J. (2016). Can network analysis transform psychopathol-
+ogy? Behaviour Research and Therapy, 86, 95-104. https://doi.org/
+10.1016/j.brat.2016.06.006
+
+McNally, R. J., Robinaugh, D. J.. Wu, G. W., Wang, L., Deserno, M. K.,
+& Borsboom, D. (2015). Mental disorders as causal systems a network
+approach to posttraumatic stress disorder. Clinical Psychological Science,
+3, 836-849. https://doi.org/10.1177/2167702614553230
+
+Mitchell, K. S., Wolf, E. J., Bovin, M. J., Lee, L. O., Green, J. D., Rosen, R.
+C., ... Marx, B. P. (2017). Network models of DSM-5 posttraumatic stress
+disorder: Implications for JCD-/1/. Journal of Abnormal Psychology, /26,
+355-366. https://doi.org/10.1037/abn0000252
+
+Molenaar, P. C., & Campbell, C. G. (2009). The new person-specific paradigm
+in psychology. Current Directions in Psychological Science, 18, 112-117.
+https://doi.org/10.1111/j.1467-8721.2009.01619.x
+
+Morris, M. C., Hellman, N., Abelson, J. L., & Rao, U. (2016). Cortisol,
+heart rate, and blood pressure as early markers of PTSD risk: A system-
+atic review and meta-analysis. Clinical Psychology Review, 49, 79-91.
+https://doi.org/10.1016/j.cpr.2016.09.001
+
+Myin-Germeys, I., van Os, J., Schwartz, J. E., Stone, A. A., & De-
+lespaul, P. A. (2001). Emotional reactivity to daily life stress in psy-
+chosis. Archives of General Psychiatry, 58, 1137-1144. https://doi.org/
+10.1001/archpsyc.58.12.1137
+
+Olatunji, B. O., Ciesielski, B. G., & Tolin, D. F. (2010). Fear and loathing: A
+meta-analytic review of the specificity of anger in PTSD. Behavior Therapy,
+41, 93-105. https://doi.org/10.1016/j.beth.2009.01.004
+
+Ozer, E. J., Best, S. R., Lipsey, T. L., & Weiss, D. S. (2003). Predictors of post-
+traumatic stress disorder and symptoms in adults: A meta-analysis. Psycho-
+logical Bulletin, 129, 52—73. https://doi.org/10.1037//0033-2909.129.1.52
+
+Pe, M. L., Kircanski, K., Thompson, R. J., Bringmann, L. F., Tuerlinckx,
+F,, Mestdagh, M., ... Gotlib, I. H. (2015). Emotion-network density in
+major depressive disorder. Clinical Psychological Science, 3, 292-300.
+https://doi.org/10.1177/2167702614540645
+
+Pietrzak, R. H., Feder, A., Schechter, C. B., Singh, R., Cancelmo, L.,
+Bromet, E. J., ... Southwick, S. M. (2014). Dimensional structure and
+course of post-traumatic stress symptomatology in World Trade Cen-
+ter responders. Psychological Medicine, 44, 2085-2098. https://doi.org/
+10.1017/s003329 1713002924
+
+Resick, P.A., & Miller, M.W. (2009). Posttraumatic stress disorder: Anxiety
+or traumatic stress disorder? Journal of Traumatic Stress, 22, 384-390.
+https://doi.org/10.1002/jts.20437
+
+Riggs, D. S., Dancu, C. V., Gershuny, B.S., Greenberg, D., & Foa, E. B. (1992).
+Anger and posttraumatic stress disorder in female crime victims. Journal of
+Traumatic Stress, 5, 613-625. https://doi.org/10.1007/bf00979229
+
+Rizvi, S. L., Kaysen, D., Gutner, C. A., Griffin, M. G., & Resick, P. A. (2008).
+Beyond fear: The role of peritraumatic responses in posttraumatic stress and
+depressive symptoms among female crime victims. Journal of Interpersonal
+Violence, 23, 853-868. https://doi.org/10.1177/08862605083 14851
+
+Robinaugh, D. J., & McNally, R. J. (2010). Autobiographical mem-
+ory for shame or guilt provoking events: Association with psycho-
+logical symptoms. Behaviour Research and Therapy, 48, 646-652.
+https://doi.org/10.1016/j.brat.2010.03.017
+
+Russell, J. A. (2003). Core affect and the psychological construc-
+tion of emotions. Psychological Review, 110, 145-172. https://doi.org/
+10.1037//0033-295x.110.1.145
+
+Schuurman, N. K., Ferrer, E., de Boer-Sonnenschein, M., & Hamaker,
+E. L. (2016). How to compare cross-lagged associations in a mul-
+tilevel autoregressive model. Psychological Methods, 21, 206-221.
+https://doi.org/10.1037/met0000062
+
+Schell, T. L., Marshall, G. N., & Jaycox, L. H. (2004). All symptoms are not
+created equal: The prominent role of hyperarousal in the natural course of
+posttraumatic psychological distress. Journal of Abnormal Psychology, 113,
+189-197. https://doi.org/10.1037/0021-843x.113.2.189
+
+Shalev, A. Y., Sahar, T., Freedman, S., Peri, T., Glick, N., Brandes,
+D., ... Pitman, R. K. (1998). A prospective study of heart rate re-
+sponse following trauma and the subsequent development of posttrau-
+matic stress disorder. Archives of General Psychiatry, 55, 553-559.
+https://doi.org/10.1001/archpsyc.55.6.553
+
+South, S. C., & Miller, M. L. (2014). Measuring momentary stress, affect, and
+cognition: Relationships with the internalizing and externalizing spectra.
+Journal of Psychopathology and Behavioral Assessment, 36(1), 93-104.
+https://doi.org/10.1007/s 10862-013-9365-2
+
+Souza, W. F., Figueira, I., Mendlowicz, M. V., Volchan, E., Mendonga-de-
+Souza, A. C., Duarte, A. F. A, ... Coutinho, E. S. F. (2008). Negative
+affect predicts posttraumatic stress symptoms in Brazilian volunteer United
+
+Nations peacekeepers in Haiti. The Journal of Nervous and Mental Disease,
+196, 852-855. https://doi.org/10.1097/nmd.0b013e31818b4682
+
+Solomon, Z., Horesh, D., & Ein-Dor, T. (2009). The longitudinal course
+of posttraumatic stress disorder symptom clusters among war veterans.
+Journal of Clinical Psychiatry, 70, 837-843. https://doi.org/10.4088/jcp.
+08m04347
+
+Spiller, T. R., Schick, M., Schnyder, U., Bryant, R. A., Nickerson, A., &
+Morina, N. (2017). Symptoms of posttraumatic stress disorder in a clinical
+sample of refugees: a network analysis. European Journal of Psychotrau-
+matology, 8(Sup2), 1318032. https://doi.org/10.1080/20008198.2017.131
+8032
+
+Tangney, J. P., Wagner, P., & Gramzow, R. (1992). Proneness to shame, prone-
+ness to guilt, and psychopathology. Journal of Abnormal Psychology, 101,
+469-478. https://doi.org/10.1037//0021-843x.101.3.469
+
+Terluin, B., de Boer, M. R., & de Vet, H. C. (2016). Differences in connection
+strength between mental symptoms might be explained by differences in
+variance: Reanalysis of network data did not confirm staging. PloS one,
+11(11), e0155205. https://doi.org/10.1371/journal.pone.0155205
+
+Vaessen, T., van Nierop, M., Decoster, J., Delespaul, P., Derom, C., de Hert,
+M., ... Myin-Germeys, I. (2017). Is sensitivity to daily stress predictive
+of onset or persistence of psychopathology? European Psychiatry, 45, 167—
+173. https://doi.org/10.1016/j.eurpsy.2017.07.002
+
+Watson, D., & Clark, L. A. (1999). The PANAS-X: Manual for the positive
+and negative affect schedule-expanded form. https://doi.org/10.17077/48vt-
+m4t2
+
+Journal of Traumatic Stress DOI 10.1002/jts. Published on behalf of the International Society for Traumatic Stress Studies.
+
+QSUDOI'] SUOWIWUOD saTVaI_ s[qvordde ayy Aq pousoaos are soporjsie WO ‘asn Jo sarns 10 Aresqry] oulpuO Aa[I AA UO (SUOTIIPUOD-pue-suTIA} WO Kota Arerqipoutpuo//:sdyy) SuUONIPUO| puv SULA], 9) 99S *[PZOZ/80/Z1] Uo Arerqry] ourpuO AZIIAA Z9' TuNnd MJoquioul-<yajoqqrys> Aq E¢r7z'sul/ZOOT OL /lop/wos AayIM Areiqipourpuo//:sdyy Wo, popeojumog ‘T ‘OZOT ‘86S9ELSI
+ Dynamic Networks of Negative Emotions and PTSD 83
+Weathers, F., Litz, B., Keane, T., Palmieri, P., Marx, B., & Schnurr, P. (2013). Wichers, M., Wigman, J., & Myin-Germeys, I. (2015). Micro-level affect dy-
+The PTSD checklist for DSM-5 (PCL-5). Available from the National Center namics in psychopathology viewed from complex dynamical system theory.
+for PTSD, https://www.ptsd.va.gov Emotion Review, 7, 362-367. https://doi.org/10.1177/17540739 15590623
+Wichers, M., Myin-Germeys, I., Jacobs, N., Peeters, F, Kenis, G., Derom, Wilhelm, F. H., & Grossman, P. (2010). Emotions beyond the labora-
+C., ... Van Os, J. (2007). Genetic risk of depression and stress-induced tory: Theoretical fundaments, study design, and analytic strategies for
+negative affect in daily life. The British Journal of Psychiatry, 191, 218— advanced ambulatory assessment. Biological Psychology, 84, 552-569.
+223. https://doi.org/10.1192/bjp.bp.106.032201 https://doi.org/10.1016/j.biopsycho.2010.01.017
+
+Journal of Traumatic Stress DOI 10.1002/jts. Published on behalf of the International Society for Traumatic Stress Studies.
+
+QSUDOI'] SUOWIWUOD saTVaI_ s[qvordde ayy Aq pousoaos are soporjsie WO ‘asn Jo sarns 10 Aresqry] oulpuO Aa[I AA UO (SUOTIIPUOD-pue-suTIA} WO Kota Arerqipoutpuo//:sdyy) SuUONIPUO| puv SULA], 9) 99S *[PZOZ/80/Z1] Uo Arerqry] ourpuO AZIIAA Z9' TuNnd MJoquioul-<yajoqqrys> Aq E¢r7z'sul/ZOOT OL /lop/wos AayIM Areiqipourpuo//:sdyy Wo, popeojumog ‘T ‘OZOT ‘86S9ELSI

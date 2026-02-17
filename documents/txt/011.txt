@@ -1,0 +1,1037 @@
+Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts |
+
+Dynamic networks of PTSD symptoms during conflict
+
+Authors: Talya Greene PhD ', Mare Gelkopf PhD '”, Sacha Epskamp PhD °, Eiko
+Fried PhD °
+
+Affiliations:
+Department of Community Mental Health, University of Haifa, Haifa, Israel
+7 NATAL, Israel Trauma Center for Victims of Terror and War, Tel Aviv, Israel
+
+* Department of Psychology, University of Amsterdam, Amsterdam, The Netherlands
+
+*Corresponding author: Talya Greene, Department of Community Mental Health, University
+of Haifa, 199 Aba Houshy Ave, Haifa, 3498838, Israel. Email: tgreene@univ.haifa.ac.il.
+Telephone number: +972543158011. Fax: +972775560196.
+
+Financial Support: This work was supported by The Brain and Behavior Research
+Foundation (Narsad Young Investigator Award, T.G., grant number 23524); The Moshe Hess
+Foundation (T.G. and M.G.); NATAL: Israel Trauma Center for Victims of Terror and War
+(M.G); and the Israel Science Foundation (T.G. and M.G., grant number 1244/16).
+
+Conflict of interest: None
+
+Ethical standards: The authors assert that all procedures contributing to this work comply
+with the ethical standards of the relevant national and institutional committees on human
+
+experimentation and with the Helsinki Declaration of 1975, as revised in 2008.
+
+Acknowledgements: The authors would like to thank Liron Lapid Pickman and Shulamit
+
+Grinapol for their contribution to establishing the study.
+
+Keywords: Network analysis, multilevel VAR, war, trauma, posttraumatic stress, ESM,
+
+intensive longitudinal assessment
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts 2
+
+Abstract
+Background: Conceptualizing posttraumatic stress disorder (PTSD) symptoms as a dynamic
+system of causal elements could provide valuable insights into the way that PTSD develops
+and is maintained in traumatized individuals. We present the first study to apply a multilevel
+network model to produce an exploratory empirical conceptualization of dynamic networks
+of PTSD symptoms, using data collected during a period of conflict.
+Methods: Intensive longitudinal assessment data were collected during the Israel-Gaza War in
+July-August 2014. The final sample (n=96) comprised a general population sample of Israeli
+adult civilians exposed to rocket fire. Participants completed twice-daily reports of PTSD
+symptoms via smartphone for 30 days. We used a multilevel vector auto-regression model to
+produce contemporaneous and temporal networks, and a partial correlation network model to
+obtain a between-subjects network.
+Results: Multilevel network analysis found strong positive contemporaneous associations
+between hypervigilance and startle response, avoidance of thoughts and avoidance of
+reminders, and between flashbacks and emotional reactivity. The temporal network indicated
+the central role of startle response as a predictor of future PTSD symptomatology, together with
+restricted affect, blame, negative emotions, and avoidance of thoughts. There were some
+notable differences between the temporal and contemporaneous networks, including the
+presence of a number of negative associations, particularly from blame. The between-person
+network indicated flashbacks and emotional reactivity to be the most central symptoms.
+Conclusions: This study suggests various symptoms that could potentially be driving the
+development of PTSD. We discuss clinical implications such as identifying particular
+
+symptoms as targets for interventions.
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts 3
+
+Introduction
+The network perspective offers a novel way of understanding the dynamics of
+psychopathology (McNally, 2016, Borsboom, 2017). According to this framework,
+symptoms do not primarily result as passive consequences of underlying mental disorders.
+Rather, causally connected symptoms may interact with each other over time, potentially
+producing mental disorders as emergent phenomena. The new field of network psychometrics
+has been used in recent years to investigate the complex structure of various psychiatric
+disorders (Fried et a/., 2017b), including depression (Fried et a/., 2016), psychosis (Isvoranu
+et al., 2016), schizophrenia (Levine and Leucht, 2016), and anxiety (Beard et al., 2016),
+among others.
+Several studies have recently used network analysis to examine the symptom-level structure
+of posttraumatic stress disorder (PTSD) in cross-sectional data (McNally et al., 2015, Afzali
+et al., 2016, Bryant et al., 2016, Knefel et a/., 2016, Sullivan et al., 2016b, Afzali et al., 2017,
+Armour et al., 2017, Birkeland and Heir, 2017, Fried et al., 2017a, Mitchell et al., 2017,
+Spiller et a/., 2017). These studies indicate the central roles that various symptoms may play
+in driving PTSD networks by being highly connected to other PTSD symptoms. For example,
+these studies suggest the central role of re-experiencing symptoms in the acute phase
+following traumatic injury (Bryant et al., 2016); of hypervigilance, concentration problems
+and foreshortened future in Chinese earthquake survivors five years after the disaster
+(McNally et al., 2015); and of intrusive thoughts, anger, and detachment in survivors of mass
+violence (Sullivan et al., 2016a). Two studies in military veterans found that negative trauma-
+related emotions were among the most central symptoms (Armour et a/., 2017, Mitchell et
+al., 2017).
+Only three studies have previously assessed DSM-5 PTSD network structure (Afzali et al.,
+
+2016, Armour et al., 2017, Mitchell et al, 2017), and, crucially, as all of these studies were
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts 4
+
+cross-sectional, none of them explored the temporal dynamics of PTSD, which many
+researchers have described as one of the major shortcomings of the prior literature (Hamaker,
+2012, Fisher, 2015, Fried and Cramer, 2016, Bos et al., 2017, Hamaker and Wichers, 2017,
+Nelson et al., 2017). Conceptualizing PTSD symptoms as a dynamic interacting network,
+rather than limiting the focus to cross-sectional associations between symptoms, allows for
+deeper exploration of potential causal pathways. This could provide valuable insights into the
+way that PTSD builds or is maintained in individuals who have traumatic experiences.
+Intensive longitudinal assessments such as Experience Sampling Methodology (ESM) collect
+data about the daily lives of participants repeatedly over time, often using handheld
+computers or smartphones (Bolger et a/., 2003, Ebner-Priemer and Kubiak, 2010, Bolger and
+Laurenceau, 2013). ESM has been used to investigate various psychiatric disorders including
+PTSD (Chun, 2016), anxiety (Walz et al., 2014), and depression (Armey et al., 2015), among
+others. ESM entails multiple methodological advantages (Santangelo et al/., 2013, Trull and
+Ebner-Priemer, 2013), as data are collected in real-life settings, with high ecological validity,
+increased accuracy, and minimized recall bias. Repeated short-term assessments can detect
+variations in the presence and severity of variables and reveal dynamic processes between
+them (Ebner-Priemer and Trull, 2009, Myin-Germeys et a/., 2009, Bolger and Laurenceau,
+2013).
+
+Network models can be used to investigate such dynamic processes in ESM data from one
+participant (vector autoregression models; VAR) or data from multiple participants
+(multilevel VAR; Epskamp et al., 2016). These models produce temporal networks depicting
+a directed network of the lagged associations of symptoms from one timepoint to the next,
+for which Granger-causal connections between symptoms are inferred (Schuurman et al.,
+2016). Temporal networks can identify symptoms with a high ‘out-strength’, that is
+
+symptoms which are most predictive of other symptoms at the next timepoint, and those with
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts 5
+
+a high ‘in-strength’, that is symptoms which are most predicted by other symptoms at the
+previous timepoint. Recent extensions include contemporaneous networks, for which the
+within-measurement associations are represented, and a between-persons network, modeling
+relations between the stable means of participants, for both of which ‘cliques’ or sub-
+networks of closely connected symptoms can be identified. .
+
+Using ESM data for network analysis is relatively new; ESM data have previously been used
+for network studies of psychiatric disorders, but almost exclusively for individual-level (n=1)
+studies (Bak et al., 2016, David et al., 2017, Epskamp et al., 2017), or to investigate
+idiographic symptom dynamics (Fisher ef a/., 2017), although multilevel VAR using ESM
+data has been applied to investigate various psychological phenomena, such as positive and
+negative affect (for example, see Epskamp et al., 2016).
+
+The current study uses ESM data from multiple individuals in a multilevel framework to
+investigate PTSD symptoms. As multilevel models focus on the dynamics of the relationships
+between symptoms over time, they could further help us to elucidate the processes by which
+PTSD symptoms build up and interact with each other, and potentially reinforce themselves.
+This could have important clinical implications (McNally et al., 2015, McNally, 2016,
+Borsboom, 2017); identifying symptoms with high out-strength, and to a lesser extent high
+in-strength, as well as detecting closely connected groups of symptoms, could eventually help
+clinicians focus on symptoms that might ‘drive’ PTSD in its early stages.
+
+We present the first study to apply a multilevel network model to investigate the dynamics of
+symptoms that comprise the DSM-5 PTSD construct (APA, 2013), using data collected
+during a period of trauma exposure among Israeli civilians exposed to rocket fire. It is
+important to note that collecting ESM data regarding traumatic stress symptoms during a
+conflict situation is unparalleled in the literature, and we believe that this study therefore has
+
+the potential to make unique and important contributions to the understanding of mental
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts 6
+
+health during ongoing trauma exposure. The study aims to produce an exploratory empirical
+conceptualization of dynamic networks of PTSD symptoms, with the goal to investigate the
+network structure of PTSD symptoms during an extended period of trauma exposure, and
+identify symptoms that closely cluster together, as well as those with high out-strength and
+
+high in-strength.
+
+Method
+Participants and study design
+The current study 1s part of a larger study conducted during and after the 50-day July-August
+2014 Israel-Gaza armed conflict (Gelkopf et al., 2017, Greene et al., 2017, Lapid Pickman et
+al., 2017), during which more than 4500 rockets and mortar shells were fired from Gaza
+towards Israeli communities, and Israel Defence Forces conducted ground and air attacks on
+Gaza.
+The sample for the current study comprised a general population sample of Israeli adult
+civilians living in communities exposed to rocket fire (n=114). Participants were recruited via
+advertisements in local colleges/universities, local organizations and communities, and social
+networks, and via snowballing methods. Potential participants contacted the research team
+directly, and study explanation and oral informed consent were conducted over the telephone.
+Participants entered the study gradually, between days 8-24 of the conflict. Participants were
+asked to complete ESM daily diary assessments twice a day, morning and evening at
+predetermined times, for 30 days, and could reply within two hours. The questionnaires were
+administered via a personalized email link to participants’ smartphones, and referred to
+experiences, reactions and symptoms occurring since the last assessment.
+Participants were remunerated for their participation. The design and procedure was approved
+
+by the University of Haifa, Faculty of Social Welfare and Health Sciences Ethics Committee.
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts
+
+Measures
+
+Traumatic stress symptoms were measured using the PTSD Checklist for DSM-5 (PCL-5;
+Weathers et al., 2013). This 20-item self-report tool asks participants to indicate the extent to
+which they experienced each PTSD symptom, on a 4-point Likert scale ranging from O=not at
+all to 3=very much. The original version was adapted for the current study so that the timeframe
+for experiencing each symptom was changed from “in the past month” to “since the last time
+you replied” (a minimum of 8 hours gap). This measure has good psychometric properties in
+
+its original form (Blevins et al., 2015).
+
+Data analysis
+
+We included data from participants providing over 20 valid responses (1/3 of potential
+
+responses). Of the sample, 84.2% (n=96) met this inclusion criteria.
+
+Demographic characteristics of the sample are presented in Table 1.
+
+Table 1. Demographic characteristics of the sample
+
+Categories N % Mean (SD)
+Gender Female 68 70.8
+Male 28 29.2
+Age 30.1 (9.0)
+Country of Israel 80 83.3
+Birth
+Outside of Israel 16 16.7
+Relationship Single 27 28.1
+Status
+Has a partner 28 29.2
+Married 39 40.6
+Divorced/separated 2 2.1
+Have children Yes 40 41.7
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts
+
+Religion
+
+Religiosity
+
+Status
+
+Education
+
+Employment
+
+PTSD
+symptoms
+
+No
+
+Jewish
+
+Christian and other
+
+Secular
+
+Traditional
+
+Religious or Orthodox
+
+High school (no diploma)
+High school (with diploma)
+Academic (including student)
+Other professional training
+Full-time
+
+Part-time
+
+Temporary jobs
+
+Student
+
+Unemployed
+
+Other
+
+Endorsed PTSD DSM-5 criteria (other
+
+than duration) at least once
+Mean PCL sum score
+
+56
+
+13
+
+40
+
+58.3
+
+97.9
+
+2.1
+
+60.4
+
+21.9
+
+17.7
+
+4.2
+
+35.4
+
+56.3
+
+4.2
+
+32.3
+
+13.5
+
+10.4
+
+25.0
+
+5.2
+
+13.5
+
+41.7
+
+10.18 (7.87)
+
+Range of mean PCL
+sum score (.20-32.57)
+
+The mIVAR package in R was used to estimate three networks (Epskamp et al., 2016): a
+
+contemporaneous network, which 1s a Gaussian graphical model (GGM) that depicts within-
+
+time-window edges (associations) between nodes (DSM-5 PTSD symptoms), akin to a
+
+multilevel partial correlation network; a temporal network, which 1s a directed network of
+
+regression coefficients that depicts the lagged associations between symptoms from one
+
+measurement point to the next, that remain after controlling for contemporaneous
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts 9
+
+associations; and a between-persons network which is a GGM that depicts the variance-
+covariance structure of participants’ means (Epskamp et al., 2016, Epskamp et al., 2017).
+Decomposing the variance in these three networks allows for different insight in the
+covariation and potential dynamics: the temporal network shows if a deviation from a
+person’s mean predicts a deviation from a person’s mean in another variable at the next
+measurement occasion. As a result, temporal networks give insight into Granger causality
+(Granger, 1969). Contemporaneous networks show if deviations from a person’s mean in two
+variables predict one-another in the same measurement occasion (Epskamp et al., 2017).
+Finally, the between-subjects network models the covariation between means of participants,
+and is amore stable way of estimating networks that can be obtained from cross-sectional
+data, while providing a network that can be used for comparison with previous cross-
+sectional studies (Epskamp et al., 2016).
+
+In our analysis, to make the model estimable we estimated forced random effects of incoming
+edges to a single node (temporal) or edges connected to the same node (contemporaneous) to
+be orthogonal. In the contemporaneous and between-subjects networks, we used an “and”
+rule in retaining significant edges: an edge was retained if both regressions on which the edge
+was based were significant (alpha = 0.05).
+
+In the current analysis, the between-persons network included numerous negative edges,
+which are likely spurious connections given that that the contemporaneous and temporal
+network had far fewer negative connections (see supplementary material). We therefore
+conducted an alternative between-persons network analysis in the R Bootnet package using
+graphical LASSO and extended Bayesian information criterion to select the optimal
+regularization parameter, for which rather than using the mean edge scores from each
+
+individual to depict the network, we used the mean symptom scores for each participant.
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hvSts 10
+
+Results
+
+Figure | depicts the contemporaneous, temporal and between-person networks.
+
+Contemporaneous Temporal
+
+Intrusions
+Between 04
+
+: Intrusive thoughts
+® 2: Nightmares
+® 3: Flashbacks
+® 4: Emotional cue reactivity
+® 5: Physiological cue reactivity
+
+Avoidance
+e 6: Avoidance of thoughts
+e 7: Avoidance of reminders
+
+Negative alterations
+in mood and cognitions
+© 8: Trauma-related amnesia
+® 9: Negative beliefs
+® 40: Blame of self or others
+® 11: Negative trauma-related emotions
+® 42: Loss of interest
+® 13: Detachment
+® 14: Restricted affect
+
+Alterations in arousal and reactivity
+15: Irritability/anger
+
+16: Self-destructive/reckless behavior
+17: Hypervigilance
+
+18: Exaggerated startle response
+
+19: Difficulty concentrating
+
+20: Sleep disturbance
+
+Figure 1: Contemporaneous, temporal and between-person networks. Blue edges denote
+positive associations between nodes, red edges denote negative associations between nodes.
+
+Edge thickness represents the degree of association.
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts I]
+
+Contemporaneous network
+
+Several important things stand out in the contemporaneous network (figure | and table 2).
+First, contemporaneous connections were nearly all positive in nature, and we identified
+especially strong associations between hypervigilance and exaggerated startle response (edge
+weight =0.36), avoidance of thoughts and amnesia (0.30), and loss of interest and detachment
+(0.27).
+
+Second, the DSM-5 symptom clusters were fairly well recovered, with strong within-cluster
+associations, and weaker between cluster associations.
+
+Third, in a few cases the contemporaneous network did not fully correspond to the DSM-5
+cluster conceptualization. For example, amnesia had stronger associations to the avoidance
+cluster than it did to its own cluster of negative mood and cognitions, and anger had stronger
+associations to the negative mood and cognitions cluster, than to the arousal cluster to which
+it belongs.
+
+Finally, the negative mood and cognitions appears to include two ‘cliques’ - clusters of
+closely connected symptoms; the first clique comprised negative beliefs, blame and negative
+emotions which were all significantly connected to each other, and the second clique was
+
+made up of loss of interest, detachment, and restricted affect.
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts 12
+
+Table 2. Contemporaneous network: significant edge weights
+
+Intr. Night- Flash- Emo. Phys. Avoid Avoid Amn. Neg. Blame Neg. Loss Detach- Res. Anger Self- Hyper Start. Conc. Sleep
+thoughts mares backs Reac. React thoughts remind. beliefs emo. interest ment affect dest. -vig. diff. dist.
+Intrusive , 0.19 ns 0.19 0.07 ns ns ns ns ns ns ns ns ns
+thoughts
+Nightmares 0.19 , 0.22 ns 0.13 ns ns ns ns ns ns ns ns ns
+Flashbacks ns 0.22 , 0.25 0.09 0.07 ns ns ns ns ns ns ns ns
+Emotional 0.19 ns 0.25 , 0.13 ns ns 0.13 ns ns ns ns ns ns
+reactivity
+Physiological 0.07 0.13 0.09 0.13 , ns ns ns ns ns 0.12 ns ns ns
+reactivity
+Avoidance of ns ns 0.07 ns ns , 0.24 0.30 ns 0.06 ns ns ns ns
+thoughts
+Avoidance of ns ns ns ns ns 0.24 , 0.18 ns ns ns ns 0.06 ns ns ns ns ns -0.03 ns
+reminders
+Amnesia ns ns ns 0.13 ns 0.30 0.18 , 0.08 ns ns ns -0.05 ns ns ns ns ns ns ns
+Negative ns ns ns ns ns ns ns 0.08 , 0.19 0.22 ns 0.05 ns ns 0.06 ns ns ns ns
+beliefs
+Blame ns ns ns ns ns 0.06 ns ns 0.19 , 0.14 ns 0.03 ns ns ns ns ns ns ns
+Negative ns ns ns ns 0.12 ns ns ns 0.22 0.14 , ns ns 0.10 0.08 ns 0.07 0.05 ns 0.05
+emotions
+Loss of interest ns ns ns ns ns ns ns ns ns ns ns , 0.27 0.19 0.09 ns ns ns 0.11 0.05
+Detachment ns ns ns ns ns ns 0.06 -0.05 0.05 0.03 ns 0.27 , 0.21 0.13 ns ns ns 0.06 ns
+Restricted ns ns ns ns ns ns ns ns ns ns 0.10 0.19 0.21 , 0.18 ns ns ns 0.08 ns
+affect
+Anger ns ns ns ns ns 0.08 0.09 0.13 0.18 , 0.06 0.06 ns 0.07 ns
+Self-destructive ns ns ns 0.06 ns ns ns ns ns 0.06 , 0.09 ns ns ns
+behavior
+Hypervigilance ns ns ns ns ns 0.07 ns ns ns 0.06 0.09 , 0.36 0.06 0.11
+Startle ns ns ns ns ns ns ns ns ns 0.36 , 0.15 ns
+Concentration ns -0.03 ns ns ns ns 0.11 0.06 0.08 0.07 ns 0.06 0.15 , 0.17
+difficulties
+Sleep ns ns ns ns ns 0.05 0.05 ns ns ns ns 0.11 ns 0.17
+
+disturbance
+Note: ns denotes non-significant edge
+
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts 13
+
+Temporal network
+
+There were several notable aspects of the temporal network (see figure 1). First, there were a
+substantial number of negative edges, specifically from blame, flashbacks, avoidance of
+thoughts, nightmares, and self-destructive behavior, which differed from the
+contemporaneous network. All of the lagged associations from blame to other symptoms
+were negative. Avoidance of thoughts had a negative lagged association with sleep
+disturbances.
+
+Exaggerated startle response had by far the strongest out-strength (0.83), which is the sum of
+absolute significant temporal edge weights extending out from each symptom, excluding
+autocorrelations (see table 3). In other words, the more startle response you have at one
+measurement, the more likely you are to report other symptoms at the next. Other variables
+with high out-strength included restricted affect (0.54), blame (0.51), negative emotions
+(0.34), and avoidance of thoughts (0.32).
+
+The variables with the highest in-strength centrality — the extent to which variables are
+influenced by other variables in the network at the previous measurement — were sleep
+disturbance (0.37), and loss of interest (0.37).
+
+Consistent with prior temporal studies of psychopathological dynamics, there were a
+considerable number of autocorrelations, which were stronger than the cross-lagged effects.
+Exaggerated startle response had the strongest autoregressive coefficient (0.27), meaning that
+knowing the startle response at a given timepoint has strong predictive power about startle
+response at the next timepoint. Hypervigilance was also had a high autoregressive coefficient
+(0.22).
+
+Finally, a number of interesting feedback loops emerged. For example, sleep disturbance
+
+predicted concentration difficulties, which in turn predicted restricted affect, which predict
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts 14
+
+sleep disturbance. Negative emotions predicted negative beliefs, which went to avoidance of
+
+thoughts, and back again to negative emotions.
+
+Table 3. In-strength and out-strength of symptoms in the temporal network
+
+Symptom
+
+In-strength
+(sum of absolute values of
+significant edges to symptom)
+
+Out-strength
+
+(sum of absolute values of
+significant edges from
+symptom)
+
+Intrusive thoughts
+
+Nightmares
+
+Flashbacks
+
+Emotional reactivity
+
+Physiological reactivity
+
+Avoidance of thoughts
+
+Avoidance of reminders
+
+Amnesia
+
+Negative beliefs
+
+Blame
+
+Negative emotions
+
+Loss of interest
+
+Detachment
+
+Restricted affect
+
+0.29
+
+0.12
+
+0.28
+
+0.13
+
+0.16
+
+0.11
+
+0.12
+
+0.30
+
+0.31
+
+0.05
+
+0.18
+
+0.15
+
+0.08
+
+0.32
+
+0.51
+
+0.34
+
+0.08
+
+0.04
+
+0.54
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts
+
+Anger/irritability
+
+Self-destructive behavior
+
+Hypervigilance
+
+Startle response
+
+Concentration difficulties
+
+Sleep disturbance
+
+Between-persons network
+
+The between-persons network closely resembled the contemporaneous network, albeit more
+sparsely connected. As with the contemporaneous network, associations between symptoms
+
+were mostly positive, with particularly strong associations between the two avoidance
+
+0.19
+
+0.17
+
+0.31
+
+0.18
+
+0.29
+
+0.37
+
+0.05
+
+0.04
+
+0.19
+
+0.83
+
+0.23
+
+0.12
+
+15
+
+symptoms, between negative beliefs and negative emotions, and between hypervigilance and
+
+startle. Standardized node strength centrality was calculated (see figure 2), representing the
+sum of all edge weights of a given node. Flashbacks followed by emotional cue reactivity
+
+were the two most central symptoms in this network.
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hvSts 16
+
+Trauma-related amnesia -
+
+Sleep disturbance -
+Self-destructive/reckless behavior -
+Restricted affect -
+
+Physiological cue reactivity -
+Nightmares +
+
+Negative trauma-related emotions -
+Negative beliefs -
+
+Loss of interest +
+
+Irritability/anger -
+
+Intrusive thoughts -
+
+Hypervigilance -
+
+Flashbacks -
+
+Exaggerated startle response -
+Emotional cue reactivity -
+
+Difficulty concentrating +
+Detachment -
+
+Blame of self or others -
+
+Avoidance of thoughts -
+
+Avoidance of reminders -
+
+Figure 2: Between-persons network standardized node strength centrality.
+
+Discussion
+This study assessed dynamic PTSD symptom networks in Israeli civilians during the 2014
+Israel-Gaza War. There were strong positive contemporaneous associations between
+hypervigilance and exaggerated startle response, avoidance of thoughts and avoidance of
+reminders, and between flashbacks and emotional reactivity. There were some notable
+differences between the temporal and contemporaneous networks, which underlines the
+
+importance of analyzing both separately. These differences included the presence of a
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts 17
+
+number of negative associations, particularly from blame. The temporal network also
+indicated the central role of startle response as a predictor of PISD symptomatology at the
+next timepoint. The between-persons network showed similar patterns of associations to the
+contemporaneous network.
+
+Contemporaneous associations between symptoms largely reflected the DSM-5 clusters,
+other than the alterations in negative mood and cognitions cluster. Previous PTSD network
+studies found that amnesia was only weakly associated with other PTSD symptoms (McNally
+et al., 2015, Armour et al., 2017, Birkeland and Heir, 2017, Fried et al., 2017a, Spiller et al.,
+2017). The current findings indicated, however, that this was not the case, but rather that
+amnesia was more closely related to the avoidance cluster, than to the cognitive symptoms
+from its own cluster, and had no significant associations with any of the negative mood items.
+Perhaps amnesia could be better conceptualized as an additional and perhaps involuntary
+form of avoidance, rather than as a negative cognition and mood symptom, at least in the
+context of ongoing threat.
+
+The pattern of connections from the remaining symptoms from the negative cognition and
+mood cluster supported a model in which numbing of responsiveness items (loss of interest,
+detachment, restricted affect) are split from the increased negative mood and cognition items
+(negative mood, blame, negative cognitions), something that has also been found in previous
+investigations of the dimensional structure of DSM-5 PTSD (Armour et al., 2015, Pietrzak et
+al., 2015).
+
+It is important to interpret the contemporaneous network 1n a nuanced manner (Epskamp et
+al., 2017). While “contemporaneous’ would seem to imply concurrent associations, 1n the
+current study there were relatively large time windows between assessments (8-16 hours), so
+contemporaneous networks are not really ‘contemporaneous’. Rather, they depict
+
+associations between symptoms, including potentially causal associations that took place over
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts 18
+
+a number of hours, and may therefore also reflect temporal processes. To assess true
+contemporaneous networks, far more frequent assessments are needed, and participants
+should be asked how they are feeling ‘right now’, rather than ‘since the last assessment’.
+
+In the temporal network, blame of self or others surprisingly predicted lower symptoms at the
+next measurement, 1n contrast to the positive associations they showed in the
+contemporaneous network. The blame item, which was added to the PTSD criteria in DSM-5,
+actually captures two very different phenomena (Greene, under review); blame of self, in
+which the individual gives an internal attribution to the adversity, and blame of others, which
+gives an external attribution to the adversity. Attributions theory posits that making external
+attributions for negative events 1s protective (Kelley and Michela, 1980). While we cannot
+ascertain in this study whether the participants were reporting external or internal blame, it 1s
+may be speculated that in the context of war and conflict, blame would be more likely to be
+externally attributed. This may then explain the negative lagged association from blame to
+avoidance of thoughts, avoidance of reminders, negative emotions, loss of interest,
+detachment, restricted affect, startle, concentration difficulties and sleep disturbance,
+suggesting that blaming an external source may be an effective coping mechanism.
+Symptoms with strong out-strengths can be seen as those with the highest potential to impact
+other symptoms within the network, and are therefore likely to be particularly important in
+the dynamics of PTSD development. Symptoms with strong in-strength, on the other hand,
+are those that are most affected by other symptoms in the network. For interventions, it has
+been speculated that targeting symptoms with strong out-strength might provide an effective
+way of preventing or reducing future PTSD symptomatology (McNally, 2016, Armour et ail.,
+2017, Bos et al., 2017) .
+
+In the current study, startle response had a greater out-strength than all other symptoms,
+
+which may suggest that targeting startle response could help reduce other symptoms. While
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts 19
+
+arousal symptoms have been generally indicated as key drivers of future psychopathology in
+longitudinal studies of PTSD clusters (Schell et al., 2004, Marshall et a/., 2006, Doron-
+LaMarca et al., 2015), startle has not specifically been found to be a central symptom in
+previous PTSD network studies with the exception of Spiller et al. (2017). It is likely that
+startle in the context of ongoing threat is a different phenomenon compared with startle when
+the stressor has ceased. Future studies could investigate whether startle has strong out-
+strength in other lower-stress environments. Additionally, restricted affect, blame, negative
+emotions, and avoidance of thoughts, also had high out-strength, all of which should be
+explored as potential for interventions. It might also be argued that targeting symptoms that
+have both high in-strength and out-strength, such as sleep disturbance, could especially
+disrupt the network, facilitating an overall reduction in symptomatology.
+
+Many symptoms in the temporal network had large autoregressive coefficients, 1.e. predicting
+themselves at the next measurement, such as startle response and hypervigilance. This may
+indicate that these ‘symptoms’ may be more trait-like than others. It could also be that these
+strong autocorrelations represent the first signs of a ‘critical slowing down’, whereby
+pathological responses gradually crystallize (Wichers et al., 2016).
+
+The between-persons network largely resembled the contemporaneous network, although
+with fewer and weaker connections between the symptoms. This network is the one that can
+be most directly compared to previous cross-sectional network studies, and there are a
+number of similarities between them and the current between-persons network.
+Hypervigiliance and startle have been found to be highly connected in a number of studies
+(e.g., McNally et al., 2015, Armour et al., 2017, Birkeland and Heir, 2017, Spiller et al.,
+2017). Flashbacks were identified as central symptoms by (Armour et a/., 2017), while
+emotional cue reactivity was found to be the most central symptom by Spiller et al. (2017).
+
+Bryant et al. (2016) focused on early symptomatology and also noted the centrality of the re-
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts 20
+
+experiencing symptoms (in a DSM-IV acute traumatic stress symptoms network). These
+findings are in line with our current finding of the centrality of both flashbacks and emotional
+cue reactivity. Interestingly, we found strong associations between the two DSM-5 avoidance
+symptoms, however other DSM-5 PTSD network studies do not find as this strong
+association, relative to the associations between others symptoms. Furthermore, amnesia,
+while not being one of the most central symptoms, did not have especially weak connections,
+as found previously (Fried et a/., 2017a). It is important to investigate whether these
+differences are because symptoms or reactions that arise during a period of trauma exposure
+are essentially different from those that emerge at a later stage when exposure has ceased.
+There are some limitations of this study. We did not specifically include a sample with a
+diagnosis of PTSD, thus limiting our ability to generalize as to the associations between
+symptoms in those meeting DSM-5 PTSD criteria. Data were collected peritraumatically,
+during a conflict period, and were based on assessments conducted during both the first and
+second months since the traumatic stressor began, therefore the findings may not necessarily
+be generalizable to PTSD networks after exposure has ceased. Additionally, there are some
+methodological limitations with the multilevel network analysis model (Epskamp et al.,
+2016): there are no adequate fit statistics to assess the model; 1t only models linear processes
+yet there may be non-linear trends to consider; and it assumes stationarity, treating the
+properties of the network as constant over time, but this may not be the case, given what we
+know about PTSD resilience and recovery patterns (Bonanno and Mancini, 2012, Bryant et
+al., 2015), including in this particular sample (Gelkopf et al., 2017, Greene et al., 2017).
+Further development of time-varying multilevel network models may better clarify disorder
+development over time. Finally, there are other key variables that we would have liked to
+
+include in the model such as gender, trauma history, and severity of exposure to the conflict,
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts 21
+
+however power 1s a key limitation with these models (Fried and Cramer, 2016), and we did
+
+not have a large enough sample size to include these covariates.
+
+This study provides a unique contribution to the PTSD research field through the novel use of
+ESM methodology to assess DSM-5 PTSD symptoms in individuals during a period of
+conflict, and through its employment of multilevel network analyses to explore
+contemporaneous and temporal network connections. While this study does not depict
+‘classic’ PTSD, it is certainly relevant for many people around the world who live in
+situations of ongoing stress and trauma exposure. This study indicates that multilevel network
+analyses can provide novel and useful insights into the ways that different symptoms interact
+with each other, as well as reinforcing themselves. More studies 1n this vein can elucidate the
+complex processes by which PTSD symptoms crystallize into disorder and indicate possible
+causal mechanisms that drive the development of PTSD. This 1n turn could have clinical
+
+implications for identifying the relative importance of symptoms as targets for interventions.
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts 22
+
+References
+
+Afzali, M. H., Sunderland, M., Batterham, P. J., Carragher, N., Calear, A. & Slade, T.
+(2016). Network approach to the symptom-level association between alcohol use disorder and
+posttraumatic stress disorder. Social Psychiatry and Psychiatric Epidemiology, 1-11.
+
+Afzali, M. H., Sunderland, M., Teesson, M., Carragher, N., Mills, K. & Slade, T. (2017).
+A network approach to the comorbidity between posttraumatic stress disorder and major
+depressive disorder: The role of overlapping symptoms. Journal of Affective Disorders 208,
+490-496.
+
+APA (2013). Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5).
+American Psychiatric Association: Washington DC.
+
+Armey, M. F., Schatten, H. T., Haradhvala, N. & Miller, I. W. (2015). Ecological
+momentary assessment (EMA) of depression-related phenomena. Current Opinion in
+Psychology 4, 21-25.
+
+Armour, C., Fried, E. I., Deserno, M. K., Tsai, J. & Pietrzak, R. H. (2017). A network
+analysis of DSM-5 posttraumatic stress disorder symptoms and correlates in US military
+veterans. Journal of Anxiety Disorders 45, 49-59.
+
+Armour, C., Tsai, J.. Durham, T. A., Charak, R., Biehn, T. L., Elhai, J. D. & Pietrzak,
+R. H. (2015). Dimensional structure of DSM-5 posttraumatic stress symptoms: Support for a
+hybrid Anhedonia and Externalizing Behaviors model. Journal of Psychiatric Research 61,
+106-113.
+
+Bak, M., Drukker, M., Hasmi, L. & van Os, J. (2016). An n= | Clinical network analysis
+of symptoms and treatment in psychosis. PloS one 11, e0162811.
+
+Beard, C., Millner, A., Forgeard, M., Fried, E., Hsu, K., Treadway, M., Leonard, C.,
+Kertz, S. & Bjorgvinsson, T. (2016). Network analysis of depression and anxiety symptom
+relationships in a psychiatric sample. Psychological Medicine 46, 3359.
+
+Birkeland, M. S. & Heir, T. (2017). Making connections: exploring the centrality of
+posttraumatic stress symptoms and covariates after a terrorist attack. European Journal of
+Psychotraumatology 8, 1333387.
+
+Blevins, C. A., Weathers, F. W., Davis, M. T., Witte, T. K. & Domino, J. L. (2015). The
+Posttraumatic Stress Disorder Checklist for DSM-5 (PCL-5): Development and Initial
+Psychometric Evaluation. Journal of Traumatic Stress 28, 489-498.
+
+Bolger, N., Davis, A. & Rafaeli, E. (2003). Diary methods: Capturing life as it 1s lived.
+Annual Review of Psychology 54, 579-616.
+
+Bolger, N. & Laurenceau, J. (2013). Intensive longitudinal methods. An introduction to
+diary and experience sampling research. Guilford, New York.
+
+Bonanno, G. A. & Mancini, A. D. (2012). Beyond resilience and PTSD: Mapping the
+heterogeneity of responses to potential trauma. Psychological Trauma: Theory, Research,
+Practice, and Policy 4, 74.
+
+Borsboom, D. (2017). A network theory of mental disorders. World Psychiatry 16, 5-13.
+Bos, F., Snippe, E., de Vos, S., Hartmann, J., Simons, C., van der Krieke, L., de Jonge,
+P. & Wichers, M. (2017). Can We Jump from Cross-Sectional to Dynamic Interpretations of
+Networks? Implications for the Network Perspective in Psychiatry. Psychotherapy and
+Psychosomatics 86, 175.
+
+Bryant, R. A., Creamer, M., O’donnell, M., Forbes, D., McFarlane, A. C., Silove, D. &
+Hadzi-Pavlovic, D. (2016). Acute and Chronic Posttraumatic Stress Symptoms in the
+Emergence of Posttraumatic Stress Disorder: A Network Analysis. JAMA Psychiatry.
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts 23
+
+Bryant, R. A., Nickerson, A., Creamer, M., O’Donnell, M., Forbes, D., Galatzer-Levy,
+I., McFarlane, A. C. & Silove, D. (2015). Trajectory of post-traumatic stress following
+traumatic injury: 6-year follow-up. The British Journal of Psychiatry 206, 417-423.
+
+Chun, C. A. (2016). The expression of posttraumatic stress symptoms in daily life: a review
+of experience sampling methodology and daily diary studies. Journal of Psychopathology
+and Behavioral Assessment 38, 406-420.
+
+David, S. J.. Marshall, A. J.. Evanovich, KE. K. & Mumma, G. H. (2017). Intraindividual
+Dynamic Network Analysis—Implications for Clinical Assessment. Journal of
+Psychopathology and Behavioral Assessment, 1-14.
+
+Doron- LaMarca, S., Niles, B. L., King, D. W., King, L. A., Pless Kaiser, A. & Lyons,
+M. J. (2015). Temporal associations among chronic PTSD symptoms in US combat veterans.
+Journal of Traumatic Stress 28, 410-417.
+
+Ebner-Priemer, U. W. & Kubiak, T. (2010). The decade of behavior revisited: Future
+prospects for ambulatory assessment. European Journal of Psychological Assessment 26,
+151-153.
+
+Ebner-Priemer, U. W. & Trull, T. J. (2009). Ecological momentary assessment of mood
+disorders and mood dysregulation. Psychological Assessment 21, 463.
+
+Epskamp, S., van Borkulo, C. D., van der Veen, D. C., Servaas, M. N., Isvoranu, A.-M.,
+Riesse, H. & Cramer, A. O. (2017). Personalized network modeling in psychopathology:
+The importance of contemporaneous and temporal connections. Clinical Psychological
+Science.
+
+Epskamp, S., Waldorp, L. J., Mottus, R. & Borsboom, D. (2016). Discovering
+psychological dynamics: The Gaussian graphical model in cross-sectional and time-series
+data. arXiv preprint arXiv: 1609.04156.
+
+Fisher, A. J. (2015). Toward a dynamic model of psychological assessment: Implications for
+personalized care. Journal of Consulting and Clinical Psychology 83, 825.
+
+Fisher, A. J., Reeves, J. W., Lawyer, G., Medaglia, J. D. & Rubel, J. A. (2017). Exploring
+the idiographic dynamics of mood and anxiety via network analysis. Journal of Abnormal
+Psychology 126, 1044.
+
+Fried, E. I. & Cramer, A. O. (2016). Moving forward: challenges and directions for
+psychopathological network theory and methodology. Perspectives on Psychological Science.
+Preprint at https://osf. io/mh3cf/, DOT 10.
+
+Fried, E. I., Eidhof, M., Palic, S., Costantini, G., Huisman-van Dijk, H., Bockting, C. L.,
+Engelhard, I. M., Armour, C., Nielsen, A. & Karstoft, K.-I. (2017a). Replicability and
+generalizability of PTSD networks: A cross-cultural multisite study of PTSD symptoms in
+four trauma patient samples. Preprint, accepted at Clinical Psychological Science.
+
+Fried, E. I., Epskamp, S., Nesse, R. M., Tuerlinckx, F. & Borsboom, D. (2016). What
+are'good'depression symptoms? Comparing the centrality of DSM and non-DSM symptoms
+of depression in a network analysis. Journal of Affective Disorders 189, 314-320.
+
+Fried, E. I., van Borkulo, C. D., Cramer, A. O., Boschloo, L., Schoevers, R. A. &
+Borsboom, D. (2017b). Mental disorders as networks of problems: a review of recent
+insights. Social Psychiatry and Psychiatric Epidemiology 52, 1-10.
+
+Gelkopf, M., Lapid, L., Grinapol, S., Werbeloff, N., Carlson, E. & Greene, T. (2017).
+Peritraumatic Reaction Courses During War: Gender, Serious Mental IlIness, and Exposure
+Psychiatry: Interpersonal & Biological Processes.
+
+Granger, C. W. (1969). Investigating causal relations by econometric models and cross-
+spectral methods. Econometrica: Journal of the Econometric Society, 424-438.
+
+Greene, T. (under review). Blame, PTSD and DSM-5: An urgent need for clarification.
+
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts 24
+
+Greene, T., Gelkopf, M., Grinapol, S., Werbeloff, N., Carlson, E. & Lapid, L. (2017).
+Trajectories of traumatic stress symptoms during conflict: a latent class growth analysis.
+Journal of Affective Disorders.
+
+Hamaker, E. (2012). Why researchers should think “within-person’’: A paradigmatic
+rationale. Handbook of research methods for studying daily life, 43-61.
+
+Hamaker, E. L. & Wichers, M. (2017). No Time Like the Present: Discovering the Hidden
+Dynamics in Intensive Longitudinal Data. Current Directions in Psychological Science 26,
+10-15.
+
+Isvoranu, A.-M., Borsboom, D., van Os, J. & Guloksuz, S. (2016). A network approach to
+environmental impact in psychotic disorder: brief theoretical framework. Schizophrenia
+Bulletin 42, 870-873.
+
+Kelley, H. H. & Michela, J. L. (1980). Attribution theory and research. Annual Review of
+Psychology 31, 457-501.
+
+Knefel, M., Tran, U. S. & Lueger-Schuster, B. (2016). The association of posttraumatic
+stress disorder, complex posttraumatic stress disorder, and borderline personality disorder
+from a network analytical perspective. Journal of Anxiety Disorders 43, 70-78.
+
+Lapid Pickman, L., Greene, T. & Gelkopf, M. (2017). Sense of Threat as a Mediator of
+Peritraumatic Stress Symptom Development During Wartime: An Experience Sampling
+Study. Journal of Traumatic Stress 30, 372-380.
+
+Levine, S. Z. & Leucht, S. (2016). Identifying a system of predominant negative symptoms:
+Network analysis of three randomized clinical trials. Schizophrenia Research 178, 17-22.
+Marshall, G. N., Schell, T. L., Glynn, S. M. & Shetty, V. (2006). The role of hyperarousal
+in the manifestation of posttraumatic psychological distress following injury. Journal of
+Abnormal Psychology 115, 624.
+
+McNally, R. J. (2016). Can network analysis transform psychopathology? Behaviour
+Research and Therapy 86, 95-104.
+
+McNally, R. J., Robinaugh, D. J., Wu, G. W., Wang, L., Deserno, M. K. & Borsboom, D.
+(2015). Mental disorders as causal systems a network approach to posttraumatic stress
+disorder. Clinical Psychological Science 3, 836-849.
+
+Mitchell, K., Wolf, E., Bovin, M., Lee, L., Green, J., Rosen, R., Keane, T. & Marx, B.
+(2017). Network Models of DSM-5 Posttraumatic Stress Disorder: Implications for ICD-11.
+Journal of Abnormal Psychology.
+
+Myin-Germeys, I., Oorschot, M., Collip, D., Lataster, J., Delespaul, P. & van Os, J.
+(2009). Experience sampling research in psychopathology: opening the black box of daily
+life. Psychological Medicine 39, 1533-1547.
+
+Nelson, B., McGorry, P. D., Wichers, M., Wigman, J. T. & Hartmann, J. A. (2017).
+Moving From Static to Dynamic Models of the Onset of Mental Disorder: A Review. JAMA
+Psychiatry 74, 528-534.
+
+Pietrzak, R. H., Tsai, J.,. Armour, C., Mota, N., Harpaz-Rotem, I. & Southwick, S. M.
+(2015). Functional significance of a novel 7-factor model of DSM-5 PTSD symptoms:
+Results from the National Health and Resilience in Veterans Study. Journal of Affective
+Disorders 174, 522-526.
+
+Santangelo, P. S., Ebner-Priemer, U. W. & Trull, T. J. (2013). Experience Sampling
+Methods in Clinical Psychology. The Oxford Handbook of Research Strategies for Clinical
+Psychology, 188-210.
+
+Schell, T. L., Marshall, G. N. & Jaycox, L. H. (2004). All symptoms are not created equal:
+the prominent role of hyperarousal in the natural course of posttraumatic psychological
+distress. Journal of Abnormal Psychology 113, 189.
+ Preprint. Manuscript accepted in Psychological Medicine. https://osf.io/hv5ts 25
+
+Schuurman, N. K., Ferrer, E., de Boer-Sonnenschein, M. & Hamaker, E. L. (2016). How
+to compare cross-lagged associations in a multilevel autoregressive model. Psychological
+Methods 21, 206.
+
+Spiller, T. R., Schick, M., Schnyder, U., Bryant, R. A., Nickerson, A. & Morina, N.
+(2017). Symptoms of posttraumatic stress disorder in a clinical sample of refugees: a network
+analysis. European Journal of Psychotraumatology 8, 1318032.
+
+Sullivan, C. P., Smith, A. J., Lewis, M. & Jones, R. T. (2016a). Network analysis of ptsd
+symptoms following mass violence. Psychological Trauma: Theory, Research, Practice and
+Policy.
+
+Sullivan, C. P., Smith, A. J., Lewis, M. & Jones, R. T. (2016b). Network analysis of ptsd
+symptoms following mass violence.
+
+Trull, T. J. & Ebner-Priemer, U. (2013). Ambulatory assessment. Annual Review of
+Clinical Psychology 9, 151.
+
+Walz, L. C., Nauta, M. H. & aan het Rot, M. (2014). Experience sampling and ecological
+momentary assessment for studying the daily lives of patients with anxiety disorders: A
+systematic review. Journal of anxiety disorders 28, 925-937.
+
+Weathers, F., Litz, B., Keane, T., Palmieri, P., Marx, B. & Schnurr, P. (2013). The PTSD
+checklist for DSM-5 (PCL-5). Scale available from the National Center for PTSD. www.
+ptsd. va. gov.
+
+Wichers, M., Groot, P. C., Psychosystems, E. & Group, E. (2016). Critical slowing down
+as a personalized early warning signal for depression. Psychotherapy and Psychosomatics 85,
+114-116.
