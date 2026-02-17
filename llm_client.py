@@ -16,8 +16,6 @@ class InternetAccessLLM:
         self.model_name = model
         self.prompt_file = prompt_file
         self.system_prompt = self._load_prompt()
-        self.model = lms.llm(model)
-        self.model.contextOverflowPolicy = 'truncateMiddle'
 
         self.web_text_limit = 10000
         self.search_links_limit = 10
@@ -151,13 +149,37 @@ class InternetAccessLLM:
 
         return final_content
 
+    def run_rest_api(self, user_prompt: str) -> dict | None:
+        """
+            Use a scoped model handle so LM Studio tears down the connection
+            (and its server-side KV state) after every single call.
+            """
+        try:
+            with lms.Client() as client:
+                model = client.llm.model(self.model_name)
+                chat = lms.Chat(self.system_prompt)
+                chat.add_user_message(user_prompt)
+                result = model.respond(chat, config={
+                    "temperature": 0,
+                    "responseFormat": {"type": "json_object"},
+                })
+                response_text = result.content if hasattr(result, "content") else str(result)
+                return self._extract_json(response_text)
+        except Exception as e:
+            print(f"❌ LLM call failed: {e}")
+            return None
+
     def run(self, user_prompt: str, internet_access: bool = True,
-            force_json: bool = False, verbose: bool = True, _max_tool_calls=3):
+            force_json: bool = False, verbose: bool = True, max_tool_calls=3):
         """
         Run the LLM with optional internet access using LM Studio's .act() API
         """
         try:
-            # Create chat with system prompt
+            # Recreate the client for each run
+            self.client = lms.llm(self.model_name)
+            self.client.contextOverflowPolicy = 'truncateMiddle'
+
+            # Create new chat with system prompt
             chat = lms.Chat(self.system_prompt)
             chat.add_user_message(user_prompt)
 
@@ -167,6 +189,7 @@ class InternetAccessLLM:
             # Configuration for the model
             config = {
                 "temperature": 0,
+                "maxToolRoundtrips": max_tool_calls,
             }
 
             if force_json:
@@ -179,7 +202,7 @@ class InternetAccessLLM:
 
             def print_message(message, round_index=None):
                 """Callback for printing fragments during generation"""
-                if verbose:
+                if verbose and 'TextData' not in message.content:
                     print(message.content)
 
             def on_prediction_completed(final_result, round_index=None):
@@ -190,15 +213,12 @@ class InternetAccessLLM:
                 # Get the main assistant output
                 self.response = getattr(final_result, "content", str(final_result))
 
-            print('\n🔨 Processing ...')
-
             if internet_access and tools:
                 # Use tool calling
-                result = self.model.act(
+                result = self.client.act(
                     chat,
                     tools,
                     config=config,
-                    max_parallel_tool_calls=_max_tool_calls,
                     on_message=print_message if verbose else None,
                     on_prediction_fragment=print_fragment if verbose else None,
                     on_prediction_completed=on_prediction_completed
@@ -212,10 +232,10 @@ class InternetAccessLLM:
             else:
                 # Use .respond() for non-tool queries
                 if verbose:
-                    prediction_stream = self.model.respond_stream(chat, config=config)
+                    prediction_stream = self.client.respond_stream(chat, config=config)
                     response_text = self._process_response_stream(prediction_stream, verbose=verbose)
                 else:
-                    result = self.model.respond(chat, config=config)
+                    result = self.client.respond(chat, config=config)
                     response_text = result.content if hasattr(result, 'content') else str(result)
 
             # Extract JSON if requested

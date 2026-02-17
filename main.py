@@ -17,6 +17,8 @@ class PaperProcessor:
         self.documents_folder = Path(documents_folder)
         self.client = InternetAccessLLM(prompt_file=prompt_file, model=model)
         self.evaluator = None
+        # Create a separate client for verification with a different prompt
+        self.verification_client = None
 
     def process_all_papers(self, file_type: Literal['txt', 'md'] = 'txt', internet_access=True, skip_jsons=True):
         """Process all text/markdown files in the documents folder and save JSON outputs."""
@@ -46,11 +48,12 @@ class PaperProcessor:
             with open(paper_file, "r", encoding="utf-8") as f:
                 paper_content = f.read()
 
+            print('\n🔨 Processing ...')
+
             # Prompt the LLM
             json_data = self.client.run(
                 user_prompt=paper_content,
                 internet_access=internet_access,
-                # think=False,
                 force_json=True,
                 verbose=True
             )
@@ -64,7 +67,7 @@ class PaperProcessor:
             else:
                 print(f"[{i}/{len(source_files)}] ✗ Failed to extract valid JSON from response")
 
-    def classification_report(self, file_type: Literal['txt', 'md'] = 'txt', internet_access=True):
+    def classification_report(self, file_type: Literal['txt', 'md'] = 'txt', internet_access=True, verify_with_llm=True, batch_size=5):
         """
         Compare extracted JSON results against ground truth CSV and
         return a Markdown table with per-variable accuracy.
@@ -72,11 +75,22 @@ class PaperProcessor:
         Match rule:
         A field is considered correct if ANY word from the JSON value
         appears in the ground truth value (after normalization).
+        
+        Args:
+            file_type: 'txt' or 'md'
+            internet_access: whether the JSONs were generated with internet access
+            verify_with_llm: whether to verify mismatches with LLM to filter false positives
+            batch_size: number of mismatches to verify per LLM call (default: 20)
         """
         if self.evaluator is None:
-            self.evaluator = Evaluator(ground_truth_path='ground_truth.csv', model_name='all-MiniLM-L6-v2')
 
-        self.evaluator.run(file_type, internet_access)
+            # Pass the LLM client to the evaluator for verification
+            self.evaluator = Evaluator(
+                ground_truth_path='ground_truth.csv', 
+                model_name='all-MiniLM-L6-v2',
+            )
+
+        self.evaluator.run(file_type, internet_access, verify_with_llm=verify_with_llm, batch_size=batch_size)
 
 
 if __name__ == "__main__":
@@ -101,7 +115,7 @@ if __name__ == "__main__":
     # agent.process_all_papers(file_type='md', internet_access=True)
 
     # Evaluate each group separately
-    agent.classification_report(file_type='txt', internet_access=False)
-    agent.classification_report(file_type='txt', internet_access=True)
-    # agent.classification_report(file_type='md', internet_access=False)
-    # agent.classification_report(file_type='md', internet_access=True)
+    agent.classification_report(file_type='txt', internet_access=False, verify_with_llm=True)
+    agent.classification_report(file_type='txt', internet_access=True, verify_with_llm=True)
+    # agent.classification_report(file_type='md', internet_access=False, verify_with_llm=True)
+    # agent.classification_report(file_type='md', internet_access=True, verify_with_llm=True)
