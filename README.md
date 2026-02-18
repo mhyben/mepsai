@@ -77,11 +77,17 @@ The results of the analysis are stored as images in the following folders:
 The following images show sample results from the analysis:
 
 **Text transcript results - local:**
+
 ![Text Results - no internet search](documents/txt/txt-local.png)
+
 **Text transcript results - with internet search:**
+
 ![Text Results - with internet search](documents/txt/txt-internet.png)
+
 **Markdown transcript results - local:**
+
 ![Markdown Results - no internet search](documents/md/md-local.png)
+
 ## Evaluation
 
 The evaluation process compares extracted data against ground truth data in two steps:
