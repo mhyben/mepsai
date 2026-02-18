@@ -13,11 +13,7 @@ Convert documents (PDF, images, etc.) to Markdown format using LightOnOcr.
 
 ```bash 
 conda create -n mepsai python=3.12 && conda activate mepsai
-uv pip install git+https://github.com/huggingface/transformers
-uv pip install -U transformers accelerate
-pip3 install torchvision
-uv pip install accelerate pillow pypdfium2 vllm==0.11.2
-uv pip install PyMuPDF
+pip install -r requirements.txt
 ```
 
 ### LM Studio setup
@@ -37,3 +33,8 @@ lms server start
 - The model name format may differ from Hugging-Face (e.g., "qwen3-vl:8b" vs "qwen/qwen3-vl-8b")
 - LM Studio has better built-in support for tool calling with compatible models
 - Temperature and other parameters go in a `config` file.
+
+### Running the script
+```bash
+python main.py
+```
