@@ -67,7 +67,8 @@ class PaperProcessor:
             else:
                 print(f"[{i}/{len(source_files)}] ✗ Failed to extract valid JSON from response")
 
-    def classification_report(self, file_type: Literal['txt', 'md'] = 'txt', internet_access=True, verify_with_llm=True, batch_size=5):
+    def classification_report(self, file_type: Literal['txt', 'md'] = 'txt', internet_access=True,
+                              verify_with_llm=True, batch_size=5):
         """
         Compare extracted JSON results against ground truth CSV and
         return a Markdown table with per-variable accuracy.
@@ -94,9 +95,7 @@ class PaperProcessor:
 
 
 if __name__ == "__main__":
-    qwen25 = 'lmstudio-community/Qwen2.5-14B-Instruct-1M-GGUF'
     qwen3_8b = 'qwen/qwen3-vl-8b'
-    qwen3_4b = 'qwen/qwen3-vl-4b'
     # Initialize scientific paper processor
     agent = PaperProcessor(documents_folder=Path("documents"),
                            prompt_file="prompt.txt",
@@ -109,13 +108,13 @@ if __name__ == "__main__":
     agent.process_all_papers(file_type='txt', internet_access=True)
 
     # Process all .md files without the use of internet search. Skip papers with existing json.
-    # agent.process_all_papers(file_type='md', internet_access=False)
+    agent.process_all_papers(file_type='md', internet_access=False)
 
     # Process all .md files with the use of internet search. Skip papers with existing json.
-    # agent.process_all_papers(file_type='md', internet_access=True)
+    agent.process_all_papers(file_type='md', internet_access=True)
 
     # Evaluate each group separately
-    agent.classification_report(file_type='txt', internet_access=False, verify_with_llm=True)
-    agent.classification_report(file_type='txt', internet_access=True, verify_with_llm=True)
-    # agent.classification_report(file_type='md', internet_access=False, verify_with_llm=True)
-    # agent.classification_report(file_type='md', internet_access=True, verify_with_llm=True)
+    agent.classification_report(file_type='txt', internet_access=False)
+    agent.classification_report(file_type='txt', internet_access=True)
+    agent.classification_report(file_type='md', internet_access=False)
+    agent.classification_report(file_type='md', internet_access=True)

@@ -133,9 +133,6 @@ class InternetAccessLLM:
         """Process streaming response from LM Studio"""
         final_content = ""
 
-        if verbose:
-            print('\n🔨 Processing...')
-
         for fragment in prediction_stream:
             content = fragment.content
 
