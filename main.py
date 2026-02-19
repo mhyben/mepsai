@@ -114,7 +114,7 @@ if __name__ == "__main__":
     agent.process_all_papers(file_type='md', internet_access=True)
 
     # Evaluate each group separately
-    agent.classification_report(file_type='txt', internet_access=False)
-    agent.classification_report(file_type='txt', internet_access=True)
-    agent.classification_report(file_type='md', internet_access=False)
+    # agent.classification_report(file_type='txt', internet_access=False)
+    # agent.classification_report(file_type='txt', internet_access=True)
+    # agent.classification_report(file_type='md', internet_access=False)
     agent.classification_report(file_type='md', internet_access=True)

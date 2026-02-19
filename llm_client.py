@@ -193,14 +193,18 @@ class InternetAccessLLM:
                 config["responseFormat"] = {"type": "json_object"}
 
             def print_fragment(fragment, round_index=None):
-                """Callback for printing fragments during generation"""
+                """Callback for printing fragments during generation. Prints LLM response."""
                 if verbose:
                     print(fragment.content, end="", flush=True)
 
             def print_message(message, round_index=None):
-                """Callback for printing fragments during generation"""
-                if verbose and 'TextData' not in message.content:
-                    print(message.content)
+                """Callback for printing fragments during generation. Prints the toolCallRequests."""
+                for block in message.content:
+                    if type(block).type == 'toolCallRequest':
+                        if block.tool_call_request.name == 'web_search':
+                            print(f"{block.tool_call_request.name}: '{block.tool_call_request.arguments['query']}'")
+                        if block.tool_call_request.name == 'visit_website':
+                            print(f"{block.tool_call_request.name}: {block.tool_call_request.arguments['url']}")
 
             def on_prediction_completed(final_result, round_index=None):
                 """

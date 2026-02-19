@@ -39,6 +39,7 @@ Either the GUI app or via CLI:
 ```bash
 lms daemon up
 lms server start
+lms load qwen/qwen3-vl-8b
 ```
 
 - LM Studio requires the LM Studio application to be running (GUI or daemon)
@@ -88,6 +89,10 @@ The following images show sample results from the analysis:
 
 ![Markdown Results - no internet search](documents/md/md-local.png)
 
+**Markdown transcript results - with internet search:**
+
+![Markdown Results - no internet search](documents/md/md-internet.png)
+
 ## Evaluation
 
 The evaluation process compares extracted data against ground truth data in two steps:
@@ -99,6 +104,7 @@ Resulting mismatches are stored in:
 - `documents/txt/mismatches_local.csv` - Local processing mismatches in TXT transcripts
 - `documents/txt/mismatches_internet.csv` - Internet-based processing mismatches in TXT transcripts
 - `documents/md/mismatches_local.csv` - Local processing mismatches in Markdown transcripts
+- `documents/md/mismatches_internet.csv` - Internet-based processing mismatches in Markdown transcripts
 
 These files can be used for the manual analysis of the results as they still might contain pairs falsely flagged as mismatches. 
 ## Troubleshooting
