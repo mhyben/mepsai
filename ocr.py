@@ -61,7 +61,7 @@ class PDFToMarkdownConverter:
 
     def convert_page_to_markdown(self, pil_image) -> str:
         """
-        Convert a single page image to markdown text.
+        Convert a single page image to Markdown text.
 
         Args:
             pil_image: PIL Image object of the page
@@ -118,6 +118,17 @@ class PDFToMarkdownConverter:
         """
         print(f"Processing: {pdf_path.name}")
 
+        # Determine output path
+        if output_path is None:
+            output_path = pdf_path.with_suffix('.md')
+        else:
+            output_path.mkdir(parents=True, exist_ok=True)
+            output_path = Path(join(output_path, pdf_path.stem + '.md'))
+
+        if os.path.exists(output_path):
+            print(f"Output file already exists: {output_path}")
+            return str(output_path)
+
         # Open PDF
         pdf = pdfium.PdfDocument(pdf_path)
         total_pages = len(pdf)
@@ -141,10 +152,6 @@ class PDFToMarkdownConverter:
 
         # Combine all pages
         full_markdown = "\n\n---\n\n".join(markdown_content)
-
-        # Determine output path
-        if output_path is None:
-            output_path = pdf_path.with_suffix('.md')
 
         # Save markdown file
         output_path.write_text(full_markdown, encoding='utf-8')
